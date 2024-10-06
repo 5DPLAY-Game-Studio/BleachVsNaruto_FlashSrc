@@ -1,0 +1,95 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="big_map_mc" itemID="5f1d8df6-0000000d" linkageExportForAS="true" linkageClassName="big_map_mc" lastModified="1608666623" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="big_map_mc">
+      <layers>
+        <DOMLayer name="AS" color="#009999" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[/*
+//P 当前，N前提条件
+var wayPoints:Array = [
+	{P: "p1", N: null},
+	
+	{P: "p2", N: "p1"},
+	{P: "p2_1", N: "p2"},
+	{P: "p2_2", N: "p2"},
+	
+	
+	{P: "p3", N: ["p2_1", "p2_2"]},
+	{P: "p3_1", N: "p3"},
+	{P: "p3_1_1", N: "p3_1"},
+	{P: "p3_1_2", N: "p3_1_1"},
+	
+	{P: "p3_2", N: "p3"},
+	{P: "p3_2_4", N: "p3_2"}, {P: "p3_2_3", N: "p3_2_4"},
+	{P: "p3_2_1", N: "p3_2"}, {P: "p3_2_2", N: "p3_2_1"},
+	{P: "p3_2_5", N: "p3_2_4"},
+	{P: "p3_2_6", N: ["p3_2_5", "p3_2_4"]},
+	
+	{P: "p4", N: ["p3_1_2", "p3_2_5"]},
+	
+	{P: "p5", N: "p3_2_6"},
+];
+	*/]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="point_mc" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pointMc" name="point_mc" selected="true">
+                  <transformationPoint>
+                    <Point x="429.35" y="473.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask_mc" color="#FF800A" locked="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 1" name="mask_mc">
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="map_mc" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="viewMC" name="view_mc">
+                  <transformationPoint>
+                    <Point x="512" y="512"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg_mc" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" name="bg_mc" blendMode="layer">
+                  <transformationPoint>
+                    <Point x="512" y="512"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

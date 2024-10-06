@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="point_mc" itemID="5f1d9168-00000037" linkageExportForAS="true" linkageClassName="point_mc" lastModified="1598861933">
+  <timeline>
+    <DOMTimeline name="point_mc">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 3" name="pmc">
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 4" name="face">
+                  <matrix>
+                    <Matrix tx="14.5" ty="-1.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

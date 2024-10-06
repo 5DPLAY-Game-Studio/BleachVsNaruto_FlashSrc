@@ -1,0 +1,280 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pointMc" itemID="5f254fd3-0000006c" lastModified="1596289734">
+  <timeline>
+    <DOMTimeline name="pointMc">
+      <layers>
+        <DOMLayer name="p1" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p1">
+                  <matrix>
+                    <Matrix tx="247.05" ty="896.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p2" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p2">
+                  <matrix>
+                    <Matrix tx="364.1" ty="682.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p2_1" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p2_1">
+                  <matrix>
+                    <Matrix tx="96" ty="720.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p2_2" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p2_2">
+                  <matrix>
+                    <Matrix tx="468.1" ty="838.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3">
+                  <matrix>
+                    <Matrix tx="370.05" ty="514.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_1" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_1">
+                  <matrix>
+                    <Matrix tx="162" ty="493.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_1_1" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_1_1">
+                  <matrix>
+                    <Matrix tx="149" ty="357.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_1_2" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_1_2" selected="true">
+                  <matrix>
+                    <Matrix tx="199.05" ty="147.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2">
+                  <matrix>
+                    <Matrix tx="569.15" ty="527.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_1" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_1">
+                  <matrix>
+                    <Matrix tx="804.2" ty="705.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_2" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_2">
+                  <matrix>
+                    <Matrix tx="830.2" ty="881.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_3" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_3">
+                  <matrix>
+                    <Matrix tx="877.2" ty="589.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_4" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_4">
+                  <matrix>
+                    <Matrix tx="786.15" ty="368.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_5" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_5">
+                  <matrix>
+                    <Matrix tx="675.15" ty="271.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_6" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_6">
+                  <matrix>
+                    <Matrix tx="893.2" ty="170.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p4" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p4">
+                  <matrix>
+                    <Matrix tx="436.1" ty="290.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p5" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="point_mc" name="p5">
+                  <matrix>
+                    <Matrix tx="543.15" ty="78.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="62.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

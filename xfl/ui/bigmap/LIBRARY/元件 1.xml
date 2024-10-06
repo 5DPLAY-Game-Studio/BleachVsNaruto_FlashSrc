@@ -1,0 +1,280 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 1" itemID="5f1d8e1e-00000017" lastModified="1596289777">
+  <timeline>
+    <DOMTimeline name="元件 1">
+      <layers>
+        <DOMLayer name="p1" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p1" selected="true">
+                  <matrix>
+                    <Matrix tx="260.15" ty="911.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p2" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p2">
+                  <matrix>
+                    <Matrix a="1.88673400878906" tx="376.25" ty="698.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p2_1" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p2_1">
+                  <matrix>
+                    <Matrix tx="109.1" ty="735.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p2_2" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p2_2">
+                  <matrix>
+                    <Matrix a="1.27593994140625" tx="491.65" ty="851.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-125" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3">
+                  <matrix>
+                    <Matrix a="1.08016967773438" d="1.08396911621094" tx="380.95" ty="488.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_1" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_1">
+                  <matrix>
+                    <Matrix tx="171.95" ty="518.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_1_1" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_1_1">
+                  <matrix>
+                    <Matrix a="1.29330444335938" tx="163.1" ty="337.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-4" y="-1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_1_2" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_1_2">
+                  <matrix>
+                    <Matrix a="1.52885437011719" d="1.12599182128906" tx="205.95" ty="146.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.05" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_2">
+                  <matrix>
+                    <Matrix a="1.435302734375" d="1.32640075683594" tx="626.55" ty="490.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.05" y="-120.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_1" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_2_1">
+                  <matrix>
+                    <Matrix a="1.40304565429688" d="1.05998229980469" tx="757.65" ty="714.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_2" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_2_2">
+                  <matrix>
+                    <Matrix a="1.95193481445313" d="1.22381591796875" tx="819.05" ty="921.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.15" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_3" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_2_3">
+                  <matrix>
+                    <Matrix a="1.09596252441406" tx="899.05" ty="556.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_4" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_2_4">
+                  <matrix>
+                    <Matrix tx="802.05" ty="382.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_5" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_2_5">
+                  <matrix>
+                    <Matrix tx="687" ty="291.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p3_2_6" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p3_2_6">
+                  <matrix>
+                    <Matrix a="1.19192504882813" d="1.15214538574219" tx="879.05" ty="168"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p4" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p4">
+                  <matrix>
+                    <Matrix a="1.15193176269531" tx="430.9" ty="305.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.05" y="125.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p5" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="p5">
+                  <matrix>
+                    <Matrix a="1.63174438476563" d="1.29757690429688" tx="557.95" ty="94.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

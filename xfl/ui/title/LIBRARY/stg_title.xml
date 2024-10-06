@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="stg_title" itemID="57fc944f-000001dd" linkageExportForAS="true" linkageClassName="stg_title" lastModified="1633854990" lastUniqueIdentifier="25">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="stg_title" itemID="57fc944f-000001dd" linkageExportForAS="true" linkageClassName="stg_title" lastModified="1728198422" lastUniqueIdentifier="25">
   <timeline>
     <DOMTimeline name="stg_title">
       <layers>
@@ -120,7 +120,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TXT" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="TXT" color="#9933CC" current="true" isSelected="true" autoNamed="false" layerType="guide">
           <frames>
             <DOMFrame index="0" duration="14" keyMode="9728">
               <elements/>

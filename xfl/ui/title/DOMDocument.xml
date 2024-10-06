@@ -79,7 +79,7 @@
           <Include href="logomc.xml" loadImmediate="false" itemID="5976e56e-00000078" lastModified="1611295771"/>
           <Include href="sitepng.xml" itemIcon="1" loadImmediate="false" itemID="600a6b95-00000215" lastModified="1611295712"/>
           <Include href="stg_test.xml" itemID="5807125a-00000208" lastModified="1633847290"/>
-          <Include href="stg_title.xml" itemID="57fc944f-000001dd" lastModified="1633854990"/>
+          <Include href="stg_title.xml" itemID="57fc944f-000001dd" lastModified="1728198422"/>
      </symbols>
      <timelines>
           <DOMTimeline name="场景 1">

@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 25" itemID="57fc9e74-000003ad" lastModified="1530522069">
+  <timeline>
+    <DOMTimeline name="元件 25">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 26" selected="true" centerPoint3DX="71.5" centerPoint3DY="22.4">
+                  <matrix>
+                    <Matrix tx="-30" ty="-72.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="101.5" y="94.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" parentLayerIndex="0" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="vs2.png">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 19" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="71" y="56"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

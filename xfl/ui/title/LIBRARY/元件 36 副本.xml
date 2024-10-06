@@ -1,0 +1,83 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 36 副本" itemID="5a7d0402-00000089" lastModified="1530522069">
+  <timeline>
+    <DOMTimeline name="元件 36 副本">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="48x48.png">
+                  <matrix>
+                    <Matrix tx="9.5" ty="3.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="if_android_317758.png">
+                  <matrix>
+                    <Matrix a="0.8125" d="0.8125" tx="70.25" ty="8.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24" y="24"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!2215 1414|235 1414!235 1414|235 1129!235 1129|2215 1129!2215 1129|2215 1414"/>
+                    <Edge fillStyle1="1" edges="!2220 1044S2|135 1044!135 1044|135 79!135 79|2220 79!2220 79|2220 1044"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="standard" left="29.9" width="84.2" height="15.55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-11.9" ty="55.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>安卓手机版下载</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15.55" bitmapSize="240" face="MicrosoftYaHeiLight" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15.55" bitmapSize="240" face="MicrosoftYaHeiLight" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="logo_5dplay.png">
+                  <matrix>
+                    <Matrix a="0.828567504882813" d="0.828567504882813"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

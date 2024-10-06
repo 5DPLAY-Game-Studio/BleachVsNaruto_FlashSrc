@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="logomc" itemID="5976e56e-00000078" lastModified="1611295771" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="logomc">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[visible = false;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 36" name="logo_site" centerPoint3DX="58.8" centerPoint3DY="151.85">
+                  <matrix>
+                    <Matrix ty="115"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.8" y="36.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 36 副本" name="logo_android" centerPoint3DX="58.8" centerPoint3DY="63.85">
+                  <matrix>
+                    <Matrix ty="27"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.8" y="36.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

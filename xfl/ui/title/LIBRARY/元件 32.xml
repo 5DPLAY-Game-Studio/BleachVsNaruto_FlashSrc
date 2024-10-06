@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 32" itemID="57fca658-0000043b" lastModified="1476175465">
+  <timeline>
+    <DOMTimeline name="元件 32" currentFrame="20">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-266.5" ty="-183"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="268.5" y="365.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.989044189453125" tx="-266.5" ty="-179"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="268.5" y="365.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-266.5" ty="-183"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="268.5" y="365.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

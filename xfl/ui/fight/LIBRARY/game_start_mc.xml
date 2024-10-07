@@ -1,0 +1,679 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game_start_mc" itemID="58a554ea-000019c5" lastModified="1611156133" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="game_start_mc" currentFrame="199">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="45" name="start" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="54" duration="40" name="fight" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" duration="45" name="start_final" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="139" duration="60" name="go:fight" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="199" duration="20" name="winner" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="219" duration="47" name="timeover" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="266" duration="51" name="drawgame" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="26" name="stop" labelType="name" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var $round:int = 1;
+var $perfect:Boolean = false;
+var $winnerX:Number = 30;
+var $winnerY:Number = 90;
+
+stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if($round < 1) $round = 1;
+if($round > 5) $round = 5;
+if(nummc) nummc.gotoAndPlay("r"+$round);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="27" duration="27" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if(nummc) nummc.gotoAndPlay("r"+$round);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="54" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[dispatchEvent(new Event("fight_in"));]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="57" duration="30" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[dispatchEvent(new Event("fight"));]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="87" duration="57" name="stop" labelType="name" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import flash.events.Event;
+
+stop();
+
+dispatchEvent(new Event(Event.COMPLETE));]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="144" duration="45" name="ko" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="189" duration="10" name="stop" labelType="name" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import flash.events.Event;
+
+stop();
+
+dispatchEvent(new Event(Event.COMPLETE));]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="199" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if(winnermc){
+	winnermc.x = $winnerX;
+	winnermc.y = $winnerY;
+	winnermc.scaleX = winnermc.scaleY = $winnerScale;
+	winnermc.isPerfect = $perfect;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="200" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import flash.events.Event;
+
+if(winnermc){
+	winnermc.x = $winnerX;
+	winnermc.y = $winnerY;
+	winnermc.isPerfect = $perfect;
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="209" duration="53" name="stop" labelType="name" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+
+winnermc.addEventListener(Event.COMPLETE,function(e:Event):void{
+	dispatchEvent(new Event(Event.COMPLETE))
+},false,0,true);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="262" duration="46" name="stop" labelType="name" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import flash.events.Event;
+
+stop();
+
+dispatchEvent(new Event(Event.COMPLETE));]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="308" duration="9" name="stop" labelType="name" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import flash.events.Event;
+
+stop();
+
+dispatchEvent(new Event(Event.COMPLETE));]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="54" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="54" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 20" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.33184814453125" d="0.33184814453125" tx="349.25" ty="288.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="143.9" y="61.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="100" blueOffset="100" greenOffset="100"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 20" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="274.1" ty="240.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="144" y="62"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="87" blueOffset="87" greenOffset="87"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 20" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.838714599609375" d="0.838714599609375" tx="297.35" ty="250.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="143.95" y="62"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="100" blueOffset="100" greenOffset="100"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 20" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="274.1" ty="240.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="144" y="62"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="87" blueOffset="87" greenOffset="87"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 20" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="274.1" ty="240.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="144" y="62"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="83" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 20" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="274.1" ty="240.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="144" y="62"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="86" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 20" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.06451416015625" tx="274.1" ty="298.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="144" y="62"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="109" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 15" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="408.4" ty="241.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.6" y="57"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="139" duration="178" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 15" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="179.85" ty="240.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.6" y="57"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="57" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="87" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" duration="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 15 副本" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="139.85" ty="240.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.6" y="57"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="139" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="144" duration="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 24" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="269.6" ty="177.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="79"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="183" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="184" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 24" symbolType="graphic" firstFrame="33" loop="play once">
+                  <matrix>
+                    <Matrix tx="269.6" ty="177.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="79"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="185" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="186" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 24" selected="true" symbolType="graphic" firstFrame="33" loop="play once">
+                  <matrix>
+                    <Matrix tx="269.6" ty="177.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="132.5" y="79"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="187" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="189" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="199" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 25" name="winnermc" centerPoint3DX="139.05" centerPoint3DY="188">
+                  <matrix>
+                    <Matrix tx="27.05" ty="89.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="98.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="219" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 29" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="260.5" ty="-100.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139.5" y="48"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="100" blueOffset="100" greenOffset="100"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="222" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 29" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.375" tx="260.5" ty="289.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139.5" y="48"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="100" blueOffset="100" greenOffset="100"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="225" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 29" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.125" tx="260.5" ty="153.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139.5" y="48"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="50" blueOffset="50" greenOffset="50"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="228" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 29" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="260.5" ty="239.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139.5" y="48"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="50" blueOffset="50" greenOffset="50"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="235" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 29" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="260.5" ty="239.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139.5" y="48"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="256" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 29" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="260.5" ty="239.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139.5" y="92.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="261" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 29" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.261276245117188" tx="260.5" ty="287.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139.5" y="92.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="262" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="267" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.230361938476563" tx="242" ty="292.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="93.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="50" blueOffset="50" greenOffset="50"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="270" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="1.68382263183594" tx="242" ty="156.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="93.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="50" blueOffset="50" greenOffset="50"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="273" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.816207885742188" tx="242" ty="237.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="93.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="30" blueOffset="30" greenOffset="30"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="280" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="242" ty="220.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="93.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="302" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="242" ty="220.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="93.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="307" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.230361938476563" tx="242" ty="292.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="93.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="308" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="26" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="round_num_mc" name="nummc" selected="true" centerPoint3DX="566.8" centerPoint3DY="295.6">
+                  <matrix>
+                    <Matrix d="0.1273193359375" tx="428.05" ty="337.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.75" y="115.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="200" blueOffset="200" greenOffset="200"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="round_num_mc" name="nummc" centerPoint3DX="566.8" centerPoint3DY="295.6">
+                  <matrix>
+                    <Matrix d="1.36123657226563" tx="428.05" ty="195.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.75" y="115.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="200" blueOffset="200" greenOffset="200"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="round_num_mc" name="nummc" centerPoint3DX="566.8" centerPoint3DY="295.6">
+                  <matrix>
+                    <Matrix tx="428.05" ty="237.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.75" y="115.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="100" blueOffset="100" greenOffset="100"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="round_num_mc" name="nummc" centerPoint3DX="566.8" centerPoint3DY="295.6">
+                  <matrix>
+                    <Matrix tx="428.05" ty="237.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.75" y="115.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="57" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="87" duration="230" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 8" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="46" keyMode="9728" soundName="round.wav">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="57" duration="39" keyMode="9728" soundName="fight.wav">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="96" duration="125" keyMode="9728" soundName="finalround.wav">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="221" duration="46" keyMode="9728" soundName="timeup.wav">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="267" duration="50" keyMode="9728" soundName="drawgame.wav">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

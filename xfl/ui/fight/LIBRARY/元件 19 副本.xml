@@ -1,0 +1,160 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 19 副本" itemID="58a565d6-00002025" symbolType="graphic" lastModified="1487235104">
+  <timeline>
+    <DOMTimeline name="元件 19 副本" currentFrame="38">
+      <layers>
+        <DOMLayer name="元件 16" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="59" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 16" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="41.5" y="57"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 16" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.11796569824219" b="1.4559326171875" c="-1.4559326171875" d="-1.11796569824219" tx="-243.15" ty="-113.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="57.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="font2_e.png" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="59" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="补间 26" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="91.15" ty="69.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="补间 26" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.229705810546875" b="-2.49711608886719" c="2.49711608886719" d="0.229705810546875" tx="97.35" ty="-321.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="font2_a.png" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="59" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="补间 28" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="132.55" ty="69.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="补间 28" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.41204833984375" b="1.53807067871094" c="-1.53807067871094" d="-1.41204833984375" tx="-225.5" ty="441.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="font2_d.png" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="59" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="补间 30" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="174.35" ty="65.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="补间 30" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.949951171875" b="1.9151611328125" c="-1.9151611328125" d="-1.949951171875" tx="524.45" ty="415.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="font2_y.png" color="#808080" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="59" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="补间 32" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="215.75" ty="73.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="补间 32" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.29071044921875" b="1.87823486328125" c="-1.87823486328125" d="0.29071044921875" tx="611.85" ty="-146.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

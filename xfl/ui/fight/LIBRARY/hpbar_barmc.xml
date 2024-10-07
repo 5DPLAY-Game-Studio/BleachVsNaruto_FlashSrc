@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="hpbar_barmc" itemID="58980668-00000216" linkageExportForAS="true" linkageClassName="hpbar_barmc" lastModified="1530523063">
+  <timeline>
+    <DOMTimeline name="hpbar_barmc">
+      <layers>
+        <DOMLayer name="bar_front.png" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bar_front.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hpbar_bar" name="bar" centerPoint3DX="134" centerPoint3DY="11.85">
+                  <matrix>
+                    <Matrix tx="263.95" ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-130.1" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hpbar_bar 副本" name="redbar" centerPoint3DX="134" centerPoint3DY="11.85">
+                  <matrix>
+                    <Matrix tx="263.95" ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-130.1" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bar_back.png">
+                  <matrix>
+                    <Matrix tx="1.5" ty="1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

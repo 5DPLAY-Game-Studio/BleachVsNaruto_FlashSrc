@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="time_mc" itemID="58980e9d-000002b1" linkageExportForAS="true" linkageClassName="time_mc" lastModified="1497073474">
+  <timeline>
+    <DOMTimeline name="time_mc">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="time_txtmc" centerPoint3DX="-30.4" centerPoint3DY="7.4">
+                  <matrix>
+                    <Matrix tx="-1.4" ty="-15.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-29" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="time_txtmc_wx" name="wuxian" centerPoint3DX="0.5" centerPoint3DY="0.5">
+                  <matrix>
+                    <Matrix tx="22" ty="-13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-21.5" y="13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

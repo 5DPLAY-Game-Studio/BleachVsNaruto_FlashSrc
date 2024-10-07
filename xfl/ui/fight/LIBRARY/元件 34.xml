@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 34" itemID="5958dd22-000023b4" symbolType="graphic" lastModified="1530523167">
+  <timeline>
+    <DOMTimeline name="元件 34">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="fonts/font2/font2_d.png">
+                  <matrix>
+                    <Matrix a="0.794998168945313" d="0.794998168945313" tx="-33" ty="-45.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="57"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

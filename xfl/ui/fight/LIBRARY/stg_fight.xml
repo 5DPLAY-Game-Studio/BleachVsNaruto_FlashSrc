@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="stg_fight" itemID="589805e3-000001f9" linkageExportForAS="true" linkageClassName="ui_fight" lastModified="1611155966" lastUniqueIdentifier="15">
+  <timeline>
+    <DOMTimeline name="stg_fight">
+      <layers>
+        <DOMLayer name="startAndko" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game_start_mc" name="startKOmc" selected="true" centerPoint3DX="93" centerPoint3DY="52">
+                  <transformationPoint>
+                    <Point x="93" y="52"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hpbarmc" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hpbar_mc" name="hpbarmc" centerPoint3DX="399.75" centerPoint3DY="45.6">
+                  <matrix>
+                    <Matrix tx="399.75" ty="45.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="qibar" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="qbar_mc" name="fzqi1" centerPoint3DX="445.05" centerPoint3DY="661.15">
+                  <matrix>
+                    <Matrix tx="48" ty="534.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-16.05" y="-3.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="qbar_mc" name="fzqi2" centerPoint3DX="351.95" centerPoint3DY="662.15">
+                  <matrix>
+                    <Matrix a="-1" tx="749" ty="535.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-16.05" y="-3.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hits" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hits_mc" name="hits2" centerPoint3DX="718.15" centerPoint3DY="149.95">
+                  <matrix>
+                    <Matrix tx="662.15" ty="121.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56" y="28"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="hits_mc" name="hits1" centerPoint3DX="118.15" centerPoint3DY="149.95">
+                  <matrix>
+                    <Matrix tx="62.15" ty="121.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56" y="28"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="战斗sample.jpg.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

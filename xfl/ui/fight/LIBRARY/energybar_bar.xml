@@ -1,0 +1,130 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energybar_bar" itemID="58980fb6-000002f4" scaleGridLeft="-119.45" scaleGridRight="-0.5" scaleGridTop="1.25" scaleGridBottom="3.75" lastModified="1486539570">
+  <timeline>
+    <DOMTimeline name="energybar_bar" currentFrame="1" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;2&lt;/guideline&gt;&lt;guideline direction="h"&gt;2&lt;/guideline&gt;&lt;guideline direction="v"&gt;-119&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="sbar.png">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-121.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-11 0|-2390 0!-2390 0|-2390 100!-2390 100|-11 100!-11 100|-11 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="sbar.png">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-121.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!-2390 0|-2390 100!-2390 100|-2430 100!-2430 100|-2430 0!-2430 0|-2390 0"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="sbar.png">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-121.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!30 100|-11 100!-11 100|-11 0!-11 0|30 0!30 0|30 100"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="energy1.png">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-121.45"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-10 0|-2388 0!-2388 0|-2388 100!-2388 100|-10 100!-10 100|-10 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="energy1.png">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-121.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!31 100|-10 100!-10 100|-10 0!-10 0|31 0!31 0|31 100"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="energy1.png">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-121.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!-2429 0|-2388 0!-2388 0|-2388 100!-2388 100|-2429 100!-2429 100|-2429 0"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

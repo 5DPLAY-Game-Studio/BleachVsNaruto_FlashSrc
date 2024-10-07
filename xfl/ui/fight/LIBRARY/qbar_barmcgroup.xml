@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="qbar_barmcgroup" itemID="5898260e-000007a7" linkageExportForAS="true" linkageClassName="qbar_barmcgroup" lastModified="1486366571" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="qbar_barmcgroup">
+      <layers>
+        <DOMLayer name="bar4" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="qbar444" name="bar4" centerPoint3DX="70" centerPoint3DY="6">
+                  <transformationPoint>
+                    <Point x="70" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bar3" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="qbar333" name="bar3" centerPoint3DX="70" centerPoint3DY="6">
+                  <transformationPoint>
+                    <Point x="70" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bar2" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="qbar222" name="bar2" centerPoint3DX="69.5" centerPoint3DY="6">
+                  <transformationPoint>
+                    <Point x="69.5" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bar1" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="qbar1111" name="bar1" centerPoint3DX="69.5" centerPoint3DY="6">
+                  <transformationPoint>
+                    <Point x="69.5" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

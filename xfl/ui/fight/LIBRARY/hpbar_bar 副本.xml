@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="hpbar_bar 副本" itemID="58998d61-00000263" scaleGridLeft="-258" scaleGridRight="-2.75" scaleGridTop="2" scaleGridBottom="12.25" lastModified="1530523063">
+  <timeline>
+    <DOMTimeline name="hpbar_bar 副本">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 3.png">
+                  <matrix>
+                    <Matrix tx="-260"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

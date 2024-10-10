@@ -1,0 +1,341 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#009900" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" rulerVisible="true" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="F1C4BEA9020CA54BA32C31FE733C3362">
+     <folders>
+          <DOMFolderItem name="_备份" itemID="67027d6c-0000007e"/>
+          <DOMFolderItem name="繁体中文" itemID="67028097-00000116"/>
+          <DOMFolderItem name="简体中文" itemID="67027d29-00000068"/>
+          <DOMFolderItem name="日文" itemID="6702809f-0000011a"/>
+          <DOMFolderItem name="英语" itemID="670280b6-00000122"/>
+          <DOMFolderItem name="重复项目文件夹" itemID="670508c5-00000584"/>
+          <DOMFolderItem name="韩语" itemID="670280a8-0000011e"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="简体中文/中国国旗" itemID="670280c7-00000123" sourceExternalFilepath="../language/LIBRARY/简体中文/中国国旗.png" sourceLastImported="1728217287" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="简体中文/中国国旗.png" bitmapDataHRef="M 5 1728216848.dat" frameRight="2000" frameBottom="1340"/>
+          <DOMBitmapItem name="14.png" itemID="648c3fa0-0000014c" sourceExternalFilepath="C:/Users/liush/Desktop/images/14.png" sourceLastImported="1686912821" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="14.png" bitmapDataHRef="M 33 1728400028.dat" frameRight="7760" frameBottom="1500"/>
+          <DOMBitmapItem name="bar1.png" itemID="5b39ebfc-0000214b" sourceExternalFilepath="C:/Users/lenovo/Desktop/SWF转PNG序列图/loading/bar1.png" sourceLastImported="1530522569" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bar1.png" bitmapDataHRef="M 29 1728383173.dat" frameRight="15280" frameBottom="300"/>
+          <DOMBitmapItem name="bar2.png" itemID="5b39ebfc-0000214f" sourceExternalFilepath="C:/Users/lenovo/Desktop/SWF转PNG序列图/loading/bar2.png" sourceLastImported="1530522569" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bar2.png" bitmapDataHRef="M 27 1728383173.dat" frameRight="15200" frameBottom="100"/>
+          <DOMBitmapItem name="简体中文/Bitmap 1" itemID="67027e24-00000099" sourceExternalFilepath="../language/LIBRARY/简体中文/Bitmap 1.png" sourceLastImported="1728216612" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="简体中文/Bitmap 1.png" bitmapDataHRef="M 2 1728216612.dat" frameRight="9520" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 1" itemID="67028171-00000144" sourceExternalFilepath="../language/LIBRARY/Bitmap 1.png" sourceLastImported="1728217457" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1.png" bitmapDataHRef="M 11 1728217457.dat" frameRight="1000" frameBottom="720"/>
+          <DOMBitmapItem name="Bitmap 10" itemID="6702bde8-000000cd" sourceExternalFilepath="../language/LIBRARY/Bitmap 10.png" sourceLastImported="1728232936" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 10.png" bitmapDataHRef="M 22 1728232936.dat" frameRight="1020" frameBottom="720"/>
+          <DOMBitmapItem name="Bitmap 11" itemID="6703c6af-000004dc" sourceExternalFilepath="Bitmap 11.png" sourceLastImported="1728300719" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 11.png" bitmapDataHRef="M 21 1728300719.dat" frameRight="2620" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 12" itemID="6703c7ad-000004e2" sourceExternalFilepath="Bitmap 12.png" sourceLastImported="1728300973" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 12.png" bitmapDataHRef="M 22 1728300973.dat" frameRight="2560" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 13" itemID="6703c7c9-000004e8" sourceExternalFilepath="Bitmap 13.png" sourceLastImported="1728301001" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 13.png" bitmapDataHRef="M 23 1728301001.dat" frameRight="1960" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 14" itemID="6703c7f7-000004ee" sourceExternalFilepath="Bitmap 14.png" sourceLastImported="1728301047" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 14.png" bitmapDataHRef="M 24 1728301047.dat" frameRight="1940" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 15" itemID="6703cde1-000004f4" sourceExternalFilepath="Bitmap 15.png" sourceLastImported="1728302561" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 15.png" bitmapDataHRef="M 25 1728302561.dat" frameRight="2400" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 16" itemID="6703cded-000004fa" sourceExternalFilepath="Bitmap 16.png" sourceLastImported="1728302573" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 16.png" bitmapDataHRef="M 26 1728302573.dat" frameRight="2720" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 17" itemID="67050b79-000005a6" sourceExternalFilepath="../language/LIBRARY/Bitmap 17.png" sourceLastImported="1728383507" externalFileSize="1769" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 17.png" bitmapDataHRef="M 31 1728383440.dat" frameRight="3560" frameBottom="520"/>
+          <DOMBitmapItem name="Bitmap 18" itemID="67050b74-000005a5" sourceExternalFilepath="Bitmap 18.png" sourceLastImported="1728383860" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 18.png" bitmapDataHRef="M 32 1728383860.dat" frameRight="3560" frameBottom="520"/>
+          <DOMBitmapItem name="繁体中文/Bitmap 2" itemID="67027e33-000000a4" sourceExternalFilepath="../language/LIBRARY/繁体中文/Bitmap 2.png" sourceLastImported="1728216627" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="繁体中文/Bitmap 2.png" bitmapDataHRef="M 3 1728216627.dat" frameRight="9520" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 2" itemID="6702818a-00000150" sourceExternalFilepath="../language/LIBRARY/Bitmap 2.png" sourceLastImported="1728217482" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 2.png" bitmapDataHRef="M 12 1728217482.dat" frameRight="1000" frameBottom="720"/>
+          <DOMBitmapItem name="日文/Bitmap 3" itemID="67027ee2-000000ba" sourceExternalFilepath="../language/LIBRARY/日文/Bitmap 3.png" sourceLastImported="1728216802" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="日文/Bitmap 3.png" bitmapDataHRef="M 4 1728216802.dat" frameRight="9520" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 3" itemID="67028218-0000015c" sourceExternalFilepath="../language/LIBRARY/Bitmap 3.png" sourceLastImported="1728217624" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 3.png" bitmapDataHRef="M 13 1728217624.dat" frameRight="1000" frameBottom="720"/>
+          <DOMBitmapItem name="韩语/Bitmap 4" itemID="67028007-000000d9" sourceExternalFilepath="../language/LIBRARY/韩语/Bitmap 4.png" sourceLastImported="1728217095" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="韩语/Bitmap 4.png" bitmapDataHRef="M 7 1728217095.dat" frameRight="9520" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 4" itemID="6702835d-00000172" sourceExternalFilepath="../language/LIBRARY/Bitmap 4.png" sourceLastImported="1728217949" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 4.png" bitmapDataHRef="M 14 1728217949.dat" frameRight="9520" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 5" itemID="6702846b-0000018d" sourceExternalFilepath="../language/LIBRARY/Bitmap 5.png" sourceLastImported="1728218219" externalFileCRC32="386708900" externalFileSize="2029" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 5.png" bitmapDataHRef="M 15 1728218219.dat" frameRight="9520" frameBottom="800"/>
+          <DOMBitmapItem name="Bitmap 6" itemID="6702bd70-000000b7" sourceExternalFilepath="../language/LIBRARY/Bitmap 6.png" sourceLastImported="1728232816" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 6.png" bitmapDataHRef="M 21 1728232816.dat" frameRight="340" frameBottom="720"/>
+          <DOMBitmapItem name="Bitmap 7" itemID="6702b124-0000005e" sourceExternalFilepath="../language/LIBRARY/Bitmap 7.png" sourceLastImported="1728229668" externalFileCRC32="2466359533" externalFileSize="627" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 7.png" bitmapDataHRef="M 17 1728229668.dat" frameRight="1000" frameBottom="720"/>
+          <DOMBitmapItem name="Bitmap 8" itemID="6702b3c5-00000068" sourceExternalFilepath="../language/LIBRARY/Bitmap 8.png" sourceLastImported="1728230341" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 8.png" bitmapDataHRef="M 18 1728230341.dat" frameRight="1000" frameBottom="720"/>
+          <DOMBitmapItem name="Bitmap 9" itemID="6702b538-00000086" sourceExternalFilepath="../language/LIBRARY/Bitmap 9.png" sourceLastImported="1728230712" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 9.png" bitmapDataHRef="M 20 1728230712.dat" frameRight="940" frameBottom="640"/>
+          <DOMBitmapItem name="font1.png" itemID="67027662-0000000a" sourceExternalFilepath="../language/LIBRARY/font1.png" sourceLastImported="1727927779" externalFileCRC32="1269307241" externalFileSize="42310" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="font1.png" bitmapDataHRef="M 1 1728215934.dat" frameRight="6320" frameBottom="6320"/>
+          <DOMBitmapItem name="位图 14" itemID="6702b00c-00000044" sourceExternalFilepath="../language/LIBRARY/位图 14.png" sourceLastImported="1728229388" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="位图 14.png" bitmapDataHRef="M 14 1728229388.dat" frameRight="2240" frameBottom="1180"/>
+          <DOMBitmapItem name="位图 16" itemID="6702b102-00000053" sourceExternalFilepath="../language/LIBRARY/位图 16.png" sourceLastImported="1728229634" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="位图 16.png" bitmapDataHRef="M 16 1728229634.dat" frameRight="2000" frameBottom="1340"/>
+          <DOMBitmapItem name="wz1.png" itemID="5b39ebfb-0000212f" sourceExternalFilepath="C:/Users/lenovo/Desktop/SWF转PNG序列图/loading/wz1.png" sourceLastImported="1530522573" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="wz1.png" bitmapDataHRef="M 30 1728383296.dat" frameRight="1320" frameBottom="360"/>
+          <DOMBitmapItem name="wz2.png" itemID="5b39ebfb-00002133" sourceExternalFilepath="C:/Users/lenovo/Desktop/SWF转PNG序列图/loading/wz2.png" sourceLastImported="1530522573" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="wz2.png" bitmapDataHRef="M 28 1728383173.dat" frameRight="280" frameBottom="280"/>
+          <DOMBitmapItem name="日文/日本国旗" itemID="670280f0-00000125" sourceExternalFilepath="../language/LIBRARY/日文/日本国旗.png" sourceLastImported="1728217328" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="日文/日本国旗.png" bitmapDataHRef="M 6 1728216900.dat" frameRight="2000" frameBottom="1340"/>
+          <DOMBitmapItem name="韩语/韩国国旗" itemID="670280de-00000124" sourceExternalFilepath="../language/LIBRARY/韩语/韩国国旗.png" sourceLastImported="1728217310" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="韩语/韩国国旗.png" bitmapDataHRef="M 8 1728217118.dat" frameRight="2000" frameBottom="1340"/>
+     </media>
+     <symbols>
+          <Include href="_备份/备份.xml" itemIcon="1" loadImmediate="false" itemID="67027d7f-00000080" lastModified="1728216447"/>
+          <Include href="_备份/国旗描边.xml" itemIcon="1" loadImmediate="false" itemID="67028152-00000133" lastModified="1728217450"/>
+          <Include href="_备份/文字 复制.xml" loadImmediate="false" itemID="67027d40-0000006e" lastModified="1728216384"/>
+          <Include href="繁体中文/繁体中文.xml" loadImmediate="false" itemID="67027dbd-00000093" lastModified="1728216593"/>
+          <Include href="barmc.xml" loadImmediate="false" itemID="59239234-00000238" lastModified="1530522622"/>
+          <Include href="元件 1.xml" loadImmediate="false" itemID="6702810b-00000127" lastModified="1728217355"/>
+          <Include href="元件 2.xml" loadImmediate="false" itemID="67028178-00000146" lastModified="1728217464"/>
+          <Include href="元件 3.xml" loadImmediate="false" itemID="670281d6-00000152" lastModified="1728230310"/>
+          <Include href="元件 4.xml" loadImmediate="false" itemID="6702b08f-00000047" lastModified="1728230321"/>
+          <Include href="元件 5.xml" loadImmediate="false" itemID="6702b117-00000055" lastModified="1728229655"/>
+          <Include href="元件 6.xml" loadImmediate="false" itemID="6702bdba-000000c1" lastModified="1728232914"/>
+          <Include href="loadingbar_mc.xml" itemID="59239219-0000022f" lastModified="1728383498"/>
+          <Include href="loadingwz.xml" loadImmediate="false" itemID="5923926f-0000023d" lastModified="1728383860"/>
+          <Include href="简体中文/简体中文.xml" loadImmediate="false" itemID="6702807a-00000111" lastModified="1728217210"/>
+          <Include href="简体中文/英语.xml" loadImmediate="false" itemID="6702831c-00000167" lastModified="1728217911"/>
+          <Include href="简体中文/越南语.xml" loadImmediate="false" itemID="67028427-0000017d" lastModified="1728218193"/>
+          <Include href="国旗.xml" loadImmediate="false" itemID="6702b433-00000073" lastModified="1728306795"/>
+          <Include href="国旗进度.xml" itemID="6702b42b-00000071" lastModified="1728303162"/>
+          <Include href="底.xml" itemID="67054b15-0000064d" lastModified="1728401640"/>
+          <Include href="日文/日文.xml" loadImmediate="false" itemID="67027e9e-000000af" lastModified="1728216759"/>
+          <Include href="语言文本.xml" itemID="6703ce84-000004ff" lastModified="1728306800"/>
+          <Include href="进度遮罩.xml" loadImmediate="false" itemID="6702b4c3-00000078" lastModified="1728230712"/>
+          <Include href="重复项目文件夹/元件 2.xml" loadImmediate="false" itemID="670508c5-00000585" lastModified="1495503507"/>
+          <Include href="重复项目文件夹/元件 3.xml" itemIcon="1" loadImmediate="false" itemID="670508c5-00000587" lastModified="1530522622"/>
+          <Include href="韩语/韩语.xml" loadImmediate="false" itemID="67027f86-000000ce" lastModified="1728217077"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="场景 1" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;365&lt;/guideline&gt;&lt;guideline direction="v"&gt;450&lt;/guideline&gt;&lt;guideline direction="v"&gt;639&lt;/guideline&gt;&lt;/guidelines&gt;'>
+               <layers>
+                    <DOMLayer name="图层_1" color="#9933CC" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="loadingbar_mc" name="bar" centerPoint3DX="399" centerPoint3DY="562.6">
+                                             <matrix>
+                                                  <Matrix tx="17" ty="555.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="382" y="7.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="语言" color="#00FFFF" autoNamed="false" open="false" layerType="folder"/>
+                    <DOMLayer name="越南语" color="#FF4F4F" parentLayerIndex="1" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="简体中文/越南语">
+                                             <matrix>
+                                                  <Matrix tx="450" ty="202"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter color="#603D0E" strength="9"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 7">
+                                             <matrix>
+                                                  <Matrix tx="368" ty="202"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 16">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="196"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="英语" color="#669900" parentLayerIndex="1" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="简体中文/英语">
+                                             <matrix>
+                                                  <Matrix tx="450" ty="160"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter color="#603D0E" strength="9"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 8">
+                                             <matrix>
+                                                  <Matrix tx="368" ty="160"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 15">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="156"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="韩语" color="#FF0000" parentLayerIndex="1" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="韩语/韩语">
+                                             <matrix>
+                                                  <Matrix tx="450" ty="120"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter color="#603D0E" strength="9"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 3">
+                                             <matrix>
+                                                  <Matrix tx="368" ty="120"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 14">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="116"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="日文" color="#009999" parentLayerIndex="1" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="日文/日文">
+                                             <matrix>
+                                                  <Matrix tx="450" ty="80"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter color="#603D0E" strength="9"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 2">
+                                             <matrix>
+                                                  <Matrix tx="368" ty="80"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 13">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="80"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="繁体中文" color="#FF4FFF" parentLayerIndex="1" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="繁体中文/繁体中文">
+                                             <matrix>
+                                                  <Matrix tx="450" ty="40"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter color="#603D0E" strength="9"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 12">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="36"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="简体中文" color="#FF800A" parentLayerIndex="1" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="简体中文/简体中文">
+                                             <matrix>
+                                                  <Matrix tx="450"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter color="#603D0E" strength="9"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 1">
+                                             <matrix>
+                                                  <Matrix tx="368"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 11">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="-4"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="导出" color="#009999" autoNamed="false" layerType="folder"/>
+                    <DOMLayer name="top" color="#FF0000" parentLayerIndex="8" autoNamed="false" open="false" layerType="folder"/>
+                    <DOMLayer name="语言文本" color="#FF4FFF" parentLayerIndex="9" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="语言文本">
+                                             <matrix>
+                                                  <Matrix tx="483" ty="469"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="65.5" y="20"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="国旗进度" color="#9933CC" parentLayerIndex="9" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="国旗进度">
+                                             <matrix>
+                                                  <Matrix tx="368" ty="469"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="25" y="18"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="base" color="#FF4FFF" parentLayerIndex="8" current="true" isSelected="true" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="底">
+                                             <matrix>
+                                                  <Matrix tx="211" ty="416.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="194" y="37.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="参照" color="#00FFFF" autoNamed="false" visible="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="font1.png"/>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="40960" publishTime="1728564239"/>
+          <PublishItem publishSize="37942" publishTime="1728564202"/>
+          <PublishItem publishSize="37942" publishTime="1728401644"/>
+          <PublishItem publishSize="37941" publishTime="1728400228"/>
+          <PublishItem publishSize="25802" publishTime="1728385013"/>
+          <PublishItem publishSize="25802" publishTime="1728383863"/>
+          <PublishItem publishSize="25681" publishTime="1728383504"/>
+          <PublishItem publishSize="23357" publishTime="1728310536"/>
+          <PublishItem publishSize="23804" publishTime="1728303068"/>
+          <PublishItem publishSize="23811" publishTime="1728302940"/>
+          <PublishItem publishSize="4674" publishTime="1728298079"/>
+          <PublishItem publishSize="4680" publishTime="1728298023"/>
+          <PublishItem publishSize="54" publishTime="1728297740"/>
+     </publishHistory>
+</DOMDocument>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_备份/国旗描边" itemID="67028152-00000133" symbolType="graphic" lastModified="1728217450">
+  <timeline>
+    <DOMTimeline name="国旗描边">
+      <layers>
+        <DOMLayer name="图层_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 1">
+                  <transformationPoint>
+                    <Point x="22.4" y="15"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#000000" strength="10"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

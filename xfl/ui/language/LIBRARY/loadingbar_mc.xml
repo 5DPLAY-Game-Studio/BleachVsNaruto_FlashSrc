@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="loadingbar_mc" itemID="59239219-0000022f" linkageExportForAS="true" linkageClassName="language_mc_loadingbar" lastModified="1728383498" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="loadingbar_mc">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" fontRenderingMode="device" width="406.6" height="19.6" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="354.1" ty="18.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="14" size="14" bitmapSize="280" face="SimHei" fillColor="#00DAF8"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="barmc" name="bar" centerPoint3DX="382" centerPoint3DY="7.5">
+                  <matrix>
+                    <Matrix tx="2" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="380" y="2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="loadingwz" centerPoint3DX="47.45" centerPoint3DY="-12.45">
+                  <matrix>
+                    <Matrix tx="4.95" ty="-21.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.5" y="9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bar1.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

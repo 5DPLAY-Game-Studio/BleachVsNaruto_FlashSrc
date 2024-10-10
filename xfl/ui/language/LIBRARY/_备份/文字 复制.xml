@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_备份/文字 复制" itemID="67027d40-0000006e" lastModified="1728216384">
+  <timeline>
+    <DOMTimeline name="文字 复制">
+      <layers>
+        <DOMLayer name="图层_3" color="#FF800A" current="true" isSelected="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="bitmap" width="462.95" height="39.6">
+                  <matrix>
+                    <Matrix tx="2" ty="-8.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>简体中文</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineSpacing="0" lineHeight="39.6" size="30" bitmapSize="600" face="MicrosoftYaHei-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层_1" color="#00FFFF" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0182952880859375" c="-0.305160522460938" d="0" tx="250" ty="14.95"/>
+                        </matrix>
+                        <GradientEntry color="#FCF167" ratio="0"/>
+                        <GradientEntry color="#FD6E05" ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!10001 0|10001 600!10001 600|0 600!0 600|0 0!0 0|10001 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层_2" color="#9933CC" parentLayerIndex="0" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

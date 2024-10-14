@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="logo" itemID="548670f1-00000d56" symbolType="graphic" lastModified="1617014606">
+  <timeline>
+    <DOMTimeline name="logo">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FBD600"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!5083 2662[5177 2662 5242 2801!5242 2801[5307 2941 5307 3139!5307 3139[5307 3336 5242 3475!5242 3475[5177 3615 5083 3615!5083 3615[4990 3615 4925 3475!4925 3475[4860 3336 4860 3138!4860 3138[4860 2941 4925 2801!4925 2801[4990 2662 5083
+ 2662"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="logo_new.png">
+                  <matrix>
+                    <Matrix a="0.539688110351563" d="0.539688110351563" tx="17" ty="-13.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bitmap 1.png">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="logo_movie_3" selected="true">
+                  <matrix>
+                    <Matrix tx="110" ty="102.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="121.55" y="39.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="logo_movie_1" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="6.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.1" y="109.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="logo_movie_2" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="62.5" ty="80.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="41.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="logo_movie_4" selected="true" centerPoint3DX="239.75" centerPoint3DY="77">
+                  <matrix>
+                    <Matrix tx="174.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112.05" y="134"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="0" blurY="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

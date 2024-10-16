@@ -1,0 +1,115 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="dialog_mosou_status" itemID="5f37e255-0000003d" linkageExportForAS="true" linkageClassName="dialog_mosou_status" lastModified="1598265268">
+  <timeline>
+    <DOMTimeline name="dialog_mosou_status">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="coin_mc" name="coinmc">
+                  <matrix>
+                    <Matrix tx="598.7" ty="-53"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.5" y="22"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="big_face_head" name="p1">
+                  <matrix>
+                    <Matrix a="0.734420776367188" d="0.734420776367188" tx="79.5" ty="-16.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="135.5" y="136.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="big_face_head" name="p2">
+                  <matrix>
+                    <Matrix a="0.734420776367188" d="0.734420776367188" tx="459.6" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="135.5" y="136.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="big_face_head" name="p0">
+                  <matrix>
+                    <Matrix tx="229.55" ty="33.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="135.5" y="136.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="backbtn" name="back" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-18.5" ty="-13.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.5" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="222.png">
+                  <matrix>
+                    <Matrix tx="527.65" ty="386.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="111.png">
+                  <matrix>
+                    <Matrix tx="641.15" ty="253.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="changebtn" name="change" symbolType="button">
+                  <matrix>
+                    <Matrix tx="542.15" ty="228.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46" y="47.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="leaderbtn" name="leader" symbolType="button">
+                  <matrix>
+                    <Matrix tx="619.65" ty="362.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="46" y="47.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="qbar" name="expmc">
+                  <matrix>
+                    <Matrix tx="15.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145" y="2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ct" name="ct_fighter">
+                  <matrix>
+                    <Matrix ty="207"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44" y="15.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="dialogbg1.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

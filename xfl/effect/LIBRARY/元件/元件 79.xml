@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/元件 79" itemID="4e6f0646-00000526" symbolType="graphic" lastModified="1530521318">
+  <timeline>
+    <DOMTimeline name="元件 79">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="400" y="92.5"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true">
+                      <transformationPoint>
+                        <Point x="400" y="92.5"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0" b="0.129074096679688" c="-0.488327026367188" d="0" tx="399.95" ty="92.5"/>
+                            </matrix>
+                            <GradientEntry ratio="0"/>
+                            <GradientEntry alpha="0.874509803921569" ratio="0.0705882352941176"/>
+                            <GradientEntry alpha="0" ratio="0.309803921568627"/>
+                            <GradientEntry alpha="0.0588235294117647" ratio="0.701960784313725"/>
+                            <GradientEntry alpha="0.874509803921569" ratio="0.937254901960784"/>
+                            <GradientEntry ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!0 -241S2|16000 -241!16000 -241|16000 3941!16000 3941|0 3941!0 3941|0 -241"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 1.png">
+                  <matrix>
+                    <Matrix ty="-12.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

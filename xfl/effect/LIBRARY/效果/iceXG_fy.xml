@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/iceXG_fy" itemID="5a3c77d0-00000a38" linkageExportForAS="true" linkageIdentifier="XG_fire" linkageClassName="XG_ice_fy" lastModified="1530632495">
+  <timeline>
+    <DOMTimeline name="iceXG_fy" currentFrame="10">
+      <layers>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 66" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0" b="-0.569305419921875" c="-0.569305419921875" d="0" tx="82.35" ty="91.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="162.05" y="161.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

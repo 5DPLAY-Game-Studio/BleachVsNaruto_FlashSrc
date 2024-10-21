@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/xg_hitfloor_low" itemID="5938f1ea-00000a0d" linkageExportForAS="true" linkageIdentifier="XG_hitfloor" linkageClassName="xg_hitfloor_low" lastModified="1530632568">
+  <timeline>
+    <DOMTimeline name="xg_hitfloor_low" currentFrame="13">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 84" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-95" ty="-116"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

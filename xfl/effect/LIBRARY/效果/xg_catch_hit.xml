@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/xg_catch_hit" itemID="5938f2b8-00000a9b" linkageExportForAS="true" linkageIdentifier="XG_qdj" linkageClassName="xg_catch_hit" lastModified="1530632548" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="xg_catch_hit" currentFrame="10">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 23" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.413925170898438" d="0.413925170898438" tx="-65.55" ty="-63.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="160.05" y="149.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

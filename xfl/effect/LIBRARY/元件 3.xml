@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 3" itemID="5f77e863-00000ab7" symbolType="graphic" lastModified="1601735573">
+  <timeline>
+    <DOMTimeline name="元件 3">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="LVUP2.png">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="28.1" ty="6.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.5" y="17"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

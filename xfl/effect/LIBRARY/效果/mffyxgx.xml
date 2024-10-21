@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/mffyxgx" itemID="523eed57-000008bd" linkageExportForAS="true" linkageIdentifier="XG_mffyx" linkageClassName="XG_mffyx" lastModified="1530632511">
+  <timeline>
+    <DOMTimeline name="mffyxgx" currentFrame="19">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 64" symbolType="graphic" centerPoint3DX="-55.65" centerPoint3DY="-2.5" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-165" ty="-106.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="184.95" y="120"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

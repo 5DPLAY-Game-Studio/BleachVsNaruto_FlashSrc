@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/qdjxgz" itemID="46b5ac8d-000005e8" linkageExportForAS="true" linkageIdentifier="XG_qdjx" linkageClassName="XG_qdjx" lastModified="1530632515">
+  <timeline>
+    <DOMTimeline name="qdjxgz" currentFrame="16">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 25" symbolType="graphic" centerPoint3DX="-2.25" centerPoint3DY="-1.85" loop="play once">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="-100.25" ty="-99.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="140" y="140"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125" redOffset="150" blueOffset="150" greenOffset="150"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="16" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 25" symbolType="graphic" firstFrame="1" centerPoint3DX="-2.25" centerPoint3DY="-1.85" loop="play once">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="-100.25" ty="-99.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="140" y="140"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

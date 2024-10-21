@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 31" itemID="5a3b2053-000005b1" symbolType="graphic" lastModified="1530521318">
+  <timeline>
+    <DOMTimeline name="元件 31" currentFrame="10">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="和光素材(983)222_sq_4nvc_0.png">
+                  <matrix>
+                    <Matrix tx="-126" ty="-138"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="和光素材(983)222_sq_4nvc_1.png">
+                  <matrix>
+                    <Matrix tx="-126" ty="-146.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="和光素材(983)222_sq_4nvc_2.png">
+                  <matrix>
+                    <Matrix tx="-119.5" ty="-119.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="和光素材(983)222_sq_4nvc_3.png">
+                  <matrix>
+                    <Matrix tx="-99" ty="-91.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="和光素材(983)222_sq_4nvc_4.png">
+                  <matrix>
+                    <Matrix tx="-81.5" ty="-87.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

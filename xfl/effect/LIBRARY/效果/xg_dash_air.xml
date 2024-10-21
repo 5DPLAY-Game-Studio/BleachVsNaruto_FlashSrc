@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/xg_dash_air" itemID="593ea552-00000479" linkageExportForAS="true" linkageIdentifier="XG_rush" linkageClassName="XG_rush_air" lastModified="1530632553" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="xg_dash_air" currentFrame="21">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 17" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-0.468536376953125" d="0.468536376953125" tx="22.95" ty="-62.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-4.5" y="164"/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

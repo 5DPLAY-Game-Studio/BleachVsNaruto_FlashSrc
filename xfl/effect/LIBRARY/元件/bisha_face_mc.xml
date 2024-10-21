@@ -1,0 +1,292 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/bisha_face_mc" itemID="58a2b557-00000a04" linkageExportForAS="true" linkageClassName="bisha_face_mc" lastModified="1498924476" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="bisha_face_mc" currentFrame="6" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;61&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="70" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="70" name="destory" labelType="name" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" keyMode="17921" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 79" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="0.0785369873046875" ty="61.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="56" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 79" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 79" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 79" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc2" centerPoint3DX="847.4" centerPoint3DY="60">
+                  <matrix>
+                    <Matrix a="-1" d="0.0825347900390625" tx="931.85" ty="55.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="255" blueOffset="255" greenOffset="254"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc2" centerPoint3DX="734.4" centerPoint3DY="59">
+                  <matrix>
+                    <Matrix a="-1" tx="818.85" ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="53" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc2" centerPoint3DX="731.55" centerPoint3DY="59">
+                  <matrix>
+                    <Matrix a="-1" tx="816" ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="50" blueOffset="50" greenOffset="50"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" tweenType="motion" motionTweenRotate="none" motionTweenSnap="true" keyMode="20993">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc2" centerPoint3DX="715.4" centerPoint3DY="59">
+                  <matrix>
+                    <Matrix a="-1" tx="799.85" ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc2" centerPoint3DX="715.4" centerPoint3DY="59">
+                  <matrix>
+                    <Matrix a="-1" tx="799.85" ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc1" centerPoint3DX="-49.5" centerPoint3DY="60">
+                  <matrix>
+                    <Matrix d="0.0825347900390625" tx="-133.95" ty="55.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="255" blueOffset="255" greenOffset="254"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc1" centerPoint3DX="63.5" centerPoint3DY="59.95">
+                  <matrix>
+                    <Matrix tx="-20.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="255" blueOffset="255" greenOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="53" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc1" centerPoint3DX="66.35" centerPoint3DY="59.95">
+                  <matrix>
+                    <Matrix tx="-18.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="50" blueOffset="50" greenOffset="50"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" tweenType="motion" motionTweenRotate="none" motionTweenSnap="true" keyMode="20993">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc1" centerPoint3DX="82.5" centerPoint3DY="59.95">
+                  <matrix>
+                    <Matrix tx="-1.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bsface_mc" name="facemc1" centerPoint3DX="82.5" centerPoint3DY="59.95">
+                  <matrix>
+                    <Matrix tx="-1.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.45" y="59.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" keyMode="17921" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 78" centerPoint3DX="131.75" centerPoint3DY="61.05">
+                  <matrix>
+                    <Matrix d="0.0785369873046875" tx="-1" ty="56.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="56" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 78" centerPoint3DX="200.3" centerPoint3DY="60">
+                  <matrix>
+                    <Matrix tx="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 78" centerPoint3DX="131.75" centerPoint3DY="60">
+                  <matrix>
+                    <Matrix tx="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 78" centerPoint3DX="131.75" centerPoint3DY="60">
+                  <matrix>
+                    <Matrix tx="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

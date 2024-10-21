@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/xg_hitover" itemID="59849af4-00000ed1" linkageExportForAS="true" linkageClassName="xg_hitover" lastModified="1530632574">
+  <timeline>
+    <DOMTimeline name="xg_hitover" currentFrame="23">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/元件 19" symbolType="graphic" centerPoint3DX="-24.05" centerPoint3DY="10.55" loop="play once">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-541.15" ty="-349.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="272.05" y="177.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

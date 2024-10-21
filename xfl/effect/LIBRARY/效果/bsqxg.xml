@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/bsqxg" itemID="52346540-00001d6b" linkageExportForAS="true" linkageIdentifier="XG_bsq" linkageClassName="XG_bsq" lastModified="1530632460">
+  <timeline>
+    <DOMTimeline name="bsqxg" currentFrame="15">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 63" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-83.95" ty="-80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.45" y="30"/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="255" greenOffset="153"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

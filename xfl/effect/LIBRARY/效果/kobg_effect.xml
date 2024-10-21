@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/kobg_effect" itemID="59337812-00000404" linkageExportForAS="true" linkageClassName="kobg_effect_mc" lastModified="1530521318">
+  <timeline>
+    <DOMTimeline name="kobg_effect">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bishabg_0000.png">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="150"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bishabg_0001.png">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="150"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bishabg_0002.png">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="150"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bishabg_0003.png">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="150"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bishabg_0004.png">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="150"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 56" itemID="5a3b63d5-0000162e" lastModified="1530521384">
+  <timeline>
+    <DOMTimeline name="元件 56" currentFrame="6">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="重复项目文件夹/4.png">
+                  <matrix>
+                    <Matrix a="1.89872741699219" d="1.91082763671875" tx="-151.95" ty="-153"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="重复项目文件夹/5.png">
+                  <matrix>
+                    <Matrix a="1.25523376464844" d="1.25523376464844" tx="-149.5" ty="-151.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="重复项目文件夹/6.png">
+                  <matrix>
+                    <Matrix a="1.07525634765625" d="1.07525634765625" tx="-146.5" ty="-147.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="重复项目文件夹/7.png">
+                  <matrix>
+                    <Matrix a="1.06761169433594" d="1.05633544921875" tx="-146.5" ty="-149.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="重复项目文件夹/8.png">
+                  <matrix>
+                    <Matrix a="1.08695983886719" d="1.08695983886719" tx="-151" ty="-148.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="重复项目文件夹/9.png">
+                  <matrix>
+                    <Matrix a="1.00334167480469" d="1.00334167480469" tx="-149.5" ty="-148.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="重复项目文件夹/10.png">
+                  <matrix>
+                    <Matrix tx="-148" ty="-149.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="重复项目文件夹/11.png">
+                  <matrix>
+                    <Matrix a="1.0067138671875" d="1.0067138671875" tx="-149" ty="-147.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

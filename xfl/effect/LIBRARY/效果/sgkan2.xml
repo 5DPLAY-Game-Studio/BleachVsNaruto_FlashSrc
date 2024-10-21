@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/sgkan2" itemID="5a3b43e0-000003f4" linkageExportForAS="true" linkageIdentifier="XG_kanx" linkageClassName="XG_kan2" lastModified="1530632533" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="sgkan2" currentFrame="9">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 35" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.518524169921875" d="0.518524169921875" tx="-57.7" ty="-53.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="111.95" y="115.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/bsxg" itemID="4eaa1589-000030e4" linkageExportForAS="true" linkageIdentifier="XG_bs" linkageClassName="XG_bs" lastModified="1530632463">
+  <timeline>
+    <DOMTimeline name="bsxg" currentFrame="16">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 65" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="0.95" ty="0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="-255" blueOffset="255" greenOffset="36"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 20" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-111" ty="-110"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.5" y="42.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

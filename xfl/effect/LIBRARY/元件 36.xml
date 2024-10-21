@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 36" itemID="5a3b4579-00000463" symbolType="graphic" lastModified="1530521318">
+  <timeline>
+    <DOMTimeline name="元件 36" currentFrame="10">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="skill_fire20002.png">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-175" ty="91.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="skill_fire20004.png">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-201" ty="145.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="skill_fire20005.png">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-205" ty="134.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="skill_fire20006.png">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-231" ty="118.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="skill_fire20007.png">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-222" ty="121.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="skill_fire20008.png">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-226.9" ty="114.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="skill_fire20009.png">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-230.9" ty="76.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

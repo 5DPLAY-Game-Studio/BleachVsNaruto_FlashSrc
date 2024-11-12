@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="slt_item_mc" itemID="5891c70d-00000024" linkageExportForAS="true" linkageClassName="slt_item_mc" lastModified="1605244904" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="slt_item_mc">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="spitem.png">
+                  <matrix>
+                    <Matrix tx="-4.5" ty="-4.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ct_img" name="ct" centerPoint3DX="9.75" centerPoint3DY="9.5">
+                  <transformationPoint>
+                    <Point x="9.75" y="9.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 11" name="more_bg">
+                  <matrix>
+                    <Matrix tx="-22.5" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.5" y="47.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

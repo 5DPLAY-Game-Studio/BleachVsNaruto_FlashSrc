@@ -1,0 +1,187 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="selectbg" itemID="5932c20e-00000241" lastModified="1530522385">
+  <timeline>
+    <DOMTimeline name="selectbg" currentFrame="104">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0028.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0030.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0032.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0034.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0036.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0038.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0040.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0042.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0044.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0046.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0048.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0050.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0052.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0054.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0056.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0058.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0060.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0062.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0064.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0066.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0068.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0070.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0072.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0074.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0076.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0078.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="78" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0080.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0082.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="84" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0084.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0086.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0088.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0090.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="96" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0092.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0094.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="102" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="selectbg_0096.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

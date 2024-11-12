@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="select_item_mc" itemID="58904df3-000001fc" linkageExportForAS="true" linkageClassName="select_item_mc" lastModified="1496499805" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="select_item_mc">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="9" name="select" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" name="mc" centerPoint3DX="29.5" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix tx="-18" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.5" y="55.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" name="mc" centerPoint3DX="29.5" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix tx="-18" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.5" y="55.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" name="mc" centerPoint3DX="29.5" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix tx="-18" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.5" y="55.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="200" blueOffset="200" greenOffset="200"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" name="mc" centerPoint3DX="29.5" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix tx="-18" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.5" y="55.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

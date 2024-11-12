@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ctmc" itemID="58905352-00000234" linkageExportForAS="true" linkageClassName="ctmc" lastModified="1493645622">
+  <timeline>
+    <DOMTimeline name="ctmc">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0066CC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4868 1210|0 1210!0 1210|0 0!0 0|4236.5 0!4236.5 0|4868 490.5!4868 490.5|4868 1210"/>
+                    <Edge cubics="!0 1210(;0,1210 0,0 0,0q0 1210 0 0);"/>
+                    <Edge cubics="!4868 480(4868,480;4868,480 4868,1210 4868,1210q4868 480 4868 1210);"/>
+                    <Edge cubics="!4254 0(4254,0;4254,0 4868,480 4868,480q4254 0 4868 480);"/>
+                    <Edge cubics="!4868 1210(;4868,1210 0,1210 0,1210q4868 1210 0 1210);"/>
+                    <Edge cubics="!0 0(;0,0 4254,0 4254,0q0 0 4254 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" parentLayerIndex="0" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ct_img" name="ct" centerPoint3DX="9.75" centerPoint3DY="9.5">
+                  <transformationPoint>
+                    <Point x="9.75" y="9.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

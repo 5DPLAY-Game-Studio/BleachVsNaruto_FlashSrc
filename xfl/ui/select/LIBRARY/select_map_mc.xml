@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="select_map_mc" itemID="5909dc13-000001f8" linkageExportForAS="true" linkageClassName="select_map_mc" lastModified="1493826304" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="select_map_mc">
+      <layers>
+        <DOMLayer name="元件 6" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 6" name="kuang" centerPoint3DX="243" centerPoint3DY="143">
+                  <matrix>
+                    <Matrix tx="14" ty="19"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="229" y="124"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="元件 5" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ct_img" name="ct">
+                  <matrix>
+                    <Matrix tx="19.5" ty="24.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="元件 4" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 4" name="right_arrow" centerPoint3DX="529.65" centerPoint3DY="143">
+                  <matrix>
+                    <Matrix tx="506.15" ty="118"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 4" name="left_arrow" centerPoint3DX="-44.5" centerPoint3DY="143">
+                  <matrix>
+                    <Matrix a="-1" tx="-21" ty="118"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="元件 3" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 3" name="bg" centerPoint3DX="243" centerPoint3DY="143">
+                  <transformationPoint>
+                    <Point x="243" y="143"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

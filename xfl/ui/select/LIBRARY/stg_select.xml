@@ -1,0 +1,93 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="stg_select" itemID="58901069-000001d3" linkageExportForAS="true" linkageClassName="stg_select" lastModified="1530522385" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="stg_select">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="select_item_mc" color="#FF4FFF" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="select_item_mc" centerPoint3DX="-52.5" centerPoint3DY="149.5">
+                  <matrix>
+                    <Matrix tx="-100" ty="94"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.5" y="55.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="slt_item_mc" centerPoint3DX="-74" centerPoint3DY="227.2">
+                  <matrix>
+                    <Matrix tx="-104" ty="197.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="selected_item_p1_mc" centerPoint3DX="-176.85" centerPoint3DY="738.1">
+                  <matrix>
+                    <Matrix tx="-303.35" ty="703.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="126.5" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="selected_item_p2_mc" centerPoint3DX="322.75" centerPoint3DY="738.1">
+                  <matrix>
+                    <Matrix tx="196.25" ty="703.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="126.5" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="183" ty="12.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="232.5" y="48"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sbg.jpg" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 1" name="bg" centerPoint3DX="400" centerPoint3DY="300">
+                  <transformationPoint>
+                    <Point x="400" y="300"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="选人sample.jpg.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

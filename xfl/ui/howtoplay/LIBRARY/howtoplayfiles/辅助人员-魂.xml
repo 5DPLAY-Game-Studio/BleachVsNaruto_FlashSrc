@@ -1,0 +1,149 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/辅助人员-魂" itemID="46d66d09-00000929" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/辅助人员-魂" sourceLastModified="1306579943" lastModified="1306579943" lastUniqueIdentifier="5" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="辅助人员-魂" currentFrame="30">
+      <layers>
+        <DOMLayer name="效果" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/效果/辅助-出场效果" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-31.55" ty="-63.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/效果/捕助必杀效果" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-41.15" ty="-90.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="71" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="102" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/效果/辅助-出场效果" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-46.55" ty="-52"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/辅助人员-位图/01.gif 拷贝" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="15" ty="-11.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/辅助人员-位图/01.gif 拷贝" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix tx="15" ty="-11.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/辅助人员-位图/04.gif 拷贝" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-14.15" ty="-58.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/辅助人员-位图/01.gif 拷贝" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="15" ty="-11.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="102" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="14" keyMode="9728" soundName="howtoplayfiles/Sample 0.wav" outPoint44="17984" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="22" keyMode="9728" soundEffect="custom" soundName="howtoplayfiles/sound92.mp3" inPoint44="2500" outPoint44="27500" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="19484" level1="20960"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="37" duration="25" keyMode="9728" soundName="howtoplayfiles/a攻击-挥舞-重-004.wav 副本 2" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="62" duration="40" keyMode="9728" soundName="howtoplayfiles/魂1.mp3" outPoint44="70420" soundZoomLevel="4">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="102" duration="15" keyMode="9728" soundName="howtoplayfiles/Sample 0.wav" outPoint44="17984" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

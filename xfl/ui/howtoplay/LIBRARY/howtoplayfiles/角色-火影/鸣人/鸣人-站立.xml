@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/角色-火影/鸣人/鸣人-站立" itemID="46d00400-00000ea6" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/角色-火影/鸣人/鸣人-站立" sourceLastModified="1196499578" lastModified="1196499578" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="鸣人-站立">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/0鸣人图片/10.gif"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1627"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1628"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1629"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

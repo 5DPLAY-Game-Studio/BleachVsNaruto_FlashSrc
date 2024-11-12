@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/效果/魔法打击效果-重2" itemID="46b6b099-00000500" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/效果/魔法打击效果-重2" sourceLastModified="1306578617" lastModified="1306578617" lastUniqueIdentifier="2" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="魔法打击效果-重2">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/元件 48">
+                  <matrix>
+                    <Matrix a="0.846038818359375" b="-0.5302734375" c="0.5302734375" d="0.846038818359375" tx="208.1" ty="65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81.6" y="133.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="9" hue="157"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#3994E6"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/元件 48">
+                  <matrix>
+                    <Matrix a="0.846038818359375" b="-0.5302734375" c="0.5302734375" d="0.846038818359375" tx="208.1" ty="65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81.6" y="133.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="9" hue="157"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/元件 48">
+                  <matrix>
+                    <Matrix a="0.846038818359375" b="-0.5302734375" c="0.5302734375" d="0.846038818359375" tx="208.1" ty="65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81.6" y="133.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="9" hue="157"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

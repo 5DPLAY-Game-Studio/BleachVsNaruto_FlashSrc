@@ -1,0 +1,369 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/一护/一护全动作" itemID="46a34b81-00000625" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/一护/一护全动作" sourceLastModified="1306581144" lastModified="1306581144" lastUniqueIdentifier="37" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护全动作" currentFrame="327">
+      <layers>
+        <DOMLayer name="人物全" color="#4F80FF" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="特效" color="#4FFFFF" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="126" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="126" duration="59" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="185" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="192" duration="12" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/效果/招1刀光" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="18.7" ty="-45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="204" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/效果/招1刀光" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="168.7" ty="-45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="205" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="211" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="222" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="225" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/效果/特效-必杀" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-122.15" ty="-181.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="236" duration="68" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="304" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="316" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/计算&amp;#124隐形/被打防御效果">
+                  <matrix>
+                    <Matrix tx="-54.95" ty="-11.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="18.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="318" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物" color="#4FFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-站立">
+                  <matrix>
+                    <Matrix tx="-30" ty="-23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-走">
+                  <matrix>
+                    <Matrix tx="-47" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.5" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-瞬步" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-30" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-瞬步" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix tx="-30" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-瞬步" symbolType="graphic" firstFrame="10" loop="play once">
+                  <matrix>
+                    <Matrix tx="-30" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-站立">
+                  <matrix>
+                    <Matrix tx="-30" ty="-23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.5" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-跳" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-跳" symbolType="graphic" firstFrame="18" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-落">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-跳" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-跳" symbolType="graphic" firstFrame="18" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-落">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-跳" symbolType="graphic" firstFrame="11" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="114" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-跳" symbolType="graphic" firstFrame="24" loop="play once">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-砍1" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-49.5" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="143" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-砍2" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-46" ty="-56.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="163" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-砍4" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-62" ty="-74"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="185" duration="37" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-招2" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-43.5" ty="-45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="222" duration="82" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-必杀1" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-79.5" ty="-84.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="304" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-防御" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-21" ty="-34.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="316" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-防御" symbolType="graphic" firstFrame="4" loop="play once">
+                  <matrix>
+                    <Matrix tx="-21" ty="-34.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护-防御" symbolType="graphic" firstFrame="5" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-20" ty="-34.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="背后特效" color="#FFFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="328" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

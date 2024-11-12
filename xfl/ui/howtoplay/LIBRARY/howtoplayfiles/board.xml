@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/board" itemID="4de0c1bf-00001f80" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/board" sourceLastModified="1306663341" symbolType="graphic" lastModified="1497854272" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="board">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <transformationPoint>
+                        <Point x="181.55" y="101.7"/>
+                      </transformationPoint>
+                      <members>
+                        <DOMShape selected="true">
+                          <transformationPoint>
+                            <Point x="181.55" y="101.7"/>
+                          </transformationPoint>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#333333"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!7342 1748S1|-80 1748!-80 1748[-183 1748 -256 1809!-256 1809[-329 1871 -329 1960!-329 1960|-329 2108!-329 2108[-329 2195 -256 2258!-256 2258[-183 2320 -80 2320!-80 2320|7342 2320!7342 2320[7445 2320 7518 2258!7518 2258[7591 2195 7591
+ 2108!7591 2108|7591 1960!7591 1960[7591 1871 7518 1809!7518 1809[7445 1748 7342 1748"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <transformationPoint>
+                        <Point x="181.85" y="101.75"/>
+                      </transformationPoint>
+                      <members>
+                        <DOMShape selected="true">
+                          <transformationPoint>
+                            <Point x="181.85" y="101.75"/>
+                          </transformationPoint>
+                          <fills>
+                            <FillStyle index="1">
+                              <LinearGradient>
+                                <matrix>
+                                  <Matrix a="0.00250244140625" b="-0.0255126953125" c="0.237136840820313" d="0.011871337890625" tx="181.85" ty="101.75"/>
+                                </matrix>
+                                <GradientEntry color="#CCCCCC" ratio="0"/>
+                                <GradientEntry color="#FFFFFF" ratio="1"/>
+                              </LinearGradient>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="
+!7463 1849S1[7391 1799 7289 1799!7289 1799|-16 1799!-16 1799[-117 1799 -189 1849!-189 1849[-261 1900 -261 1974!-261 1974|-261 2096!-261 2096[-261 2168 -189 2220!-189 2220[-117 2271 -16 2271!-16 2271|7289 2271!7289 2271[7391 2271 7463
+ 2220!7463 2220[7535 2168 7535 2096!7535 2096|7535 1974!7535 1974[7535 1900 7463 1849"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0572509765625" c="0.303924560546875" d="0" tx="173.95" ty="46.9"/>
+                        </matrix>
+                        <GradientEntry ratio="0"/>
+                        <GradientEntry color="#333333" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0367431640625" c="-0.303924560546875" d="0" tx="174" ty="123.9"/>
+                        </matrix>
+                        <GradientEntry ratio="0"/>
+                        <GradientEntry color="#333333" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-1500 1876|-1500 0!-1500 0|8459 0!8459 0|8459 1876"/>
+                    <Edge fillStyle1="2" edges="
+!8459 1876|8459 3080!8459 3080|-1500 3080!-1500 3080|-1500 1876"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!8459 1876|-1500 1876"/>
+                    <Edge cubics="!8459 0(;8459,0 8459,1876 8459,1876q8459 0 8459 1876);"/>
+                    <Edge cubics="!8459 1876(;8459,1876 8459,3080 8459,3080q8459 1876 8459 3080);"/>
+                    <Edge cubics="!-1500 1876(;-1500,1876 -1500,0 -1500,0q-1500 1876 -1500 0);"/>
+                    <Edge cubics="!-1500 3080(;-1500,3080 -1500,1876 -1500,1876q-1500 3080 -1500 1876);"/>
+                    <Edge cubics="!8459 3080(;8459,3080 -1500,3080 -1500,3080q8459 3080 -1500 3080);"/>
+                    <Edge cubics="!8459 1876(;8459,1876 -1500,1876 -1500,1876q8459 1876 -1500 1876);"/>
+                    <Edge cubics="!-1500 0(;-1500,0 8459,0 8459,0q-1500 0 8459 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

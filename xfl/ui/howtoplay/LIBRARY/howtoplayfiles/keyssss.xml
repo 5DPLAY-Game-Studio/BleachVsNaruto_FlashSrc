@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/keyssss" itemID="4de0c15d-00001f7d" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/keyssss" sourceLastModified="1306661841" symbolType="graphic" lastModified="1306661841" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="keyssss">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keysss0" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keysss0" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.5" tintColor="#FF0000"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keysss0" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.5" tintColor="#0066CC"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keysss0" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.5" tintColor="#6600CC"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

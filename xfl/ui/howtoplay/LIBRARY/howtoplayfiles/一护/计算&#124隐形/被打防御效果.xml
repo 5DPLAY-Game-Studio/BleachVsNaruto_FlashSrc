@@ -1,0 +1,89 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/一护/计算&amp;#124隐形/被打防御效果" itemID="46b6bda9-0000091e" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/一护/计算|隐形/被打防御效果" sourceLastModified="1191651818" lastModified="1191651818" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="被打防御效果">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[bdfyxg = function () {
+	_root.loop++;
+	if (_parent.bdzl == 1) {
+		duplicateMovieClip(_root.game.xgfykan, "xgfykan"+_root.loop, _root.loop);
+		_root.game["xgfykan"+_root.loop]._x = _parent._parent._x+random(5);
+		_root.game["xgfykan"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgfykan"+_root.loop]._y = _parent._parent._y+random(5);
+		_root.game["xgfykan"+_root.loop].gotoAndStop(2);
+	}
+	if (_parent.bdzl == 2 or _parent.bdzl == 3) {
+		duplicateMovieClip(_root.game.xgfyqn, "xgfyqn"+_root.loop, _root.loop);
+		_root.game["xgfyqn"+_root.loop]._x = _parent._parent._x+random(5);
+		_root.game["xgfyqn"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgfyqn"+_root.loop]._y = _parent._parent._y+random(5);
+		_root.game["xgfyqn"+_root.loop].gotoAndStop(2);
+	}
+	if (_parent.bdzl == 4 or _parent.bdzl == 5) {
+		duplicateMovieClip(_root.game.xgfymf, "xgfymf"+_root.loop, _root.loop);
+		_root.game["xgfymf"+_root.loop]._x = _parent._parent._x+random(5);
+		_root.game["xgfymf"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgfymf"+_root.loop]._y = _parent._parent._y+random(5);
+		_root.game["xgfymf"+_root.loop].gotoAndStop(2);
+	}
+};
+bdfyxg2 = function () {
+	_root.loop++;
+	if (_parent.bdzl == 1 or _parent.bdzl == 2 or _parent.bdzl == 3) {
+		duplicateMovieClip(_root.game.xgfyqn, "xgfyqn"+_root.loop, _root.loop);
+		_root.game["xgfyqn"+_root.loop]._x = _parent._parent._x+random(5);
+		_root.game["xgfyqn"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgfyqn"+_root.loop]._y = _parent._parent._y+random(5);
+		_root.game["xgfyqn"+_root.loop].gotoAndStop(2);
+	}
+	if (_parent.bdzl == 4 or _parent.bdzl == 5) {
+		duplicateMovieClip(_root.game.xgfymf, "xgfymf"+_root.loop, _root.loop);
+		_root.game["xgfymf"+_root.loop]._x = _parent._parent._x+random(5);
+		_root.game["xgfymf"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgfymf"+_root.loop]._y = _parent._parent._y+random(5);
+		_root.game["xgfymf"+_root.loop].gotoAndStop(2);
+	}
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix tx="-61.5" ty="14.4"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0066CC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1830 -288S6|1770 252!1770 252|1230 452!1230 452|1290 -128!1290 -128|1830 -288"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

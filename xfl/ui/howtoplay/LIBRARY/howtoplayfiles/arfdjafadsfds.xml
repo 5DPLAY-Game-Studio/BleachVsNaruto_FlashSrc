@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/arfdjafadsfds" itemID="4de0d742-00003099" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/arfdjafadsfds" sourceLastModified="1306658608" lastModified="1306658608" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="arfdjafadsfds">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/fdsfsadf" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="16.5" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/fdsfsadf" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="16.5" y="12"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.3"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/fdsfsadf" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="16.5" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

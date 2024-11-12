@@ -1,0 +1,116 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/角色-火影/鸣人/鸣人-击飞" itemID="46d13ac3-00001323" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/角色-火影/鸣人/鸣人-击飞" sourceLastModified="1189846704" lastModified="1189846704" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="鸣人-击飞">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/0鸣人图片/17.gif"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1929">
+                  <matrix>
+                    <Matrix tx="4.25" ty="5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1930">
+                  <matrix>
+                    <Matrix tx="10.25" ty="12.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1931">
+                  <matrix>
+                    <Matrix tx="17.75" ty="5.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1932">
+                  <matrix>
+                    <Matrix tx="25" ty="-2.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1933">
+                  <matrix>
+                    <Matrix tx="35" ty="-10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1934">
+                  <matrix>
+                    <Matrix tx="30" ty="-20"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1935">
+                  <matrix>
+                    <Matrix tx="33.5" ty="-10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1936">
+                  <matrix>
+                    <Matrix tx="38.75" ty="-9.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1937">
+                  <matrix>
+                    <Matrix tx="27.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1938">
+                  <matrix>
+                    <Matrix tx="5" ty="-6.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/图片S/位图 1940">
+                  <matrix>
+                    <Matrix tx="64" ty="20.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,277 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/一护/一护-必杀1" itemID="46a348a4-0000056b" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/一护/一护-必杀1" sourceLastModified="1186204077" lastModified="1186204077" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-必杀1">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" duration="22" tweenType="motion" keyMode="17921" acceleration="-80">
+              <tweens>
+                <Ease target="all" intensity="-80"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/效果/刀光-一护必杀(小)" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="69" ty="18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.05" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="7" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/效果/刀光-一护必杀(小)" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix tx="512.05" ty="18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.05" y="48.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/效果/刀光-一护必杀(小)" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix tx="559" ty="18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.05" y="48.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/33.gif"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 548"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 549"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 550"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 551"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 552"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 553"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 554"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 555"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 556"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 557"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 558"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="图片S/位图 559">
+                        <matrix>
+                          <Matrix a="20" d="20"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4980 2420|20 2420!20 2420|20 2000!20 2000|1020 2000!1020 2000|1020 1600!1020 1600|1160 1600!1160 1600|1160 80!1160 80|1020 80!1020 80|1020 20!1020 20|4980 20!4980 20|4980 2420"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="howtoplayfiles/一护/图片S/位图 560">
+                        <matrix>
+                          <Matrix a="20" d="20"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1160 1740|1160 20!1160 20|2220 20!2220 20|2220 2420!2220 2420|20 2420!20 2420|20 2000!20 2000|1020 2000!1020 2000|1020 1740!1020 1740|1160 1740"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="howtoplayfiles/一护/图片S/位图 565">
+                            <matrix>
+                              <Matrix a="20" d="20"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!2539 20|2539 2420!2539 2420|20 2420!20 2420|20 20!20 20|2539 20"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 566"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 567"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 566"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 567"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 566"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 567"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 566"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 567"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 566"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 567"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 568"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 566"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 567"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 566"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 567"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 566"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 567"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 568"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="howtoplayfiles/一护/图片S/位图 569"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

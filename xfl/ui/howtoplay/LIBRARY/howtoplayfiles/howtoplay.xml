@@ -1,0 +1,3559 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="howtoplayfiles/howtoplay" itemID="4de0d9b6-0000309b" linkageExportForAS="true" linkageClassName="movie_howtoplay" sourceFlashFilepath="../../../../../../../Users/陶杰/Desktop/bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/howtoplay" sourceLastModified="1418956437" lastModified="1554272419" lastUniqueIdentifier="2" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="howtoplay" currentFrame="29" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;144&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="标签" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="1210" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+
+trace(scaleX,scaleY);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AS" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="1198" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1198" duration="12" name="skip" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1210" duration="13" name="destory" labelType="name" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import flash.events.Event;
+
+stop();
+dispatchEvent(new Event(Event.COMPLETE));]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 16" color="#FF4F4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 37" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.47332763671875" d="1.5552978515625" tx="-1.2" ty="-3.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="271.9" y="195.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 37" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.47332763671875" d="1.5552978515625" tx="-1.2" ty="-3.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="271.9" y="195.9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="1188" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1198" duration="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 37" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.47332763671875" d="1.5552978515625" tx="-1.2" ty="-3.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="271.9" y="195.9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1209" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 37" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.47332763671875" d="1.5552978515625" tx="-1.2" ty="-3.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="271.9" y="195.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 15" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="1210" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/元件 17" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="32.25" ty="4.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="board" color="#4FFF4F" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="SKIP" color="#9933CC" parentLayerIndex="4" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="1198" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 1" name="skip_btn" symbolType="button">
+                  <matrix>
+                    <Matrix tx="672.95" ty="10.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52" y="21.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1198" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="arrow" color="#9933CC" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="120" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/arrow020321">
+                  <matrix>
+                    <Matrix a="-1.13595581054688" b="-1.13595581054688" c="1.13595581054688" d="-1.13595581054688" tx="296.05" ty="503.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.5" y="11.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/arrow020321">
+                  <matrix>
+                    <Matrix a="1.13595581054688" b="-1.13595581054688" c="1.13595581054688" d="1.13595581054688" tx="88.85" ty="478.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.55" y="11.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="149" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="169" duration="120" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/arrow020321">
+                  <matrix>
+                    <Matrix a="-1.13595581054688" b="-1.13595581054688" c="1.13595581054688" d="-1.13595581054688" tx="230.15" ty="503.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.45" y="11.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="289" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="305" duration="133" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/arrow020321" centerPoint3DX="594.2" centerPoint3DY="509">
+                  <matrix>
+                    <Matrix a="-1.13595581054688" b="-1.13595581054688" c="1.13595581054688" d="-1.13595581054688" tx="576.45" ty="518.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.45" y="11.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="438" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="458" duration="108" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/arrow020321">
+                  <matrix>
+                    <Matrix a="-1.13595581054688" b="-1.13595581054688" c="1.13595581054688" d="-1.13595581054688" tx="636.55" ty="514.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.45" y="11.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="566" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="585" duration="119" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/arrow020321">
+                  <matrix>
+                    <Matrix a="-1.13595581054688" b="-1.13595581054688" c="1.13595581054688" d="-1.13595581054688" tx="695.15" ty="514.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.45" y="11.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="704" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="719" duration="104" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/arrow020321">
+                  <matrix>
+                    <Matrix a="-1.13595581054688" b="-1.13595581054688" c="1.13595581054688" d="-1.13595581054688" tx="578" ty="459.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.5" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="823" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="839" duration="147" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/arrow020321">
+                  <matrix>
+                    <Matrix a="-1.13595581054688" b="-1.13595581054688" c="1.13595581054688" d="-1.13595581054688" tx="635.05" ty="459.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.5" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="986" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1002" duration="208" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/arrow020321" centerPoint3DX="711.8" centerPoint3DY="450.9">
+                  <matrix>
+                    <Matrix a="-1.13595581054688" b="-1.13595581054688" c="1.13595581054688" d="-1.13595581054688" tx="695.25" ty="459.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.5" y="12.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#FFFF4F" parentLayerIndex="4" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="120" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="device" width="351" height="15.6" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="128.5" ty="509.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>“左右按键”控制角色行走</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12" bitmapSize="240" face="SimSun"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="149" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="169" duration="120" keyMode="9728">
+              <elements>
+                <DOMDynamicText selected="true" fontRenderingMode="device" width="351" height="15.6" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="128.5" ty="509.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>“下键”控制角色防御</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12" bitmapSize="240" face="SimSun"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="289" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="305" duration="133" keyMode="9728">
+              <elements>
+                <DOMDynamicText selected="true" fontRenderingMode="device" width="351" height="15.6" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="128.5" ty="509.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>普通攻击按键(可连打)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12" bitmapSize="240" face="SimSun"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="438" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="458" duration="108" keyMode="9728">
+              <elements>
+                <DOMDynamicText selected="true" fontRenderingMode="device" width="351" height="15.6" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="128.5" ty="509.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>跳跃按键(可以在空中进行二次跳跃)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12" bitmapSize="240" face="SimSun"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="566" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="585" duration="119" keyMode="9728">
+              <elements>
+                <DOMDynamicText selected="true" fontRenderingMode="device" width="351" height="15.6" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="128.5" ty="509.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>瞬步、冲刺步的按键</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12" bitmapSize="240" face="SimSun"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="704" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="719" duration="104" keyMode="9728">
+              <elements>
+                <DOMDynamicText selected="true" fontRenderingMode="device" width="351" height="15.6" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="128.5" ty="509.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>攻击按键2，基本技能键</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12" bitmapSize="240" face="SimSun"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="823" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="839" duration="147" keyMode="9728">
+              <elements>
+                <DOMDynamicText selected="true" fontRenderingMode="device" width="351" height="15.6" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="128.5" ty="509.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>必杀的按键(需要一个能量)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12" bitmapSize="240" face="SimSun"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="986" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1002" duration="208" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="device" width="351" height="15.6" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="128.5" ty="509.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>招唤帮手的按键</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12" bitmapSize="240" face="SimSun"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btnwz" color="#FF4FFF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="1210" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt_up" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="192.8" ty="368.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>W</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_down" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="194.85" ty="416.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>S</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_left" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="144.25" ty="416.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_right" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="243.05" ty="416.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>D</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_bisha" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="581.9" ty="373.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>I</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_skill" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="525.65" ty="373.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>U</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_special" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="643.75" ty="372.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>O</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_jump" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="581.9" ty="426.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>K</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_attack" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="525.65" ty="426.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>J</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="txt_dash" fontRenderingMode="device" width="13.65" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="643.75" ty="426.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>L</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn" color="#4FFFFF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="115" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="125" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="129" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="131" duration="98" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="229" duration="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="270" duration="94" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="364" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="372" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="382" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="390" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="402" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="410" duration="108" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="518" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="535" duration="110" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="645" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="650" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="660" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="671" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="679" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="684" duration="95" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="779" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="791" duration="108" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="899" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="908" duration="154" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1062" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" firstFrame="1" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1073" duration="137" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="362.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="180" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="131.75" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="228.15" ty="410.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.05" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="365.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="510.8" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="568.65" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/keyssss" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="628.1" ty="419.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.95" y="16.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="board" color="#808080" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="1210" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/board" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="120.5" ty="354.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="183" y="43"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="movie" color="#4F80FF" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="effect" color="#FF4F4F" parentLayerIndex="11" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="244" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="244" duration="10" keyMode="9728" soundName="howtoplayfiles/kofsound88.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/效果/效果-防御-拳" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.991317749023438" d="0.991317749023438" tx="478.8" ty="263.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="254" duration="132" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="386" duration="18" keyMode="9728" soundName="howtoplayfiles/a攻击-剑-中-008.wav" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/效果/斩效果" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.23161315917969" b="1.0274658203125" c="-1.0274658203125" d="-1.23161315917969" tx="761.05" ty="150.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.1" y="11.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="404" duration="19" keyMode="9728" soundName="howtoplayfiles/a攻击-剑-中-008.wav" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/效果/斩效果" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.23161315917969" b="1.0274658203125" c="-1.0274658203125" d="-1.23161315917969" tx="761.05" ty="150.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.1" y="11.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="423" duration="375" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="798" duration="103" keyMode="9728" soundName="howtoplayfiles/a攻击-剑-中-008.wav" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/效果/斩效果" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.23161315917969" b="1.0274658203125" c="-1.0274658203125" d="-1.23161315917969" tx="761.05" ty="150.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.1" y="11.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="901" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="925" duration="19" keyMode="9728" soundName="howtoplayfiles/sound35.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/效果/魔法打击效果-重2" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="-2" ty="87.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="944" duration="118" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1062" duration="117" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/辅助人员-魂">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60649108886719" tx="240.9" ty="293.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1179" duration="31" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="yihu" color="#4FFF4F" parentLayerIndex="11" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60765075683594" tx="246.7" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="25" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="9" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60765075683594" tx="246.7" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="114" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="9" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60765075683594" tx="535.9" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="115" duration="9" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="9" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="535.9" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="124" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="9" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="125" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="129" duration="100" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="229" duration="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="306" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="270" duration="94" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="364" duration="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="126" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="423" duration="95" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="518" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="39" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="520" duration="8" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="41" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="284.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="528" duration="15" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="49" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="174.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="543" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="69" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="294.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="544" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="114" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="294.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="555" duration="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="645" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="660" duration="13" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="19" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="455.55" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="673" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="198.5" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="679" duration="100" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="198.5" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="779" duration="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="185" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="198.5" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="811" duration="88" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="198.5" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="899" duration="61" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" firstFrame="222" loop="play once">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="198.5" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="960" duration="250" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/一护/一护全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.60649108886719" d="1.60806274414063" tx="198.5" ty="292.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="minren" color="#9933CC" parentLayerIndex="11" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="240" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="240" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" firstFrame="84" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="554.05" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="256" duration="130" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="386" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" firstFrame="19" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="399" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="405" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" firstFrame="19" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="417" duration="381" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="798" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" firstFrame="19" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="811" duration="114" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="925" duration="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" firstFrame="32" loop="play once">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="968" duration="242" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="howtoplayfiles/鸣人全动作" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.60649108886719" d="1.60806274414063" tx="562.1" ty="293.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sounds" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="367" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="367" duration="19" keyMode="9728" soundName="howtoplayfiles/Fx12704_f_knSWP1.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="386" duration="17" keyMode="9728" soundName="howtoplayfiles/Fx12704_f_knSWP1.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="403" keyMode="9728" soundName="howtoplayfiles/一护3.mp3" inPoint44="2300" outPoint44="42316" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="404" duration="116" keyMode="9728" soundEffect="custom" soundName="howtoplayfiles/a攻击-挥舞-重-004.wav" outPoint44="16522" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="20369" level1="20665"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="520" duration="24" keyMode="9728" soundName="howtoplayfiles/sound12.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="544" duration="117" keyMode="9728" soundName="howtoplayfiles/sound89.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="661" duration="122" keyMode="9728" soundName="howtoplayfiles/sound12.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="783" duration="118" keyMode="9728" soundName="howtoplayfiles/一护4.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="901" duration="5" keyMode="9728" soundName="howtoplayfiles/sound11.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="906" duration="304" keyMode="9728" soundName="howtoplayfiles/一护6.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

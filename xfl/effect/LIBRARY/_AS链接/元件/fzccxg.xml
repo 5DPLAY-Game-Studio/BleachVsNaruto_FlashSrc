@@ -1,0 +1,112 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/fzccxg" itemID="4eae47de-00000571" linkageExportForAS="true" linkageIdentifier="XG_fzcc" linkageClassName="XG_fz_naruto_mc" lastModified="1731471467">
+  <timeline>
+    <DOMTimeline name="fzccxg" currentFrame="9">
+      <layers>
+        <DOMLayer name="图层 2 复制" color="#9933CC" locked="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="dead01.png">
+                  <matrix>
+                    <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="dead02.png">
+                  <matrix>
+                    <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="dead03.png">
+                  <matrix>
+                    <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="dead04.png">
+                  <matrix>
+                    <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="dead05.png">
+                  <matrix>
+                    <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_辅助_火影/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-40" ty="-63"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_辅助_火影/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-40" ty="-63"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_辅助_火影/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-40" ty="-63"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_辅助_火影/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-40" ty="-63"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_辅助_火影/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-40" ty="-63"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

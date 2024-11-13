@@ -1,0 +1,314 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 4" itemID="5b4c496c-000000f0" symbolType="button" lastModified="1731485178">
+  <timeline>
+    <DOMTimeline name="元件 4" currentFrame="2">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-10.2" width="164.4" height="31.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13.25" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MORE GAMES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="31.7" size="24" bitmapSize="480" face="MicrosoftYaHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="20.9" width="102.2" height="12" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13.25" ty="37"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>更</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>多</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>精</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>彩</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>游</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>戏</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-10.2" width="164.4" height="31.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13.25" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MORE GAMES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="31.7" size="24" bitmapSize="480" face="MicrosoftYaHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="20.9" width="102.2" height="12" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13.25" ty="37"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>更</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>多</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>精</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>彩</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>游</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>戏</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-10.2" width="164.4" height="31.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13.25" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MORE GAMES</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="31.7" size="24" bitmapSize="480" face="MicrosoftYaHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="20.9" width="102.2" height="12" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13.25" ty="37"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>更</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>多</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>精</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>彩</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>游</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>戏</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-27 -25|3414 -25!3414 -25|3414 1005!3414 1005|-27 1005!-27 1005|-27 -25"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

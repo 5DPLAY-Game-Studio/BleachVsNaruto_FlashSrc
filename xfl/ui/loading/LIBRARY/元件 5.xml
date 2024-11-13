@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 5" itemID="5b4c4c31-00000133" lastModified="1531726897">
+  <timeline>
+    <DOMTimeline name="元件 5">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 4" name="btn_more" symbolType="button">
+                  <matrix>
+                    <Matrix ty="18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.25" y="25.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 4 复制" name="btn_exit" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="711.05" ty="27"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.25" y="25.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 4 复制 2" name="btn_cont" symbolType="button">
+                  <matrix>
+                    <Matrix tx="276.85" ty="-1.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.25" y="25.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

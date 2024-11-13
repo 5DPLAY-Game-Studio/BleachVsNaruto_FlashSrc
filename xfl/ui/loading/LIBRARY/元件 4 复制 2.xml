@@ -1,0 +1,182 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 4 复制 2" itemID="5b4c4a3a-00000131" symbolType="button" lastModified="1731485201">
+  <timeline>
+    <DOMTimeline name="元件 4 复制 2" currentFrame="3">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 12">
+                  <matrix>
+                    <Matrix tx="25.75" ty="1.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="92.05" y="34.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-22.8" width="189.6" height="47.5" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="45.8" ty="3.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CONTINUE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="47.5" size="36" bitmapSize="720" face="MicrosoftYaHei" fillColor="#FF9900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="22.4" width="99.2" height="18" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="45.8" ty="50.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>继</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FF9900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FF9900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>续</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FF9900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FF9900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>游</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FF9900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FF9900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>戏</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FF9900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FF9900"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-22.8" width="189.6" height="47.5" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="45.8" ty="3.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CONTINUE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="47.5" size="36" bitmapSize="720" face="MicrosoftYaHei" fillColor="#FFF600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="22.4" width="99.2" height="18" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="45.8" ty="50.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>继</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FFF600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FFF600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>续</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FFF600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FFF600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>游</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FFF600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FFF600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>戏</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FFF600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei" fillColor="#FFF600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!102 -76|4583 -76!4583 -76|4583 1615!4583 1615|102 1615!102 1615|102 -76"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

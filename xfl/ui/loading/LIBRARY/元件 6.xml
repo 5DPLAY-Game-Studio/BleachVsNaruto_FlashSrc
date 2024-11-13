@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 6" itemID="592fb1d5-00000092" lastModified="1530524253" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="元件 6">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="plasma_01" centerPoint3DX="400" centerPoint3DY="299.95">
+                  <matrix>
+                    <Matrix a="1.24998474121094" d="1.24998474121094"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="320" y="239.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="255" blueOffset="-255" greenOffset="-150"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="02_plasma.jpg.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

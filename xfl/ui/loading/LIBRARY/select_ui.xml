@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="select_ui" itemID="592fa30c-0000002d" linkageExportForAS="true" linkageClassName="loading_select_ui_mc" lastModified="1496298128" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="select_ui">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="loadingbar_mc" name="bar" selected="true" centerPoint3DX="399" centerPoint3DY="562.6">
+                  <matrix>
+                    <Matrix tx="17" ty="555.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="382" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

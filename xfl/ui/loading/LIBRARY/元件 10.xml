@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 10" itemID="5b4c60cf-000001a3" lastModified="1531904826">
+  <timeline>
+    <DOMTimeline name="元件 10">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="scoredds.png">
+                  <matrix>
+                    <Matrix tx="-147" ty="-23"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,134 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 4 复制" itemID="5b4c49d4-0000010f" symbolType="button" lastModified="1731485244">
+  <timeline>
+    <DOMTimeline name="元件 4 复制" currentFrame="2">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="47.1" width="49.8" height="31.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-45.75" ty="-7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EXIT</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="31.7" size="24" bitmapSize="480" face="MicrosoftYaHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="41.9" width="60.2" height="12" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-45.75" ty="28"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>返回主菜单</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText left="47.1" width="49.8" height="31.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-45.75" ty="-7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EXIT</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="31.7" size="24" bitmapSize="480" face="MicrosoftYaHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="41.9" width="60.2" height="12" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-45.75" ty="28"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>返回主菜单</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText left="47.1" width="49.8" height="31.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-45.75" ty="-7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EXIT</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="31.7" size="24" bitmapSize="480" face="MicrosoftYaHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="41.9" width="60.2" height="12" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-45.75" ty="28"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>返回主菜单</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12" bitmapSize="240" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-305 -90|1516 -90!1516 -90|1516 940!1516 940|-305 940!-305 940|-305 -90"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

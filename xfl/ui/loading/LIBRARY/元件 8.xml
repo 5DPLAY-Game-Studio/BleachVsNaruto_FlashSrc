@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 8" itemID="5b4c5ecd-0000017d" lastModified="1531904686">
+  <timeline>
+    <DOMTimeline name="元件 8" currentFrame="9">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import flash.events.Event;
+
+stop();
+dispatchEvent(new Event(Event.COMPLETE));]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="txt" selected="true" fontRenderingMode="device" left="-18" width="544.1" height="62.5" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="51" ty="22.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18" size="18" bitmapSize="360" face="SimHei"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 9" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.10870361328125" d="0.10870361328125" tx="192.95" ty="104.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="216.65" y="117.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 9" symbolType="graphic" centerPoint3DX="303.5" centerPoint3DY="68.5" loop="loop">
+                  <transformationPoint>
+                    <Point x="216.5" y="117.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

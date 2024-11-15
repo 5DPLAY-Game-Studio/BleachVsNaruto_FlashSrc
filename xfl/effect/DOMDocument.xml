@@ -1,6 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" rulerVisible="true" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="88C40B1AF7B2ED488EEAD7B975A746F9">
      <folders>
           <DOMFolderItem name="_优化特效" itemID="6715bd2c-000003eb" isExpanded="true"/>
+          <DOMFolderItem name="_优化特效/效果_灵压爆发" itemID="67371545-00000868"/>
           <DOMFolderItem name="_优化特效/效果_必杀" itemID="673713a4-00000402"/>
           <DOMFolderItem name="_优化特效/效果_超必杀" itemID="673714ad-0000084b"/>
           <DOMFolderItem name="_优化特效/效果_辅助_火影" itemID="673428c5-0000044d"/>
@@ -887,6 +888,7 @@
      </media>
      <symbols>
           <Include href="_AS链接/元件/bisha_face_mc.xml" itemID="58a2b557-00000a04" lastModified="1498924476"/>
+          <Include href="_AS链接/元件/bsqxg.xml" itemID="52346540-00001d6b" lastModified="1530632460"/>
           <Include href="_AS链接/元件/bsxg.xml" itemID="4eaa1589-000030e4" lastModified="1530632463"/>
           <Include href="_AS链接/元件/cbsxg.xml" itemID="4eaa1806-0000374b" lastModified="1530632468"/>
           <Include href="_AS链接/元件/fzccxg.xml" itemID="4eae47de-00000571" lastModified="1731471467"/>
@@ -965,7 +967,6 @@
           <Include href="Graphic/shape 472.xml" itemIcon="1" loadImmediate="false" itemID="53c8a457-000001d8" lastModified="1405658199"/>
           <Include href="效果/baoqiXG.xml" itemID="52316019-00000647" lastModified="1501861264"/>
           <Include href="效果/bdjxg.xml" itemID="593374b8-000003de" lastModified="1530632454"/>
-          <Include href="效果/bsqxg.xml" itemID="52346540-00001d6b" lastModified="1530632460"/>
           <Include href="效果/元件 19.xml" itemIcon="1" loadImmediate="false" itemID="5957cdcc-000004d9" lastModified="1530521424"/>
           <Include href="效果/dianXG_fy.xml" itemID="5a3c7163-00000769" lastModified="1530632473"/>
           <Include href="效果/fireXG.xml" itemID="5216d69b-00001cb1" lastModified="1530632476"/>
@@ -1101,9 +1102,9 @@
                                                   <Point x="-1.5" y="-0.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="效果/bsqxg" centerPoint3DX="809.2" centerPoint3DY="340.6">
+                                        <DOMSymbolInstance libraryItemName="_AS链接/元件/bsqxg" centerPoint3DX="570.25" centerPoint3DY="407.2">
                                              <matrix>
-                                                  <Matrix tx="809.65" ty="342.1"/>
+                                                  <Matrix tx="570.7" ty="408.7"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="-0.45" y="-1.5"/>

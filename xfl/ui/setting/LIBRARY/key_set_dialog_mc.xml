@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="key_set_dialog_mc" itemID="59279b86-00000039" linkageExportForAS="true" linkageClassName="key_set_dialog_mc" lastModified="1530522177" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="key_set_dialog_mc">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 5" name="ct_msg" centerPoint3DX="400" centerPoint3DY="226.55">
+                  <matrix>
+                    <Matrix tx="400" ty="226.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 5" name="ct_keyname" centerPoint3DX="400" centerPoint3DY="305.55">
+                  <matrix>
+                    <Matrix tx="400" ty="305.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="txt" width="796" height="26.4">
+                  <matrix>
+                    <Matrix tx="2" ty="392.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="20" size="20" bitmapSize="400" face="SimHei" fillColor="#FDED65"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="key_bg1.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" locked="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="setting_key副本2.jpg.png">
+                  <matrix>
+                    <Matrix tx="0.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

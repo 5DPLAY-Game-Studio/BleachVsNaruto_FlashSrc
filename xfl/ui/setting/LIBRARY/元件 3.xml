@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 3" itemID="5926f783-000002a4" symbolType="graphic" lastModified="1530522177">
+  <timeline>
+    <DOMTimeline name="元件 3">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 4" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="70" ty="-114.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 4" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="-1" tx="70" ty="36.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 4" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-5.75" ty="-40.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 4" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="-1" d="0" tx="144.8" ty="-40.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="gan.png">
+                  <matrix>
+                    <Matrix tx="20.5" ty="-89"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

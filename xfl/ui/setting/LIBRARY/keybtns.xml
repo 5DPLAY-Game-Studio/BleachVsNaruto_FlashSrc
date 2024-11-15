@@ -1,0 +1,96 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="keybtns" itemID="5926f60d-0000023c" lastModified="1498025334" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="keybtns">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="btnk1" name="k4" centerPoint3DX="294.6" centerPoint3DY="220.05">
+                  <matrix>
+                    <Matrix tx="294.6" ty="220.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnk2" name="k5" centerPoint3DX="399.05" centerPoint3DY="189.1">
+                  <matrix>
+                    <Matrix tx="399.05" ty="189.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnk3" name="k6" centerPoint3DX="505.25" centerPoint3DY="161.5">
+                  <matrix>
+                    <Matrix tx="505.25" ty="161.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnk4" name="k7" centerPoint3DX="228.05" centerPoint3DY="115.5">
+                  <matrix>
+                    <Matrix tx="228.05" ty="115.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnk5" name="k8" centerPoint3DX="333.15" centerPoint3DY="84.95">
+                  <matrix>
+                    <Matrix tx="333.15" ty="84.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnk6" name="k9" centerPoint3DX="436.15" centerPoint3DY="56.5">
+                  <matrix>
+                    <Matrix tx="436.15" ty="56.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="karrowmc" name="k2" centerPoint3DX="-164" centerPoint3DY="141.5">
+                  <matrix>
+                    <Matrix tx="-164" ty="141.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="karrowmc" name="k3" centerPoint3DX="64.05" centerPoint3DY="139">
+                  <matrix>
+                    <Matrix tx="64.05" ty="139"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="karrowmc" name="k1" centerPoint3DX="-47.95" centerPoint3DY="254.5">
+                  <matrix>
+                    <Matrix tx="-47.95" ty="254.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="karrowmc" name="k0" centerPoint3DX="-50.45" centerPoint3DY="30.95">
+                  <matrix>
+                    <Matrix tx="-50.45" ty="30.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

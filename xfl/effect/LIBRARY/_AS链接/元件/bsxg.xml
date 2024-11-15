@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/bsxg" itemID="4eaa1589-000030e4" linkageExportForAS="true" linkageIdentifier="XG_bs" linkageClassName="XG_bs" lastModified="1530632463">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/bsxg" itemID="4eaa1589-000030e4" linkageExportForAS="true" linkageIdentifier="XG_bs" linkageClassName="XG_bs" lastModified="1530632463">
   <timeline>
-    <DOMTimeline name="bsxg" currentFrame="16">
+    <DOMTimeline name="bsxg">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>

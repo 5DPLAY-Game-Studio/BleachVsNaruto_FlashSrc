@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 65" itemID="5a3c7409-000007d8" symbolType="graphic" lastModified="1530521318">
   <timeline>
-    <DOMTimeline name="元件 65" currentFrame="11">
+    <DOMTimeline name="元件 65">
       <layers>
         <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>

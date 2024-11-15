@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="dead01.png">
+                <DOMBitmapInstance libraryItemName="dead01.png">
                   <matrix>
                     <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
                   </matrix>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="dead02.png">
+                <DOMBitmapInstance libraryItemName="dead02.png">
                   <matrix>
                     <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
                   </matrix>
@@ -42,7 +42,7 @@
             </DOMFrame>
             <DOMFrame index="8" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="dead05.png">
+                <DOMBitmapInstance libraryItemName="dead05.png">
                   <matrix>
                     <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
                   </matrix>

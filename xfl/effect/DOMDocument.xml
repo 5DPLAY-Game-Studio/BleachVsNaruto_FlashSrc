@@ -2,6 +2,7 @@
      <folders>
           <DOMFolderItem name="_优化特效" itemID="6715bd2c-000003eb" isExpanded="true"/>
           <DOMFolderItem name="_优化特效/效果_必杀" itemID="673713a4-00000402"/>
+          <DOMFolderItem name="_优化特效/效果_超必杀" itemID="673714ad-0000084b"/>
           <DOMFolderItem name="_优化特效/效果_辅助_火影" itemID="673428c5-0000044d"/>
           <DOMFolderItem name="_优化特效/效果_辅助_死神" itemID="6733162f-00000c33"/>
           <DOMFolderItem name="_AS链接" itemID="6715bdc6-00000922" isExpanded="true"/>
@@ -887,6 +888,7 @@
      <symbols>
           <Include href="_AS链接/元件/bisha_face_mc.xml" itemID="58a2b557-00000a04" lastModified="1498924476"/>
           <Include href="_AS链接/元件/bsxg.xml" itemID="4eaa1589-000030e4" lastModified="1530632463"/>
+          <Include href="_AS链接/元件/cbsxg.xml" itemID="4eaa1806-0000374b" lastModified="1530632468"/>
           <Include href="_AS链接/元件/fzccxg.xml" itemID="4eae47de-00000571" lastModified="1731471467"/>
           <Include href="_AS链接/元件/XG_fz_bleach_mc.xml" itemID="59127ed7-0000035a" lastModified="1731401206"/>
           <Include href="bsface_mc.xml" loadImmediate="false" itemID="58a2afda-000009a7" lastModified="1487126057"/>
@@ -964,7 +966,6 @@
           <Include href="效果/baoqiXG.xml" itemID="52316019-00000647" lastModified="1501861264"/>
           <Include href="效果/bdjxg.xml" itemID="593374b8-000003de" lastModified="1530632454"/>
           <Include href="效果/bsqxg.xml" itemID="52346540-00001d6b" lastModified="1530632460"/>
-          <Include href="效果/cbsxg.xml" itemID="4eaa1806-0000374b" lastModified="1530632468"/>
           <Include href="效果/元件 19.xml" itemIcon="1" loadImmediate="false" itemID="5957cdcc-000004d9" lastModified="1530521424"/>
           <Include href="效果/dianXG_fy.xml" itemID="5a3c7163-00000769" lastModified="1530632473"/>
           <Include href="效果/fireXG.xml" itemID="5216d69b-00001cb1" lastModified="1530632476"/>
@@ -1084,7 +1085,7 @@
                                                   <Point x="5.5" y="-18"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="效果/cbsxg" centerPoint3DX="331.55" centerPoint3DY="450.5">
+                                        <DOMSymbolInstance libraryItemName="_AS链接/元件/cbsxg" centerPoint3DX="331.55" centerPoint3DY="450.5">
                                              <matrix>
                                                   <Matrix tx="333.05" ty="451"/>
                                              </matrix>

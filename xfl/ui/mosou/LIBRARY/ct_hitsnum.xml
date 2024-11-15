@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ct_hitsnum" itemID="58a52a83-000018ee" lastModified="1585020869" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="ct_hitsnum">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hits_num_mc" centerPoint3DX="23" centerPoint3DY="28.5">
+                  <transformationPoint>
+                    <Point x="23" y="28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

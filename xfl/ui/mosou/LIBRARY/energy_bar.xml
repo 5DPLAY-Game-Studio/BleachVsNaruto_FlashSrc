@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energy_bar" itemID="58980ee1-000002cc" linkageExportForAS="true" linkageClassName="mosou_energy_bar" lastModified="1585217363" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="energy_bar">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energybar_bar" name="bar" centerPoint3DX="-69" centerPoint3DY="5.55">
+                  <matrix>
+                    <Matrix a="-1" tx="-130.5" ty="3.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.9" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txtmc" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energybar_txt_mc" name="energy_txtmc" centerPoint3DX="31.5" centerPoint3DY="5">
+                  <matrix>
+                    <Matrix tx="31.5" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

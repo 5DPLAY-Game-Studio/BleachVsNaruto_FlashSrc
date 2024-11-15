@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 37" itemID="5e7884b0-000002d9" symbolType="graphic" lastModified="1584956631">
+  <timeline>
+    <DOMTimeline name="元件 37">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.205413818359375" d="0.0042724609375" tx="168.25" ty="3.5"/>
+                            </matrix>
+                            <GradientEntry color="#FFFF00" ratio="0"/>
+                            <GradientEntry color="#FF0000" ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!0 0|6731 0!6731 0|6731 140!6731 140|0 140!0 140|0 0"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="-0.205413818359375" d="0.0042724609375" tx="504.75" ty="3.5"/>
+                            </matrix>
+                            <GradientEntry color="#FFFF00" ratio="0"/>
+                            <GradientEntry color="#FF0000" ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!13460 0|6729 0!6729 0|6729 140!6729 140|13460 140!13460 140|13460 0"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.205413818359375" d="0.0042724609375" tx="841.25" ty="3.5"/>
+                            </matrix>
+                            <GradientEntry color="#FFFF00" ratio="0"/>
+                            <GradientEntry color="#FF0000" ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!13460 0|20191 0!20191 0|20191 140!20191 140|13460 140!13460 140|13460 0"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

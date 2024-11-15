@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energybar_barmc" itemID="58980f88-000002e5" linkageExportForAS="true" linkageClassName="mosou_energybar_barmc" lastModified="1585203562" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="energybar_barmc">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energybar_bar" name="bar" centerPoint3DX="-1" centerPoint3DY="0.55">
+                  <matrix>
+                    <Matrix tx="60.5" ty="-1.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.9" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sbar_back.png" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sbar_back.png">
+                  <matrix>
+                    <Matrix tx="-62.75" ty="-3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="enemyhpbar" itemID="5e79ad69-000004cd" scaleGridLeft="-60.4" scaleGridRight="-2.65" scaleGridTop="2" scaleGridBottom="6" lastModified="1585032553">
+  <timeline>
+    <DOMTimeline name="enemyhpbar">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ENEMY_HP_bar.png">
+                  <matrix>
+                    <Matrix tx="-63"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

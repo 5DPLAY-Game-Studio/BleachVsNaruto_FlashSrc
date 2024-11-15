@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="timemc" itemID="5e7980db-0000027d" lastModified="1731663400">
+  <timeline>
+    <DOMTimeline name="timemc">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="time.png">
+                  <matrix>
+                    <Matrix ty="7.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="text" fontRenderingMode="standard" left="11.9" width="144.5" height="34.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16.6" ty="3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>02:11:56</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="31.7" size="24" bitmapSize="480" face="MicrosoftYaHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#000000" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

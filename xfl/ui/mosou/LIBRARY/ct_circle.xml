@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ct_circle" itemID="5e79a0fe-00000294" lastModified="1585558661">
+  <timeline>
+    <DOMTimeline name="ct_circle">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.034942626953125" d="0.034942626953125" tx="28.6" ty="28.65"/>
+                        </matrix>
+                        <GradientEntry color="#FF0000" ratio="0"/>
+                        <GradientEntry color="#FFFF00" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!979 573[979 742 860 860!860 860[742 979 573 979!573 979[405 979 286 860!286 860[167 742 167 573!167 573[167 405 286 286!286 286[405 167 573 167!573 167[742 167 860 286!860 286[979 405 979 573"/>
+                    <Edge fillStyle1="1" edges="!1146 573[1146 810 978 978!978 978[810 1146 573 1146!573 1146[336 1146 168 978!168 978[0 810 0 573!0 573[0 336 168 168!168 168[336 0 573 0!573 0[810 0 978 168!978 168[1146 336 1146 573"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

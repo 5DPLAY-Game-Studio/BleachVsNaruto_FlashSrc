@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="enemyhpbarmc2" itemID="5ecd0a8e-000001d3" linkageExportForAS="true" linkageClassName="mosou_enemyhpbarmc2" lastModified="1591195269">
+  <timeline>
+    <DOMTimeline name="enemyhpbarmc2">
+      <layers>
+        <DOMLayer name="ENEMY_HP_bar.png" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ENEMY_BAR2.png">
+                  <matrix>
+                    <Matrix tx="-38" ty="-10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ENEMY_HP.png" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 43" name="barmc">
+                  <matrix>
+                    <Matrix tx="-31" ty="-6.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.5" y="2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

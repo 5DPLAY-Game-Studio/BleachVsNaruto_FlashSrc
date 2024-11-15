@@ -1,0 +1,158 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="hpbar_mc" itemID="5898061e-00000209" linkageExportForAS="true" linkageClassName="mosou_hpbar_mc" lastModified="1592393471" lastUniqueIdentifier="38">
+  <timeline>
+    <DOMTimeline name="hpbar_mc" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;104&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 16" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FACE" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hpbar_facemc" name="facemc" centerPoint3DX="56.6" centerPoint3DY="39.05">
+                  <matrix>
+                    <Matrix tx="5.6" ty="7.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51" y="32"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="KK" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="top_bar_kk.png">
+                  <matrix>
+                    <Matrix ty="-6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HP" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hpbar_bar" name="hpbar" centerPoint3DX="-27.4" centerPoint3DY="9.5">
+                  <matrix>
+                    <Matrix tx="102.55" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-130.1" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HP2" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hpbar_bar 副本" name="hpbar2" centerPoint3DX="-25.35" centerPoint3DY="9.5">
+                  <matrix>
+                    <Matrix tx="104.6" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-130.1" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QI" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="qibar_all" name="qibar">
+                  <matrix>
+                    <Matrix tx="106.55" ty="26.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="167.95" y="3.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SKILL" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energy_bar" name="energybar" centerPoint3DX="167.55" centerPoint3DY="45.7">
+                  <matrix>
+                    <Matrix tx="237.55" ty="40.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="KK_BACK" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sbar_back.png">
+                  <matrix>
+                    <Matrix a="-1" tx="228.9" ty="43"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="shadow_hp.png">
+                  <matrix>
+                    <Matrix tx="105.3" ty="4.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="shadow_qi.png">
+                  <matrix>
+                    <Matrix tx="105.3" ty="24"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LITTLE" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="little_hpbar_mc" name="little_hp_1">
+                  <matrix>
+                    <Matrix ty="66.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43" y="23.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="little_hpbar_mc" name="little_hp_2">
+                  <matrix>
+                    <Matrix tx="89.55" ty="52.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43" y="23.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

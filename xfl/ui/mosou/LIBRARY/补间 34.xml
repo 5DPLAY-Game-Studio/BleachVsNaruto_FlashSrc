@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="补间 34" itemID="5f01acc1-0000017a" symbolType="graphic" lastModified="1593945281">
+  <timeline>
+    <DOMTimeline name="补间 34">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="warning.png">
+                  <matrix>
+                    <Matrix tx="-159" ty="-53.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="元件 46 复制" selected="true" centerPoint3DX="380" centerPoint3DY="-288">
+                  <matrix>
+                    <Matrix tx="-400.5" ty="-300"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="780.5" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 46" selected="true" centerPoint3DX="-380" centerPoint3DY="288">
+                  <matrix>
+                    <Matrix tx="-400.5" ty="276"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="780.5" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

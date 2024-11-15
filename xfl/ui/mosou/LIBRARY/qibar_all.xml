@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="qibar_all" itemID="5e7883c8-000002c1" lastModified="1585293586" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="qibar_all">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 42" name="maxmc">
+                  <matrix>
+                    <Matrix tx="-1.05" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="504.75" y="3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4F80FF" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="qibar" name="bar1">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.7" y="3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="qibar" name="bar2">
+                  <matrix>
+                    <Matrix tx="112.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.7" y="3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="qibar" name="bar3">
+                  <matrix>
+                    <Matrix tx="225.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.7" y="3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="qibar" itemID="5e78831f-000002a4" lastModified="1585293460" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="qibar">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="qbar333" name="bar" centerPoint3DX="69.85" centerPoint3DY="3.5">
+                  <matrix>
+                    <Matrix a="0.795761108398438" d="0.583328247070313"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.95" y="5.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

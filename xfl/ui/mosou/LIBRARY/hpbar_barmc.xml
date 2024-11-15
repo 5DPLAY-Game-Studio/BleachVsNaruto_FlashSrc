@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="hpbar_barmc" itemID="58980668-00000216" linkageExportForAS="true" linkageClassName="mosou_hpbar_barmc" lastModified="1585204393">
+  <timeline>
+    <DOMTimeline name="hpbar_barmc">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hpbar_bar" name="bar" centerPoint3DX="134" centerPoint3DY="11.85">
+                  <matrix>
+                    <Matrix tx="263.95" ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-130.1" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="hpbar_bar 副本" name="redbar" centerPoint3DX="-125.95" centerPoint3DY="11.85">
+                  <matrix>
+                    <Matrix tx="4" ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-130.1" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

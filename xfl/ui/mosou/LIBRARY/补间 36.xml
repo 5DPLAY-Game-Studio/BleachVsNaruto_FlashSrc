@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="补间 36" itemID="5f01acf1-00000192" symbolType="graphic" lastModified="1593945329">
+  <timeline>
+    <DOMTimeline name="补间 36">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 46 复制" selected="true" centerPoint3DX="380" centerPoint3DY="-288">
+                  <matrix>
+                    <Matrix tx="-400.5" ty="-300"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="780.5" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 46" selected="true" centerPoint3DX="-380" centerPoint3DY="288">
+                  <matrix>
+                    <Matrix tx="-400.5" ty="276"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="780.5" y="12"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="元件 48" selected="true" symbolType="graphic" centerPoint3DX="-0.5" centerPoint3DY="-21.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="-159" ty="-53.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="158.5" y="32.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

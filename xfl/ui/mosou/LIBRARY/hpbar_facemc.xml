@@ -1,0 +1,97 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="hpbar_facemc" itemID="5898072f-0000022f" linkageExportForAS="true" linkageClassName="mosou_hpbar_facemc" lastModified="1585291939">
+  <timeline>
+    <DOMTimeline name="hpbar_facemc">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="face_bl.png">
+                  <matrix>
+                    <Matrix ty="-1.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true" current="true" isSelected="true" visible="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 208[0 508 0 808!0 808[0 818 0 828!0 828[0 834 0 840!0 840|301 1088!301 1088[391 1088 480 1088!480 1088[490 1088 500 1088!500 1088[590 1088 680 1088!680 1088[690 1088 700 1088!700 1088[920 1088 1140 1088!1140 1088[1150 1088 1160 1088
+!1160 1088[1250 1088 1340 1088!1340 1088[1350 1088 1360 1088!1360 1088[1480 1088 1600 1088!1600 1088[1610 1088 1620 1088!1620 1088[1624 1088 1628 1088!1628 1088|1900 805!1900 805[1900 796 1900 788!1900 788[1900 412 1900 35!1900 35[1900
+ 33 1900 30!1900 30[1900 15 1900 0!1900 0|204 0!204 0|0 194!0 194[0 197 0 199!0 199[0 204 0 208"/>
+                    <Edge cubics="!1160 1088(;1220,1088 1280,1088 1340,1088q1160 1088Q1250 1088q1340 1088);"/>
+                    <Edge cubics="!1340 1088(;1347,1088 1353,1088 1360,1088q1340 1088Q1350 1088q1360 1088);"/>
+                    <Edge cubics="!1140 1088(;1147,1088 1153,1088 1160,1088q1140 1088Q1150 1088q1160 1088);"/>
+                    <Edge cubics="!1600 1088(1600,1088;1607,1088 1613,1088 1620,1088q1600 1088Q1610 1088q1620 1088);"/>
+                    <Edge cubics="!1900 35(;1900,289 1900,538 1900,788q1900 35 1900 788);"/>
+                    <Edge cubics="!1360 1088(;1440,1088 1520,1088 1600,1088q1360 1088Q1480 1088q1600 1088);"/>
+                    <Edge cubics="!0 808(;0,815 0,821 0,828q0 808Q0 818q0 828);"/>
+                    <Edge cubics="!500 1088(;560,1088 620,1088 680,1088q500 1088Q590 1088q680 1088);"/>
+                    <Edge cubics="!680 1088(;687,1088 693,1088 700,1088q680 1088Q690 1088q700 1088);"/>
+                    <Edge cubics="!480 1088(;487,1088 493,1088 500,1088q480 1088Q490 1088q500 1088);"/>
+                    <Edge cubics="!0 208(;0,408 0,608 0,808q0 208Q0 508q0 808);"/>
+                    <Edge cubics="!700 1088(;847,1088 993,1088 1140,1088q700 1088Q920 1088q1140 1088);"/>
+                    <Edge cubics="!0 828(;0,832 0,836 0,840q0 828Q0 834q0 840);"/>
+                    <Edge cubics="!301 1088(;301,1088 0,840 0,840q301 1088 0 840);"/>
+                    <Edge cubics="!301 1088(;361,1088 421,1088 480,1088q301 1088Q391 1088q480 1088);"/>
+                    <Edge cubics="!0 199(;0,202 0,205 0,208q0 199Q0 204q0 208);"/>
+                    <Edge cubics="!1900 788(;1900,793 1900,799 1900,805q1900 788Q1900 796q1900 805);"/>
+                    <Edge cubics="!1620 1088(;1623,1088 1625,1088 1628,1088q1620 1088Q1624 1088q1628 1088);"/>
+                    <Edge cubics="!1900 805(;1900,805 1628,1088 1628,1088q1900 805 1628 1088);"/>
+                    <Edge cubics="!1900 30(1900,30;1900,32 1900,34 1900,35q1900 30Q1900 33q1900 35);"/>
+                    <Edge cubics="!0 194(;0,196 0,198 0,199q0 194Q0 197q0 199);"/>
+                    <Edge cubics="!1900 0(;1900,10 1900,20 1900,30q1900 0Q1900 15q1900 30);"/>
+                    <Edge cubics="!0 194(;0,194 204,0 204,0q0 194 204 0);"/>
+                    <Edge cubics="!204 0(;204,0 1900,0 1900,0q204 0 1900 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" parentLayerIndex="1">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ctmc" name="ct" centerPoint3DX="9.25" centerPoint3DY="9.25">
+                  <transformationPoint>
+                    <Point x="9.25" y="9.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1972 1162|-119 1162!-119 1162|-119 -83!-119 -83|1972 -83!1972 -83|1972 1162"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game_start_mc" itemID="58a554ea-000019c5" lastModified="1611156133" lastUniqueIdentifier="6">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game_start_mc" itemID="58a554ea-000019c5" lastModified="1731664830" lastUniqueIdentifier="6">
   <timeline>
-    <DOMTimeline name="game_start_mc" currentFrame="199">
+    <DOMTimeline name="game_start_mc" currentFrame="5">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" locked="true">
           <frames>
@@ -38,6 +38,7 @@
 var $perfect:Boolean = false;
 var $winnerX:Number = 30;
 var $winnerY:Number = 90;
+var $winnerScale = 1;
 
 stop();]]></script>
               </Actionscript>
@@ -570,7 +571,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="26" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="round_num_mc" name="nummc" selected="true" centerPoint3DX="566.8" centerPoint3DY="295.6">
+                <DOMSymbolInstance libraryItemName="round_num_mc" name="nummc" centerPoint3DX="566.8" centerPoint3DY="295.6">
                   <matrix>
                     <Matrix d="0.1273193359375" tx="428.05" ty="337.9"/>
                   </matrix>

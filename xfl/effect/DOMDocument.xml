@@ -6,6 +6,7 @@
           <DOMFolderItem name="_优化特效/效果_超必杀" itemID="673714ad-0000084b"/>
           <DOMFolderItem name="_优化特效/效果_辅助_火影" itemID="673428c5-0000044d"/>
           <DOMFolderItem name="_优化特效/效果_辅助_死神" itemID="6733162f-00000c33"/>
+          <DOMFolderItem name="_优化特效/效果_辅助必杀" itemID="673d4608-00000a57"/>
           <DOMFolderItem name="_AS链接" itemID="6715bdc6-00000922" isExpanded="true"/>
           <DOMFolderItem name="_AS链接/元件" itemID="6715bddb-0000092b" isExpanded="true"/>
           <DOMFolderItem name="_AS链接/声音" itemID="46a81c7f-0000020c"/>
@@ -22,7 +23,7 @@
           <DOMFolderItem name="MovieClip" itemID="5a3b4b89-00000981"/>
           <DOMFolderItem name="咆哮" itemID="58a2af88-0000099c"/>
           <DOMFolderItem name="图片" itemID="5f01ca02-000057c1"/>
-          <DOMFolderItem name="图片S" itemID="46a341f6-000000bd"/>
+          <DOMFolderItem name="图片S" itemID="46a341f6-000000bd" isExpanded="true"/>
           <DOMFolderItem name="重复项目文件夹" itemID="5a3b6417-000016f2"/>
      </folders>
      <media>
@@ -471,12 +472,12 @@
           <DOMBitmapItem name="位图 20" itemID="5f799358-00000062" sourceExternalFilepath="./LIBRARY/位图 20" sourceLastImported="1601803096" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="位图 20" bitmapDataHRef="M 832 1601803452.dat" frameRight="5140" frameBottom="5140"/>
           <DOMBitmapItem name="位图 21" itemID="5f799358-00000064" sourceExternalFilepath="./LIBRARY/位图 21" sourceLastImported="1601803096" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="位图 21" bitmapDataHRef="M 833 1601803452.dat" frameRight="5140" frameBottom="5140"/>
           <DOMBitmapItem name="位图 22" itemID="5f799358-00000066" sourceExternalFilepath="./LIBRARY/位图 22" sourceLastImported="1601803096" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="位图 22" bitmapDataHRef="M 834 1601803452.dat" frameRight="5140" frameBottom="5140"/>
-          <DOMBitmapItem name="图片S/位图 2280.png" itemID="5b39e763-00001128" sourceExternalFilepath="./LIBRARY/图片S/位图 2280.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片S/位图 2280.png" bitmapDataHRef="M 1521 1530521463.dat" frameRight="2900" frameBottom="3200"/>
-          <DOMBitmapItem name="图片S/位图 2283.png" itemID="5b39e763-0000112c" sourceExternalFilepath="./LIBRARY/图片S/位图 2283.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片S/位图 2283.png" bitmapDataHRef="M 1522 1530521463.dat" frameRight="2900" frameBottom="3200"/>
-          <DOMBitmapItem name="图片S/位图 2286.png" itemID="5b39e763-00001130" sourceExternalFilepath="./LIBRARY/图片S/位图 2286.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片S/位图 2286.png" bitmapDataHRef="M 1523 1530521463.dat" frameRight="2900" frameBottom="3200"/>
-          <DOMBitmapItem name="图片S/位图 2289.png" itemID="5b39e763-00001134" sourceExternalFilepath="./LIBRARY/图片S/位图 2289.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片S/位图 2289.png" bitmapDataHRef="M 1524 1530521463.dat" frameRight="2900" frameBottom="3200"/>
-          <DOMBitmapItem name="图片S/位图 2292.png" itemID="5b39e763-00001138" sourceExternalFilepath="./LIBRARY/图片S/位图 2292.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片S/位图 2292.png" bitmapDataHRef="M 1525 1530521463.dat" frameRight="2900" frameBottom="3200"/>
-          <DOMBitmapItem name="图片S/位图 2295.png" itemID="5b39e763-0000113c" sourceExternalFilepath="./LIBRARY/图片S/位图 2295.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片S/位图 2295.png" bitmapDataHRef="M 1526 1530521463.dat" frameRight="2900" frameBottom="3200"/>
+          <DOMBitmapItem name="_优化特效/效果_辅助必杀/位图 2280.png" itemID="5b39e763-00001128" sourceExternalFilepath="./LIBRARY/图片S/位图 2280.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助必杀/位图 2280.png" bitmapDataHRef="M 1521 1530521463.dat" frameRight="2900" frameBottom="3200"/>
+          <DOMBitmapItem name="_优化特效/效果_辅助必杀/位图 2283.png" itemID="5b39e763-0000112c" sourceExternalFilepath="./LIBRARY/图片S/位图 2283.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助必杀/位图 2283.png" bitmapDataHRef="M 1522 1530521463.dat" frameRight="2900" frameBottom="3200"/>
+          <DOMBitmapItem name="_优化特效/效果_辅助必杀/位图 2286.png" itemID="5b39e763-00001130" sourceExternalFilepath="./LIBRARY/图片S/位图 2286.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助必杀/位图 2286.png" bitmapDataHRef="M 1523 1530521463.dat" frameRight="2900" frameBottom="3200"/>
+          <DOMBitmapItem name="_优化特效/效果_辅助必杀/位图 2289.png" itemID="5b39e763-00001134" sourceExternalFilepath="./LIBRARY/图片S/位图 2289.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助必杀/位图 2289.png" bitmapDataHRef="M 1524 1530521463.dat" frameRight="2900" frameBottom="3200"/>
+          <DOMBitmapItem name="_优化特效/效果_辅助必杀/位图 2292.png" itemID="5b39e763-00001138" sourceExternalFilepath="./LIBRARY/图片S/位图 2292.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助必杀/位图 2292.png" bitmapDataHRef="M 1525 1530521463.dat" frameRight="2900" frameBottom="3200"/>
+          <DOMBitmapItem name="_优化特效/效果_辅助必杀/位图 2295.png" itemID="5b39e763-0000113c" sourceExternalFilepath="./LIBRARY/图片S/位图 2295.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助必杀/位图 2295.png" bitmapDataHRef="M 1526 1530521463.dat" frameRight="2900" frameBottom="3200"/>
           <DOMBitmapItem name="图片S/位图 2299.png" itemID="5b39e763-00001140" sourceExternalFilepath="./LIBRARY/图片S/位图 2299.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片S/位图 2299.png" bitmapDataHRef="M 1527 1530521463.dat" frameRight="2300" frameBottom="2340"/>
           <DOMBitmapItem name="位图 23" itemID="5f799358-00000068" sourceExternalFilepath="./LIBRARY/位图 23" sourceLastImported="1601803096" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="位图 23" bitmapDataHRef="M 835 1601803452.dat" frameRight="5140" frameBottom="5140"/>
           <DOMBitmapItem name="图片S/位图 2300.png" itemID="5b39e763-00001144" sourceExternalFilepath="./LIBRARY/图片S/位图 2300.png" sourceLastImported="1530521017" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="图片S/位图 2300.png" bitmapDataHRef="M 1528 1530521463.dat" frameRight="2300" frameBottom="2340"/>
@@ -891,6 +892,7 @@
           <Include href="_AS链接/元件/bsqxg.xml" itemID="52346540-00001d6b" lastModified="1530632460"/>
           <Include href="_AS链接/元件/bsxg.xml" itemID="4eaa1589-000030e4" lastModified="1530632463"/>
           <Include href="_AS链接/元件/cbsxg.xml" itemID="4eaa1806-0000374b" lastModified="1530632468"/>
+          <Include href="_AS链接/元件/fzbsxg.xml" itemID="4eae4872-00000581" lastModified="1530632483"/>
           <Include href="_AS链接/元件/fzccxg.xml" itemID="4eae47de-00000571" lastModified="1731471467"/>
           <Include href="_AS链接/元件/XG_fz_bleach_mc.xml" itemID="59127ed7-0000035a" lastModified="1731401206"/>
           <Include href="bsface_mc.xml" loadImmediate="false" itemID="58a2afda-000009a7" lastModified="1487126057"/>
@@ -971,7 +973,6 @@
           <Include href="效果/dianXG_fy.xml" itemID="5a3c7163-00000769" lastModified="1530632473"/>
           <Include href="效果/fireXG.xml" itemID="5216d69b-00001cb1" lastModified="1530632476"/>
           <Include href="效果/fireXG_fy.xml" itemID="5a3c6d3f-000004ed" lastModified="1530632480"/>
-          <Include href="效果/fzbsxg.xml" itemID="4eae4872-00000581" lastModified="1530632483"/>
           <Include href="效果/iceXG.xml" itemID="5216d867-000026b6" lastModified="1530632491"/>
           <Include href="效果/iceXG_fy.xml" itemID="5a3c77d0-00000a38" lastModified="1530632495"/>
           <Include href="效果/iceXG2.xml" itemID="5a3b482b-0000053e" lastModified="1530632498"/>
@@ -1078,7 +1079,7 @@
                                                   <Point x="-1.05" y="4.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="效果/fzbsxg" centerPoint3DX="747.15" centerPoint3DY="472.95">
+                                        <DOMSymbolInstance libraryItemName="_AS链接/元件/fzbsxg" centerPoint3DX="747.15" centerPoint3DY="472.95">
                                              <matrix>
                                                   <Matrix tx="741.65" ty="490.95"/>
                                              </matrix>

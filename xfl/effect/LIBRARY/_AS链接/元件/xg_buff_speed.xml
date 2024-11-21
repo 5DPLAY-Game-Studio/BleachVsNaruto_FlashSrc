@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_buff_speed" itemID="5c666640-000004d7" linkageExportForAS="true" linkageClassName="xg_buff_speed" lastModified="1732158401">
+  <timeline>
+    <DOMTimeline name="xg_buff_speed" currentFrame="7">
+      <layers>
+        <DOMLayer name="图层 1 复制" color="#4F80FF" locked="true" current="true" isSelected="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="重复项目文件夹/元件 5" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.136123657226563" d="0.136123657226563" tx="-25.5" ty="-10.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="186.25" y="77.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_BUFF_速度/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-26" ty="-9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_BUFF_速度/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-26" ty="-9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_BUFF_速度/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-26" ty="-9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_BUFF_速度/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-26" ty="-9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

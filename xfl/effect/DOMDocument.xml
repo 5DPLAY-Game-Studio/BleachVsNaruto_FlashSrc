@@ -3,6 +3,7 @@
           <DOMFolderItem name="_优化特效" itemID="6715bd2c-000003eb" isExpanded="true"/>
           <DOMFolderItem name="_优化特效/效果_BUFF_速度" itemID="673ea367-00000696"/>
           <DOMFolderItem name="_优化特效/效果_BUFF_防御" itemID="67402144-0000068b"/>
+          <DOMFolderItem name="_优化特效/效果_BUFF_攻击" itemID="67402257-0000073a"/>
           <DOMFolderItem name="_优化特效/效果_元件_变更" itemID="673d475b-00000b2b"/>
           <DOMFolderItem name="_优化特效/效果_灵压爆发" itemID="67371545-00000868"/>
           <DOMFolderItem name="_优化特效/效果_必杀" itemID="673713a4-00000402"/>
@@ -26,7 +27,7 @@
           <DOMFolderItem name="MovieClip" itemID="5a3b4b89-00000981"/>
           <DOMFolderItem name="咆哮" itemID="58a2af88-0000099c"/>
           <DOMFolderItem name="图片" itemID="5f01ca02-000057c1"/>
-          <DOMFolderItem name="图片S" itemID="46a341f6-000000bd" isExpanded="true"/>
+          <DOMFolderItem name="图片S" itemID="46a341f6-000000bd"/>
           <DOMFolderItem name="重复项目文件夹" itemID="5a3b6417-000016f2"/>
      </folders>
      <media>
@@ -209,7 +210,7 @@
           <DOMBitmapItem name="9.png 副本.png" itemID="5b39e689-0000099c" sourceExternalFilepath="./LIBRARY/9.png 副本.png" sourceLastImported="1530521047" externalFileCRC32="1947409771" externalFileSize="10850" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="9.png 副本.png" bitmapDataHRef="M 1067 1530521225.dat" frameRight="3340" frameBottom="2700"/>
           <DOMBitmapItem name="93fe47fe4f2cc07c6c22ebbf.gif.png" itemID="5b39e699-000009ec" sourceExternalFilepath="./LIBRARY/93fe47fe4f2cc07c6c22ebbf.gif.png" sourceLastImported="1530521046" externalFileCRC32="1334651241" externalFileSize="446" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="93fe47fe4f2cc07c6c22ebbf.gif.png" bitmapDataHRef="M 1087 1530521241.dat" frameRight="2500" frameBottom="1100"/>
           <DOMSoundItem name="_AS链接/声音/a攻击-刀-重-002.wav" itemID="5216d652-00001caf" linkageExportForAS="true" linkageClassName="snd_kan2" sourceExternalFilepath="./LIBRARY/声音/a攻击-刀-重-002.wav" sourceLastImported="1502024150" href="_AS链接/声音/a攻击-刀-重-002.wav" soundDataHRef="M 192 1484795811.dat" format="22kHz 16bit Mono" sampleCount="9024" dataLength="18048"/>
-          <DOMSoundItem name="a攻击-剑-中-003.wav" itemID="523d9e7c-000006af" linkageExportForAS="true" linkageClassName="snd_fykanx" sourceExternalFilepath="./LIBRARY/a攻击-剑-中-003.wav" sourceLastImported="1502024457" href="a攻击-剑-中-003.wav" soundDataHRef="M 156 1484795811.dat" format="22kHz 8bit Mono" sampleCount="29951" dataLength="29951"/>
+          <DOMSoundItem name="_AS链接/声音/a攻击-剑-中-003.wav" itemID="523d9e7c-000006af" linkageExportForAS="true" linkageClassName="snd_fykanx" sourceExternalFilepath="./LIBRARY/a攻击-剑-中-003.wav" sourceLastImported="1502024457" href="_AS链接/声音/a攻击-剑-中-003.wav" soundDataHRef="M 156 1484795811.dat" format="22kHz 8bit Mono" sampleCount="29951" dataLength="29951"/>
           <DOMSoundItem name="_AS链接/声音/a攻击-剑-中-008.wav" itemID="4de0da6d-000035f5" linkageExportForAS="true" linkageClassName="snd_kan1" sourceExternalFilepath="./LIBRARY/声音/a攻击-剑-中-008.wav" sourceLastImported="1502024145" href="_AS链接/声音/a攻击-剑-中-008.wav" soundDataHRef="M 175 1484795811.dat" format="22kHz 8bit Mono" sampleCount="7423" dataLength="7423"/>
           <DOMSoundItem name="_AS链接/声音/a攻击-打击-中-013.wav" itemID="523efc11-00000ee1" linkageExportForAS="true" linkageClassName="snd_defx" sourceExternalFilepath="./LIBRARY/声音/a攻击-打击-中-013.wav" sourceLastImported="1502024495" href="_AS链接/声音/a攻击-打击-中-013.wav" soundDataHRef="M 129 1484795810.dat" format="22kHz 8bit Mono" sampleCount="14842" dataLength="14842"/>
           <DOMSoundItem name="Attack09.wav" itemID="5c7534d4-000004f8" linkageExportForAS="true" linkageClassName="snd_hit11" sourceExternalFilepath="./LIBRARY/Attack09.wav" sourceLastImported="1551185123" sourcePlatform="macintosh" externalFileCRC32="3912205059" externalFileSize="251868" href="Attack09.wav" soundDataHRef="M 808 1551185108.dat" format="44kHz 16bit Stereo" sampleCount="61696" dataLength="246784"/>
@@ -232,20 +233,24 @@
           <DOMBitmapItem name="_优化特效/效果_辅助_火影/Bitmap 1" itemID="673428e1-00000464" sourceExternalFilepath="D:/源代码/_工作空间/1212321工作空间/BleachVsNaruto/BleachVsNaruto_FlashSrc/xfl/effect/LIBRARY/_优化特效/效果_辅助_火影/Bitmap 1.png" sourceLastImported="1731471575" externalFileSize="2849" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_火影/Bitmap 1.png" bitmapDataHRef="M 855 1731471447.dat" frameRight="1560" frameBottom="1360"/>
           <DOMBitmapItem name="_优化特效/效果_BUFF_速度/Bitmap 1" itemID="673ea30e-0000064a" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1732158220" externalFileSize="1583" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_速度/Bitmap 1.png" bitmapDataHRef="M 860 1732158220.dat" frameRight="1040" frameBottom="380"/>
           <DOMBitmapItem name="_优化特效/效果_BUFF_防御/Bitmap 1" itemID="6740214d-00000691" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1732256076" externalFileSize="1407" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_防御/Bitmap 1.png" bitmapDataHRef="M 864 1732256076.dat" frameRight="1200" frameBottom="380"/>
+          <DOMBitmapItem name="_优化特效/效果_BUFF_攻击/Bitmap 1" itemID="6740221d-000006eb" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1732256284" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_攻击/Bitmap 1.png" bitmapDataHRef="M 868 1732256284.dat" frameRight="1340" frameBottom="380"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_死神/Bitmap 10" itemID="673315f3-00000c15" sourceExternalFilepath="Bitmap 10.png" sourceLastImported="1731401202" externalFileSize="12606" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_死神/Bitmap 10.png" bitmapDataHRef="M 853 1731401202.dat" frameRight="1720" frameBottom="2620"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_死神/Bitmap 11" itemID="673315f7-00000c1b" sourceExternalFilepath="Bitmap 11.png" sourceLastImported="1731401206" externalFileSize="9019" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_死神/Bitmap 11.png" bitmapDataHRef="M 854 1731401206.dat" frameRight="1580" frameBottom="2460"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_死神/Bitmap 2" itemID="673315cc-00000be5" sourceExternalFilepath="Bitmap 2.png" sourceLastImported="1731401163" externalFileSize="3651" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_死神/Bitmap 2.png" bitmapDataHRef="M 845 1731401163.dat" frameRight="900" frameBottom="1000"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_火影/Bitmap 2" itemID="673428e1-00000465" sourceExternalFilepath="D:/源代码/_工作空间/1212321工作空间/BleachVsNaruto/BleachVsNaruto_FlashSrc/xfl/effect/LIBRARY/_优化特效/效果_辅助_火影/Bitmap 2.png" sourceLastImported="1731471575" externalFileSize="4583" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_火影/Bitmap 2.png" bitmapDataHRef="M 856 1731471455.dat" frameRight="1560" frameBottom="1360"/>
           <DOMBitmapItem name="_优化特效/效果_BUFF_速度/Bitmap 2" itemID="673ea313-00000650" sourceExternalFilepath="Bitmap 2.png" sourceLastImported="1732158225" externalFileSize="1536" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_速度/Bitmap 2.png" bitmapDataHRef="M 861 1732158225.dat" frameRight="1040" frameBottom="380"/>
           <DOMBitmapItem name="_优化特效/效果_BUFF_防御/Bitmap 2" itemID="67402151-00000697" sourceExternalFilepath="Bitmap 2.png" sourceLastImported="1732256080" externalFileSize="1377" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_防御/Bitmap 2.png" bitmapDataHRef="M 865 1732256080.dat" frameRight="1180" frameBottom="380"/>
+          <DOMBitmapItem name="_优化特效/效果_BUFF_攻击/Bitmap 2" itemID="67402222-000006f1" sourceExternalFilepath="Bitmap 2.png" sourceLastImported="1732256289" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_攻击/Bitmap 2.png" bitmapDataHRef="M 869 1732256289.dat" frameRight="1320" frameBottom="380"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_死神/Bitmap 3" itemID="673315d1-00000beb" sourceExternalFilepath="Bitmap 3.png" sourceLastImported="1731401168" externalFileSize="11332" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_死神/Bitmap 3.png" bitmapDataHRef="M 846 1731401168.dat" frameRight="1300" frameBottom="2180"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_火影/Bitmap 3" itemID="673428e1-00000466" sourceExternalFilepath="D:/源代码/_工作空间/1212321工作空间/BleachVsNaruto/BleachVsNaruto_FlashSrc/xfl/effect/LIBRARY/_优化特效/效果_辅助_火影/Bitmap 3.png" sourceLastImported="1731471575" externalFileSize="4992" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_火影/Bitmap 3.png" bitmapDataHRef="M 857 1731471460.dat" frameRight="1560" frameBottom="1360"/>
           <DOMBitmapItem name="_优化特效/效果_BUFF_速度/Bitmap 3" itemID="673ea318-00000656" sourceExternalFilepath="Bitmap 3.png" sourceLastImported="1732158231" externalFileSize="1554" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_速度/Bitmap 3.png" bitmapDataHRef="M 862 1732158231.dat" frameRight="1040" frameBottom="380"/>
           <DOMBitmapItem name="_优化特效/效果_BUFF_防御/Bitmap 3" itemID="67402154-0000069d" sourceExternalFilepath="Bitmap 3.png" sourceLastImported="1732256083" externalFileSize="1388" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_防御/Bitmap 3.png" bitmapDataHRef="M 866 1732256083.dat" frameRight="1180" frameBottom="380"/>
+          <DOMBitmapItem name="_优化特效/效果_BUFF_攻击/Bitmap 3" itemID="67402225-000006f7" sourceExternalFilepath="Bitmap 3.png" sourceLastImported="1732256292" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_攻击/Bitmap 3.png" bitmapDataHRef="M 870 1732256292.dat" frameRight="1320" frameBottom="380"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_死神/Bitmap 4" itemID="673315d8-00000bf1" sourceExternalFilepath="Bitmap 4.png" sourceLastImported="1731401175" externalFileSize="14052" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_死神/Bitmap 4.png" bitmapDataHRef="M 847 1731401175.dat" frameRight="1420" frameBottom="2400"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_火影/Bitmap 4" itemID="673428e1-00000467" sourceExternalFilepath="D:/源代码/_工作空间/1212321工作空间/BleachVsNaruto/BleachVsNaruto_FlashSrc/xfl/effect/LIBRARY/_优化特效/效果_辅助_火影/Bitmap 4.png" sourceLastImported="1731471575" externalFileSize="4615" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_火影/Bitmap 4.png" bitmapDataHRef="M 858 1731471464.dat" frameRight="1560" frameBottom="1360"/>
           <DOMBitmapItem name="_优化特效/效果_BUFF_速度/Bitmap 4" itemID="673ea31d-0000065c" sourceExternalFilepath="Bitmap 4.png" sourceLastImported="1732158235" externalFileSize="1587" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_速度/Bitmap 4.png" bitmapDataHRef="M 863 1732158235.dat" frameRight="1020" frameBottom="380"/>
           <DOMBitmapItem name="_优化特效/效果_BUFF_防御/Bitmap 4" itemID="67402157-000006a3" sourceExternalFilepath="Bitmap 4.png" sourceLastImported="1732256086" externalFileSize="1378" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_防御/Bitmap 4.png" bitmapDataHRef="M 867 1732256086.dat" frameRight="1180" frameBottom="380"/>
+          <DOMBitmapItem name="_优化特效/效果_BUFF_攻击/Bitmap 4" itemID="67402228-000006fd" sourceExternalFilepath="Bitmap 4.png" sourceLastImported="1732256295" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_BUFF_攻击/Bitmap 4.png" bitmapDataHRef="M 871 1732256295.dat" frameRight="1320" frameBottom="380"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_死神/Bitmap 5" itemID="673315dd-00000bf7" sourceExternalFilepath="Bitmap 5.png" sourceLastImported="1731471353" externalFileSize="15316" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_死神/Bitmap 5.png" bitmapDataHRef="M 848 1731401180.dat" frameRight="1560" frameBottom="2520"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_火影/Bitmap 5" itemID="673428e1-00000468" sourceExternalFilepath="D:/源代码/_工作空间/1212321工作空间/BleachVsNaruto/BleachVsNaruto_FlashSrc/xfl/effect/LIBRARY/_优化特效/效果_辅助_火影/Bitmap 5.png" sourceLastImported="1731471575" externalFileSize="1314" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_火影/Bitmap 5.png" bitmapDataHRef="M 859 1731471467.dat" frameRight="1560" frameBottom="1360"/>
           <DOMBitmapItem name="_优化特效/效果_辅助_死神/Bitmap 6" itemID="673315e1-00000bfd" sourceExternalFilepath="Bitmap 6.png" sourceLastImported="1731401184" externalFileSize="16173" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_优化特效/效果_辅助_死神/Bitmap 6.png" bitmapDataHRef="M 849 1731401184.dat" frameRight="1660" frameBottom="2600"/>
@@ -906,6 +911,7 @@
           <Include href="_AS链接/元件/fzbsxg.xml" itemID="4eae4872-00000581" lastModified="1530632483"/>
           <Include href="_AS链接/元件/fzccxg.xml" itemID="4eae47de-00000571" lastModified="1731471467"/>
           <Include href="_AS链接/元件/xg_buff_defense.xml" itemID="5c66664d-000004e2" lastModified="1732256152"/>
+          <Include href="_AS链接/元件/xg_buff_power.xml" itemID="5c666658-000004ec" lastModified="1732256295"/>
           <Include href="_AS链接/元件/xg_buff_speed.xml" itemID="5c666640-000004d7" lastModified="1732158401"/>
           <Include href="_AS链接/元件/XG_fz_bleach_mc.xml" itemID="59127ed7-0000035a" lastModified="1731401206"/>
           <Include href="_AS链接/元件/xg_mc_change.xml" itemID="5f799515-0000047b" lastModified="1601806160"/>
@@ -1028,7 +1034,6 @@
           <Include href="xg_buff_effect_defense.xml" itemID="5c66672b-000005e7" lastModified="1550215250"/>
           <Include href="xg_buff_effect_power.xml" itemID="5c66675a-00000855" lastModified="1550215245"/>
           <Include href="xg_buff_effect_speed.xml" itemID="5c6666f7-0000053d" lastModified="1550215483"/>
-          <Include href="xg_buff_power.xml" itemID="5c666658-000004ec" lastModified="1550215525"/>
           <Include href="xg_dian_ing.xml" itemID="5a3c713a-00000674" lastModified="1530632555"/>
           <Include href="xg_dian_ing2.xml" itemID="5a3c713c-00000675" lastModified="1530632557"/>
           <Include href="xg_fire_ing.xml" itemID="5a3b4eec-00000a95" lastModified="1530632560"/>
@@ -1038,7 +1043,7 @@
           <Include href="重复项目文件夹/元件 5.xml" itemIcon="1" loadImmediate="false" itemID="5c666620-000004d5" lastModified="1550212910"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="场景 1" currentFrame="6" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;389&lt;/guideline&gt;&lt;guideline direction="h"&gt;288&lt;/guideline&gt;&lt;/guidelines&gt;'>
+          <DOMTimeline name="场景 1" currentFrame="3" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;389&lt;/guideline&gt;&lt;guideline direction="h"&gt;288&lt;/guideline&gt;&lt;/guidelines&gt;'>
                <layers>
                     <DOMLayer name="图层 3" color="#FF800A">
                          <frames>
@@ -1134,7 +1139,7 @@
                                                   <Point x="26" y="9.4"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="_AS链接/元件/xg_buff_defense" selected="true">
+                                        <DOMSymbolInstance libraryItemName="_AS链接/元件/xg_buff_defense">
                                              <matrix>
                                                   <Matrix tx="478.95" ty="273.3"/>
                                              </matrix>
@@ -1142,7 +1147,7 @@
                                                   <Point x="29.85" y="9.35"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="xg_buff_power">
+                                        <DOMSymbolInstance libraryItemName="_AS链接/元件/xg_buff_power">
                                              <matrix>
                                                   <Matrix tx="479.95" ty="304.05"/>
                                              </matrix>

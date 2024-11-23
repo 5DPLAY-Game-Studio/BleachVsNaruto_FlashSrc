@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="xg_mc_levelup" itemID="5f77e6d9-000009c1" linkageExportForAS="true" linkageClassName="xg_mc_levelup" lastModified="1601735498">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_mc_levelup" itemID="5f77e6d9-000009c1" linkageExportForAS="true" linkageClassName="xg_mc_levelup" lastModified="1732367134">
   <timeline>
-    <DOMTimeline name="xg_mc_levelup" currentFrame="39">
+    <DOMTimeline name="xg_mc_levelup" currentFrame="1">
       <layers>
-        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+        <DOMLayer name="图层 2" color="#9933CC">
           <frames>
             <DOMFrame index="0" duration="4" keyMode="9728">
               <elements/>
@@ -60,11 +60,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 1" color="#4F80FF" locked="true">
+        <DOMLayer name="图层 1 复制" color="#4F80FF" locked="true" autoNamed="false" visible="false" layerType="guide">
           <frames>
             <DOMFrame index="0" duration="40" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件/shape_04" symbolType="graphic" firstFrame="14" centerPoint3DX="3.65" centerPoint3DY="-111.2" loop="play once">
+                <DOMSymbolInstance libraryItemName="元件/shape_04" selected="true" symbolType="graphic" firstFrame="14" centerPoint3DX="3.65" centerPoint3DY="-111.2" loop="play once">
                   <matrix>
                     <Matrix a="0.72174072265625" d="0.72174072265625" tx="-64.6" ty="-168.9"/>
                   </matrix>
@@ -74,6 +74,22 @@
                   <color>
                     <Color alphaMultiplier="0.80078125" redOffset="255" blueOffset="-255"/>
                   </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 7" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-64.6" ty="-168.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="67.45" y="88.05"/>
+                  </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

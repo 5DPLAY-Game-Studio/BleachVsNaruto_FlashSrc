@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="xg_mc_levelup_newaction" itemID="5f77e840-00000ab1" linkageExportForAS="true" linkageClassName="xg_mc_levelup_newaction" lastModified="1601735559">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="xg_mc_levelup_newaction" itemID="5f77e840-00000ab1" linkageExportForAS="true" linkageClassName="xg_mc_levelup_newaction" lastModified="1732367107">
   <timeline>
-    <DOMTimeline name="xg_mc_levelup_newaction" currentFrame="49">
+    <DOMTimeline name="xg_mc_levelup_newaction">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC">
           <frames>
@@ -60,7 +60,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+        <DOMLayer name="图层 3" color="#FF800A">
           <frames>
             <DOMFrame index="0" duration="9" keyMode="9728">
               <elements/>
@@ -118,7 +118,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 1" color="#4F80FF" locked="true">
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" duration="39" keyMode="9728">
               <elements>

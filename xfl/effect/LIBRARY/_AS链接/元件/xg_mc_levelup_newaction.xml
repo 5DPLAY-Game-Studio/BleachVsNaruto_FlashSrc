@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="xg_mc_levelup_newaction" itemID="5f77e840-00000ab1" linkageExportForAS="true" linkageClassName="xg_mc_levelup_newaction" lastModified="1732367107">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_mc_levelup_newaction" itemID="5f77e840-00000ab1" linkageExportForAS="true" linkageClassName="xg_mc_levelup_newaction" lastModified="1732403416">
   <timeline>
-    <DOMTimeline name="xg_mc_levelup_newaction">
+    <DOMTimeline name="xg_mc_levelup_newaction" currentFrame="23">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC">
           <frames>
@@ -118,7 +118,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+        <DOMLayer name="图层 1 复制" color="#4F80FF" locked="true" current="true" isSelected="true" autoNamed="false" visible="false" layerType="guide">
           <frames>
             <DOMFrame index="0" duration="39" keyMode="9728">
               <elements>
@@ -132,6 +132,25 @@
                   <color>
                     <Color alphaMultiplier="0.80078125" redOffset="255" blueOffset="-255"/>
                   </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 7" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-64.6" ty="-168.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="67.45" y="88.05"/>
+                  </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

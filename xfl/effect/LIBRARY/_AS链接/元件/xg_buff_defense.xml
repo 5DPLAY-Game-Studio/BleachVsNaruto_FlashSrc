@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="重复项目文件夹/元件 5" selected="true" symbolType="graphic" centerPoint3DX="0.4" centerPoint3DY="0.8" loop="loop">
+                <DOMSymbolInstance libraryItemName="重复项目文件夹/元件 5" symbolType="graphic" centerPoint3DX="0.4" centerPoint3DY="0.8" loop="loop">
                   <matrix>
                     <Matrix a="0.156417846679688" d="0.135986328125" tx="-29.25" ty="-10.9"/>
                   </matrix>

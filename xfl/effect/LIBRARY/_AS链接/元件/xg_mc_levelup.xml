@@ -64,7 +64,7 @@
           <frames>
             <DOMFrame index="0" duration="40" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件/shape_04" selected="true" symbolType="graphic" firstFrame="14" centerPoint3DX="3.65" centerPoint3DY="-111.2" loop="play once">
+                <DOMSymbolInstance libraryItemName="元件/shape_04" symbolType="graphic" firstFrame="14" centerPoint3DX="3.65" centerPoint3DY="-111.2" loop="play once">
                   <matrix>
                     <Matrix a="0.72174072265625" d="0.72174072265625" tx="-64.6" ty="-168.9"/>
                   </matrix>

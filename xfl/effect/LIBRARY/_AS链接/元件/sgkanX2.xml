@@ -1,0 +1,168 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgkanX2" itemID="5a3b4479-00000444" linkageExportForAS="true" linkageIdentifier="XG_kanx" linkageClassName="XG_kanx2" lastModified="1732836956" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="sgkanX2" currentFrame="16">
+      <layers>
+        <DOMLayer name="图层 2 复制" color="#9933CC" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 33" selected="true" symbolType="graphic" centerPoint3DX="9.05" centerPoint3DY="4.25" loop="play once">
+                  <matrix>
+                    <Matrix a="-0.0642547607421875" b="-0.9979248046875" c="0.9979248046875" d="-0.0642547607421875" tx="-115.4" ty="144.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133" y="127.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4 复制" color="#FF4FFF" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 34" selected="true" symbolType="graphic" centerPoint3DX="-1.05" centerPoint3DY="-2.9" loop="play once">
+                  <matrix>
+                    <Matrix tx="-161" ty="-122.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="158" y="123"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 6">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 7">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 8">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 9">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍X2/Bitmap 10">
+                  <matrix>
+                    <Matrix tx="-132" ty="-137"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

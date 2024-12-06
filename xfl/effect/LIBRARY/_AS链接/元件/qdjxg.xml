@@ -28,7 +28,7 @@
           <frames>
             <DOMFrame index="0" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 24" selected="true" symbolType="graphic" centerPoint3DX="2.1" centerPoint3DY="2" loop="play once">
+                <DOMSymbolInstance libraryItemName="元件 24" symbolType="graphic" centerPoint3DX="2.1" centerPoint3DY="2" loop="play once">
                   <matrix>
                     <Matrix a="9.1552734375e-05" b="-0.149993896484375" c="0.149993896484375" d="9.1552734375e-05" tx="2" ty="2.75"/>
                   </matrix>

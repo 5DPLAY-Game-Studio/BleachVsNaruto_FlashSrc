@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护万解-超必杀效果" itemID="46c939e6-00002c7b" lastModified="1187592796">
+  <timeline>
+    <DOMTimeline name="一护万解-超必杀效果">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片S/位图 1410">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-78.35" ty="-1"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!0 925[169 929 313 1019!313 1019[312 1160 290 1295!290 1295[277 1374 251 1429!251 1429[549 1936 0 2179!0 2179|0 2960!0 2960|2520 2960!2520 2960|2520 0!2520 0|0 0!0 0|0 925"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片S/位图 1424">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-218.7" ty="-1.05"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3006 2959|-107 2959!-107 2959|-107 -1!-107 -1|3006 -1!3006 -1|3006 2959"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

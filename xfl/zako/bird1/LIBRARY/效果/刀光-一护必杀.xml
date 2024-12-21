@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/刀光-一护必杀" itemID="46a74d7f-0000020f" symbolType="graphic" lastModified="1185798716">
+  <timeline>
+    <DOMTimeline name="刀光-一护必杀">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-69.9" ty="-54.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128.9" y="92.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-71.9" ty="-54.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128.9" y="92.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.69"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

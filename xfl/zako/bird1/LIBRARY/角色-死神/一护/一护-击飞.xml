@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="角色-死神/一护/一护-击飞" itemID="46a343cd-0000013a" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-击飞" sourceLastModified="1365323780" lastModified="1599358801" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-击飞" currentFrame="29">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Crow_sq_fn1a_2.png">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="29.25" ty="50.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Crow_sq_fn1a_3.png">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="59.2" ty="76.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Crow_sq_fn1a_2.png">
+                  <matrix>
+                    <Matrix a="-0.70709228515625" b="-0.707107543945313" c="0.707107543945313" d="-0.70709228515625" tx="43.75" ty="67.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="20" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Crow_sq_fn1a_3.png">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="59.2" ty="76.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Crow_sq_fn1a_2.png">
+                  <matrix>
+                    <Matrix tx="29.25" ty="31.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

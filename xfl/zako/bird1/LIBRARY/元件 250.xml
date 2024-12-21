@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 250" itemID="471f42cd-000002fe" sourceFlashFilepath="../cs3/neji.fla" sourceLibraryItemHRef="效果/效果1/元件 250" sourceLastModified="1365323842" lastModified="1365323842" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="元件 250">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 9" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.05" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21" y="31.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 34/位图 1528">
+                  <matrix>
+                    <Matrix a="-1" tx="69.6" ty="19.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

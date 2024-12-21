@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="角色-死神/一护/一护-跳" itemID="46a342d5-000000e1" sourceFlashFilepath="../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-跳" sourceLastModified="1365303148" lastModified="1365303148" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-跳">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 7/位图 1204">
+                  <matrix>
+                    <Matrix tx="18.95" ty="67.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="22" ty="47.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/效果1/元件 2 副本" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix tx="22" ty="47.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 8/位图 1205">
+                  <matrix>
+                    <Matrix tx="17.95" ty="66.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

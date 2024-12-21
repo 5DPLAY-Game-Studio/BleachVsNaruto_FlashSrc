@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="计算&amp;#124隐形/被打效果" itemID="46b69bfa-00000404" lastModified="1191652266">
+  <timeline>
+    <DOMTimeline name="被打效果">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[bdxg = function () {
+	_root.loop++;
+	if (_parent.bdzl == 1) {
+		duplicateMovieClip(_root.game.xgkan, "xgkan"+_root.loop, _root.loop);
+		_root.game["xgkan"+_root.loop]._x = _parent._parent._x;
+		_root.game["xgkan"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgkan"+_root.loop]._y = _parent._parent._y;
+		_root.game["xgkan"+_root.loop]._rotation = random(180);
+		_root.game["xgkan"+_root.loop].gotoAndStop(2);
+	}
+	if (_parent.bdzl == 2) {
+		duplicateMovieClip(_root.game.xgqn, "xgqn"+_root.loop, _root.loop);
+		_root.game["xgqn"+_root.loop]._x = _parent._parent._x+random(5);
+		_root.game["xgqn"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgqn"+_root.loop]._y = _parent._parent._y+random(5);
+		_root.game["xgqn"+_root.loop].gotoAndStop(2);
+	}
+	if (_parent.bdzl == 3) {
+		duplicateMovieClip(_root.game.xgqnz, "xgqnz"+_root.loop, _root.loop);
+		_root.game["xgqnz"+_root.loop]._x = _parent._parent._x+random(5);
+		_root.game["xgqnz"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgqnz"+_root.loop]._y = _parent._parent._y+random(5);
+		_root.game["xgqnz"+_root.loop].gotoAndStop(2);
+	}
+	if (_parent.bdzl == 4) {
+		duplicateMovieClip(_root.game.xgmf, "xgmf"+_root.loop, _root.loop);
+		_root.game["xgmf"+_root.loop]._x = _parent._parent._x+random(5);
+		_root.game["xgmf"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgmf"+_root.loop]._y = _parent._parent._y+random(5);
+		_root.game["xgmf"+_root.loop].gotoAndStop(2);
+	}
+	if (_parent.bdzl == 5) {
+		duplicateMovieClip(_root.game.xgmfz, "xgmfz"+_root.loop, _root.loop);
+		_root.game["xgmfz"+_root.loop]._x = _parent._parent._x+random(5);
+		_root.game["xgmfz"+_root.loop]._xscale = _parent._parent._xscale;
+		_root.game["xgmfz"+_root.loop]._y = _parent._parent._y+random(5);
+		_root.game["xgmfz"+_root.loop].gotoAndStop(2);
+	}
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0066CC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!540 540|0 740!0 740|60 160!60 160|600 0!600 0|540 540"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

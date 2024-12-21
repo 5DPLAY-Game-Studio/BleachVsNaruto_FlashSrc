@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 7" itemID="5f544627-0000466d" symbolType="graphic" lastModified="1601731569">
+  <timeline>
+    <DOMTimeline name="元件 7" currentFrame="30">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_035" selected="true" symbolType="graphic" centerPoint3DX="46.95" centerPoint3DY="19.1" loop="play once">
+                  <matrix>
+                    <Matrix a="0.32421875" b="-0.32421875" c="-0.642852783203125" d="-0.642852783203125" tx="-18.5" ty="-44.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="24.85" y="-125.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bear_sq_1omj_0.png">
+                  <matrix>
+                    <Matrix tx="-5.8" ty="0.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bear_sq_1omj_1.png">
+                  <matrix>
+                    <Matrix tx="-7.55" ty="-16.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bear_sq_1omj_2.png">
+                  <matrix>
+                    <Matrix tx="-1.6" ty="-8.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bear_sq_1omj_3.png">
+                  <matrix>
+                    <Matrix tx="-2.3" ty="-11.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bear_sq_1omj_4.png">
+                  <matrix>
+                    <Matrix tx="-2.3" ty="-3.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Bear_sq_1omj_5.png">
+                  <matrix>
+                    <Matrix tx="-2.3" ty="4.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

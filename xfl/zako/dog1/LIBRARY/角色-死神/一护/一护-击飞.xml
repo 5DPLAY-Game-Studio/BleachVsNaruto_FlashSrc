@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="角色-死神/一护/一护-击飞" itemID="46a343cd-0000013a" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-击飞" sourceLastModified="1365323780" lastModified="1599361319" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-击飞" currentFrame="37">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_gbi1_1.png">
+                  <matrix>
+                    <Matrix a="-1" tx="55.7" ty="28.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_gbi1_2.png">
+                  <matrix>
+                    <Matrix a="-1" tx="60.2" ty="38.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_gbi1_1.png">
+                  <matrix>
+                    <Matrix a="-0.707107543945313" b="0.70709228515625" c="0.70709228515625" d="0.707107543945313" tx="36.4" ty="22.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="20" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_gbi1_3.png">
+                  <matrix>
+                    <Matrix a="-1" tx="69" ty="55.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_rn83_5.png">
+                  <matrix>
+                    <Matrix a="-1" tx="66.9" ty="37.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

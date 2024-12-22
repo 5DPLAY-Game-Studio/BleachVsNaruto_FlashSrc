@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="角色-死神/一护/一护-站立" itemID="46a341e9-000000b3" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-站立" sourceLastModified="1365302840" lastModified="1599360677" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-站立" currentFrame="2">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_3rh5_0.png">
+                  <matrix>
+                    <Matrix a="-1" tx="71.15" ty="16.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_3rh5_1.png">
+                  <matrix>
+                    <Matrix a="-1" tx="70.1" ty="15.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_3rh5_2.png">
+                  <matrix>
+                    <Matrix a="-1" tx="69.05" ty="14.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_3rh5_3.png">
+                  <matrix>
+                    <Matrix a="-1" tx="70.1" ty="14.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

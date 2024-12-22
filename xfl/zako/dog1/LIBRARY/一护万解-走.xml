@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护万解-走" itemID="46c9187d-0000084d" lastModified="1187584495">
+  <timeline>
+    <DOMTimeline name="一护万解-走">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片S/位图 1175">
+                  <matrix>
+                    <Matrix tx="14.5" ty="3.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片S/位图 1174">
+                  <matrix>
+                    <Matrix tx="14.75" ty="6.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片S/位图 1173">
+                  <matrix>
+                    <Matrix tx="14.75" ty="5.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片S/位图 1172">
+                  <matrix>
+                    <Matrix tx="14.75" ty="4.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片S/位图 1171">
+                  <matrix>
+                    <Matrix tx="15.5" ty="3.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片S/位图 1170">
+                  <matrix>
+                    <Matrix tx="14.5" ty="6.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片S/位图 1169">
+                  <matrix>
+                    <Matrix tx="14.5" ty="5.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片S/位图 1168">
+                  <matrix>
+                    <Matrix tx="14.25" ty="4.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护-必杀1 副本" itemID="516cbe60-00001533" lastModified="1489413493">
+  <timeline>
+    <DOMTimeline name="一护-必杀1 副本" currentFrame="11">
+      <layers>
+        <DOMLayer name="图层 7" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/效果1/元件 16" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="90" ty="14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="71.5" y="73"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 18/位图 1317">
+                  <matrix>
+                    <Matrix tx="59.75" ty="71.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 18/位图 1316">
+                  <matrix>
+                    <Matrix tx="63.25" ty="79.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="16" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="Fireworks 对象/复制/复制 18/位图 1304">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="27.5" ty="75.05"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!2250 2521|2250 1501!2250 1501|1250 1501!1250 1501|1250 2521!1250 2521|1709.5 2521!1709.5 2521[#6CD.78 #9C2.DB 1825 2497!1825 2497[#77D.66 #9BE.F2 1946.5 2521!1946.5 2521|2250 2521"/>
+                        <Edge cubics="!1710 2521(;1765,2487 1910,2487 1947,2521q1710 2521Q1741 2499q1825 2497Q1917 2495q1947 2521);"/>
+                        <Edge cubics="!2250 2521(;2250,2521 1947,2521 1947,2521q2250 2521 1947 2521);"/>
+                        <Edge cubics="!1250 1501(;1250,1501 2250,1501 2250,1501q1250 1501 2250 1501);"/>
+                        <Edge cubics="!1250 1501(1250,1501;1250,1501 1250,2521 1250,2521q1250 1501 1250 2521)1250,2521;"/>
+                        <Edge cubics="!2250 1501(2250,1501;2250,1501 2250,2521 2250,2521q2250 1501 2250 2521)2250,2521;"/>
+                        <Edge cubics="!1710 2521(;1710,2521 1250,2521 1250,2521q1710 2521 1250 2521);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

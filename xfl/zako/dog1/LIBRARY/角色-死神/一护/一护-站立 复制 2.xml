@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="角色-死神/一护/一护-站立 复制 2" itemID="5f544d49-00005af2" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-站立" sourceLastModified="1365302840" lastModified="1599360919" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-站立 复制 2" currentFrame="85">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_9ua6_1.png">
+                  <matrix>
+                    <Matrix a="-1" tx="72.85" ty="14.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_9ua6_2.png">
+                  <matrix>
+                    <Matrix a="-1" tx="73.8" ty="12.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_9ua6_3.png">
+                  <matrix>
+                    <Matrix a="-1" tx="70.95" ty="13.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Wolf_sq_9ua6_4.png">
+                  <matrix>
+                    <Matrix a="-1" tx="71.25" ty="10.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

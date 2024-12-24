@@ -6,12 +6,12 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="和光素材(1457)_sq_gvh9_0.png"/>
+                <DOMBitmapInstance libraryItemName="和光素材(1457)_sq_gvh9/和光素材(1457)_sq_gvh9_0.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="和光素材(1457)_sq_gvh9_1.png">
+                <DOMBitmapInstance libraryItemName="和光素材(1457)_sq_gvh9/和光素材(1457)_sq_gvh9_1.png">
                   <matrix>
                     <Matrix tx="23" ty="12"/>
                   </matrix>
@@ -20,7 +20,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="和光素材(1457)_sq_gvh9_2.png">
+                <DOMBitmapInstance libraryItemName="和光素材(1457)_sq_gvh9/和光素材(1457)_sq_gvh9_2.png">
                   <matrix>
                     <Matrix tx="25.5" ty="46"/>
                   </matrix>
@@ -34,7 +34,7 @@
                     <DOMShape>
                       <fills>
                         <FillStyle index="1">
-                          <BitmapFill bitmapPath="和光素材(1457)_sq_ldag_0.png">
+                          <BitmapFill bitmapPath="和光素材(1457)_sq_gvh9/和光素材(1457)_sq_ldag_0.png">
                             <matrix>
                               <Matrix a="20" d="20" tx="26" ty="18.85"/>
                             </matrix>
@@ -56,7 +56,7 @@
                     <DOMShape>
                       <fills>
                         <FillStyle index="1">
-                          <BitmapFill bitmapPath="和光素材(1457)_sq_ldag_1.png">
+                          <BitmapFill bitmapPath="和光素材(1457)_sq_gvh9/和光素材(1457)_sq_ldag_1.png">
                             <matrix>
                               <Matrix a="20" d="20" tx="26.65" ty="20.85"/>
                             </matrix>
@@ -78,7 +78,7 @@
                     <DOMShape>
                       <fills>
                         <FillStyle index="1">
-                          <BitmapFill bitmapPath="和光素材(1457)_sq_ldag_2.png">
+                          <BitmapFill bitmapPath="和光素材(1457)_sq_gvh9/和光素材(1457)_sq_ldag_2.png">
                             <matrix>
                               <Matrix a="20" d="20" tx="16" ty="12.85"/>
                             </matrix>

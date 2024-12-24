@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Fireworks 对象/复制/复制 5/复制 5" itemID="5160d1b3-0000053f" lastModified="1365299635">
+  <timeline>
+    <DOMTimeline name="复制 5">
+      <layers>
+        <DOMLayer name="背景" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="位图" color="#FF4FFF" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Fireworks 对象/复制/复制 5/位图 1201">
+                  <matrix>
+                    <Matrix ty="19"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="位图" color="#FFFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Fireworks 对象/复制/复制 5/位图 1200">
+                  <matrix>
+                    <Matrix tx="59"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

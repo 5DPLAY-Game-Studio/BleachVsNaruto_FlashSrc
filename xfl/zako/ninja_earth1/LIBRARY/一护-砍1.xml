@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护-砍1" itemID="46a343fb-00000156" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-砍1" sourceLastModified="1366118207" lastModified="1598936670" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-砍1" currentFrame="124">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="XB_ATK1 (1).png">
+                  <matrix>
+                    <Matrix tx="34.65" ty="4.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="XB_ATK1 (2).png">
+                  <matrix>
+                    <Matrix tx="34.65" ty="10.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="25" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="XB_ATK1 (3).png">
+                  <matrix>
+                    <Matrix tx="35.3" ty="10.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="XB_ATK2 (2).png">
+                  <matrix>
+                    <Matrix tx="38.45" ty="6.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="XB_ATK2 (1).png">
+                  <matrix>
+                    <Matrix tx="25.6" ty="4.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="60" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="XB_ATK2 (2).png">
+                  <matrix>
+                    <Matrix tx="38.45" ty="6.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="XB_ATK1 (1).png">
+                  <matrix>
+                    <Matrix tx="34.65" ty="4.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="106" duration="81" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="XB_ATK3 (2).png">
+                  <matrix>
+                    <Matrix tx="32.65" ty="33.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

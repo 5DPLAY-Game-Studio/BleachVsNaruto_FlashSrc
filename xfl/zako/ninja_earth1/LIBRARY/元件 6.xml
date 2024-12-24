@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 6" itemID="5161294e-0000077b" sourceFlashFilepath="../cs3/neji.fla" sourceLibraryItemHRef="效果/效果1/元件 6" sourceLastModified="1365322125" lastModified="1365322125" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="元件 6" currentFrame="18">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/效果1/元件 7" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="95" y="43"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/效果1/元件 7" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="95" y="43"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

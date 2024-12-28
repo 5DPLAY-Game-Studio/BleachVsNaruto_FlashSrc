@@ -1,0 +1,132 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main_mc" itemID="5ef860c0-0000068d" linkageExportForAS="true" linkageClassName="main_mc" lastModified="1598932306">
+  <timeline>
+    <DOMTimeline name="main_mc" currentFrame="1">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+
+var $fighter_ctrler:*;
+var $mc_ctrler:*;
+var $effect_ctrler:*;
+
+var defineAction:Function;
+
+function setFighterCtrler(fighterCtrler:*):void{
+	$fighter_ctrler = fighterCtrler;
+	defineAction = $fighter_ctrler.defineAction;
+}
+
+function setFighterMcCtrler(mcCtrler:*):void{
+	$mc_ctrler = mcCtrler;
+}
+
+function setEffectCtrler(effectCtrler:*):void{
+	$effect_ctrler = effectCtrler;
+}
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if(!$fighter_ctrler) return;
+
+defineAction("k1" , {power:40 , hitType:2 , hitx:0 , hity:0 , hurtTime:0 , hurtType:0 , isBreakDef:false, isWeak: true});
+
+defineAction("k2" , {power:40 , hitType:2 , hitx:0 , hity:0 , hurtTime:0 , hurtType:0 , isBreakDef:false, isWeak: true});
+
+defineAction("zh1" , {power:120 , hitType:7 , hitx:6 , hity:-4 , hurtTime:0 , hurtType:1 , isBreakDef:false, isWeak: true});
+
+//定义血量
+$fighter_ctrler.hp = 500;
+//定义速度
+$fighter_ctrler.speed = 9;
+//定义跳跃力
+$fighter_ctrler.jumpPower = 15;
+//定义体格(数字越大越重)
+$fighter_ctrler.heavy = 1;
+//定义防御类型(0=剑，1=手)
+$fighter_ctrler.defenseType = 1;
+
+//调用初始化方法
+$fighter_ctrler.initMc(mc);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="引导层: 图层 1" color="#9933CC" locked="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                            <fill>
+                              <SolidColor color="#00FF00"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!-1031 -474|-11 -474!-11 -474|-11 -1034!1069 -474|-11 -474!-11 -474|-11 786"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                            <fill>
+                              <SolidColor color="#33FFFF"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!-1086 -9|1109 -9"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护全动作" name="mc" selected="true" centerPoint3DX="-3.3" centerPoint3DY="-10.75">
+                  <matrix>
+                    <Matrix a="0.859375" d="0.859970092773438" tx="-1" ty="-20.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

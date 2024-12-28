@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AI面" itemID="4e9f95b7-00000915" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="计算|隐形/AI面" sourceLastModified="1366166394" lastModified="1608123034" lastUniqueIdentifier="11" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="AI面" currentFrame="1">
+      <layers>
+        <DOMLayer name="kanmian" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kanmian">
+                  <matrix>
+                    <Matrix a="0.733688354492188" d="0.796173095703125" tx="0.9" ty="-15.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zh1mian" color="#808080" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh1mian">
+                  <matrix>
+                    <Matrix a="1.41795349121094" d="1.48178100585938" tx="27.65" ty="-38.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

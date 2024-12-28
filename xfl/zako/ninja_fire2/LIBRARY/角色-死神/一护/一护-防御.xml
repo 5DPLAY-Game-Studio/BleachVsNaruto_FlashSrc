@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="角色-死神/一护/一护-防御" itemID="46a34320-00000123" sourceFlashFilepath="../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-防御" sourceLastModified="1365301246" lastModified="1489414240" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-防御" currentFrame="6">
+      <layers>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 30/位图 1519">
+                  <matrix>
+                    <Matrix tx="-0.5" ty="-2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 28/位图 1517">
+                  <matrix>
+                    <Matrix tx="-5.05" ty="5.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

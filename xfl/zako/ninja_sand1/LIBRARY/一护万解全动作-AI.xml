@@ -1,0 +1,4525 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护万解全动作-AI" itemID="46cd4435-00000c10" lastModified="1319460467">
+  <timeline>
+    <DOMTimeline name="一护万解全动作-AI">
+      <layers>
+        <DOMLayer name="AS" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var kis = Key.isDown;
+var khit = 0;
+var jump = 0;
+var movspeed = 0;
+var jumped = 1;
+var yup = 0;
+// _x后退
+var htx = 0;
+// 停顿时间(毫秒)
+var tdtime = 0;
+var bdzl = 0;
+var hited = 0;
+var 动作 = 0;
+//动作:0=不防御不攻击,1=攻击,2=防御,3=必杀
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[hits = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[jump = 1;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="55" duration="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[jump = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="67" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("落");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="71" duration="17" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[jump = 1;
+jumped = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="88" duration="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[jump = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="100" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("落2");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="104" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="115" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[khit = 0;
+jump = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="118" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="126" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="127" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[khit = 1;
+动作 = 1;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="133" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="137" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("落2");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="142" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="143" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[khit = 1;
+jump = 0;
+jumped = 0;
+动作 = 1;
+ql += 5;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="148" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay(146);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="151" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[jump = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="157" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="166" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="172" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="173" duration="11" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 1;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="184" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="189" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="190" duration="17" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 1;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="207" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="209" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="210" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 1;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="216" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="229" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="231" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="232" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 1;
+ql += 10;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="238" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y -= 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="239" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y += 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="240" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y -= 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="241" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y += 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="250" duration="20" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="270" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="276" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="277" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 1;
+ql += 10;
+jump = 1;
+jumped = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="279" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="298" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("落");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="312" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="313" duration="22" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 1;
+ql += 5;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="335" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="348" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="355" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="356" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 1;
+ql += 10;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="363" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y -= 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="364" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y += 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="365" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y -= 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="366" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y += 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="367" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="370" duration="16" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="386" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="400" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="401" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 1;
+ql += 5;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="415" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="417" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="426" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="433" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="434" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 3;
+bs = 1;
+ql -= 100;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="436" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.bsd(pn);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="449" duration="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.bsw(pn);
+bs = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="467" duration="25" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="492" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="499" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="500" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 3;
+bs = 1;
+ql -= 100;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="501" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.bsd(pn);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="510" duration="60" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.bsw(pn);
+bs = 0;
+jump = 1;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="570" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="584" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("落");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="594" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="595" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 3;
+bs = 1;
+ql -= 300;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="597" duration="21" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.cbsd(pn);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="618" duration="35" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.cbsw(pn);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="653" duration="36" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="689" duration="22" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="711" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[ql -= 100;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="714" duration="51" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.yfgj(_name);
+bs = 1;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="765" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="772" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="777" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if (_root.game["p"+pn]._xscale<0) {
+	_parent._xscale = 100;
+} else {
+	_parent._xscale = -100;
+}
+if (_root.to == false) {
+	hp -= jhp/10;
+	ql += jhp/15;
+	if (_root.game["p"+pn].mc.动作<>3) {
+		_root.game["p"+pn].mc.ql += jhp/10;
+	}
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="778" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if (hp<=0) {
+	bdzl = 0;
+	sw = true;
+	_root.heimu.gotoAndPlay("DEAD");
+	_root.KO.play();
+	gotoAndPlay("击飞");
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="785" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="788" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[动作 = 0;
+jump = 1;
+hited = 1;
+jumped = 0;
+time = 0;
+play();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="789" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if (_root.game["p"+pn]._xscale<0) {
+	_parent._xscale = 100;
+} else {
+	_parent._xscale = -100;
+}
+if (hits>1) {
+	_root["p"+pn+"hits"].gotoAndPlay("连击");
+}
+jump = 1;
+if (_root.to == false) {
+	hp -= jhp;
+	ql += jhp/10;
+	if (_root.game["p"+pn].mc.动作<>3) {
+		_root.game["p"+pn].mc.ql += jhp/5;
+	}
+}
+hited = 1;
+jumped = 0;
+time = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="790" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if (hp<=0) {
+	bdzl = 0;
+	sw = true;
+	_root.heimu.gotoAndPlay("DEAD");
+	_root.KO.play();
+	gotoAndPlay("击飞");
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="794" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop()
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="798" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[jump = 0;
+jumped = 1;
+clearInterval(tdint);
+gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="801" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[hited = 0;
+clearInterval(tdint);
+play();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="802" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if (hits>1) {
+	_root["p"+pn+"hits"].gotoAndPlay("连击");
+}
+if (_root.game["p"+pn]._xscale<0) {
+	_parent._xscale = 100;
+} else {
+	_parent._xscale = -100;
+}
+jumped = 0;
+if (_root.to == false) {
+	hp -= jhp;
+	ql += jhp/5;
+	if (_root.game["p"+pn].mc.动作<>3) {
+		_root.game["p"+pn].mc.ql += jhp/8;
+	}
+}
+动作 = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="803" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if (hp<=0) {
+	bdzl = 0;
+	sw = true;
+	_root.heimu.gotoAndPlay("DEAD");
+	_root.KO.play();
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="806" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="811" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if (touch == 0) {
+	gotoAndPlay("击飞2");
+}
+n++;
+if (n>=2) {
+	jump = 0;
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="813" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="814" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y -= 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="815" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y += 2;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="816" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="817" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="827" duration="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if (sw == true) {
+	stop();
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="839" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="850" duration="10" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="860" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="874" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[kcplayed = 1;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="876" duration="55" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[kcplayed = 3;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="931" duration="41" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[kcplayed = 2;
+gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="972" duration="41" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1013" duration="38" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="标签" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" name="站立" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" name="走" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="15" name="瞬步" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" duration="16" name="跳" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="55" duration="16" name="落" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="71" duration="17" name="跳2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="88" duration="16" name="落2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="104" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="114" duration="12" name="落地" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="126" duration="16" name="跳砍" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="142" duration="8" name="跳招" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="150" duration="22" name="跳招2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="172" duration="17" name="砍1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="189" duration="20" name="砍2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="209" duration="22" name="砍3" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="231" duration="45" name="砍技1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="276" duration="36" name="砍技2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="312" duration="15" name="招1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="327" duration="28" name="招12" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="355" duration="45" name="招2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="400" duration="6" name="招3" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="406" duration="27" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[jump = 1;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="433" duration="66" name="必杀" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="499" duration="95" name="上必杀" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="594" duration="115" name="超必杀" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="709" duration="30" name="招换" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="739" duration="25" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay("站立");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="764" name="防御" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="765" duration="11" name="防御2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="776" duration="12" name="防住" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="788" duration="13" name="被打" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="801" duration="5" name="击飞" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="806" duration="7" name="击飞2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="813" duration="36" name="击落地" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="24" name="起身" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="873" duration="77" name="开场" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="950" duration="40" name="胜利" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="990" duration="61" name="失败" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物全" color="#4F80FF" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="控制" color="#FF4FFF" parentLayerIndex="2" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-16.85" ty="37.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="114" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="115" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="118" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="126" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="133" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="137" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="142" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="160" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="172" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="174" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="178" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="184" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="189" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="191" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="197" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="205" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="209" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="211" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="218" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="231" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="276" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="278" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="290" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="312" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="314" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="325" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="337" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="355" duration="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="400" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="407" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="414" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="418" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="433" duration="66" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="499" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="511" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="519" duration="75" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="594" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="606" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/大地震">
+                  <matrix>
+                    <Matrix tx="-17.7" ty="27.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.1" y="11"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="623" duration="142" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="765" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="772" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="776" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="781" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="788" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="789" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="798" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="804" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="813" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="37.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="817" duration="32" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="851" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="859" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="860" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="873" duration="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/大地震" selected="true">
+                  <matrix>
+                    <Matrix tx="-17.7" ty="27.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.1" y="11"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="899" duration="152" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root._y = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="被打面" color="#9933CC" parentLayerIndex="2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.40399169921875" d="1.10406494140625" tx="-13.25" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="114" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.418777465820312" d="1.10406494140625" tx="-18.25" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="143" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="151" duration="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-19.25" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="178" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.433441162109375" d="1.10406494140625" tx="-6.75" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="192" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-14.75" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="195" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-13.25" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="199" duration="115" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-14.25" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="314" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="330" duration="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-5.25" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="355" duration="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-9.25" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="405" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="416" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.388504028320312" d="1.10406494140625" tx="-8.3" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="433" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-21.75" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="435" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="450" duration="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-22.75" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="499" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.029296875" tx="-15.75" ty="-19.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="500" duration="94" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="594" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.418777465820312" d="1.029296875" tx="-10.75" ty="-19.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="596" duration="23" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="619" duration="90" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.463760375976562" d="1.029296875" tx="-6.75" ty="-19.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="709" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.351058959960938" d="1.029296875" tx="-10.8" ty="-19.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="720" duration="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.351058959960938" d="1.029296875" tx="-21.8" ty="-19.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="765" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.30596923828125" d="1.29104614257812" tx="-8.35" ty="-29.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="776" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="779" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.373519897460938" d="1.29104614257812" tx="-9.3" ty="-29.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="786" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="791" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.373748779296875" d="1.29104614257812" tx="-11.25" ty="-29.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="801" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="813" duration="36" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="873" duration="178" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="特效" color="#4FFFFF" parentLayerIndex="2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.loop++;
+duplicateMovieClip(_root.game.xgch, "xgch"+_root.loop, _root.loop);
+_root.game["xgch"+_root.loop]._x = _parent._x;
+_root.game["xgch"+_root.loop]._xscale = _parent._xscale;
+_root.game["xgch"+_root.loop]._y = _parent._y;
+_root.game["xgch"+_root.loop].gotoAndStop(2);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="32" duration="128" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="160" duration="51" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="211" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="-20.1" ty="21.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="212" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="1" loop="play once">
+                  <matrix>
+                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="-11.1" ty="12.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="213" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="-2.1" ty="3.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="214" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="3" loop="play once">
+                  <matrix>
+                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="6.9" ty="-5.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="215" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="4" loop="play once">
+                  <matrix>
+                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="15.9" ty="-14.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="216" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="24.9" ty="-23.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="217" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="6" loop="play once">
+                  <matrix>
+                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="33.9" ty="-32.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="218" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="239" duration="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-砍技1效果" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="3.8" ty="-19.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="265" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="279" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-砍技2效果">
+                  <matrix>
+                    <Matrix a="0" b="-1.28349304199219" c="1.28349304199219" d="0" tx="-53.8" ty="122.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="151.5" y="48.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="286" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="314" duration="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.loop++;
+duplicateMovieClip(_root.game.xgch, "xgch"+_root.loop, _root.loop);
+_root.game["xgch"+_root.loop]._x = _parent._x;
+_root.game["xgch"+_root.loop]._xscale = _parent._xscale;
+_root.game["xgch"+_root.loop]._y = _parent._y;
+_root.game["xgch"+_root.loop].gotoAndStop(2);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="338" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="362" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/特效03" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="-0.659042358398438" d="-0.659042358398438" tx="34.8" ty="131.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.8" tintColor="#120D26"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="375" duration="32" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="407" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.192840576171875" b="-0.717376708984375" c="0.717376708984375" d="0.192840576171875" tx="-32.6" ty="25.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="414" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="435" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/特效-必杀" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-122.15" ty="-132.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="446" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="499" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="501" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/特效-必杀" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-98.15" ty="-121.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="509" duration="85" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="594" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="597" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/特效-超必杀" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-123.95" ty="-125.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="613" duration="163" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="776" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/被打防御效果">
+                  <matrix>
+                    <Matrix tx="-54.95" ty="-11.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="18.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="778" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="789" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/被打效果">
+                  <matrix>
+                    <Matrix tx="-54.95" ty="-11.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="18.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="791" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="802" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/被打效果">
+                  <matrix>
+                    <Matrix tx="-54.95" ty="-11.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="18.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="804" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="806" duration="43" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="873" duration="28" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="图片S/8350629_39090.gif 拷贝">
+                  <matrix>
+                    <Matrix a="0" b="-2.04510498046875" c="2.12344360351562" d="0" tx="-67.6" ty="29.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.85" y="32.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="901" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="图片S/8350629_39090.gif 拷贝">
+                  <matrix>
+                    <Matrix a="0" b="-0.0266571044921875" c="2.12344360351562" d="0" tx="-67.6" ty="33.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.9" y="32.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="902" duration="149" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="攻击面" color="#4FFF4F" parentLayerIndex="2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="128" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="128" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tkatm">
+                  <matrix>
+                    <Matrix a="1.14042663574219" d="0.920867919921875" tx="-27.1" ty="-67.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="130" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tkatm">
+                  <matrix>
+                    <Matrix a="0.657867431640625" d="1.61761474609375" tx="13.2" ty="-42.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="132" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tkatm">
+                  <matrix>
+                    <Matrix a="0.72564697265625" d="1.03701782226562" tx="-51.75" ty="-7.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="133" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="154" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tzatm">
+                  <matrix>
+                    <Matrix a="1.06552124023438" d="0.585067749023438" tx="-13.55" ty="-7.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="155" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tzatm">
+                  <matrix>
+                    <Matrix a="1.82846069335938" d="0.757904052734375" tx="-61.85" ty="-8.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="157" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="176" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k1atm">
+                  <matrix>
+                    <Matrix a="0.839004516601562" d="0.585067749023438" tx="-6.65" ty="-7.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="178" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="193" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k2atm">
+                  <matrix>
+                    <Matrix a="1.01211547851562" d="1.58523559570312" tx="4.95" ty="-48.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="195" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k2atm">
+                  <matrix>
+                    <Matrix a="1.094482421875" d="1.58523559570312" tx="2" ty="-38.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="197" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="211" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
+                  <matrix>
+                    <Matrix a="0.492095947265625" b="0.498077392578125" c="-1.29600524902344" d="1.28042602539062" tx="33.35" ty="-49.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.3" y="41.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="212" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
+                  <matrix>
+                    <Matrix a="0.492095947265625" b="0.498077392578125" c="-1.08952331542969" d="1.076416015625" tx="43.8" ty="-61.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.4" y="41.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="213" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
+                  <matrix>
+                    <Matrix a="0.492095947265625" b="0.498077392578125" c="-1.23431396484375" d="1.219482421875" tx="51.3" ty="-68.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.55" y="41.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="214" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
+                  <matrix>
+                    <Matrix a="0.492095947265625" b="0.498077392578125" c="-1.2177734375" d="1.20315551757812" tx="60.65" ty="-79.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.55" y="41.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="215" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
+                  <matrix>
+                    <Matrix a="0.17010498046875" b="0.172164916992188" c="-1.60801696777344" d="1.58868408203125" tx="89.1" ty="-86.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.45" y="41.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="216" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
+                  <matrix>
+                    <Matrix a="0.17010498046875" b="0.172164916992188" c="-0.969085693359375" d="0.957443237304688" tx="103.65" ty="-97.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.55" y="41.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="217" duration="23" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="240" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1atm">
+                  <matrix>
+                    <Matrix a="0.77978515625" d="0.954681396484375" tx="22.7" ty="-15.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="242" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1atm">
+                  <matrix>
+                    <Matrix a="3.91299438476562" d="0.644729614257812" tx="6.9" ty="1.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="246" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1atm">
+                  <matrix>
+                    <Matrix a="2.06510925292969" d="0.644729614257812" tx="129.85" ty="1.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="248" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1atm">
+                  <matrix>
+                    <Matrix a="1.76409912109375" d="0.644729614257812" tx="155.15" ty="1.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="250" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="279" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj21atm">
+                  <matrix>
+                    <Matrix a="1.44328308105469" d="2.0196533203125" tx="-37.65" ty="-32.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="40.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="286" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="291" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj2atm">
+                  <matrix>
+                    <Matrix a="1.647705078125" d="1.80950927734375" tx="-61.6" ty="-32.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="40.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="296" duration="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="314" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh10atm">
+                  <matrix>
+                    <Matrix a="0.5914306640625" d="1.57989501953125" tx="-85.3" ty="-41.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="325" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="331" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh1atm">
+                  <matrix>
+                    <Matrix a="0.711639404296875" d="2.101318359375" tx="9.75" ty="-62"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.65" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="333" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh1atm">
+                  <matrix>
+                    <Matrix a="1.15420532226562" d="2.101318359375" tx="-21.95" ty="-62"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.65" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="335" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="363" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
+                  <matrix>
+                    <Matrix a="0.704238891601562" d="3.41461181640625" tx="-16.25" ty="-62.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="364" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
+                  <matrix>
+                    <Matrix a="0.704238891601562" d="3.41461181640625" tx="-16.25" ty="-55.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="365" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
+                  <matrix>
+                    <Matrix a="0.704238891601562" d="3.41461181640625" tx="-16.25" ty="-51.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="366" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
+                  <matrix>
+                    <Matrix a="0.493881225585938" d="2.56944274902344" tx="-7.4" ty="-8.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="367" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
+                  <matrix>
+                    <Matrix a="0.493881225585938" d="2.56944274902344" tx="-7.4" ty="10.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="368" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
+                  <matrix>
+                    <Matrix a="0.493881225585938" d="2.56944274902344" tx="-7.4" ty="21.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="369" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
+                  <matrix>
+                    <Matrix a="0.493881225585938" d="2.17094421386719" tx="-7.4" ty="44.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="370" duration="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="407" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh3atm">
+                  <matrix>
+                    <Matrix a="0.73321533203125" b="0.733322143554688" c="-2.1649169921875" d="2.1649169921875" tx="51.25" ty="-83.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.65" y="40.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="409" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh3atm">
+                  <matrix>
+                    <Matrix a="0.73321533203125" b="0.733322143554688" c="-1.55572509765625" d="1.55572509765625" tx="98" ty="-111.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.3" y="40.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="412" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh3atm">
+                  <matrix>
+                    <Matrix a="0.73321533203125" b="0.733322143554688" c="-1.30575561523438" d="1.30572509765625" tx="136.3" ty="-149.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="414" duration="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="451" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="-15.05" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="452" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="-6.05" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="453" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="6.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="454" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="20.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="455" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="35.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="456" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="55.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="457" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="73.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="458" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="96.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="459" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="118.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="460" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="145.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="461" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="172.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="462" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="200.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="463" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="232.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="464" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="265.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="465" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="297.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="466" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsatm">
+                  <matrix>
+                    <Matrix a="1.14218139648438" d="3.72506713867188" tx="332.95" ty="-90.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="467" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="483" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="499" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="520" duration="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="sbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-2.98709106445312" c="4.64903259277344" d="0" tx="-88.05" ty="107.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="570" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="594" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="622" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="3.82293701171875" d="0" tx="-27" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.05" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="623" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="2.94340515136719" d="0" tx="59" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="624" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="3.4840087890625" d="0" tx="84.05" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="625" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="3.681396484375" d="0" tx="123.05" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="626" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="3.80380249023438" d="0" tx="161.1" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="627" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="4.445556640625" d="0" tx="174.05" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="628" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="4.61529541015625" d="0" tx="204.15" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="629" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="4.8653564453125" d="0" tx="230" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="630" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="5.01518249511719" d="0" tx="255.9" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="631" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="5.38580322265625" d="0" tx="268.85" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="632" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="5.63119506835938" d="0" tx="286.9" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="633" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="6.1998291015625" d="0" tx="288.8" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="634" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="6.1998291015625" d="0" tx="308.8" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="635" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="6.1998291015625" d="0" tx="327.8" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="636" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="6.00137329101562" d="0" tx="342.85" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="637" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="6.00137329101562" d="0" tx="346.85" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="638" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="5.70578002929688" d="0" tx="367.85" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="639" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="5.58633422851562" d="0" tx="383.7" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="640" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="5.58633422851562" d="0" tx="396.7" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="641" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="5.29046630859375" d="0" tx="417.7" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="642" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="4.94511413574219" d="0" tx="444.7" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="643" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="4.59800720214844" d="0" tx="469.8" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="644" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="4.32620239257812" d="0" tx="493.85" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="645" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="4.32620239257812" d="0" tx="509.85" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="646" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="4.32620239257812" d="0" tx="521.85" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="647" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="4.10777282714844" d="0" tx="548.7" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="648" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="3.85736083984375" d="0" tx="575.9" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="649" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="3.53436279296875" d="0" tx="607" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="650" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="3.04315185546875" d="0" tx="643.95" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="651" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="2.7470703125" d="0" tx="674.95" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="652" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
+                  <matrix>
+                    <Matrix a="0" b="-3.48588562011719" c="2.55081176757812" d="0" tx="700.95" ty="86.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.7" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="653" duration="153" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="806" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="813" duration="36" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="873" duration="178" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物" color="#4FFF4F" parentLayerIndex="2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-站">
+                  <matrix>
+                    <Matrix tx="-31.25" ty="-30.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.5" y="28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-走">
+                  <matrix>
+                    <Matrix tx="-47" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.5" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-瞬步" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-31.2" ty="-31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-瞬步" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix tx="-31.2" ty="-31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-瞬步" symbolType="graphic" firstFrame="10" loop="play once">
+                  <matrix>
+                    <Matrix tx="-31.2" ty="-31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-站">
+                  <matrix>
+                    <Matrix tx="-31.25" ty="-30.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.5" y="28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-跳" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-跳" symbolType="graphic" firstFrame="18" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-落">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-跳" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-跳" symbolType="graphic" firstFrame="18" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-落">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-落">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="114" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-跳" symbolType="graphic" firstFrame="24" loop="play once">
+                  <matrix>
+                    <Matrix tx="-34" ty="-82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-跳砍" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-48.5" ty="-64.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="142" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-跳招" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-70.85" ty="-27.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-跳招2" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-69.85" ty="-88.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-砍1" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-49.15" ty="-26.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="189" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-砍2" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-46.15" ty="-55.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="209" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-砍3" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-24.65" ty="-35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="231" duration="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-砍技1" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-45.15" ty="-33.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="276" duration="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-砍技2" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-66.7" ty="-37.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="312" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-招1" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-19.7" ty="-68.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="327" duration="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-招1" symbolType="graphic" firstFrame="14" loop="play once">
+                  <matrix>
+                    <Matrix a="-1" tx="43.3" ty="-68.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="355" duration="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-招2" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-44.65" ty="-62.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="400" duration="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-招3" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-104.65" ty="-76"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="433" duration="66" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-必杀1" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-68.65" ty="-61.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="499" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-上必杀" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-130.1" ty="-106.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="509" duration="85" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-上必杀" symbolType="graphic" firstFrame="4" loop="play once">
+                  <matrix>
+                    <Matrix tx="-130.1" ty="-106.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="594" duration="115" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-超必杀" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-61.9" ty="-82.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="709" duration="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-胜利" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-63.15" ty="-73.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="764" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-防御" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-29" ty="-32.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="776" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-防御" symbolType="graphic" firstFrame="2" loop="play once">
+                  <matrix>
+                    <Matrix tx="-32" ty="-32.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="777" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-防御" symbolType="graphic" firstFrame="3" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-29" ty="-32.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="788" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-被打" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-30" ty="-32.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="801" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-击飞" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-75.5" ty="-48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="806" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-击飞" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-75.5" ty="-48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="813" duration="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-击飞" symbolType="graphic" firstFrame="10" loop="play once">
+                  <matrix>
+                    <Matrix tx="-75.5" ty="-48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="849" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 251" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="58" ty="-41.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="873" duration="77" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-胜利循环">
+                  <matrix>
+                    <Matrix tx="-63.15" ty="-73.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="950" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-胜利" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-63.15" ty="-73.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="972" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-胜利循环">
+                  <matrix>
+                    <Matrix tx="-63.15" ty="-73.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="990" duration="61" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护万解-失败" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-56.15" ty="-48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="背后特效" color="#FFFF4F" parentLayerIndex="2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="813" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="813" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="图片S/12127943_45651.gif 拷贝" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-83.15" ty="13.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="823" duration="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="873" duration="178" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="脚" color="#4FFFFF" parentLayerIndex="2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="849" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="虚拟脚" name="jiao">
+                  <matrix>
+                    <Matrix a="0.417572021484375" d="0.880615234375" tx="-7.35" ty="10.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.75" y="8.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="849" duration="202" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="虚拟脚" name="jiao">
+                  <matrix>
+                    <Matrix a="0.417572021484375" d="0.880615234375" tx="-14.35" ty="10.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.75" y="8.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="高度面" color="#808080" parentLayerIndex="2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="499" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
+                  <matrix>
+                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="499" duration="95" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
+                  <matrix>
+                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="594" duration="115" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
+                  <matrix>
+                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="709" duration="97" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
+                  <matrix>
+                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="806" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
+                  <matrix>
+                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="813" duration="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
+                  <matrix>
+                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="849" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
+                  <matrix>
+                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="873" duration="178" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
+                  <matrix>
+                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="语音" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="154" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="154" duration="56" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="210" duration="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="237" duration="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="277" duration="54" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="331" duration="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="357" duration="44" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="401" duration="49" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="450" duration="49" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="499" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="513" duration="85" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="598" duration="204" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="802" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="813" duration="36" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="873" duration="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="899" duration="56" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="955" duration="96" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" duration="31" keyMode="9728" soundEffect="custom" soundName="sound12.mp3" inPoint44="6900" outPoint44="32256" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="13284" level1="12989"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="72" duration="43" keyMode="9728" soundEffect="custom" soundName="sound12.mp3" inPoint44="6900" outPoint44="32256" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="13284" level1="12989"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="115" duration="13" keyMode="9728" soundEffect="custom" soundName="sound89.mp3" inPoint44="2100" outPoint44="11500" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="21255" level1="21845"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="128" duration="15" keyMode="9728" soundName="Fx12704_f_knSWP1.mp3" outPoint44="5286" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="143" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="150" duration="4" keyMode="9728" soundEffect="custom" soundName="sound89.mp3" inPoint44="2100" outPoint44="11500" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="21255" level1="21845"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="154" duration="22" keyMode="9728" soundEffect="custom" soundName="a攻击-挥舞-重-004.wav" outPoint44="16522" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="20369" level1="20665"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="176" duration="17" keyMode="9728" soundName="Fx12704_f_knSWP1.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="193" duration="18" keyMode="9728" soundName="Fx12704_f_knSWP1.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="211" duration="25" keyMode="9728" soundEffect="custom" soundName="a攻击-挥舞-重-004.wav" outPoint44="16522" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="20369" level1="20665"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="236" duration="55" keyMode="9728" soundEffect="custom" soundName="sound4.mp3" inPoint44="4400" outPoint44="36864" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="15941" level1="16236"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="291" duration="23" keyMode="9728" soundEffect="custom" soundName="a攻击-挥舞-重-004.wav" outPoint44="16522" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="20369" level1="20665"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="314" duration="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="332" duration="30" keyMode="9728" soundEffect="custom" soundName="a攻击-挥舞-重-004.wav" outPoint44="16522" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="20369" level1="20665"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="362" duration="45" keyMode="9728" soundEffect="custom" soundName="sound26.mp3" inPoint44="4300" outPoint44="46080" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint mark44="100" level0="21255" level1="22731"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="407" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="435" duration="16" keyMode="9728" soundName="sound11.mp3" inPoint44="6500" outPoint44="52992" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="451" duration="48" keyMode="9728" soundName="鬼道1.mp3" inPoint44="2800" outPoint44="25382" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="499" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="501" duration="12" keyMode="9728" soundName="sound11.mp3" inPoint44="6500" outPoint44="52992" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="513" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="519" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="521" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="523" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="525" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="528" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="532" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="536" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="541" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="546" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="551" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="556" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="560" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="567" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="597" duration="26" keyMode="9728" soundEffect="custom" soundName="sound93.mp3" inPoint44="2600" outPoint44="52992" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="23321" level1="24207"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="623" duration="191" keyMode="9728" soundName="鬼道1.mp3" inPoint44="2800" outPoint44="25382" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="814" duration="35" keyMode="9728" soundEffect="custom" soundName="sound90.mp3" inPoint44="2010" outPoint44="49536" soundZoomLevel="3">
+              <SoundEnvelope>
+                <SoundEnvelopePoint mark44="200" level0="27159" level1="26569"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="849" duration="10" keyMode="9728" soundEffect="custom" soundName="sound12.mp3" inPoint44="6900" outPoint44="32256" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="13284" level1="12989"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="859" duration="14" keyMode="9728" soundEffect="custom" soundName="sound89.mp3" inPoint44="2100" outPoint44="11500" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="21255" level1="21845"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="873" duration="178" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AI面" color="#808080" locked="true" autoNamed="false" open="false" layerType="folder"/>
+        <DOMLayer name="tankmian" color="#4F80FF" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="41" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="692" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tkanmian">
+                  <matrix>
+                    <Matrix a="1.42851257324219" d="2.16075134277344" tx="-43.95" ty="-57.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="66.5" y="41.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tzmian" color="#FF4F4F" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="41" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="692" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tzmian">
+                  <matrix>
+                    <Matrix a="1.08154296875" b="0.0152435302734375" c="-0.0799407958984375" d="5.676513671875" tx="-25.7" ty="-27.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.3" y="0.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="kanmian" color="#4FFF4F" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="174" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kanmian">
+                  <matrix>
+                    <Matrix a="0.929718017578125" tx="-9.25" ty="-14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="175" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kanmian">
+                  <matrix>
+                    <Matrix a="1.29583740234375" tx="-9.4" ty="-14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="192" duration="70" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kanmian">
+                  <matrix>
+                    <Matrix a="1.70713806152344" b="-1.37652587890625" c="0.733123779296875" d="0.909194946289062" tx="-8.5" ty="-7.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="262" duration="472" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kanmian">
+                  <matrix>
+                    <Matrix a="0.929718017578125" tx="-9.25" ty="-14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="kj1mian" color="#9933CC" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="669" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1mian">
+                  <matrix>
+                    <Matrix a="3.71832275390625" d="0.784774780273438" tx="8.85" ty="-8.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.35" y="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="670" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1mian">
+                  <matrix>
+                    <Matrix a="1.5389404296875" d="1.90446472167969" tx="23.65" ty="-54.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="1.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="681" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="kj2mian" color="#FFFF4F" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="680" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj2mian">
+                  <matrix>
+                    <Matrix a="2.1915283203125" d="5.5806884765625" tx="-75.75" ty="-206.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.35" y="1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="681" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zh1mian" color="#FF4FFF" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="680" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh1mian">
+                  <matrix>
+                    <Matrix a="8.72918701171875" d="2.38754272460938" tx="48.95" ty="-55.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="681" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zh2mian" color="#4FFFFF" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="669" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2mian">
+                  <matrix>
+                    <Matrix a="0.469070434570312" d="3.8919677734375" tx="-9.6" ty="-37.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="670" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2mian">
+                  <matrix>
+                    <Matrix a="0.469070434570312" d="4.63006591796875" tx="-9.6" ty="-55.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="681" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zh3mian" color="#808080" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="680" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh3mian">
+                  <matrix>
+                    <Matrix a="2.19430541992188" b="-2.3466796875" c="1.14111328125" d="1.06704711914062" tx="-26.3" ty="-23.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="1.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="681" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bsmian" color="#4F80FF" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="680" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsmian">
+                  <matrix>
+                    <Matrix a="7.21246337890625" b="-0.001190185546875" c="0.000579833984375" d="3.72738647460938" tx="6.9" ty="-90.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="681" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sbsmian" color="#FF4F4F" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="733" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="sbsmian">
+                  <matrix>
+                    <Matrix a="-0.0006561279296875" b="-4.04539489746094" c="6.63932800292969" d="-0.00103759765625" tx="-58.85" ty="51.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="1.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cbsmian" color="#4FFF4F" parentLayerIndex="13" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="733" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsmian">
+                  <matrix>
+                    <Matrix a="12.4193725585938" b="-0.0020599365234375" c="0.000579833984375" d="3.72738647460938" tx="5.7" ty="-102.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="1.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

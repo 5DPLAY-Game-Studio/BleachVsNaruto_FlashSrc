@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护-超必杀 副本" itemID="516d410f-00000cda" lastModified="1366114679">
+  <timeline>
+    <DOMTimeline name="一护-超必杀 副本">
+      <layers>
+        <DOMLayer name="图层 6" color="#808080" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 8 副本" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1.5" ty="-0.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.5" y="22.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

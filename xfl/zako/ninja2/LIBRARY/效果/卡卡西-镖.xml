@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/卡卡西-镖" itemID="47d0041d-00000b5d" symbolType="graphic" lastModified="1206255800">
+  <timeline>
+    <DOMTimeline name="卡卡西-镖">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="位图 1762adsfadsf">
+                            <matrix>
+                              <Matrix a="14.3853759765625" b="-13.81103515625" c="13.81103515625" d="14.3853759765625" tx="-97.8" ty="5.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!174 119[216 132 259 93!259 93[382 101 374 -18!374 -18[179 -164 -19 -160!-19 -160[-46 -159 -75 -140!-75 -140[36 -94 -77 -55!-77 -55[-152 -142 -231 -131!-231 -131[-244 -129 -258 -130!-258 -130[-258 -47 -373 -47!-373 -47[-316 19 -325 54
+!-325 54[-326 60 -319 67!-319 67[-237 63 -269 115!-269 115[-271 117 -264 124!-264 124[-228 118 -193 114!-193 114[-179 112 -165 112!-165 112[-100 52 -37 72!-37 72[-21 122 -67 156!-67 156[-10 139 47 155!47 155[60 159 74 159!74 159[124 139
+ 174 119"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

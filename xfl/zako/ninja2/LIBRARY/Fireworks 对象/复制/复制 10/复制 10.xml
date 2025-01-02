@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Fireworks 对象/复制/复制 10/复制 10" itemID="5160d29a-0000056c" lastModified="1365299866">
+  <timeline>
+    <DOMTimeline name="复制 10">
+      <layers>
+        <DOMLayer name="背景" color="#9933CC" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="位图" color="#4F80FF" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Fireworks 对象/复制/复制 10/位图 1214">
+                  <matrix>
+                    <Matrix ty="6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="位图" color="#808080" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Fireworks 对象/复制/复制 10/位图 1213">
+                  <matrix>
+                    <Matrix tx="36"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="位图" color="#4FFFFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Fireworks 对象/复制/复制 10/位图 1212">
+                  <matrix>
+                    <Matrix tx="82" ty="5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="位图" color="#FF4FFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Fireworks 对象/复制/复制 10/位图 1211">
+                  <matrix>
+                    <Matrix tx="133" ty="11"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="位图" color="#FFFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Fireworks 对象/复制/复制 10/位图 1210">
+                  <matrix>
+                    <Matrix tx="180" ty="17"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

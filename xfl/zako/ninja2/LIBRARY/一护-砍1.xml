@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护-砍1" itemID="46a343fb-00000156" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-砍1" sourceLastModified="1366118207" lastModified="1598789364" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-砍1" currentFrame="11">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fat Sound Ninja_sq_ga8r_0.png">
+                  <matrix>
+                    <Matrix tx="23.8" ty="-5.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fat Sound Ninja_sq_ga8r_1.png">
+                  <matrix>
+                    <Matrix tx="23.8" ty="-5.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fat Sound Ninja_sq_ga8r_2.png">
+                  <matrix>
+                    <Matrix tx="9.1" ty="-6.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fat Sound Ninja_sq_ga8r_3.png">
+                  <matrix>
+                    <Matrix tx="26.25" ty="-2.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fat Sound Ninja_sq_ga8r_4.png">
+                  <matrix>
+                    <Matrix tx="26.95" ty="-0.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

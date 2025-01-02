@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护-砍4" itemID="46a344ec-000001a0" lastModified="1365304460">
+  <timeline>
+    <DOMTimeline name="一护-砍4" currentFrame="13">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1242">
+                  <matrix>
+                    <Matrix tx="38.95" ty="32.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1241">
+                  <matrix>
+                    <Matrix tx="39.95" ty="33.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1240">
+                  <matrix>
+                    <Matrix tx="39.95" ty="36.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1239">
+                  <matrix>
+                    <Matrix tx="39.95" ty="35.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1238">
+                  <matrix>
+                    <Matrix tx="39.95" ty="35.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1237">
+                  <matrix>
+                    <Matrix tx="39.95" ty="35.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护-被打" itemID="46a34343-0000012d" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-被打" sourceLastModified="1365301313" lastModified="1598789008" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-被打" currentFrame="34">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fat Sound Ninja_sq_tliu_0.png">
+                  <matrix>
+                    <Matrix tx="11.4" ty="-7.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Fat Sound Ninja_sq_tliu_1.png">
+                  <matrix>
+                    <Matrix tx="9.5" ty="-7.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="24" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fat Sound Ninja_sq_tliu_0.png">
+                  <matrix>
+                    <Matrix tx="11.4" ty="-7.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

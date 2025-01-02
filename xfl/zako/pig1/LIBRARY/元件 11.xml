@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 11" itemID="502377bb-00001d15" sourceFlashFilepath="../byakuya.fla" sourceLibraryItemHRef="元件 11" sourceLastModified="1344502082" symbolType="graphic" lastModified="1344502082" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="元件 11">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 1238">
+                  <matrix>
+                    <Matrix tx="-23.95" ty="-21.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 1237">
+                  <matrix>
+                    <Matrix tx="-24.95" ty="-136.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 1236">
+                  <matrix>
+                    <Matrix tx="63.05" ty="-138.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 1235">
+                  <matrix>
+                    <Matrix tx="18.55" ty="-136"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 1234">
+                  <matrix>
+                    <Matrix tx="16.55" ty="-139.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

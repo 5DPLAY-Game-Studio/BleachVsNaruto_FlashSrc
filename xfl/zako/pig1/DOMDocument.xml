@@ -1,0 +1,108 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#C0C0C0" guidesColor="#00FF00" width="1" height="1" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" gridSpacingX="18" gridSpacingY="18" snapAlignBorderSpacing="18" objectsSnapTo="false" timelineHeight="255" timelineLabelWidth="0" vanishingPoint3DX="0.5" vanishingPoint3DY="0.5" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="23E20D4B0ABA384985493CE17CC834C2">
+     <folders>
+          <DOMFolderItem name="效果" itemID="53b0cd11-000013f4"/>
+          <DOMFolderItem name="xin yihu" itemID="4ff85c8f-00000ce7" isExpanded="true"/>
+          <DOMFolderItem name="xin yihu/一护卍解" itemID="4feed1e0-00001cd2" isExpanded="true"/>
+          <DOMFolderItem name="xin yihu/一护卍解/Fireworks 对象" itemID="4feed23a-00001cd8" isExpanded="true"/>
+          <DOMFolderItem name="xin yihu/一护卍解/效果" itemID="4feed23a-00001cda" isExpanded="true"/>
+          <DOMFolderItem name="xin yihu/一护卍解/图片S" itemID="4feed23a-00001cd7" isExpanded="true"/>
+          <DOMFolderItem name="xin yihu/一护卍解/计算|隐形" itemID="4feed23a-00001cd9" isExpanded="true"/>
+          <DOMFolderItem name="xin yihu/Fireworks 对象" itemID="46a825f9-00000238" isExpanded="true"/>
+          <DOMFolderItem name="xin yihu/Fireworks 对象/复制" itemID="5189c554-000007bb" isExpanded="true"/>
+          <DOMFolderItem name="xin yihu/Fireworks 对象/复制/复制 1" itemID="5189c554-000007bc" isExpanded="true"/>
+          <DOMFolderItem name="xin yihu/效果" itemID="46aee264-00000273"/>
+          <DOMFolderItem name="xin yihu/图片S" itemID="46a341f6-000000bd"/>
+          <DOMFolderItem name="xin yihu/角色-死神" itemID="46d7afb1-000014cf"/>
+          <DOMFolderItem name="xin yihu/角色-死神/一护" itemID="46a341ee-000000ba"/>
+          <DOMFolderItem name="xin yihu/计算|隐形" itemID="46d7af2c-000014ca"/>
+          <DOMFolderItem name="图片S" itemID="53b0cbf7-0000136d"/>
+     </folders>
+     <media>
+          <DOMSoundItem name="xin yihu/a攻击-挥舞-重-004.wav" itemID="4feed248-00001f0c" sourceExternalFilepath="./LIBRARY/xin yihu/a攻击-挥舞-重-004.wav" href="xin yihu/a攻击-挥舞-重-004.wav" soundDataHRef="Media 6.dat" format="22kHz 8bit Mono" sampleCount="8261" dataLength="8261"/>
+          <DOMBitmapItem name="位图 1234" itemID="4eb21252-00000600" sourceExternalFilepath="./LIBRARY/位图 1234" sourceLastImported="1320292946" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="位图 1234" bitmapDataHRef="M 1909 1344754755.dat" frameRight="5260" frameBottom="740"/>
+          <DOMBitmapItem name="位图 1235" itemID="4eb21252-00000602" sourceExternalFilepath="./LIBRARY/位图 1235" sourceLastImported="1320292946" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="位图 1235" bitmapDataHRef="M 1908 1344754755.dat" frameRight="5300" frameBottom="1600"/>
+          <DOMBitmapItem name="位图 1236" itemID="4eb21252-00000604" sourceExternalFilepath="./LIBRARY/位图 1236" sourceLastImported="1320292946" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="位图 1236" bitmapDataHRef="M 1907 1344754755.dat" frameRight="4400" frameBottom="1740"/>
+          <DOMBitmapItem name="位图 1237" itemID="4eb21252-00000606" sourceExternalFilepath="./LIBRARY/位图 1237" sourceLastImported="1320292946" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="位图 1237" bitmapDataHRef="M 1906 1344754755.dat" frameRight="6160" frameBottom="3660"/>
+          <DOMBitmapItem name="位图 1238" itemID="4eb21252-00000608" sourceExternalFilepath="./LIBRARY/位图 1238" sourceLastImported="1320292946" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="位图 1238" bitmapDataHRef="M 1905 1344754755.dat" frameRight="3960" frameBottom="1300"/>
+          <DOMBitmapItem name="pig1_behit_0.png" itemID="5f96c02c-00001213" sourceExternalFilepath="./LIBRARY/pig1_behit_0.png" sourceLastImported="1603175266" externalFileCRC32="967335941" externalFileSize="1298" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_behit_0.png" bitmapDataHRef="M 1578 1603715116.dat" frameRight="1720" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_behit_1.png" itemID="5f96c051-00001217" sourceExternalFilepath="./LIBRARY/pig1_behit_1.png" sourceLastImported="1603175266" externalFileCRC32="4126419067" externalFileSize="1154" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_behit_1.png" bitmapDataHRef="M 1579 1603715152.dat" frameRight="1700" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_behit_2.png" itemID="5f96c068-0000121b" sourceExternalFilepath="./LIBRARY/pig1_behit_2.png" sourceLastImported="1603175266" externalFileCRC32="3390888791" externalFileSize="1270" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_behit_2.png" bitmapDataHRef="M 1580 1603715176.dat" frameRight="1680" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_dash_0.png" itemID="5f96b993-00000c33" sourceExternalFilepath="./LIBRARY/pig1_dash_0.png" sourceLastImported="1603175191" externalFileCRC32="2401435543" externalFileSize="1340" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_dash_0.png" bitmapDataHRef="M 1568 1603713427.dat" frameRight="1920" frameBottom="1280"/>
+          <DOMBitmapItem name="pig1_dash_1.png" itemID="5f96b99e-00000c37" sourceExternalFilepath="./LIBRARY/pig1_dash_1.png" sourceLastImported="1603175191" externalFileCRC32="2645645917" externalFileSize="1329" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_dash_1.png" bitmapDataHRef="M 1569 1603713438.dat" frameRight="1880" frameBottom="1280"/>
+          <DOMBitmapItem name="pig1_dash_2.png" itemID="5f96b9a3-00000c3b" sourceExternalFilepath="./LIBRARY/pig1_dash_2.png" sourceLastImported="1603175193" externalFileCRC32="1874676710" externalFileSize="1230" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_dash_2.png" bitmapDataHRef="M 1570 1603713443.dat" frameRight="1840" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_dash_3.png" itemID="5f96b9a8-00000c3f" sourceExternalFilepath="./LIBRARY/pig1_dash_3.png" sourceLastImported="1603175193" externalFileCRC32="1753917684" externalFileSize="1185" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_dash_3.png" bitmapDataHRef="M 1571 1603713448.dat" frameRight="1780" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_hit_0.png" itemID="5f96b9f2-00000c43" sourceExternalFilepath="./LIBRARY/pig1_hit_0.png" sourceLastImported="1603175244" externalFileCRC32="393817951" externalFileSize="1373" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_hit_0.png" bitmapDataHRef="M 1572 1603713522.dat" frameRight="1760" frameBottom="1860"/>
+          <DOMBitmapItem name="pig1_hit_1.png" itemID="5f96b9f8-00000c47" sourceExternalFilepath="./LIBRARY/pig1_hit_1.png" sourceLastImported="1603175244" externalFileCRC32="2880910625" externalFileSize="1355" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_hit_1.png" bitmapDataHRef="M 1573 1603713528.dat" frameRight="1740" frameBottom="1860"/>
+          <DOMBitmapItem name="pig1_hit_2.png" itemID="5f96ba03-00000c4e" sourceExternalFilepath="./LIBRARY/pig1_hit_2.png" sourceLastImported="1603175244" externalFileCRC32="3670030954" externalFileSize="1479" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_hit_2.png" bitmapDataHRef="M 1574 1603713539.dat" frameRight="1580" frameBottom="1860"/>
+          <DOMBitmapItem name="pig1_hit_3.png" itemID="5f96ba0c-00000c55" sourceExternalFilepath="./LIBRARY/pig1_hit_3.png" sourceLastImported="1603175244" externalFileCRC32="1973336241" externalFileSize="1216" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_hit_3.png" bitmapDataHRef="M 1575 1603713548.dat" frameRight="1320" frameBottom="1700"/>
+          <DOMBitmapItem name="pig1_hit_4.png" itemID="5f96b917-00000c2f" sourceExternalFilepath="./LIBRARY/pig1_hit_4.png" sourceLastImported="1603175244" externalFileCRC32="564337781" externalFileSize="1226" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_hit_4.png" bitmapDataHRef="M 1567 1603713303.dat" frameRight="1700" frameBottom="1340"/>
+          <DOMBitmapItem name="pig1_hit_4.png 复制" itemID="5f96ba15-00000c5a" sourceExternalFilepath="./LIBRARY/pig1_hit_4.png" sourceLastImported="1603175244" externalFileCRC32="564337781" externalFileSize="1226" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_hit_4.png" bitmapDataHRef="M 1576 1603713554.dat" frameRight="1700" frameBottom="1340"/>
+          <DOMBitmapItem name="pig1_hit_5.png" itemID="5f96ba1a-00000c5e" sourceExternalFilepath="./LIBRARY/pig1_hit_5.png" sourceLastImported="1603175244" externalFileCRC32="615177652" externalFileSize="1304" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_hit_5.png" bitmapDataHRef="M 1577 1603713562.dat" frameRight="1720" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_run1_0.png" itemID="5f8e7ffb-000009b8" sourceExternalFilepath="./LIBRARY/pig1_run1_0.png" sourceLastImported="1603174005" externalFileCRC32="1086950379" externalFileSize="1268" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_run1_0.png" bitmapDataHRef="M 1559 1603174395.dat" frameRight="1800" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_run1_1.png" itemID="5f8e8010-000009bc" sourceExternalFilepath="./LIBRARY/pig1_run1_1.png" sourceLastImported="1603174005" externalFileCRC32="873024867" externalFileSize="1287" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_run1_1.png" bitmapDataHRef="M 1560 1603174416.dat" frameRight="1800" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_run1_2.png" itemID="5f8e801f-000009c0" sourceExternalFilepath="./LIBRARY/pig1_run1_2.png" sourceLastImported="1603174005" externalFileCRC32="2027212725" externalFileSize="1277" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_run1_2.png" bitmapDataHRef="M 1561 1603174431.dat" frameRight="1780" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_run1_3.png" itemID="5f8e8028-000009c4" sourceExternalFilepath="./LIBRARY/pig1_run1_3.png" sourceLastImported="1603174005" externalFileCRC32="619674864" externalFileSize="1294" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_run1_3.png" bitmapDataHRef="M 1562 1603174440.dat" frameRight="1800" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_run2_0.png" itemID="5f8e8037-000009c8" sourceExternalFilepath="./LIBRARY/pig1_run2_0.png" sourceLastImported="1603174025" externalFileCRC32="1110027575" externalFileSize="1315" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_run2_0.png" bitmapDataHRef="M 1563 1603174455.dat" frameRight="1800" frameBottom="1200"/>
+          <DOMBitmapItem name="pig1_run2_1.png" itemID="5f8e8042-000009cc" sourceExternalFilepath="./LIBRARY/pig1_run2_1.png" sourceLastImported="1603174025" externalFileCRC32="384908746" externalFileSize="1276" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_run2_1.png" bitmapDataHRef="M 1564 1603174466.dat" frameRight="1800" frameBottom="1160"/>
+          <DOMBitmapItem name="pig1_run2_2.png" itemID="5f8e804c-000009d0" sourceExternalFilepath="./LIBRARY/pig1_run2_2.png" sourceLastImported="1603174025" externalFileCRC32="1224542271" externalFileSize="1279" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_run2_2.png" bitmapDataHRef="M 1565 1603174476.dat" frameRight="1820" frameBottom="1160"/>
+          <DOMBitmapItem name="pig1_run2_3.png" itemID="5f8e8055-000009d4" sourceExternalFilepath="./LIBRARY/pig1_run2_3.png" sourceLastImported="1603174025" externalFileCRC32="786043540" externalFileSize="1284" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_run2_3.png" bitmapDataHRef="M 1566 1603174485.dat" frameRight="1800" frameBottom="1160"/>
+          <DOMBitmapItem name="pig1_stand_0.png" itemID="5f8e7f7b-000009a7" sourceExternalFilepath="./LIBRARY/pig1_stand_0.png" sourceLastImported="1603173948" externalFileCRC32="2648079056" externalFileSize="1333" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_stand_0.png" bitmapDataHRef="M 1555 1603174261.dat" frameRight="1800" frameBottom="1180"/>
+          <DOMBitmapItem name="pig1_stand_1.png" itemID="5f8e7f8b-000009ab" sourceExternalFilepath="./LIBRARY/pig1_stand_1.png" sourceLastImported="1603173948" externalFileCRC32="2744646196" externalFileSize="1314" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_stand_1.png" bitmapDataHRef="M 1556 1603174283.dat" frameRight="1820" frameBottom="1160"/>
+          <DOMBitmapItem name="pig1_stand_2.png" itemID="5f8e7f8f-000009af" sourceExternalFilepath="./LIBRARY/pig1_stand_2.png" sourceLastImported="1603173948" externalFileCRC32="1355922913" externalFileSize="1302" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_stand_2.png" bitmapDataHRef="M 1557 1603174287.dat" frameRight="1800" frameBottom="1160"/>
+          <DOMBitmapItem name="pig1_stand_3.png" itemID="5f8e7f93-000009b3" sourceExternalFilepath="./LIBRARY/pig1_stand_3.png" sourceLastImported="1603173948" externalFileCRC32="939986340" externalFileSize="1313" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" href="pig1_stand_3.png" bitmapDataHRef="M 1558 1603174291.dat" frameRight="1800" frameBottom="1160"/>
+     </media>
+     <symbols>
+          <Include href="元件 11.xml" itemIcon="1" loadImmediate="false" itemID="502377bb-00001d15" lastModified="1344502082"/>
+          <Include href="MainMc.xml" itemID="5f96bd76-000011b4" lastModified="1603714425"/>
+          <Include href="xin yihu/一护-走.xml" loadImmediate="false" itemID="46a3420a-000000bf" lastModified="1603174647"/>
+          <Include href="xin yihu/一护-招2.xml" loadImmediate="false" itemID="46a34708-000004c6" lastModified="1603713460"/>
+          <Include href="xin yihu/一护-站立.xml" loadImmediate="false" itemID="46a341e9-000000b3" lastModified="1603174330"/>
+          <Include href="xin yihu/一护全动作.xml" loadImmediate="false" itemID="46a34b81-00000625" lastModified="1608029809"/>
+          <Include href="xin yihu/AI面.xml" loadImmediate="false" itemID="4e9f95b7-00000915" lastModified="1603715692"/>
+          <Include href="xin yihu/计算&amp;#124隐形/0面.xml" loadImmediate="false" itemID="46a82bf5-000002aa" lastModified="1481027958"/>
+          <Include href="yihusu.gif.xml" loadImmediate="false" itemID="4ff91be4-000007c2" lastModified="1608029373"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="场景 1">
+               <layers>
+                    <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MainMc">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="38883" publishTime="1682083848"/>
+          <PublishItem publishSize="82364" publishTime="1682083837"/>
+          <PublishItem publishSize="82364" publishTime="1682083830"/>
+          <PublishItem publishSize="82402" publishTime="1608030033"/>
+          <PublishItem publishSize="82402" publishTime="1608029822"/>
+          <PublishItem publishSize="82443" publishTime="1608029754"/>
+          <PublishItem publishSize="82443" publishTime="1608029683"/>
+          <PublishItem publishSize="82443" publishTime="1608029660"/>
+          <PublishItem publishSize="40105" publishTime="1603715312"/>
+          <PublishItem publishSize="36226" publishTime="1603714747"/>
+          <PublishItem publishSize="36226" publishTime="1603714637"/>
+          <PublishItem publishSize="36233" publishTime="1603714470"/>
+          <PublishItem publishSize="1082273" publishTime="1497885350"/>
+          <PublishItem publishSize="1082289" publishTime="1497885290"/>
+          <PublishItem publishSize="1082294" publishTime="1497536303"/>
+          <PublishItem publishSize="1082276" publishTime="1497536128"/>
+          <PublishItem publishSize="1082277" publishTime="1497536103"/>
+          <PublishItem publishSize="1082276" publishTime="1497536035"/>
+          <PublishItem publishSize="1082277" publishTime="1497536006"/>
+          <PublishItem publishSize="1082279" publishTime="1497535864"/>
+     </publishHistory>
+</DOMDocument>

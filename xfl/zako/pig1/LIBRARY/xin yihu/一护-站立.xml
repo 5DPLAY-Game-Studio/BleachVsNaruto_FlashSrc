@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="xin yihu/一护-站立" itemID="46a341e9-000000b3" sourceFlashFilepath="H:\改源文件\yihu.fla" sourceLibraryItemHRef="一护-站立" sourceLastModified="1186642959" lastModified="1603174330" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-站立" currentFrame="11">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="pig1_stand_0.png">
+                  <matrix>
+                    <Matrix tx="-6.5" ty="-8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="pig1_stand_1.png">
+                  <matrix>
+                    <Matrix tx="-6.5" ty="-7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="pig1_stand_2.png">
+                  <matrix>
+                    <Matrix tx="-5.5" ty="-7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="pig1_stand_3.png">
+                  <matrix>
+                    <Matrix tx="-5.5" ty="-7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

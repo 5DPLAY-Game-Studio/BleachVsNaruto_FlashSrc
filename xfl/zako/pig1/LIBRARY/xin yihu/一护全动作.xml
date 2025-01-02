@@ -1,0 +1,438 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="xin yihu/一护全动作" itemID="46a34b81-00000625" sourceFlashFilepath="H:\改源文件\yihu.fla" sourceLibraryItemHRef="一护全动作" sourceLastModified="1341570543" lastModified="1608029809" lastUniqueIdentifier="58" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护全动作" currentFrame="108">
+      <layers>
+        <DOMLayer name="标签" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" name="站立" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="24" name="走" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="33" duration="5" name="起跳" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="38" duration="5" name="跳" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="43" duration="5" name="跳中" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="48" duration="5" name="落" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="53" duration="13" name="落地" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="66" duration="42" name="招1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="108" duration="55" name="招12" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="163" duration="13" name="被打" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="176" duration="5" name="击飞" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="181" duration="10" name="击飞_落" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="191" duration="9" name="击飞_弹" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="200" duration="9" name="击飞_倒" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="209" duration="15" name="击飞_起" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AS" color="#FF4FFF" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="控制" color="#FFFF4F" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" duration="33" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.loop("走");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="58" duration="22" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="80" duration="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.movePercent(3);
+parent.$mc_ctrler.setHitTarget("zh10atm","招12");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="99" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="102" duration="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="117" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="130" duration="83" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="213" duration="11" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="移动" color="#9933CC" parentLayerIndex="1" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="99" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="99" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.dampingPercent(0.4);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="108" duration="116" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.movePercent(3);
+parent.$mc_ctrler.dampingPercent(0.4);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="效果" color="#4FFFFF" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="8" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.walk();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="61" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.walk();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="80" duration="144" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.dash();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物全" color="#4F80FF" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="控制" color="#FF4FFF" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="224" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="被打面" color="#9933CC" parentLayerIndex="5" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="176" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/计算&amp;#124隐形/0面" name="bdmn" centerPoint3DX="-14.45" centerPoint3DY="1.55">
+                  <matrix>
+                    <Matrix a="0.938934326171875" d="1.10406494140625" tx="-27.5" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="176" duration="48" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="攻击面" color="#4FFF4F" parentLayerIndex="5" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="80" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="80" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/计算&amp;#124隐形/0面" name="zh10atm" centerPoint3DX="37.35" centerPoint3DY="25.3">
+                  <matrix>
+                    <Matrix a="0.956207275390625" d="1.56497192382813" tx="-2.9" ty="-35.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="114" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/计算&amp;#124隐形/0面" name="zh1atm" centerPoint3DX="54.55" centerPoint3DY="-71.05">
+                  <matrix>
+                    <Matrix a="1.57267761230469" d="4.48677062988281" tx="-17.35" ty="-131.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="117" duration="107" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="特效" color="#4FFFFF" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="113" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="113" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 11" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.0348968505859375" b="-0.288345336914063" c="0.288345336914063" d="0.0348968505859375" tx="36.7" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="74.6" y="13"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="30" blueOffset="-30" greenOffset="200"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="122" duration="102" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物" color="#4FFF4F" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/一护-站立" centerPoint3DX="5.5" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="-30" ty="-23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/一护-走" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-47" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.5" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="33" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="pig1_hit_4.png">
+                  <matrix>
+                    <Matrix tx="-37.5" ty="-37.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/一护-招2" symbolType="graphic" firstFrame="4" centerPoint3DX="5.95" centerPoint3DY="-4" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-43.5" ty="-43"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/一护-招2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-43.5" ty="-43"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/一护-招2" symbolType="graphic" firstFrame="3" centerPoint3DX="5.95" centerPoint3DY="-4" loop="loop">
+                  <matrix>
+                    <Matrix tx="-43.5" ty="-43"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="108" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="yihusu.gif" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="-27" ty="-67.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="112" duration="51" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="yihusu.gif" symbolType="graphic" firstFrame="2" centerPoint3DX="5.5" centerPoint3DY="-16.65" loop="play once">
+                  <matrix>
+                    <Matrix tx="-27" ty="-67.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="163" duration="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="pig1_behit_0.png">
+                  <matrix>
+                    <Matrix tx="-40" ty="-30.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="176" duration="33" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="pig1_behit_1.png">
+                  <matrix>
+                    <Matrix tx="-33.5" ty="-32"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="209" duration="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="pig1_behit_2.png">
+                  <matrix>
+                    <Matrix tx="-39.5" ty="-30.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="背后特效" color="#FFFF4F" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="224" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AI" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="224" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/AI面" name="AImain">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="39.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="语音" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="114" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="114" duration="110" keyMode="9728" soundName="xin yihu/a攻击-挥舞-重-004.wav" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="224" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="位置" color="#9933CC" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="224" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/一护-站立" centerPoint3DX="5.5" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="-30" ty="-23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="200"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

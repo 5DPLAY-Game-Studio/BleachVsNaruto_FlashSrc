@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="xin yihu/AI面" itemID="4e9f95b7-00000915" sourceFlashFilepath="H:\改源文件\yihu.fla" sourceLibraryItemHRef="AI面" sourceLastModified="1319559653" lastModified="1603715692" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="AI面" currentFrame="1">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zh1mian" color="#808080" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="xin yihu/计算&amp;#124隐形/0面" name="zh1mian">
+                  <matrix>
+                    <Matrix a="4.00506591796875" d="1.21359252929688" tx="-1.5" ty="-22.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

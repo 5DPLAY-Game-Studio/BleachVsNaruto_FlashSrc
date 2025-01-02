@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="恋次-胜利" itemID="644329e2-00003e29" lastModified="1682123234">
+  <timeline>
+    <DOMTimeline name="恋次-胜利">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="12.gif"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 992"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 993"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 994"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 995"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 997"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 998"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 999"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 1000"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 1001"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 1002"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

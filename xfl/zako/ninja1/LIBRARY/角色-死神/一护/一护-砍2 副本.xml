@@ -1,0 +1,245 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="角色-死神/一护/一护-砍2 副本" itemID="644329e3-00003e33" lastModified="1682123235">
+  <timeline>
+    <DOMTimeline name="一护-砍2 副本" currentFrame="58">
+      <layers>
+        <DOMLayer name="图层 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 13" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.487472534179688" d="0.487472534179688" tx="43.85" ty="9.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="89.35" y="80.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="255" blueOffset="-255" greenOffset="100"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="63" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 12" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="3" ty="54"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61" y="14"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="47" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="62" duration="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1236">
+                  <matrix>
+                    <Matrix tx="36.45" ty="18.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1235">
+                  <matrix>
+                    <Matrix tx="34.95" ty="18.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1234">
+                  <matrix>
+                    <Matrix tx="40.45" ty="24.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1232">
+                  <matrix>
+                    <Matrix tx="43.45" ty="37.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1231">
+                  <matrix>
+                    <Matrix tx="36.45" ty="36.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1230">
+                  <matrix>
+                    <Matrix tx="43.45" ty="36.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1229">
+                  <matrix>
+                    <Matrix tx="43.45" ty="36.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 10" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.55" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.5" y="22"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1241">
+                  <matrix>
+                    <Matrix tx="38.95" ty="26.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1240">
+                  <matrix>
+                    <Matrix tx="38.95" ty="29.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1239">
+                  <matrix>
+                    <Matrix tx="38.95" ty="28.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1238">
+                  <matrix>
+                    <Matrix tx="38.95" ty="28.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1237">
+                  <matrix>
+                    <Matrix tx="38.95" ty="28.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 12/位图 1224">
+                  <matrix>
+                    <Matrix tx="36.95" ty="32.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 2/位图 1536">
+                  <matrix>
+                    <Matrix tx="37.95" ty="32.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 24/位图 1430">
+                  <matrix>
+                    <Matrix tx="33" ty="32.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 24/位图 1429">
+                  <matrix>
+                    <Matrix tx="37" ty="30.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 24/位图 1428">
+                  <matrix>
+                    <Matrix tx="37" ty="34.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 24/位图 1427">
+                  <matrix>
+                    <Matrix tx="37" ty="34.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Fireworks 对象/复制/复制 24/位图 1426">
+                  <matrix>
+                    <Matrix tx="37" ty="34.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

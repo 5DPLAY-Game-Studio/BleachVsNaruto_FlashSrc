@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护-走" itemID="46a3420a-000000bf" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-走" sourceLastModified="1365302950" lastModified="1593336343" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-走" currentFrame="4">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_isjv_0.png">
+                  <matrix>
+                    <Matrix a="-1" tx="51.55" ty="9.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_isjv_1.png">
+                  <matrix>
+                    <Matrix a="-1" tx="51.55" ty="8.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_isjv_2.png">
+                  <matrix>
+                    <Matrix a="-1" tx="51.55" ty="6.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_isjv_3.png">
+                  <matrix>
+                    <Matrix a="-1" tx="51.55" ty="8.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_isjv_4.png">
+                  <matrix>
+                    <Matrix a="-1" tx="51.55" ty="10.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_isjv_5.png">
+                  <matrix>
+                    <Matrix a="-1" tx="51.55" ty="8.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="角色-死神/一护/一护-站立" itemID="46a341e9-000000b3" sourceFlashFilepath="../../cs3/neji.fla" sourceLibraryItemHRef="角色-死神/一护/一护-站立" sourceLastModified="1365302840" lastModified="1593336208" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="一护-站立" currentFrame="2">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_sqt7_0.png">
+                  <matrix>
+                    <Matrix a="-1" tx="58.65" ty="3.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_sqt7_1.png">
+                  <matrix>
+                    <Matrix a="-1" tx="57.6" ty="3.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_sqt7_2.png">
+                  <matrix>
+                    <Matrix a="-1" tx="58.65" ty="4.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_sqt7_3.png">
+                  <matrix>
+                    <Matrix a="-1" tx="60.75" ty="6.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

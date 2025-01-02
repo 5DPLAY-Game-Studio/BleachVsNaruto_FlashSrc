@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/刀光-一护必杀-1" itemID="46a74db5-00000212" symbolType="graphic" lastModified="1185798138">
+  <timeline>
+    <DOMTimeline name="刀光-一护必杀-1">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="76" y="75.5"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="76" y="75.5"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片S/位图 560">
+                            <matrix>
+                              <Matrix a="22.030029296875" d="25.164794921875" tx="-122.25" ty="-1.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!0.5 3020|0.5 0!0.5 0|3040.5 0!3040.5 0|3040.5 3020!3040.5 3020|0.5 3020"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

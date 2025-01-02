@@ -1,0 +1,558 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护全动作" itemID="46a34b81-00000625" lastModified="1593958398" lastUniqueIdentifier="170">
+  <timeline>
+    <DOMTimeline name="一护全动作">
+      <layers>
+        <DOMLayer name="标签" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" name="站立" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="35" name="走" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" duration="5" name="起跳" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="5" name="跳" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="54" duration="5" name="跳中" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" duration="5" name="落" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="64" duration="15" name="落地" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="79" duration="13" name="被打" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="92" duration="5" name="击飞" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="97" duration="10" name="击飞_落" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="107" duration="9" name="击飞_弹" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="116" duration="9" name="击飞_倒" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="125" duration="24" name="击飞_起" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="149" duration="23" name="砍1" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="172" duration="31" name="砍2" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="203" duration="32" name="砍3" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="235" duration="109" name="招1_UN_USE" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AS" color="#9933CC" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="控制" color="#FFFF4F" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="47" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.loop("走");]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="69" duration="64" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="133" duration="16" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="149" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="155" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setAttack("砍2");
+//在结束时加上：parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="160" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="169" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="172" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="181" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.setAttack("砍3");
+//在结束时加上：parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="187" duration="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="199" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="203" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="214" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.endAct();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="228" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="235" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="236" duration="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.addQi(5);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="260" duration="84" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$mc_ctrler.idle();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="移动" color="#FF800A" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="150" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="150" duration="25" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(1,0); //参数为X,Y
+parent.$mc_ctrler.dampingPercent(0.2,0); //移动阻尼，参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="175" duration="28" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(0.5,0); //参数为X,Y
+parent.$mc_ctrler.dampingPercent(0.1,0); //移动阻尼，参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="203" duration="141" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//执行移动
+parent.$mc_ctrler.movePercent(1,0); //参数为X,Y
+parent.$mc_ctrler.dampingPercent(0.1,0); //移动阻尼，参数为X,Y
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="效果" color="#808080" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.walk();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="17" duration="327" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[parent.$effect_ctrler.walk();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物全" color="#4F80FF" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="被打面" color="#9933CC" parentLayerIndex="5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="92" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn" centerPoint3DX="-0.9" centerPoint3DY="-4">
+                  <matrix>
+                    <Matrix a="0.313735961914063" d="1.37767028808594" tx="-11.25" ty="-31.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="92" duration="57" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="149" duration="195" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn" centerPoint3DX="-0.9" centerPoint3DY="-4">
+                  <matrix>
+                    <Matrix a="0.313735961914063" d="1.37767028808594" tx="-11.25" ty="-31.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="特效" color="#4FFFFF" parentLayerIndex="5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="344" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="攻击面" color="#4FFF4F" parentLayerIndex="5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="151" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="151" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k1atm">
+                  <matrix>
+                    <Matrix a="0.511947631835938" d="0.538589477539063" tx="-1.85" ty="-13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="153" duration="23" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="176" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k2atm">
+                  <matrix>
+                    <Matrix a="0.511947631835938" d="0.538589477539063" tx="-7.35" ty="-12.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="178" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="207" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
+                  <matrix>
+                    <Matrix a="0.678207397460938" d="0.538589477539063" tx="-5.6" ty="-12.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="209" duration="135" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物" color="#4FFF4F" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="角色-死神/一护/一护-站立" centerPoint3DX="2.5" centerPoint3DY="-3.25">
+                  <matrix>
+                    <Matrix tx="-40.5" ty="-25.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护-走" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-23.5" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.5" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_7svu_2.png">
+                  <matrix>
+                    <Matrix a="-1" tx="21.75" ty="-19.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_7svu_0.png">
+                  <matrix>
+                    <Matrix a="-1" tx="18.6" ty="-25.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_7svu_1.png">
+                  <matrix>
+                    <Matrix a="-1" tx="18.85" ty="-16.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" duration="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Sound Ninja_sq_7svu_3.png">
+                  <matrix>
+                    <Matrix a="-1" tx="20.95" ty="-17.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护-被打" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-45.5" ty="-31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="92" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="角色-死神/一护/一护-击飞" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-45.5" ty="-48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="角色-死神/一护/一护-击飞" symbolType="graphic" firstFrame="10" loop="play once">
+                  <matrix>
+                    <Matrix tx="-45.5" ty="-48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="107" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="角色-死神/一护/一护-击飞" symbolType="graphic" firstFrame="13" loop="play once">
+                  <matrix>
+                    <Matrix tx="-45.5" ty="-48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="116" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="角色-死神/一护/一护-击飞" symbolType="graphic" firstFrame="18" loop="play once">
+                  <matrix>
+                    <Matrix tx="-45.5" ty="-48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="125" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="角色-死神/一护/一护-击飞" symbolType="graphic" firstFrame="37" loop="play once">
+                  <matrix>
+                    <Matrix tx="-50" ty="-45.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="149" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护-砍1" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="-45" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" duration="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护-砍1" symbolType="graphic" firstFrame="29" centerPoint3DX="3.45" centerPoint3DY="2.85" loop="play once">
+                  <matrix>
+                    <Matrix tx="-45" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="203" duration="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="一护-砍1" symbolType="graphic" firstFrame="59" centerPoint3DX="3.45" centerPoint3DY="2.85" loop="play once">
+                  <matrix>
+                    <Matrix tx="-45" ty="-32.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="235" duration="109" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="背后特效" color="#FFFF4F" parentLayerIndex="5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="344" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AI" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="344" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AI面" name="AImain" selected="true">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="39.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="语音" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="344" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="声音" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="151" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="151" duration="25" keyMode="9728" soundName="Fx12704_f_knSWP1.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="176" duration="30" keyMode="9728" soundName="Fx12704_f_knSWP1.mp3" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="206" duration="138" keyMode="9728" soundEffect="custom" soundName="a攻击-挥舞-重-004.wav" outPoint44="16522" soundZoomLevel="2">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="20369" level1="20665"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="人物" color="#FF4FFF" locked="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="344" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="角色-死神/一护/一护-站立" centerPoint3DX="2.5" centerPoint3DY="-3.25">
+                  <matrix>
+                    <Matrix tx="-40.5" ty="-25.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color blueOffset="150" greenOffset="150"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

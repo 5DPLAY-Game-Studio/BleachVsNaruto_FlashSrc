@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护万解-必杀效果" itemID="46c93408-000028e4" lastModified="1187595154">
+  <timeline>
+    <DOMTimeline name="一护万解-必杀效果">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="48.45" y="31.5"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="48.45" y="31.5"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片S/位图 1337">
+                            <matrix>
+                              <Matrix a="20" d="25.731201171875" tx="-171.4" ty="-39.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!0 -759|0 2020!0 2020|1939 2020!1939 2020|1939 -759!1939 -759|0 -759"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="39.05" y="26.5"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="39.05" y="26.5"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="图片S/位图 1338">
+                            <matrix>
+                              <Matrix a="20.0094604492188" d="25.36376953125" tx="-179.4" ty="-43.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!1842 -840|-278 -840!-278 -840|-278 1900!-278 1900|1842 1900!1842 1900|1842 -840"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

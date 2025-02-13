@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgkan2" itemID="5a3b43e0-000003f4" linkageExportForAS="true" linkageIdentifier="XG_kanx" linkageClassName="XG_kan2" lastModified="1732576395" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="sgkan2" currentFrame="7">
+    <DOMTimeline name="sgkan2">
       <layers>
         <DOMLayer name="图层 4 复制" color="#FF4FFF" locked="true" autoNamed="false" visible="false" layerType="guide">
           <frames>

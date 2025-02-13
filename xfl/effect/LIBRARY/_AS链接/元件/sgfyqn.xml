@@ -1,12 +1,12 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgfyqn" itemID="46b6b4a1-0000087d" linkageExportForAS="true" linkageIdentifier="XG_fyq" linkageClassName="XG_fyq" lastModified="1735018787" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="sgfyqn" currentFrame="6">
+    <DOMTimeline name="sgfyqn">
       <layers>
         <DOMLayer name="图层 3 复制" color="#FFFF4F" locked="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" duration="10" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 37" selected="true" symbolType="graphic" loop="play once">
+                <DOMSymbolInstance libraryItemName="元件 37" symbolType="graphic" loop="play once">
                   <matrix>
                     <Matrix a="0" b="-0.496078491210938" c="0.403900146484375" d="0" tx="-0.2" ty="-3.3"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" duration="10" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 58" selected="true" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="元件 58" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix a="0.277908325195313" d="0.341323852539063" tx="-25.05" ty="-62.55"/>
                   </matrix>

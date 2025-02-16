@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_mc_change" itemID="5f799515-0000047b" linkageExportForAS="true" linkageClassName="xg_mc_change" lastModified="1601806160">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_mc_change" itemID="5f799515-0000047b" linkageExportForAS="true" linkageClassName="xg_mc_change" lastModified="1739710034">
   <timeline>
-    <DOMTimeline name="xg_mc_change" currentFrame="10">
+    <DOMTimeline name="xg_mc_change">
       <layers>
         <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
           <frames>

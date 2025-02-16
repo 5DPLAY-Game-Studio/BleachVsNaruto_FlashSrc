@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/XG_fz_bleach_mc" itemID="59127ed7-0000035a" linkageExportForAS="true" linkageClassName="XG_fz_bleach_mc" lastModified="1731401206">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/XG_fz_bleach_mc" itemID="59127ed7-0000035a" linkageExportForAS="true" linkageClassName="XG_fz_bleach_mc" lastModified="1739710032">
   <timeline>
-    <DOMTimeline name="XG_fz_bleach_mc" currentFrame="10">
+    <DOMTimeline name="XG_fz_bleach_mc">
       <layers>
         <DOMLayer name="图层 1 复制" color="#4FFF4F" locked="true" autoNamed="false" visible="false" layerType="guide">
           <frames>

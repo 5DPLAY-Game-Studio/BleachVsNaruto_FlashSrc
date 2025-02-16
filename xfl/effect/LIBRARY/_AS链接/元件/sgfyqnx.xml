@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgfyqnx" itemID="523eec96-000006b0" linkageExportForAS="true" linkageIdentifier="XG_fyqx" linkageClassName="XG_fyqx" lastModified="1739446744" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgfyqnx" itemID="523eec96-000006b0" linkageExportForAS="true" linkageIdentifier="XG_fyqx" linkageClassName="XG_fyqx" lastModified="1739710019" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="sgfyqnx" currentFrame="9">
+    <DOMTimeline name="sgfyqnx">
       <layers>
         <DOMLayer name="图层 2 复制" color="#9933CC" locked="true" autoNamed="false" visible="false" layerType="guide">
           <frames>
             <DOMFrame index="0" duration="11" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 64" selected="true" symbolType="graphic" centerPoint3DX="-55.65" centerPoint3DY="-2.5" loop="play once">
+                <DOMSymbolInstance libraryItemName="元件 64" symbolType="graphic" centerPoint3DX="-55.65" centerPoint3DY="-2.5" loop="play once">
                   <matrix>
                     <Matrix a="0.899993896484375" d="0.899993896484375" tx="-165" ty="-106.85"/>
                   </matrix>

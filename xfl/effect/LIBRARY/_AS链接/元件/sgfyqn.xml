@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgfyqn" itemID="46b6b4a1-0000087d" linkageExportForAS="true" linkageIdentifier="XG_fyq" linkageClassName="XG_fyq" lastModified="1735018787" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgfyqn" itemID="46b6b4a1-0000087d" linkageExportForAS="true" linkageIdentifier="XG_fyq" linkageClassName="XG_fyq" lastModified="1739710017" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="sgfyqn">
       <layers>
-        <DOMLayer name="图层 3 复制" color="#FFFF4F" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="图层 3 复制" color="#FFFF4F" locked="true" autoNamed="false" visible="false" layerType="guide">
           <frames>
             <DOMFrame index="0" duration="10" keyMode="9728">
               <elements>
@@ -18,7 +18,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 2 复制" color="#9933CC" locked="true" autoNamed="false" visible="false">
+        <DOMLayer name="图层 2 复制" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false" visible="false" layerType="guide">
           <frames>
             <DOMFrame index="0" duration="10" keyMode="9728">
               <elements>
@@ -37,7 +37,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+        <DOMLayer name="图层 3" color="#FFFF4F">
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>

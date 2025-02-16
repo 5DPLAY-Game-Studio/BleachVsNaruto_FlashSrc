@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/qdjxgz" itemID="46b5ac8d-000005e8" linkageExportForAS="true" linkageIdentifier="XG_qdjx" linkageClassName="XG_qdjx" lastModified="1733521900">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/qdjxgz" itemID="46b5ac8d-000005e8" linkageExportForAS="true" linkageIdentifier="XG_qdjx" linkageClassName="XG_qdjx" lastModified="1739710015">
   <timeline>
-    <DOMTimeline name="qdjxgz" currentFrame="14">
+    <DOMTimeline name="qdjxgz">
       <layers>
         <DOMLayer name="图层 3 复制" color="#FFFF4F" locked="true" autoNamed="false" visible="false" layerType="guide">
           <frames>

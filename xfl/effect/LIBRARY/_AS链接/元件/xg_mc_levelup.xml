@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_mc_levelup" itemID="5f77e6d9-000009c1" linkageExportForAS="true" linkageClassName="xg_mc_levelup" lastModified="1732367134">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_mc_levelup" itemID="5f77e6d9-000009c1" linkageExportForAS="true" linkageClassName="xg_mc_levelup" lastModified="1739710036">
   <timeline>
-    <DOMTimeline name="xg_mc_levelup" currentFrame="1">
+    <DOMTimeline name="xg_mc_levelup">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC">
           <frames>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_buff_power" itemID="5c666658-000004ec" linkageExportForAS="true" linkageClassName="xg_buff_power" lastModified="1732256295">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_buff_power" itemID="5c666658-000004ec" linkageExportForAS="true" linkageClassName="xg_buff_power" lastModified="1739710025">
   <timeline>
-    <DOMTimeline name="xg_buff_power" currentFrame="6">
+    <DOMTimeline name="xg_buff_power">
       <layers>
         <DOMLayer name="图层 1 复制" color="#4F80FF" locked="true" autoNamed="false" visible="false" layerType="guide">
           <frames>

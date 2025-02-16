@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgkanX2" itemID="5a3b4479-00000444" linkageExportForAS="true" linkageIdentifier="XG_kanx" linkageClassName="XG_kanx2" lastModified="1732836956" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgkanX2" itemID="5a3b4479-00000444" linkageExportForAS="true" linkageIdentifier="XG_kanx" linkageClassName="XG_kanx2" lastModified="1739710022" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="sgkanX2" currentFrame="16">
+    <DOMTimeline name="sgkanX2">
       <layers>
         <DOMLayer name="图层 2 复制" color="#9933CC" locked="true" autoNamed="false" visible="false" layerType="guide">
           <frames>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/qdjxgz2" itemID="5a3c761d-000008db" linkageExportForAS="true" linkageIdentifier="XG_qdjx" linkageClassName="XG_qdjx2" lastModified="1734710010">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/qdjxgz2" itemID="5a3c761d-000008db" linkageExportForAS="true" linkageIdentifier="XG_qdjx" linkageClassName="XG_qdjx2" lastModified="1739710014">
   <timeline>
-    <DOMTimeline name="qdjxgz2" currentFrame="1">
+    <DOMTimeline name="qdjxgz2">
       <layers>
         <DOMLayer name="图层 3" color="#FF800A">
           <frames>

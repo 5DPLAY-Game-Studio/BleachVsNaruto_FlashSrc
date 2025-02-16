@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/fzbsxg" itemID="4eae4872-00000581" linkageExportForAS="true" linkageIdentifier="XG_fzbs" linkageClassName="XG_fzbs" lastModified="1530632483">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/fzbsxg" itemID="4eae4872-00000581" linkageExportForAS="true" linkageIdentifier="XG_fzbs" linkageClassName="XG_fzbs" lastModified="1739709994">
   <timeline>
-    <DOMTimeline name="fzbsxg" currentFrame="9">
+    <DOMTimeline name="fzbsxg">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>

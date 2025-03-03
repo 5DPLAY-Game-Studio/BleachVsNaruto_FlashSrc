@@ -1,0 +1,130 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/mfdjxgz" itemID="46b69b02-000003f3" linkageExportForAS="true" linkageIdentifier="XG_mfdjx" linkageClassName="XG_mfdjx" lastModified="1741006123" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="mfdjxgz" currentFrame="16">
+      <layers>
+        <DOMLayer name="图层 4 复制" color="#FF4FFF" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 25" selected="true" symbolType="graphic" centerPoint3DX="-2.25" centerPoint3DY="-1.85" loop="play once">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="-100.25" ty="-99.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="140" y="140"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125" redOffset="-82" blueOffset="255" greenOffset="110"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="16" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 25" symbolType="graphic" firstFrame="1" centerPoint3DX="-2.25" centerPoint3DY="-1.85" loop="play once">
+                  <matrix>
+                    <Matrix a="0.892990112304688" d="0.892990112304688" tx="-127.25" ty="-126.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="140" y="140"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375" redOffset="-255" blueOffset="255" greenOffset="50"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法打击X/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-100" ty="-100"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法打击X/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-127" ty="-127"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法打击X/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-127" ty="-127"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法打击X/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-127" ty="-127"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法打击X/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-127" ty="-127"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法打击X/Bitmap 6">
+                  <matrix>
+                    <Matrix tx="-127" ty="-127"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法打击X/Bitmap 7">
+                  <matrix>
+                    <Matrix tx="-127" ty="-127"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法打击X/Bitmap 8">
+                  <matrix>
+                    <Matrix tx="-127" ty="-127"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="8704">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法打击X/Bitmap 9">
+                  <matrix>
+                    <Matrix tx="-127" ty="-127"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

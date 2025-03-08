@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="SuMo_IH_12836.png">
+                <DOMBitmapInstance libraryItemName="SuMo_IH/SuMo_IH_12836.png">
                   <matrix>
                     <Matrix tx="-124.2" ty="-135.15"/>
                   </matrix>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="SuMo_IH_12865.png">
+                <DOMBitmapInstance libraryItemName="SuMo_IH/SuMo_IH_12865.png">
                   <matrix>
                     <Matrix tx="-124.2" ty="-135.15"/>
                   </matrix>
@@ -24,7 +24,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="SuMo_IH_12894.png">
+                <DOMBitmapInstance libraryItemName="SuMo_IH/SuMo_IH_12894.png">
                   <matrix>
                     <Matrix tx="-137.2" ty="-135.15"/>
                   </matrix>
@@ -33,7 +33,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="SuMo_IH_12923.png">
+                <DOMBitmapInstance libraryItemName="SuMo_IH/SuMo_IH_12923.png">
                   <matrix>
                     <Matrix tx="-137.2" ty="-135.15"/>
                   </matrix>

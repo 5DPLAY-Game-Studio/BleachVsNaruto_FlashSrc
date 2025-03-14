@@ -1,12 +1,13 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#009900" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="11" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="F0329E0EBE3B574388D233DD525A8F48">
      <symbols>
           <Include href="模板.xml" loadImmediate="false" itemID="67ac6f9f-00000241" lastModified="1739356279"/>
+          <Include href="效果_震动.xml" itemID="67d37d61-0000024f" lastModified="1741913478"/>
           <Include href="效果_闪光.xml" itemID="67ac879b-0000024c" lastModified="1739360328"/>
      </symbols>
      <timelines>
           <DOMTimeline name="场景 1">
                <layers>
-                    <DOMLayer name="图层_2" color="#9933CC" current="true" isSelected="true" layerType="guide">
+                    <DOMLayer name="文本" color="#9933CC" autoNamed="false" layerType="guide">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -41,11 +42,42 @@
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="116" height="13.45">
+                                             <matrix>
+                                                  <Matrix tx="122" ty="2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>震动</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="图层_1" color="#00FFFF" layerType="guide">
+                    <DOMLayer name="组件" color="#00FFFF" current="true" isSelected="true" autoNamed="false" layerType="guide">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -58,6 +90,21 @@
                                              </transformationPoint>
                                              <parametersAsXML><![CDATA[   <property id="color">
       <Inspectable name="color" variable="color" category="" verbose="0" defaultValue="#ffffff" type="Color"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果_震动" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="120" ty="17.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="60" y="17.45"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="powX">
+      <Inspectable name="powX" variable="powX" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="powY">
+      <Inspectable name="powY" variable="powY" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
 ]]></parametersAsXML>
                                         </DOMComponentInstance>

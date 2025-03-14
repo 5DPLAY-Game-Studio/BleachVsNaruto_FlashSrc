@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/mffyxgx" itemID="523eed57-000008bd" linkageExportForAS="true" linkageIdentifier="XG_mffyx" linkageClassName="XG_mffyx" lastModified="1741915028">
+  <timeline>
+    <DOMTimeline name="mffyxgx" currentFrame="10">
+      <layers>
+        <DOMLayer name="图层 3 复制" color="#FFFF4F" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 64" selected="true" symbolType="graphic" centerPoint3DX="-55.65" centerPoint3DY="-2.5" loop="play once">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="-165" ty="-106.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="184.95" y="120"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法防御X/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-165" ty="-107"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法防御X/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-165" ty="-107"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法防御X/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-165" ty="-107"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法防御X/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-165" ty="-107"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_魔法防御X/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-165" ty="-107"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

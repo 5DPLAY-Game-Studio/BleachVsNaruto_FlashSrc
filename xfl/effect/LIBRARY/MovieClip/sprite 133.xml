@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/sprite 133" itemID="53c8a400-00000085" lastModified="1513835465">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/sprite 133" itemID="53c8a400-00000085" lastModified="1741943665">
   <timeline>
     <DOMTimeline name="sprite 133" currentFrame="14">
       <layers>
@@ -67,10 +67,7 @@
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="14" name="stop" labelType="name" motionTweenScale="false" keyMode="8192">
-              <Actionscript>
-                <script><![CDATA[stop();]]></script>
-              </Actionscript>
+            <DOMFrame index="14" motionTweenScale="false" keyMode="8192">
               <elements/>
             </DOMFrame>
           </frames>

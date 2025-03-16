@@ -6,27 +6,27 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_a06_02.png"/>
+                <DOMBitmapInstance libraryItemName="effect_a06/effect_a06_02.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="1" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_a06_03.png"/>
+                <DOMBitmapInstance libraryItemName="effect_a06/effect_a06_03.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="3" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_a06_04.png"/>
+                <DOMBitmapInstance libraryItemName="effect_a06/effect_a06_04.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="5" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_a06_05.png"/>
+                <DOMBitmapInstance libraryItemName="effect_a06/effect_a06_05.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="7" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_a06_06.png"/>
+                <DOMBitmapInstance libraryItemName="effect_a06/effect_a06_06.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="9" keyMode="9728">

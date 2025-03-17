@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="bishafacebg/bishafacebg_0000.png">
+                <DOMBitmapInstance libraryItemName="图片组/bishafacebg/bishafacebg_0000.png">
                   <matrix>
                     <Matrix a="2" d="2"/>
                   </matrix>
@@ -18,7 +18,7 @@
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="bishafacebg/bishafacebg_0001.png">
+                <DOMBitmapInstance libraryItemName="图片组/bishafacebg/bishafacebg_0001.png">
                   <matrix>
                     <Matrix a="2" d="2"/>
                   </matrix>
@@ -30,7 +30,7 @@
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="bishafacebg/bishafacebg_0002.png">
+                <DOMBitmapInstance libraryItemName="图片组/bishafacebg/bishafacebg_0002.png">
                   <matrix>
                     <Matrix a="2" d="2"/>
                   </matrix>
@@ -42,7 +42,7 @@
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="bishafacebg/bishafacebg_0003.png">
+                <DOMBitmapInstance libraryItemName="图片组/bishafacebg/bishafacebg_0003.png">
                   <matrix>
                     <Matrix a="2" d="2"/>
                   </matrix>
@@ -54,7 +54,7 @@
             </DOMFrame>
             <DOMFrame index="4" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="bishafacebg/bishafacebg_0004.png">
+                <DOMBitmapInstance libraryItemName="图片组/bishafacebg/bishafacebg_0004.png">
                   <matrix>
                     <Matrix a="2" d="2"/>
                   </matrix>

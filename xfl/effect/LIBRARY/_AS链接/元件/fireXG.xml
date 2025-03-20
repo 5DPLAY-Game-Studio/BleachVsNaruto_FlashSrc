@@ -1,0 +1,133 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/fireXG" itemID="5216d69b-00001cb1" linkageExportForAS="true" linkageIdentifier="XG_fire" linkageClassName="XG_fire" lastModified="1742485855">
+  <timeline>
+    <DOMTimeline name="fireXG" currentFrame="8">
+      <layers>
+        <DOMLayer name="图层 5 复制" color="#4FFFFF" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 29" selected="true" symbolType="graphic" centerPoint3DX="4" centerPoint3DY="-4.8" loop="play once">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-96" ty="-77"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-106" ty="-111"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-88" ty="-90"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-94" ty="-95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-93" ty="-104"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 6">
+                  <matrix>
+                    <Matrix tx="-89" ty="-110"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 7">
+                  <matrix>
+                    <Matrix tx="-77" ty="-106"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 8">
+                  <matrix>
+                    <Matrix tx="-75" ty="-72"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 9">
+                  <matrix>
+                    <Matrix tx="-74" ty="-55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 10">
+                  <matrix>
+                    <Matrix tx="-56" ty="-48"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_火焰/Bitmap 11">
+                  <matrix>
+                    <Matrix tx="-16" ty="-17"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

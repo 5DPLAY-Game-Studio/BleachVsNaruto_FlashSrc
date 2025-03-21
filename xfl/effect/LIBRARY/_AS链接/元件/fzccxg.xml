@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="dead/dead01.png">
+                <DOMBitmapInstance libraryItemName="图片组/dead/dead01.png">
                   <matrix>
                     <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
                   </matrix>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="dead/dead02.png">
+                <DOMBitmapInstance libraryItemName="图片组/dead/dead02.png">
                   <matrix>
                     <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
                   </matrix>
@@ -24,7 +24,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="dead/dead03.png">
+                <DOMBitmapInstance libraryItemName="图片组/dead/dead03.png">
                   <matrix>
                     <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
                   </matrix>
@@ -33,7 +33,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="dead/dead04.png">
+                <DOMBitmapInstance libraryItemName="图片组/dead/dead04.png">
                   <matrix>
                     <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
                   </matrix>
@@ -42,7 +42,7 @@
             </DOMFrame>
             <DOMFrame index="8" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="dead/dead05.png">
+                <DOMBitmapInstance libraryItemName="图片组/dead/dead05.png">
                   <matrix>
                     <Matrix a="0.245101928710938" d="0.245101928710938" tx="-40" ty="-62.7"/>
                   </matrix>

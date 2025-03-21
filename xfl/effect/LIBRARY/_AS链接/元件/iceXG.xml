@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/iceXG" itemID="5216d867-000026b6" linkageExportForAS="true" linkageIdentifier="XG_ice" linkageClassName="XG_ice" lastModified="1742516689">
+  <timeline>
+    <DOMTimeline name="iceXG" currentFrame="8">
+      <layers>
+        <DOMLayer name="图层 6 复制" color="#808080" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 60" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.615524291992188" d="0.615524291992188" tx="-100.35" ty="-85.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="162.45" y="147.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 6" color="#808080" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_冰冻/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-80" ty="-74"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_冰冻/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-98" ty="-83"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_冰冻/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-99" ty="-84"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_冰冻/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-99" ty="-84"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_冰冻/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-100" ty="-86"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

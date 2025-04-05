@@ -1,0 +1,103 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/dianXG_fy" itemID="5a3c7163-00000769" linkageExportForAS="true" linkageIdentifier="XG_fire" linkageClassName="XG_dian_fy" lastModified="1743875317">
+  <timeline>
+    <DOMTimeline name="dianXG_fy" currentFrame="13">
+      <layers>
+        <DOMLayer name="图层 2 复制" color="#9933CC" locked="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 57" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0" b="-0.80609130859375" c="0.80609130859375" d="0" tx="-183.2" ty="83.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="106.15" y="233.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_防御/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-73" ty="-88"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_防御/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-183" ty="-90"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_防御/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-190" ty="-79"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_防御/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-187" ty="-79"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_防御/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-190" ty="-77"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_防御/Bitmap 6">
+                  <matrix>
+                    <Matrix tx="-197" ty="-76"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_防御/Bitmap 7">
+                  <matrix>
+                    <Matrix tx="-197" ty="-64"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_防御/Bitmap 8">
+                  <matrix>
+                    <Matrix tx="-194" ty="-62"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

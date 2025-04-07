@@ -6,32 +6,32 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_d00/effect_d00_01.png"/>
+                <DOMBitmapInstance libraryItemName="图片组/effect_d00/effect_d00_01.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="1" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_d00/effect_d00_02.png"/>
+                <DOMBitmapInstance libraryItemName="图片组/effect_d00/effect_d00_02.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="3" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_d00/effect_d00_03.png"/>
+                <DOMBitmapInstance libraryItemName="图片组/effect_d00/effect_d00_03.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="5" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_d00/effect_d00_04.png"/>
+                <DOMBitmapInstance libraryItemName="图片组/effect_d00/effect_d00_04.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="7" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_d00/effect_d00_05.png"/>
+                <DOMBitmapInstance libraryItemName="图片组/effect_d00/effect_d00_05.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="9" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="effect_d00/effect_d00_06.png"/>
+                <DOMBitmapInstance libraryItemName="图片组/effect_d00/effect_d00_06.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="11" keyMode="9728">

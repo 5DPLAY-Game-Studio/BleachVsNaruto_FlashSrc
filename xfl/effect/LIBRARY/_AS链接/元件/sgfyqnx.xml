@@ -25,7 +25,7 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="_优化特效/效果_防御轻X/Bitmap 1">
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_元件_变更/效果_防御轻X/Bitmap 1">
                   <matrix>
                     <Matrix tx="-165" ty="-107"/>
                   </matrix>
@@ -34,7 +34,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="_优化特效/效果_防御轻X/Bitmap 2">
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_元件_变更/效果_防御轻X/Bitmap 2">
                   <matrix>
                     <Matrix tx="-165" ty="-107"/>
                   </matrix>
@@ -43,7 +43,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="_优化特效/效果_防御轻X/Bitmap 3">
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_元件_变更/效果_防御轻X/Bitmap 3">
                   <matrix>
                     <Matrix tx="-165" ty="-107"/>
                   </matrix>
@@ -52,7 +52,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="_优化特效/效果_防御轻X/Bitmap 4">
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_元件_变更/效果_防御轻X/Bitmap 4">
                   <matrix>
                     <Matrix tx="-165" ty="-107"/>
                   </matrix>
@@ -61,7 +61,7 @@
             </DOMFrame>
             <DOMFrame index="8" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="_优化特效/效果_防御轻X/Bitmap 5">
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_元件_变更/效果_防御轻X/Bitmap 5">
                   <matrix>
                     <Matrix tx="-165" ty="-107"/>
                   </matrix>

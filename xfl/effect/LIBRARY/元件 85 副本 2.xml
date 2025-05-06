@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 85 副本 2" itemID="5147c8c6-0000233b" lastModified="1530521318">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 85 副本 2" itemID="5147c8c6-0000233b" lastModified="1746549072">
   <timeline>
     <DOMTimeline name="元件 85 副本 2" currentFrame="7">
       <layers>
@@ -40,9 +40,6 @@
               </elements>
             </DOMFrame>
             <DOMFrame index="7" keyMode="9728">
-              <Actionscript>
-                <script><![CDATA[stop();]]></script>
-              </Actionscript>
               <elements/>
             </DOMFrame>
           </frames>

@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/特效-落地" itemID="5147c7a5-00001984" linkageExportForAS="true" linkageIdentifier="XG_luodi" linkageClassName="XG_luodi" lastModified="1746549123">
+  <timeline>
+    <DOMTimeline name="特效-落地" currentFrame="6">
+      <layers>
+        <DOMLayer name="图层 3 复制" color="#FFFF4F" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 85 副本 2" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.29425048828125" d="0.29425048828125" tx="-19.05" ty="-10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.55" y="36"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_落地/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-19" ty="-11"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_落地/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-19" ty="-11"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_落地/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-19" ty="-11"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_落地/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-19" ty="-11"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_落地/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-19" ty="-11"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_落地/Bitmap 6">
+                  <matrix>
+                    <Matrix tx="-19" ty="-11"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_落地/Bitmap 7">
+                  <matrix>
+                    <Matrix tx="-19" ty="-11"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,1 +1,4 @@
+# 忽略 Animate 输出文件
+
+*.swf
 *.swc

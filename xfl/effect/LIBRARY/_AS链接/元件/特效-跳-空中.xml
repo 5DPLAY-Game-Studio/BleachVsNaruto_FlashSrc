@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/特效-跳-空中" itemID="5938f5e3-00000b4d" linkageExportForAS="true" linkageIdentifier="XG_jump" linkageClassName="XG_jump_air" lastModified="1748829120">
+  <timeline>
+    <DOMTimeline name="特效-跳-空中" currentFrame="1">
+      <layers>
+        <DOMLayer name="图层 3 复制" color="#FFFF4F" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 19" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.43902587890625" d="0.43902587890625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_跳_空中/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-55" ty="-7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_跳_空中/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-55" ty="-7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_跳_空中/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-55" ty="-7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_跳_空中/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-55" ty="-7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_跳_空中/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-55" ty="-7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

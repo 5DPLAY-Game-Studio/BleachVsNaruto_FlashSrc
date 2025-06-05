@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/xg_hitfloor_low" itemID="5938f1ea-00000a0d" linkageExportForAS="true" linkageIdentifier="XG_hitfloor" linkageClassName="xg_hitfloor_low" lastModified="1530632568">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_hitfloor_low" itemID="5938f1ea-00000a0d" linkageExportForAS="true" linkageIdentifier="XG_hitfloor" linkageClassName="xg_hitfloor_low" lastModified="1530632568">
   <timeline>
-    <DOMTimeline name="xg_hitfloor_low" currentFrame="13">
+    <DOMTimeline name="xg_hitfloor_low">
       <layers>
         <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
           <frames>

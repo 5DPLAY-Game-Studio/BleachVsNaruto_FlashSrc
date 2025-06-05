@@ -75,7 +75,7 @@
             </DOMFrame>
             <DOMFrame index="7" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片S/位图 800.png">
+                <DOMBitmapInstance libraryItemName="位图/位图8/位图 800.png">
                   <matrix>
                     <Matrix tx="-32" ty="-45"/>
                   </matrix>
@@ -84,7 +84,7 @@
             </DOMFrame>
             <DOMFrame index="8" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片S/位图 801.png">
+                <DOMBitmapInstance libraryItemName="位图/位图8/位图 801.png">
                   <matrix>
                     <Matrix tx="-32" ty="-45"/>
                   </matrix>

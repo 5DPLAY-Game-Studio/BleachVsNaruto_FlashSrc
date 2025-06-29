@@ -1,0 +1,5 @@
+# XFL 目录忽略资源
+
+publishtemplates/
+*.fla
+SymDepend.cache

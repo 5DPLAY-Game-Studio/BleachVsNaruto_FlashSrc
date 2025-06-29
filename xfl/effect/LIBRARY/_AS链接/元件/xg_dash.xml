@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="20" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 5" selected="true" symbolType="graphic" loop="play once">
+                <DOMSymbolInstance libraryItemName="元件 5" symbolType="graphic" loop="play once">
                   <matrix>
                     <Matrix a="-0.271377563476563" d="0.271377563476563" tx="10.05" ty="10.15"/>
                   </matrix>

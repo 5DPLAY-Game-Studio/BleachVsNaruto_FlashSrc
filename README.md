@@ -11,7 +11,7 @@
 <img src = "https://img.shields.io/github/created-at/5DPLAY-Game-Studio/BleachVsNaruto_FlashSrc" />
 <img src = "https://img.shields.io/github/license/5DPLAY-Game-Studio/BleachVsNaruto_FlashSrc" />
 <br />
-<img src = "https://img.shields.io/github/languages/top/5DPLAY-Game-Studio/BleachVsNaruto_FlashSrc" />
+<!-- <img src = "https://img.shields.io/github/languages/top/5DPLAY-Game-Studio/BleachVsNaruto_FlashSrc" /> -->
 <img src = "https://img.shields.io/github/v/tag/5DPLAY-Game-Studio/BleachVsNaruto_FlashSrc" />
 <br />
 <strong>
@@ -22,9 +22,13 @@
 </strong>
 </p>
 
+## ⭐ 星标历史 <!-- omit in toc -->
+
+[![Star History Chart](https://api.star-history.com/svg?repos=5DPLAY-Game-Studio/BleachVsNaruto,5DPLAY-Game-Studio/BleachVsNaruto_FlashSrc&type=Date)](https://www.star-history.com/#5DPLAY-Game-Studio/BleachVsNaruto&5DPLAY-Game-Studio/BleachVsNaruto_FlashSrc&Date)
+
 # 死神vs火影 - Flash 源文件 <!-- omit in toc -->
 
-[中文版](README.md) | [English](README_en.md)
+<!-- 中文版(README.md) | [English](README_en.md) -->
 
 本仓库是工程 [BleachVsNaruto](https://github.com/5DPLAY-Game-Studio/BleachVsNaruto) 的子模块工程。
 
@@ -34,7 +38,6 @@
 
 - [工程状态](#工程状态)
 - [下载二进制](#下载二进制)
-- [更新日志](#更新日志)
 - [如何从源码构建](#如何从源码构建)
 - [工程结构](#工程结构)
 - [许可](#许可)
@@ -49,18 +52,14 @@
 
 目前工程尚不提供已编译完成的二进制，如果有需要，您应该手动在本地编译部署。
 
-## 更新日志
-
-有关本工程的详细更新日志，请参阅 [CHANGELOG.md](CHANGELOG.md) 文件。
-
 ## 如何从源码构建
 
 要想从源文件构建二进制，您应该阅读 [HOW2BUILD.md](HOW2BUILD.md) 文件作为参考依据。
 
 ## 工程结构
 
-- `fla` - 存放所有扩展名为 **.fla** 的 Flash 源文件
-- `xfl` - 存放所有扩展名为 **.xfl** 的 Flash 源文件
+- `SRC_FLA` - 存放所有扩展名为 **.fla** 的 Flash 源文件
+- `SRC_XFL` - 存放所有扩展名为 **.xfl** 的 Flash 源文件
 
 ## 许可
 
@@ -78,6 +77,6 @@
 
 ## 关注我们
 
-[![Twitter:5Dplay](https://img.shields.io/twitter/follow/5Dplay)](https://x.com/5DPLAY)
+[![Twitter:5Dplay](https://img.shields.io/twitter/follow/5Dplay)](https://x.com/5DPLAY) [![BiliBili:死神VS火影吧](https://badgen.net/badge/BiliBili/死神VS火影吧/)](https://space.bilibili.com/1340107883)
 
 [GPL-3.0]: https://www.gnu.org/licenses/gpl-3.0.html

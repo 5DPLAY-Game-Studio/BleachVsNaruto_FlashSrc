@@ -1,0 +1,177 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/刀光-一护必杀1" itemID="46a84a83-000002c0" symbolType="graphic" lastModified="1185798715">
+  <timeline>
+    <DOMTimeline name="刀光-一护必杀1">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="1.42002868652344" tx="41.35" ty="88.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="0.699554443359375" d="0.492645263671875" tx="73.65" ty="136.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="1.36344909667969" d="0.492645263671875" tx="31.3" ty="48.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="0.699554443359375" d="0.492645263671875" tx="47.85" ty="80.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="1.1075439453125" d="0.492645263671875" tx="24.8" ty="118.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="0.5408935546875" d="0.2406005859375" tx="30" ty="90.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="0.847381591796875" d="0.2406005859375" tx="11.45" ty="116.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="0.545639038085938" d="0.16046142578125" tx="3.25" ty="107.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3984375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="0.380050659179688" d="0.16046142578125" tx="-12.1" ty="94.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
+                  <matrix>
+                    <Matrix a="0.12176513671875" d="0.16046142578125" tx="1" ty="104.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-1" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.22872924804688" d="1.22872924804688" tx="71.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.95" y="75.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-1" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.00033569335938" d="1.00033569335938" tx="48.55" ty="17.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.9" y="75.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-1" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.693649291992188" d="0.693649291992188" tx="33.15" ty="41.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.1" y="75.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-1" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.43450927734375" d="0.43450927734375" tx="16.6" ty="63.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.95" y="75.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3984375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-1" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.240280151367188" d="0.240280151367188" ty="80.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.95" y="75.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

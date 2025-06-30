@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护万解全动作-AI" itemID="46cd4435-00000c10" lastModified="1319460467">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="一护万解全动作" itemID="46c911aa-00000605" lastModified="1319460467">
   <timeline>
-    <DOMTimeline name="一护万解全动作-AI">
+    <DOMTimeline name="一护万解全动作" currentFrame="45">
       <layers>
-        <DOMLayer name="AS" color="#FFFF4F" locked="true" autoNamed="false">
+        <DOMLayer name="AS" color="#FFFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <Actionscript>
@@ -19,6 +19,7 @@ var tdtime = 0;
 var bdzl = 0;
 var hited = 0;
 var 动作 = 0;
+var beida = 0;
 //动作:0=不防御不攻击,1=攻击,2=防御,3=必杀
 ]]></script>
               </Actionscript>
@@ -531,6 +532,7 @@ ql -= 300;
             <DOMFrame index="618" duration="35" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[_root.cbsw(pn);
+bs = 0;
 ]]></script>
               </Actionscript>
               <elements/>
@@ -542,45 +544,46 @@ ql -= 300;
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="689" duration="22" keyMode="9728">
+            <DOMFrame index="689" duration="12" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[gotoAndPlay("站立");
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="711" duration="3" keyMode="9728">
+            <DOMFrame index="701" duration="3" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[ql -= 100;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="714" duration="51" keyMode="9728">
+            <DOMFrame index="704" duration="31" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[_root.yfgj(_name);
+                <script><![CDATA[_root.yfgj(_parent._name);
 bs = 1;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="765" duration="7" keyMode="9728">
+            <DOMFrame index="735" duration="7" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[动作 = 2;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="772" duration="5" keyMode="9728">
+            <DOMFrame index="742" duration="5" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[gotoAndPlay("站立");
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="777" keyMode="9728">
+            <DOMFrame index="747" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[if (_root.game["p"+pn]._xscale<0) {
+                <script><![CDATA[//方向
+if (_root.game["p"+pn]._xscale<0) {
 	_parent._xscale = 100;
 } else {
 	_parent._xscale = -100;
@@ -596,29 +599,32 @@ if (_root.to == false) {
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="778" duration="7" keyMode="9728">
+            <DOMFrame index="748" duration="7" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[if (hp<=0) {
-	bdzl = 0;
-	sw = true;
-	_root.heimu.gotoAndPlay("DEAD");
-	_root.KO.play();
-	gotoAndPlay("击飞");
+	if (_root.modo<>4) {
+		bdzl = 0;
+		sw = true;
+		_root.heimu.gotoAndPlay("DEAD");
+		_root.KO.play();
+		gotoAndPlay("击飞");
+	}
 }
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="785" duration="3" keyMode="9728">
+            <DOMFrame index="755" duration="3" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[gotoAndPlay("站立");
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="788" keyMode="9728">
+            <DOMFrame index="758" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[动作 = 0;
+beida = 1;
 jump = 1;
 hited = 1;
 jumped = 0;
@@ -628,7 +634,7 @@ play();
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="789" keyMode="9728">
+            <DOMFrame index="759" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[if (_root.game["p"+pn]._xscale<0) {
 	_parent._xscale = 100;
@@ -653,27 +659,29 @@ time = 0;
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="790" duration="4" keyMode="9728">
+            <DOMFrame index="760" duration="4" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[if (hp<=0) {
-	bdzl = 0;
-	sw = true;
-	_root.heimu.gotoAndPlay("DEAD");
-	_root.KO.play();
-	gotoAndPlay("击飞");
+	if (_root.modo<>4) {
+		bdzl = 0;
+		sw = true;
+		_root.heimu.gotoAndPlay("DEAD");
+		_root.KO.play();
+		gotoAndPlay("击飞");
+	}
 }
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="794" duration="4" keyMode="9728">
+            <DOMFrame index="764" duration="4" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop()
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="798" duration="3" keyMode="9728">
+            <DOMFrame index="768" duration="3" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[jump = 0;
 jumped = 1;
@@ -683,7 +691,7 @@ gotoAndPlay("站立");
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="801" keyMode="9728">
+            <DOMFrame index="771" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[hited = 0;
 clearInterval(tdint);
@@ -692,7 +700,7 @@ play();
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="802" keyMode="9728">
+            <DOMFrame index="772" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[if (hits>1) {
 	_root["p"+pn+"hits"].gotoAndPlay("连击");
@@ -711,26 +719,29 @@ if (_root.to == false) {
 	}
 }
 动作 = 0;
+beida = 1;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="803" duration="3" keyMode="9728">
+            <DOMFrame index="773" duration="3" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[if (hp<=0) {
-	bdzl = 0;
-	sw = true;
-	_root.heimu.gotoAndPlay("DEAD");
-	_root.KO.play();
+	if (_root.modo<>4) {
+		bdzl = 0;
+		sw = true;
+		_root.heimu.gotoAndPlay("DEAD");
+		_root.KO.play();
+	}
 }
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="806" duration="5" keyMode="9728">
+            <DOMFrame index="776" duration="5" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="811" duration="2" keyMode="9728">
+            <DOMFrame index="781" duration="2" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[if (touch == 0) {
 	gotoAndPlay("击飞2");
@@ -743,34 +754,34 @@ if (n>=2) {
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="813" keyMode="9728">
+            <DOMFrame index="783" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="814" keyMode="9728">
+            <DOMFrame index="784" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[_root._y -= 2;
+                <script><![CDATA[_root._y -= 4;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="815" keyMode="9728">
+            <DOMFrame index="785" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[_root._y += 2;
+                <script><![CDATA[_root._y += 4;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="816" keyMode="9728">
+            <DOMFrame index="786" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[_root._y = 0;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="817" duration="10" keyMode="9728">
+            <DOMFrame index="787" duration="10" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="827" duration="12" keyMode="9728">
+            <DOMFrame index="797" duration="12" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[if (sw == true) {
 	stop();
@@ -779,45 +790,55 @@ if (n>=2) {
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="839" duration="10" keyMode="9728">
+            <DOMFrame index="809" duration="10" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[gotoAndPlay("站立");
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="849" keyMode="9728">
+            <DOMFrame index="819" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="850" duration="10" keyMode="9728">
+            <DOMFrame index="820" duration="10" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[_root._y = 0;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="860" duration="14" keyMode="9728">
+            <DOMFrame index="830" duration="14" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[gotoAndPlay("站立");
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="874" duration="2" keyMode="9728">
+            <DOMFrame index="844" duration="2" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[kcplayed = 1;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="876" duration="55" keyMode="9728">
+            <DOMFrame index="846" duration="44" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[kcplayed = 3;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="931" duration="41" keyMode="9728">
+            <DOMFrame index="890" duration="11" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[if (_parent.万解 == true) {
+	_root.cbsw(pn);
+	bs = 0;
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="901" duration="41" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[kcplayed = 2;
 gotoAndPlay("站立");
@@ -825,14 +846,17 @@ gotoAndPlay("站立");
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="972" duration="41" keyMode="9728">
+            <DOMFrame index="942" duration="18" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop();
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="1013" duration="38" keyMode="9728">
+            <DOMFrame index="960" duration="26" name="失败" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="986" duration="5" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop();
 ]]></script>
@@ -922,62 +946,59 @@ gotoAndPlay("站立");
             <DOMFrame index="499" duration="95" name="上必杀" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="594" duration="115" name="超必杀" labelType="name" keyMode="9728">
+            <DOMFrame index="594" duration="105" name="超必杀" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="709" duration="30" name="招换" labelType="name" keyMode="9728">
+            <DOMFrame index="699" duration="30" name="招换" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="739" duration="25" keyMode="9728">
+            <DOMFrame index="729" duration="5" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[gotoAndPlay("站立");
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="764" name="防御" labelType="name" keyMode="9728">
+            <DOMFrame index="734" name="防御" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="765" duration="11" name="防御2" labelType="name" keyMode="9728">
+            <DOMFrame index="735" duration="11" name="防御2" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="776" duration="12" name="防住" labelType="name" keyMode="9728">
+            <DOMFrame index="746" duration="12" name="防住" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="788" duration="13" name="被打" labelType="name" keyMode="9728">
+            <DOMFrame index="758" duration="13" name="被打" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="801" duration="5" name="击飞" labelType="name" keyMode="9728">
+            <DOMFrame index="771" duration="5" name="击飞" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="806" duration="7" name="击飞2" labelType="name" keyMode="9728">
+            <DOMFrame index="776" duration="7" name="击飞2" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="813" duration="36" name="击落地" labelType="name" keyMode="9728">
+            <DOMFrame index="783" duration="36" name="击落地" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="849" duration="24" name="起身" labelType="name" keyMode="9728">
+            <DOMFrame index="819" duration="24" name="起身" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="873" duration="77" name="开场" labelType="name" keyMode="9728">
+            <DOMFrame index="843" duration="77" name="开场" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="950" duration="40" name="胜利" labelType="name" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="990" duration="61" name="失败" labelType="name" keyMode="9728">
+            <DOMFrame index="920" duration="71" name="胜利" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="人物全" color="#4F80FF" locked="true" autoNamed="false" layerType="folder"/>
-        <DOMLayer name="控制" color="#FF4FFF" parentLayerIndex="2" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="控制" color="#FF4FFF" parentLayerIndex="2" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="8" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
                   <matrix>
-                    <Matrix tx="-26.85" ty="27.65"/>
+                    <Matrix tx="-26.85" ty="37.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="23" y="9"/>
@@ -1095,17 +1116,6 @@ gotoAndPlay("站立");
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
                   <matrix>
                     <Matrix tx="-26.85" ty="27.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="23" y="9"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
-                  <matrix>
-                    <Matrix tx="-16.85" ty="37.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="23" y="9"/>
@@ -1452,14 +1462,14 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="623" duration="142" keyMode="9728">
+            <DOMFrame index="623" duration="112" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[_root._y = 0;
 ]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="765" duration="7" keyMode="9728">
+            <DOMFrame index="735" duration="7" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
                   <matrix>
@@ -1474,10 +1484,10 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="772" duration="4" keyMode="9728">
+            <DOMFrame index="742" duration="4" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="776" duration="5" keyMode="9728">
+            <DOMFrame index="746" duration="5" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
                   <matrix>
@@ -1492,7 +1502,7 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="781" duration="7" keyMode="9728">
+            <DOMFrame index="751" duration="7" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
                   <matrix>
@@ -1507,10 +1517,25 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="788" keyMode="9728">
+            <DOMFrame index="758" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
+                  <matrix>
+                    <Matrix tx="-26.85" ty="27.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="768" duration="3" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="789" duration="9" keyMode="9728">
+            <DOMFrame index="771" duration="12" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
                   <matrix>
@@ -1525,25 +1550,7 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="798" duration="6" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="804" duration="9" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
-                  <matrix>
-                    <Matrix tx="-26.85" ty="27.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="23" y="9"/>
-                  </transformationPoint>
-                  <color>
-                    <Color alphaMultiplier="0"/>
-                  </color>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="813" duration="4" keyMode="9728">
+            <DOMFrame index="783" duration="4" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
                   <matrix>
@@ -1558,13 +1565,13 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="817" duration="32" keyMode="9728">
+            <DOMFrame index="787" duration="32" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="849" duration="2" keyMode="9728">
+            <DOMFrame index="819" duration="2" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="851" duration="8" keyMode="9728">
+            <DOMFrame index="821" duration="8" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/角色控制">
                   <matrix>
@@ -1579,15 +1586,15 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="859" keyMode="9728">
+            <DOMFrame index="829" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="860" duration="13" keyMode="9728">
+            <DOMFrame index="830" duration="13" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="873" duration="26" keyMode="9728">
+            <DOMFrame index="843" duration="26" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/大地震" selected="true">
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/大地震">
                   <matrix>
                     <Matrix tx="-17.7" ty="27.35"/>
                   </matrix>
@@ -1600,7 +1607,7 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="899" duration="152" keyMode="9728">
+            <DOMFrame index="869" duration="122" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[_root._y = 0;
 ]]></script>
@@ -1615,7 +1622,7 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.40399169921875" d="1.10406494140625" tx="-13.25" ty="-20.8"/>
+                    <Matrix a="0.411102294921875" d="1.10406494140625" tx="-13.25" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.5" y="0.35"/>
@@ -1630,7 +1637,7 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.418777465820312" d="1.10406494140625" tx="-18.25" ty="-20.8"/>
+                    <Matrix a="0.41143798828125" d="1.10406494140625" tx="-13.75" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.6" y="0.35"/>
@@ -1645,10 +1652,10 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-19.25" ty="-20.8"/>
+                    <Matrix a="0.3887939453125" d="1.10406494140625" tx="-12.3" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.55" y="0.3"/>
+                    <Point x="-0.5" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -1657,10 +1664,10 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.433441162109375" d="1.10406494140625" tx="-6.75" ty="-20.8"/>
+                    <Matrix a="0.380828857421875" d="1.10406494140625" tx="-5.8" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.6" y="0.35"/>
+                    <Point x="-0.55" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -1669,10 +1676,10 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-14.75" ty="-20.8"/>
+                    <Matrix a="0.373519897460938" d="1.10406494140625" tx="-10.8" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.55" y="0.3"/>
+                    <Point x="-0.55" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -1681,22 +1688,46 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-13.25" ty="-20.8"/>
+                    <Matrix a="0.373519897460938" d="1.10406494140625" tx="-10.8" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.55" y="0.3"/>
+                    <Point x="-0.55" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="199" duration="115" keyMode="9728">
+            <DOMFrame index="199" duration="10" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-14.25" ty="-20.8"/>
+                    <Matrix a="0.396163940429688" d="1.10406494140625" tx="-18.3" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.55" y="0.3"/>
+                    <Point x="-0.5" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="209" duration="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.3809814453125" d="1.10406494140625" tx="-3.8" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="234" duration="80" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.3809814453125" d="1.10406494140625" tx="-8.8" ty="-20.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -1708,10 +1739,10 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-5.25" ty="-20.8"/>
+                    <Matrix a="0.373519897460938" d="1.10406494140625" tx="-6.3" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.55" y="0.3"/>
+                    <Point x="-0.55" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -1720,7 +1751,7 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-9.25" ty="-20.8"/>
+                    <Matrix a="0.4637451171875" d="1.10406494140625" tx="-8.25" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.3"/>
@@ -1735,10 +1766,10 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.388504028320312" d="1.10406494140625" tx="-8.3" ty="-20.8"/>
+                    <Matrix a="0.373519897460938" d="1.10406494140625" tx="-8.3" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.5" y="0.35"/>
+                    <Point x="-0.55" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -1747,10 +1778,10 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-21.75" ty="-20.8"/>
+                    <Matrix a="0.336029052734375" d="1.10406494140625" tx="-14.8" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.55" y="0.3"/>
+                    <Point x="-0.6" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -1758,14 +1789,26 @@ gotoAndPlay("站立");
             <DOMFrame index="435" duration="15" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="450" duration="49" keyMode="9728">
+            <DOMFrame index="450" duration="8" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.10406494140625" tx="-22.75" ty="-20.8"/>
+                    <Matrix a="0.4637451171875" d="1.10406494140625" tx="-20.25" ty="-20.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="458" duration="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.4637451171875" d="1.029296875" tx="-21.75" ty="-19.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="0.4"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -1774,7 +1817,7 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.029296875" tx="-15.75" ty="-19.25"/>
+                    <Matrix a="0.4637451171875" d="1.029296875" tx="-16.75" ty="-19.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.4"/>
@@ -1789,10 +1832,10 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.418777465820312" d="1.029296875" tx="-10.75" ty="-19.25"/>
+                    <Matrix a="0.4637451171875" d="1.029296875" tx="-11.75" ty="-19.25"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.6" y="0.4"/>
+                    <Point x="-0.55" y="0.4"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -1800,11 +1843,35 @@ gotoAndPlay("站立");
             <DOMFrame index="596" duration="23" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="619" duration="90" keyMode="9728">
+            <DOMFrame index="619" duration="80" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.463760375976562" d="1.029296875" tx="-6.75" ty="-19.25"/>
+                    <Matrix a="0.426132202148438" d="1.029296875" tx="-9.25" ty="-19.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="699" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.335845947265625" d="1.029296875" tx="-9.3" ty="-19.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="709" duration="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
+                  <matrix>
+                    <Matrix a="0.3585205078125" d="1.029296875" tx="-21.3" ty="-19.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.4"/>
@@ -1812,50 +1879,26 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="709" duration="11" keyMode="9728">
+            <DOMFrame index="735" duration="11" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.351058959960938" d="1.029296875" tx="-10.8" ty="-19.25"/>
+                    <Matrix a="0.35882568359375" d="1.29103088378906" tx="-13.25" ty="-29.35"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.55" y="0.4"/>
+                    <Point x="-0.4" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="720" duration="45" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
-                  <matrix>
-                    <Matrix a="0.351058959960938" d="1.029296875" tx="-21.8" ty="-19.25"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-0.55" y="0.4"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="765" duration="11" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
-                  <matrix>
-                    <Matrix a="0.30596923828125" d="1.29104614257812" tx="-8.35" ty="-29.35"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="-0.5" y="0.35"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="776" duration="3" keyMode="9728">
+            <DOMFrame index="746" duration="3" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="779" duration="7" keyMode="9728">
+            <DOMFrame index="749" duration="7" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.373519897460938" d="1.29104614257812" tx="-9.3" ty="-29.35"/>
+                    <Matrix a="0.366119384765625" d="1.29103088378906" tx="-13.3" ty="-29.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.35"/>
@@ -1863,14 +1906,14 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="786" duration="5" keyMode="9728">
+            <DOMFrame index="756" duration="5" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="791" duration="10" keyMode="9728">
+            <DOMFrame index="761" duration="10" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.373748779296875" d="1.29104614257812" tx="-11.25" ty="-29.35"/>
+                    <Matrix a="0.358642578125" d="1.29103088378906" tx="-13.3" ty="-29.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.35"/>
@@ -1878,16 +1921,16 @@ gotoAndPlay("站立");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="801" duration="12" keyMode="9728">
+            <DOMFrame index="771" duration="12" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="813" duration="36" keyMode="9728">
+            <DOMFrame index="783" duration="36" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="849" duration="24" keyMode="9728">
+            <DOMFrame index="819" duration="24" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="873" duration="178" keyMode="9728">
+            <DOMFrame index="843" duration="148" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
@@ -1919,7 +1962,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" loop="play once">
                   <matrix>
-                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="-20.1" ty="21.3"/>
+                    <Matrix a="0.160308837890625" b="-0.59625244140625" c="0.59625244140625" d="0.160308837890625" tx="-20.1" ty="21.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1934,7 +1977,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="1" loop="play once">
                   <matrix>
-                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="-11.1" ty="12.3"/>
+                    <Matrix a="0.160308837890625" b="-0.59625244140625" c="0.59625244140625" d="0.160308837890625" tx="-11.1" ty="12.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1949,7 +1992,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="2" loop="play once">
                   <matrix>
-                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="-2.1" ty="3.3"/>
+                    <Matrix a="0.160308837890625" b="-0.59625244140625" c="0.59625244140625" d="0.160308837890625" tx="-2.1" ty="3.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1964,7 +2007,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="3" loop="play once">
                   <matrix>
-                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="6.9" ty="-5.7"/>
+                    <Matrix a="0.160308837890625" b="-0.59625244140625" c="0.59625244140625" d="0.160308837890625" tx="6.9" ty="-5.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1979,7 +2022,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="4" loop="play once">
                   <matrix>
-                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="15.9" ty="-14.7"/>
+                    <Matrix a="0.160308837890625" b="-0.59625244140625" c="0.59625244140625" d="0.160308837890625" tx="15.9" ty="-14.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1994,7 +2037,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="5" loop="play once">
                   <matrix>
-                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="24.9" ty="-23.7"/>
+                    <Matrix a="0.160308837890625" b="-0.59625244140625" c="0.59625244140625" d="0.160308837890625" tx="24.9" ty="-23.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -2009,7 +2052,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="效果/一护万解-招3效果" symbolType="graphic" firstFrame="6" loop="play once">
                   <matrix>
-                    <Matrix a="0.160308837890625" b="-0.596267700195312" c="0.596267700195312" d="0.160308837890625" tx="33.9" ty="-32.7"/>
+                    <Matrix a="0.160308837890625" b="-0.59625244140625" c="0.59625244140625" d="0.160308837890625" tx="33.9" ty="-32.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -2152,10 +2195,10 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="613" duration="163" keyMode="9728">
+            <DOMFrame index="613" duration="133" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="776" duration="2" keyMode="9728">
+            <DOMFrame index="746" duration="2" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/被打防御效果">
                   <matrix>
@@ -2170,10 +2213,10 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="778" duration="11" keyMode="9728">
+            <DOMFrame index="748" duration="11" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="789" duration="2" keyMode="9728">
+            <DOMFrame index="759" duration="2" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/被打效果">
                   <matrix>
@@ -2188,10 +2231,10 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="791" duration="11" keyMode="9728">
+            <DOMFrame index="761" duration="11" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="802" duration="2" keyMode="9728">
+            <DOMFrame index="772" duration="2" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/被打效果">
                   <matrix>
@@ -2206,20 +2249,17 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="804" duration="2" keyMode="9728">
+            <DOMFrame index="774" duration="2" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="806" duration="43" keyMode="9728">
+            <DOMFrame index="776" duration="67" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="849" duration="24" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="873" duration="28" tweenType="motion" keyMode="17921">
+            <DOMFrame index="843" duration="28" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMSymbolInstance libraryItemName="图片S/8350629_39090.gif 拷贝">
                   <matrix>
-                    <Matrix a="0" b="-2.04510498046875" c="2.12344360351562" d="0" tx="-67.6" ty="29.35"/>
+                    <Matrix a="0" b="-2.04510498046875" c="2.12342834472656" d="0" tx="-67.6" ty="29.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-1.85" y="32.9"/>
@@ -2227,11 +2267,11 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="901" keyMode="9728">
+            <DOMFrame index="871" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="图片S/8350629_39090.gif 拷贝">
                   <matrix>
-                    <Matrix a="0" b="-0.0266571044921875" c="2.12344360351562" d="0" tx="-67.6" ty="33.1"/>
+                    <Matrix a="0" b="-0.0266571044921875" c="2.12342834472656" d="0" tx="-67.6" ty="33.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-1.9" y="32.9"/>
@@ -2239,7 +2279,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="902" duration="149" keyMode="9728">
+            <DOMFrame index="872" duration="119" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
@@ -2277,7 +2317,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tkatm">
                   <matrix>
-                    <Matrix a="0.72564697265625" d="1.03701782226562" tx="-51.75" ty="-7.55"/>
+                    <Matrix a="0.72564697265625" d="1.03700256347656" tx="-51.75" ty="-7.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.35" y="0.1"/>
@@ -2319,7 +2359,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k1atm">
                   <matrix>
-                    <Matrix a="0.839004516601562" d="0.585067749023438" tx="-6.65" ty="-7.85"/>
+                    <Matrix a="0.8389892578125" d="0.585067749023438" tx="-6.65" ty="-7.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.35" y="0.1"/>
@@ -2334,7 +2374,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k2atm">
                   <matrix>
-                    <Matrix a="1.01211547851562" d="1.58523559570312" tx="4.95" ty="-48.4"/>
+                    <Matrix a="1.01210021972656" d="1.58522033691406" tx="4.95" ty="-48.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.4" y="0.05"/>
@@ -2346,7 +2386,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k2atm">
                   <matrix>
-                    <Matrix a="1.094482421875" d="1.58523559570312" tx="2" ty="-38.4"/>
+                    <Matrix a="1.094482421875" d="1.58522033691406" tx="2" ty="-38.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.4" y="0.05"/>
@@ -2361,7 +2401,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
                   <matrix>
-                    <Matrix a="0.492095947265625" b="0.498077392578125" c="-1.29600524902344" d="1.28042602539062" tx="33.35" ty="-49.8"/>
+                    <Matrix a="0.492095947265625" b="0.498077392578125" c="-1.29600524902344" d="1.28041076660156" tx="33.35" ty="-49.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="33.3" y="41.4"/>
@@ -2397,7 +2437,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
                   <matrix>
-                    <Matrix a="0.492095947265625" b="0.498077392578125" c="-1.2177734375" d="1.20315551757812" tx="60.65" ty="-79.6"/>
+                    <Matrix a="0.492095947265625" b="0.498077392578125" c="-1.2177734375" d="1.20314025878906" tx="60.65" ty="-79.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="33.55" y="41.35"/>
@@ -2448,7 +2488,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1atm">
                   <matrix>
-                    <Matrix a="3.91299438476562" d="0.644729614257812" tx="6.9" ty="1.05"/>
+                    <Matrix a="3.91297912597656" d="0.64471435546875" tx="6.9" ty="1.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.25"/>
@@ -2460,7 +2500,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1atm">
                   <matrix>
-                    <Matrix a="2.06510925292969" d="0.644729614257812" tx="129.85" ty="1.05"/>
+                    <Matrix a="2.06510925292969" d="0.64471435546875" tx="129.85" ty="1.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.5" y="0.25"/>
@@ -2472,7 +2512,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1atm">
                   <matrix>
-                    <Matrix a="1.76409912109375" d="0.644729614257812" tx="155.15" ty="1.05"/>
+                    <Matrix a="1.76409912109375" d="0.64471435546875" tx="155.15" ty="1.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.25"/>
@@ -2544,7 +2584,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh1atm">
                   <matrix>
-                    <Matrix a="1.15420532226562" d="2.101318359375" tx="-21.95" ty="-62"/>
+                    <Matrix a="1.15419006347656" d="2.101318359375" tx="-21.95" ty="-62"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.65" y="0.2"/>
@@ -2559,7 +2599,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
                   <matrix>
-                    <Matrix a="0.704238891601562" d="3.41461181640625" tx="-16.25" ty="-62.35"/>
+                    <Matrix a="0.7042236328125" d="3.41461181640625" tx="-16.25" ty="-62.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.2"/>
@@ -2571,7 +2611,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
                   <matrix>
-                    <Matrix a="0.704238891601562" d="3.41461181640625" tx="-16.25" ty="-55.35"/>
+                    <Matrix a="0.7042236328125" d="3.41461181640625" tx="-16.25" ty="-55.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.2"/>
@@ -2583,7 +2623,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2atm">
                   <matrix>
-                    <Matrix a="0.704238891601562" d="3.41461181640625" tx="-16.25" ty="-51.35"/>
+                    <Matrix a="0.7042236328125" d="3.41461181640625" tx="-16.25" ty="-51.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.2"/>
@@ -2886,7 +2926,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="sbsatm">
                   <matrix>
-                    <Matrix a="0" b="-2.98709106445312" c="4.64903259277344" d="0" tx="-88.05" ty="107.35"/>
+                    <Matrix a="0" b="-2.98707580566406" c="4.64903259277344" d="0" tx="-88.05" ty="107.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="66.05" y="0.1"/>
@@ -3072,7 +3112,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
                   <matrix>
-                    <Matrix a="0" b="-3.48588562011719" c="6.00137329101562" d="0" tx="342.85" ty="86.35"/>
+                    <Matrix a="0" b="-3.48588562011719" c="6.00135803222656" d="0" tx="342.85" ty="86.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="32.7" y="40.6"/>
@@ -3084,7 +3124,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
                   <matrix>
-                    <Matrix a="0" b="-3.48588562011719" c="6.00137329101562" d="0" tx="346.85" ty="86.35"/>
+                    <Matrix a="0" b="-3.48588562011719" c="6.00135803222656" d="0" tx="346.85" ty="86.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="32.7" y="40.6"/>
@@ -3108,7 +3148,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
                   <matrix>
-                    <Matrix a="0" b="-3.48588562011719" c="5.58633422851562" d="0" tx="383.7" ty="86.35"/>
+                    <Matrix a="0" b="-3.48588562011719" c="5.58631896972656" d="0" tx="383.7" ty="86.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="32.7" y="40.6"/>
@@ -3120,7 +3160,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
                   <matrix>
-                    <Matrix a="0" b="-3.48588562011719" c="5.58633422851562" d="0" tx="396.7" ty="86.35"/>
+                    <Matrix a="0" b="-3.48588562011719" c="5.58631896972656" d="0" tx="396.7" ty="86.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="32.7" y="40.6"/>
@@ -3168,7 +3208,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
                   <matrix>
-                    <Matrix a="0" b="-3.48588562011719" c="4.32620239257812" d="0" tx="493.85" ty="86.35"/>
+                    <Matrix a="0" b="-3.48588562011719" c="4.32618713378906" d="0" tx="493.85" ty="86.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="32.7" y="40.6"/>
@@ -3180,7 +3220,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
                   <matrix>
-                    <Matrix a="0" b="-3.48588562011719" c="4.32620239257812" d="0" tx="509.85" ty="86.35"/>
+                    <Matrix a="0" b="-3.48588562011719" c="4.32618713378906" d="0" tx="509.85" ty="86.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="32.7" y="40.6"/>
@@ -3192,7 +3232,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
                   <matrix>
-                    <Matrix a="0" b="-3.48588562011719" c="4.32620239257812" d="0" tx="521.85" ty="86.35"/>
+                    <Matrix a="0" b="-3.48588562011719" c="4.32618713378906" d="0" tx="521.85" ty="86.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="32.7" y="40.6"/>
@@ -3264,7 +3304,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
                   <matrix>
-                    <Matrix a="0" b="-3.48588562011719" c="2.55081176757812" d="0" tx="700.95" ty="86.35"/>
+                    <Matrix a="0" b="-3.48588562011719" c="2.55079650878906" d="0" tx="700.95" ty="86.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="32.7" y="40.6"/>
@@ -3272,24 +3312,24 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="653" duration="153" keyMode="9728">
+            <DOMFrame index="653" duration="123" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="806" duration="7" keyMode="9728">
+            <DOMFrame index="776" duration="7" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="813" duration="36" keyMode="9728">
+            <DOMFrame index="783" duration="36" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="849" duration="24" keyMode="9728">
+            <DOMFrame index="819" duration="24" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="873" duration="178" keyMode="9728">
+            <DOMFrame index="843" duration="148" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="人物" color="#4FFF4F" parentLayerIndex="2" locked="true" autoNamed="false">
+        <DOMLayer name="人物" color="#4FFF4F" parentLayerIndex="2" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="9" keyMode="9728">
               <elements>
@@ -3392,7 +3432,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
             </DOMFrame>
             <DOMFrame index="55" duration="16" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="一护万解-落">
+                <DOMSymbolInstance libraryItemName="一护万解-落" selected="true">
                   <matrix>
                     <Matrix tx="-34" ty="-82"/>
                   </matrix>
@@ -3642,7 +3682,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="594" duration="115" keyMode="9728">
+            <DOMFrame index="594" duration="105" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-超必杀" symbolType="graphic" loop="play once">
                   <matrix>
@@ -3654,7 +3694,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="709" duration="55" keyMode="9728">
+            <DOMFrame index="699" duration="35" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-胜利" symbolType="graphic" loop="play once">
                   <matrix>
@@ -3666,7 +3706,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="764" duration="12" keyMode="9728">
+            <DOMFrame index="734" duration="12" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-防御" symbolType="graphic" loop="play once">
                   <matrix>
@@ -3678,11 +3718,11 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="776" keyMode="9728">
+            <DOMFrame index="746" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-防御" symbolType="graphic" firstFrame="2" loop="play once">
                   <matrix>
-                    <Matrix tx="-32" ty="-32.65"/>
+                    <Matrix tx="-30" ty="-32.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -3690,7 +3730,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="777" duration="11" keyMode="9728">
+            <DOMFrame index="747" duration="11" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-防御" symbolType="graphic" firstFrame="3" loop="single frame">
                   <matrix>
@@ -3702,7 +3742,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="788" duration="13" keyMode="9728">
+            <DOMFrame index="758" duration="13" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-被打" symbolType="graphic" loop="play once">
                   <matrix>
@@ -3714,7 +3754,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="801" duration="5" keyMode="9728">
+            <DOMFrame index="771" duration="5" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-击飞" symbolType="graphic" loop="play once">
                   <matrix>
@@ -3726,7 +3766,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="806" duration="7" keyMode="9728">
+            <DOMFrame index="776" duration="7" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-击飞" symbolType="graphic" loop="play once">
                   <matrix>
@@ -3738,7 +3778,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="813" duration="36" keyMode="9728">
+            <DOMFrame index="783" duration="36" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-击飞" symbolType="graphic" firstFrame="10" loop="play once">
                   <matrix>
@@ -3750,7 +3790,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="849" duration="24" keyMode="9728">
+            <DOMFrame index="819" duration="24" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="元件 251" symbolType="graphic" loop="loop">
                   <matrix>
@@ -3762,7 +3802,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="873" duration="77" keyMode="9728">
+            <DOMFrame index="843" duration="77" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-胜利循环">
                   <matrix>
@@ -3774,7 +3814,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="950" duration="22" keyMode="9728">
+            <DOMFrame index="920" duration="22" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-胜利" symbolType="graphic" loop="play once">
                   <matrix>
@@ -3786,7 +3826,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="972" duration="18" keyMode="9728">
+            <DOMFrame index="942" duration="18" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-胜利循环">
                   <matrix>
@@ -3798,7 +3838,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="990" duration="61" keyMode="9728">
+            <DOMFrame index="960" duration="31" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="一护万解-失败" symbolType="graphic" loop="play once">
                   <matrix>
@@ -3814,14 +3854,14 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
         </DOMLayer>
         <DOMLayer name="背后特效" color="#FFFF4F" parentLayerIndex="2" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="813" keyMode="9728">
+            <DOMFrame index="0" duration="783" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="813" duration="10" keyMode="9728">
+            <DOMFrame index="783" duration="10" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="图片S/12127943_45651.gif 拷贝" symbolType="graphic" loop="play once">
                   <matrix>
-                    <Matrix tx="-83.15" ty="13.85"/>
+                    <Matrix tx="-68.15" ty="13.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -3829,24 +3869,24 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="823" duration="26" keyMode="9728">
+            <DOMFrame index="793" duration="26" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="849" duration="24" keyMode="9728">
+            <DOMFrame index="819" duration="24" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="873" duration="178" keyMode="9728">
+            <DOMFrame index="843" duration="148" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="脚" color="#4FFFFF" parentLayerIndex="2" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="849" keyMode="9728">
+            <DOMFrame index="0" duration="819" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="虚拟脚" name="jiao">
                   <matrix>
-                    <Matrix a="0.417572021484375" d="0.880615234375" tx="-7.35" ty="10.1"/>
+                    <Matrix a="0.417572021484375" d="0.880615234375" tx="-7.85" ty="10.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="22.75" y="8.2"/>
@@ -3857,7 +3897,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="849" duration="202" keyMode="9728">
+            <DOMFrame index="819" duration="172" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="虚拟脚" name="jiao">
                   <matrix>
@@ -3880,7 +3920,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3892,7 +3932,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3900,11 +3940,11 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="594" duration="115" keyMode="9728">
+            <DOMFrame index="594" duration="182" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3912,11 +3952,11 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="709" duration="97" keyMode="9728">
+            <DOMFrame index="776" duration="7" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3924,11 +3964,11 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="806" duration="7" keyMode="9728">
+            <DOMFrame index="783" duration="36" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3936,11 +3976,11 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="813" duration="36" keyMode="9728">
+            <DOMFrame index="819" duration="24" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3948,23 +3988,11 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="849" duration="24" keyMode="9728">
+            <DOMFrame index="843" duration="148" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-0.1"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="873" duration="178" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
-                  <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -4006,28 +4034,28 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
             <DOMFrame index="499" duration="14" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="513" duration="85" keyMode="9728">
+            <DOMFrame index="513" duration="87" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="598" duration="204" keyMode="9728">
+            <DOMFrame index="600" duration="172" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="802" duration="11" keyMode="9728">
+            <DOMFrame index="772" duration="11" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="813" duration="36" keyMode="9728">
+            <DOMFrame index="783" duration="36" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="849" duration="24" keyMode="9728">
+            <DOMFrame index="819" duration="24" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="873" duration="26" keyMode="9728">
+            <DOMFrame index="843" duration="26" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="899" duration="56" keyMode="9728">
+            <DOMFrame index="869" duration="56" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="955" duration="96" keyMode="9728">
+            <DOMFrame index="925" duration="66" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
@@ -4196,326 +4224,32 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               </SoundEnvelope>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="623" duration="191" keyMode="9728" soundName="鬼道1.mp3" inPoint44="2800" outPoint44="25382" soundZoomLevel="2">
+            <DOMFrame index="623" duration="161" keyMode="9728" soundName="鬼道1.mp3" inPoint44="2800" outPoint44="25382" soundZoomLevel="2">
               <SoundEnvelope>
                 <SoundEnvelopePoint level0="32768" level1="32768"/>
               </SoundEnvelope>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="814" duration="35" keyMode="9728" soundEffect="custom" soundName="sound90.mp3" inPoint44="2010" outPoint44="49536" soundZoomLevel="3">
+            <DOMFrame index="784" duration="35" keyMode="9728" soundEffect="custom" soundName="sound90.mp3" inPoint44="2010" outPoint44="49536" soundZoomLevel="3">
               <SoundEnvelope>
                 <SoundEnvelopePoint mark44="200" level0="27159" level1="26569"/>
               </SoundEnvelope>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="849" duration="10" keyMode="9728" soundEffect="custom" soundName="sound12.mp3" inPoint44="6900" outPoint44="32256" soundZoomLevel="2">
+            <DOMFrame index="819" duration="10" keyMode="9728" soundEffect="custom" soundName="sound12.mp3" inPoint44="6900" outPoint44="32256" soundZoomLevel="2">
               <SoundEnvelope>
                 <SoundEnvelopePoint level0="13284" level1="12989"/>
               </SoundEnvelope>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="859" duration="14" keyMode="9728" soundEffect="custom" soundName="sound89.mp3" inPoint44="2100" outPoint44="11500" soundZoomLevel="2">
+            <DOMFrame index="829" duration="14" keyMode="9728" soundEffect="custom" soundName="sound89.mp3" inPoint44="2100" outPoint44="11500" soundZoomLevel="2">
               <SoundEnvelope>
                 <SoundEnvelopePoint level0="21255" level1="21845"/>
               </SoundEnvelope>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="873" duration="178" keyMode="9728">
+            <DOMFrame index="843" duration="148" keyMode="9728">
               <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="AI面" color="#808080" locked="true" autoNamed="false" open="false" layerType="folder"/>
-        <DOMLayer name="tankmian" color="#4F80FF" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="41" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="42" duration="692" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tkanmian">
-                  <matrix>
-                    <Matrix a="1.42851257324219" d="2.16075134277344" tx="-43.95" ty="-57.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="66.5" y="41.6"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="tzmian" color="#FF4F4F" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="41" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="42" duration="692" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tzmian">
-                  <matrix>
-                    <Matrix a="1.08154296875" b="0.0152435302734375" c="-0.0799407958984375" d="5.676513671875" tx="-25.7" ty="-27.75"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="31.3" y="0.65"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="kanmian" color="#4FFF4F" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="174" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kanmian">
-                  <matrix>
-                    <Matrix a="0.929718017578125" tx="-9.25" ty="-14.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.3" y="1.25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="175" duration="17" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kanmian">
-                  <matrix>
-                    <Matrix a="1.29583740234375" tx="-9.4" ty="-14.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.3" y="1.25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="192" duration="70" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kanmian">
-                  <matrix>
-                    <Matrix a="1.70713806152344" b="-1.37652587890625" c="0.733123779296875" d="0.909194946289062" tx="-8.5" ty="-7.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.3" y="1.1"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="262" duration="472" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kanmian">
-                  <matrix>
-                    <Matrix a="0.929718017578125" tx="-9.25" ty="-14.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.3" y="1.25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="kj1mian" color="#9933CC" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="669" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1mian">
-                  <matrix>
-                    <Matrix a="3.71832275390625" d="0.784774780273438" tx="8.85" ty="-8.25"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.35" y="1.25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="670" duration="11" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj1mian">
-                  <matrix>
-                    <Matrix a="1.5389404296875" d="1.90446472167969" tx="23.65" ty="-54.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.4" y="1.25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="681" duration="53" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="kj2mian" color="#FFFF4F" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="680" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="kj2mian">
-                  <matrix>
-                    <Matrix a="2.1915283203125" d="5.5806884765625" tx="-75.75" ty="-206.3"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.35" y="1.3"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="681" duration="53" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="zh1mian" color="#FF4FFF" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="680" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh1mian">
-                  <matrix>
-                    <Matrix a="8.72918701171875" d="2.38754272460938" tx="48.95" ty="-55.3"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.25" y="1.35"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="681" duration="53" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="zh2mian" color="#4FFFFF" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="669" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2mian">
-                  <matrix>
-                    <Matrix a="0.469070434570312" d="3.8919677734375" tx="-9.6" ty="-37.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.1" y="1.3"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="670" duration="11" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2mian">
-                  <matrix>
-                    <Matrix a="0.469070434570312" d="4.63006591796875" tx="-9.6" ty="-55.15"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.1" y="1.3"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="681" duration="53" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="zh3mian" color="#808080" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="680" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh3mian">
-                  <matrix>
-                    <Matrix a="2.19430541992188" b="-2.3466796875" c="1.14111328125" d="1.06704711914062" tx="-26.3" ty="-23.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.25" y="1.45"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="681" duration="53" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="bsmian" color="#4F80FF" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="680" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bsmian">
-                  <matrix>
-                    <Matrix a="7.21246337890625" b="-0.001190185546875" c="0.000579833984375" d="3.72738647460938" tx="6.9" ty="-90.8"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.2" y="1.35"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="681" duration="53" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="sbsmian" color="#FF4F4F" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="733" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="sbsmian">
-                  <matrix>
-                    <Matrix a="-0.0006561279296875" b="-4.04539489746094" c="6.63932800292969" d="-0.00103759765625" tx="-58.85" ty="51.1"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.2" y="1.4"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="cbsmian" color="#4FFF4F" parentLayerIndex="13" locked="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="1" duration="733" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsmian">
-                  <matrix>
-                    <Matrix a="12.4193725585938" b="-0.0020599365234375" c="0.000579833984375" d="3.72738647460938" tx="5.7" ty="-102.8"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="0.2" y="1.4"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>

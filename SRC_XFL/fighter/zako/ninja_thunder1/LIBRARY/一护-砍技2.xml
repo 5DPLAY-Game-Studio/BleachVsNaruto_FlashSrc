@@ -11,7 +11,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="效果/效果1/元件 16" symbolType="graphic" loop="play once">
                   <matrix>
-                    <Matrix a="0.707107543945312" b="-0.707107543945312" c="0.707107543945312" d="0.707107543945312" tx="36.45" ty="7.95"/>
+                    <Matrix a="0.70709228515625" b="-0.70709228515625" c="0.70709228515625" d="0.70709228515625" tx="36.45" ty="7.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="71.5" y="73.05"/>

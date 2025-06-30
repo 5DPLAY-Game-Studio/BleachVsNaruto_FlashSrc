@@ -1,0 +1,143 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Fireworks 对象/元件 279" itemID="4801b74d-00000594" lastModified="1208705517">
+  <timeline>
+    <DOMTimeline name="元件 279">
+      <layers>
+        <DOMLayer name="层 1" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="0.9066162109375" b="0.418975830078125" c="-0.418975830078125" d="0.9066162109375" tx="6.1" ty="-3.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="0.646453857421875" b="0.760833740234375" c="-0.760833740234375" d="0.646453857421875" tx="13.05" ty="-4.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="0.267318725585938" b="0.96270751953125" c="-0.96270751953125" d="0.267318725585938" tx="19.6" ty="-1.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="-0.1610107421875" b="0.986419677734375" c="-0.986419677734375" d="-0.1610107421875" tx="24.6" ty="3.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="-0.5596923828125" b="0.82684326171875" c="-0.82684326171875" d="-0.5596923828125" tx="27.05" ty="9.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="-0.855392456054688" b="0.515167236328125" c="-0.515167236328125" d="-0.855392456054688" tx="26.6" ty="16.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="-0.99407958984375" b="0.10540771484375" c="-0.10540771484375" d="-0.99407958984375" tx="23.2" ty="22.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="-0.947113037109375" b="-0.31781005859375" c="0.31781005859375" d="-0.947113037109375" tx="17.6" ty="26.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="-0.72552490234375" b="-0.685821533203125" c="0.685821533203125" d="-0.72552490234375" tx="10.75" ty="28.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="-0.367416381835938" b="-0.9288330078125" c="0.9288330078125" d="-0.367416381835938" tx="3.9" ty="26.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="0.0527801513671875" b="-0.9984130859375" c="0.9984130859375" d="0.0527801513671875" tx="-1.6" ty="22.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="0.46630859375" b="-0.883087158203125" c="0.883087158203125" d="0.46630859375" tx="-4.75" ty="16.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="0.7960205078125" b="-0.6026611328125" c="0.6026611328125" d="0.7960205078125" tx="-5" ty="9.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="位图 913">
+                  <matrix>
+                    <Matrix a="0.97637939453125" b="-0.212875366210938" c="0.212875366210938" d="0.97637939453125" tx="-2.3" ty="2.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

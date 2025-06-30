@@ -1610,7 +1610,7 @@ gotoAndPlay("站立");
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="bdmn">
                   <matrix>
-                    <Matrix a="0.296112060546875" d="0.919021606445312" tx="-2.25" ty="-14.25"/>
+                    <Matrix a="0.296112060546875" d="0.91900634765625" tx="-2.25" ty="-14.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.7" y="0.35"/>
@@ -1668,7 +1668,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="元件 286" symbolType="graphic" loop="play once">
                   <matrix>
-                    <Matrix a="1.12698364257812" d="1.12698364257812" tx="-52.3" ty="-87.25"/>
+                    <Matrix a="1.12696838378906" d="1.12696838378906" tx="-52.3" ty="-87.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="77" y="86.95"/>
@@ -1944,7 +1944,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k2atm">
                   <matrix>
-                    <Matrix a="1.03178405761719" d="1.67202758789062" tx="-12.55" ty="-59.5"/>
+                    <Matrix a="1.03178405761719" d="1.67201232910156" tx="-12.55" ty="-59.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.4" y="0.1"/>
@@ -1959,7 +1959,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
                   <matrix>
-                    <Matrix a="0.667007446289062" d="0.899002075195312" tx="24.65" ty="-18.4"/>
+                    <Matrix a="0.6669921875" d="0.89898681640625" tx="24.65" ty="-18.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.65" y="0.1"/>
@@ -1974,7 +1974,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="k3atm">
                   <matrix>
-                    <Matrix a="0.667007446289062" d="0.899002075195312" tx="24.65" ty="-18.4"/>
+                    <Matrix a="0.6669921875" d="0.89898681640625" tx="24.65" ty="-18.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.65" y="0.1"/>
@@ -2070,7 +2070,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh1atm">
                   <matrix>
-                    <Matrix a="0.787490844726562" d="2.12942504882812" tx="-53.9" ty="10.5"/>
+                    <Matrix a="0.7874755859375" d="2.12940979003906" tx="-53.9" ty="10.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.15" y="40.2"/>
@@ -2082,7 +2082,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh1atm">
                   <matrix>
-                    <Matrix a="0.627700805664062" d="1.14358520507812" tx="-77.8" ty="-20.85"/>
+                    <Matrix a="0.627685546875" d="1.14356994628906" tx="-77.8" ty="-20.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.1" y="40.25"/>
@@ -2112,7 +2112,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh3atm">
                   <matrix>
-                    <Matrix a="2.14102172851562" d="0.872177124023438" tx="14.45" ty="-5.35"/>
+                    <Matrix a="2.14100646972656" d="0.872177124023438" tx="14.45" ty="-5.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.4" y="39.8"/>
@@ -2229,7 +2229,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="sbsatm">
                   <matrix>
-                    <Matrix a="0" b="-1.86270141601562" c="1.02806091308594" d="0" tx="16" ty="8.95"/>
+                    <Matrix a="0" b="-1.86268615722656" c="1.02806091308594" d="0" tx="16" ty="8.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.5" y="1.35"/>
@@ -2241,7 +2241,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="sbsatm">
                   <matrix>
-                    <Matrix a="0" b="-2.01541137695312" c="1.02806091308594" d="0" tx="16" ty="9.05"/>
+                    <Matrix a="0" b="-2.01539611816406" c="1.02806091308594" d="0" tx="16" ty="9.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.5" y="1.4"/>
@@ -2265,7 +2265,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="sbsatm">
                   <matrix>
-                    <Matrix a="0" b="-2.44400024414062" c="1.02806091308594" d="0" tx="16" ty="9.25"/>
+                    <Matrix a="0" b="-2.44398498535156" c="1.02806091308594" d="0" tx="16" ty="9.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.5" y="1.4"/>
@@ -2535,7 +2535,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="cbsatm">
                   <matrix>
-                    <Matrix a="0" b="-0.496795654296875" c="7.31362915039062" d="0" tx="-5.55" ty="23.05"/>
+                    <Matrix a="0" b="-0.496795654296875" c="7.31361389160156" d="0" tx="-5.55" ty="23.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.2" y="0.25"/>
@@ -3268,7 +3268,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-5.35"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-5.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3280,7 +3280,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3292,7 +3292,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3304,7 +3304,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3316,7 +3316,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3328,7 +3328,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="mian">
                   <matrix>
-                    <Matrix a="0.5916748046875" d="0.497512817382812" tx="-21.75" ty="-22.85"/>
+                    <Matrix a="0.5916748046875" d="0.49749755859375" tx="-21.75" ty="-22.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.1"/>
@@ -3373,7 +3373,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="tzmian">
                   <matrix>
-                    <Matrix a="0.764373779296875" b="-0.592849731445312" c="1.85673522949219" d="2.3939208984375" tx="-9.4" ty="25.35"/>
+                    <Matrix a="0.764373779296875" b="-0.59283447265625" c="1.85673522949219" d="2.3939208984375" tx="-9.4" ty="25.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.35" y="1.2"/>
@@ -3528,7 +3528,7 @@ _root.game["xgch"+_root.loop].gotoAndStop(2);
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh2mian">
                   <matrix>
-                    <Matrix a="0.469070434570312" d="4.63006591796875" tx="-9.6" ty="-55.15"/>
+                    <Matrix a="0.46905517578125" d="4.63006591796875" tx="-9.6" ty="-55.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.1" y="1.3"/>

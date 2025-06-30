@@ -54,7 +54,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
                   <matrix>
-                    <Matrix a="0.540908813476562" d="0.2406005859375" tx="30" ty="90.85"/>
+                    <Matrix a="0.5408935546875" d="0.2406005859375" tx="30" ty="90.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -98,7 +98,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="效果/刀光-一护必杀-效果">
                   <matrix>
-                    <Matrix a="0.121780395507812" d="0.16046142578125" tx="1" ty="104.25"/>
+                    <Matrix a="0.12176513671875" d="0.16046142578125" tx="1" ty="104.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

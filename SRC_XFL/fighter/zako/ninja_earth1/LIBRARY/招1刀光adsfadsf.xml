@@ -21,7 +21,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="220222面" name="main" centerPoint3DX="7.3" centerPoint3DY="10.2">
                   <matrix>
-                    <Matrix a="0.630630493164062" d="0.534194946289062" tx="-7.9" ty="-12"/>
+                    <Matrix a="0.630615234375" d="0.5341796875" tx="-7.9" ty="-12"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.55" y="0.3"/>

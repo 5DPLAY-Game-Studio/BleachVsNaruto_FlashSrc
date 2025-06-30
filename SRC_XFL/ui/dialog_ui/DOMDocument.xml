@@ -1,0 +1,168 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000099" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="D6D3054E400DD347A57747238C879395">
+     <media>
+          <DOMBitmapItem name="111.png" itemID="5f37e350-0000007d" sourceExternalFilepath="./LIBRARY/111.png" sourceLastImported="1597495556" externalFileCRC32="2334387214" externalFileSize="9163" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="111.png" bitmapDataHRef="M 12 1597498192.dat" frameRight="1920" frameBottom="1040"/>
+          <DOMBitmapItem name="222.png" itemID="5f37e350-00000079" sourceExternalFilepath="./LIBRARY/222.png" sourceLastImported="1597495571" externalFileCRC32="2985262705" externalFileSize="8591" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="222.png" bitmapDataHRef="M 11 1597498192.dat" frameRight="1820" frameBottom="1060"/>
+          <DOMBitmapItem name="backbtn.png" itemID="5f37e32e-00000070" sourceExternalFilepath="./LIBRARY/backbtn.png" sourceLastImported="1751278847" externalFileCRC32="222552786" externalFileSize="7616" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="backbtn.png" bitmapDataHRef="M 10 1597498158.dat" frameRight="1020" frameBottom="1040"/>
+          <DOMBitmapItem name="bg2222.png" itemID="60f7b27d-000001a2" sourceExternalFilepath="./LIBRARY/bg2222.png" sourceLastImported="1751278847" externalFileCRC32="347003438" externalFileSize="3929" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bg2222.png" bitmapDataHRef="M 29 1626845821.dat" frameRight="8100" frameBottom="7540"/>
+          <DOMBitmapItem name="bigface_1.png" itemID="5f37e263-00000049" sourceExternalFilepath="./LIBRARY/bigface_1.png" sourceLastImported="1751278847" externalFileCRC32="1263280398" externalFileSize="18830" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="bigface_1.png" bitmapDataHRef="M 8 1597497955.dat" frameRight="5300" frameBottom="5260"/>
+          <DOMBitmapItem name="bigface_2.png" itemID="5f37e263-0000004d" sourceExternalFilepath="./LIBRARY/bigface_2.png" sourceLastImported="1751278847" externalFileCRC32="199698268" externalFileSize="4194" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bigface_2.png" bitmapDataHRef="M 9 1597497955.dat" frameRight="4300" frameBottom="1240"/>
+          <DOMBitmapItem name="bigface_3.png" itemID="5f37e263-00000045" sourceExternalFilepath="./LIBRARY/bigface_3.png" sourceLastImported="1751278848" externalFileCRC32="2999938888" externalFileSize="23160" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="bigface_3.png" bitmapDataHRef="M 7 1597497955.dat" frameRight="5380" frameBottom="5380"/>
+          <DOMBitmapItem name="bigface_star.png" itemID="5f37e51c-000000ce" sourceExternalFilepath="./LIBRARY/bigface_star.png" sourceLastImported="1751278848" externalFileCRC32="1677779062" externalFileSize="3112" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bigface_star.png" bitmapDataHRef="M 20 1597498652.dat" frameRight="520" frameBottom="500"/>
+          <DOMBitmapItem name="black.png" itemID="5f436412-00000078" sourceExternalFilepath="./LIBRARY/black.png" sourceLastImported="1751278848" externalFileCRC32="3115279593" externalFileSize="3469" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="black.png" bitmapDataHRef="M 26 1598252050.dat" frameRight="9180" frameBottom="4080"/>
+          <DOMBitmapItem name="buybtn.png" itemID="5f37e4e2-000000bd" sourceExternalFilepath="./LIBRARY/buybtn.png" sourceLastImported="1751278848" externalFileCRC32="952498358" externalFileSize="12196" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="buybtn.png" bitmapDataHRef="M 17 1597498594.dat" frameRight="1840" frameBottom="1900"/>
+          <DOMBitmapItem name="byakuya_b.png" itemID="5f436cb4-0000008b" sourceExternalFilepath="./LIBRARY/byakuya_b.png" sourceLastImported="1751278848" externalFileCRC32="373358552" externalFileSize="4739" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="byakuya_b.png" bitmapDataHRef="M 27 1598254260.dat" frameRight="4900" frameBottom="1240"/>
+          <DOMBitmapItem name="circle1.png" itemID="60f7b30f-000001ae" sourceExternalFilepath="./LIBRARY/circle1.png" sourceLastImported="1751278848" externalFileCRC32="1332340267" externalFileSize="3326" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="circle1.png" bitmapDataHRef="M 32 1626845967.dat" frameRight="520" frameBottom="520"/>
+          <DOMBitmapItem name="circle2.png" itemID="60f7b30f-000001aa" sourceExternalFilepath="./LIBRARY/circle2.png" sourceLastImported="1751278848" externalFileCRC32="2720293102" externalFileSize="2997" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="circle2.png" bitmapDataHRef="M 31 1626845967.dat" frameRight="200" frameBottom="200"/>
+          <DOMBitmapItem name="coin_ico.png" itemID="5f37e509-000000ca" sourceExternalFilepath="./LIBRARY/coin_ico.png" sourceLastImported="1751278848" externalFileCRC32="1171301272" externalFileSize="5146" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="coin_ico.png" bitmapDataHRef="M 19 1597498633.dat" frameRight="560" frameBottom="600"/>
+          <DOMBitmapItem name="Coins.png" itemID="5f37e506-000000c6" sourceExternalFilepath="./LIBRARY/Coins.png" sourceLastImported="1751278848" externalFileCRC32="3247912532" externalFileSize="8650" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Coins.png" bitmapDataHRef="M 18 1597498630.dat" frameRight="2940" frameBottom="880"/>
+          <DOMBitmapItem name="confrim-dialog1.png" itemID="5f436412-0000006c" sourceExternalFilepath="./LIBRARY/confrim-dialog1.png" sourceLastImported="1751278848" externalFileCRC32="2500811930" externalFileSize="7828" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="confrim-dialog1.png" bitmapDataHRef="M 23 1598252050.dat" frameRight="9900" frameBottom="6380"/>
+          <DOMBitmapItem name="dialogbg.png" itemID="5f37e16f-00000028" sourceExternalFilepath="./LIBRARY/dialogbg.png" sourceLastImported="1751278848" externalFileCRC32="3391737952" externalFileSize="9435" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="dialogbg.png" bitmapDataHRef="M 2 1597497711.dat" frameRight="14820" frameBottom="9560"/>
+          <DOMBitmapItem name="dialogbg0.png" itemID="5f37e178-00000030" sourceExternalFilepath="./LIBRARY/dialogbg0.png" sourceLastImported="1751278848" externalFileCRC32="3377738951" externalFileSize="2940" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="dialogbg0.png" bitmapDataHRef="M 4 1597497720.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="dialogbg1.png" itemID="5f37e16f-0000002c" sourceExternalFilepath="./LIBRARY/dialogbg1.png" sourceLastImported="1751278848" externalFileCRC32="3581040680" externalFileSize="21090" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="dialogbg1.png" bitmapDataHRef="M 3 1597497711.dat" frameRight="14820" frameBottom="9560"/>
+          <DOMBitmapItem name="dialogbg2.png" itemID="5f37e16f-00000024" sourceExternalFilepath="./LIBRARY/dialogbg2.png" sourceLastImported="1751278848" externalFileCRC32="1525002527" externalFileSize="10355" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="dialogbg2.png" bitmapDataHRef="M 1 1597497711.dat" frameRight="14820" frameBottom="9560"/>
+          <DOMBitmapItem name="facek.png" itemID="5f435fce-0000002a" sourceExternalFilepath="./LIBRARY/facek.png" sourceLastImported="1751278848" externalFileCRC32="2873157574" externalFileSize="3148" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="facek.png" bitmapDataHRef="M 22 1598250958.dat" frameRight="1160" frameBottom="1120"/>
+          <DOMBitmapItem name="ffk.png" itemID="5f37e627-000000f8" sourceExternalFilepath="./LIBRARY/ffk.png" sourceLastImported="1751278848" externalFileCRC32="1562794688" externalFileSize="4253" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="ffk.png" bitmapDataHRef="M 22 1597498919.dat" frameRight="1340" frameBottom="1360"/>
+          <DOMBitmapItem name="fighterbox.png" itemID="60f7b290-000001a6" sourceExternalFilepath="./LIBRARY/fighterbox.png" sourceLastImported="1751278848" externalFileCRC32="1067840251" externalFileSize="41610" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fighterbox.png" bitmapDataHRef="M 30 1626845840.dat" frameRight="6920" frameBottom="8400"/>
+          <DOMBitmapItem name="formbg.png" itemID="60f7b251-0000019e" sourceExternalFilepath="./LIBRARY/formbg.png" sourceLastImported="1751278848" externalFileCRC32="938181516" externalFileSize="13220" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="formbg.png" bitmapDataHRef="M 28 1626845777.dat" frameRight="14820" frameBottom="9560"/>
+          <DOMBitmapItem name="leaderbtn.png" itemID="5f37e35f-00000081" sourceExternalFilepath="./LIBRARY/leaderbtn.png" sourceLastImported="1751278848" externalFileCRC32="3512987007" externalFileSize="11862" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="leaderbtn.png" bitmapDataHRef="M 13 1597498207.dat" frameRight="1840" frameBottom="1900"/>
+          <DOMBitmapItem name="leaderhead.png" itemID="5f37e536-000000d2" sourceExternalFilepath="./LIBRARY/leaderhead.png" sourceLastImported="1751278848" externalFileCRC32="3443526066" externalFileSize="3928" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="leaderhead.png" bitmapDataHRef="M 21 1597498678.dat" frameRight="2800" frameBottom="460"/>
+          <DOMBitmapItem name="okbtn.png" itemID="5f436412-00000070" sourceExternalFilepath="./LIBRARY/okbtn.png" sourceLastImported="1751278848" externalFileCRC32="982184411" externalFileSize="14410" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="okbtn.png" bitmapDataHRef="M 24 1598252050.dat" frameRight="2180" frameBottom="2240"/>
+          <DOMBitmapItem name="qibar.png" itemID="5f37e388-00000093" sourceExternalFilepath="./LIBRARY/qibar.png" sourceLastImported="1751278848" externalFileCRC32="3759352872" externalFileSize="2867" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="qibar.png" bitmapDataHRef="M 15 1597498248.dat" frameRight="5800" frameBottom="100"/>
+          <DOMBitmapItem name="refreshbtn.png" itemID="5f37e35f-00000085" sourceExternalFilepath="./LIBRARY/refreshbtn.png" sourceLastImported="1751278848" externalFileCRC32="3330992730" externalFileSize="12946" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="refreshbtn.png" bitmapDataHRef="M 14 1597498207.dat" frameRight="1840" frameBottom="1900"/>
+          <DOMBitmapItem name="sample2.png" itemID="5f37e48d-000000a9" sourceExternalFilepath="./LIBRARY/sample2.png" sourceLastImported="1751278848" externalFileCRC32="1649792350" externalFileSize="459315" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sample2.png" bitmapDataHRef="M 16 1597498509.dat" frameRight="16040" frameBottom="12020"/>
+          <DOMBitmapItem name="sample3.png" itemID="5f37e1f4-00000038" sourceExternalFilepath="./LIBRARY/sample3.png" sourceLastImported="1751278848" externalFileCRC32="358094287" externalFileSize="660564" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="sample3.png" bitmapDataHRef="M 6 1597497844.dat" frameRight="16000" frameBottom="12000"/>
+          <DOMBitmapItem name="wz1.png" itemID="60f7b353-000001c0" sourceExternalFilepath="./LIBRARY/wz1.png" sourceLastImported="1751278848" externalFileCRC32="999425718" externalFileSize="13228" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="wz1.png" bitmapDataHRef="M 33 1626846035.dat" frameRight="5620" frameBottom="540"/>
+          <DOMBitmapItem name="wz2.png" itemID="60f7b353-000001c4" sourceExternalFilepath="./LIBRARY/wz2.png" sourceLastImported="1626845697" externalFileCRC32="3723295147" externalFileSize="5353" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="wz2.png" bitmapDataHRef="M 34 1626846035.dat" frameRight="2000" frameBottom="440"/>
+          <DOMBitmapItem name="xbtn.png" itemID="5f436412-00000074" sourceExternalFilepath="./LIBRARY/xbtn.png" sourceLastImported="1751278848" externalFileCRC32="3442682219" externalFileSize="9514" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="xbtn.png" bitmapDataHRef="M 25 1598252050.dat" frameRight="1380" frameBottom="1420"/>
+     </media>
+     <symbols>
+          <Include href="backbtn.xml" itemIcon="0" itemID="5f37e342-00000072" lastModified="1597498178"/>
+          <Include href="big_face_head.xml" loadImmediate="false" itemID="5f37e2a0-00000052" lastModified="1598265264"/>
+          <Include href="btn_buy.xml" itemIcon="0" loadImmediate="false" itemID="5f37e4f1-000000bf" lastModified="1597498609"/>
+          <Include href="coin_icon_mc.xml" itemID="60f7b569-000001cf" lastModified="1626869456"/>
+          <Include href="元件 3.xml" loadImmediate="false" itemID="5f435ffc-00000035" lastModified="1598253342"/>
+          <Include href="元件 4.xml" itemIcon="1" loadImmediate="false" itemID="5f436022-0000003e" lastModified="1598251042"/>
+          <Include href="元件 5.xml" itemIcon="0" loadImmediate="false" itemID="5f43642e-0000007a" lastModified="1598252078"/>
+          <Include href="元件 6.xml" itemIcon="0" loadImmediate="false" itemID="5f436446-0000007f" lastModified="1598252102"/>
+          <Include href="元件 7.xml" itemIcon="1" loadImmediate="false" itemID="5f436d2d-0000008d" lastModified="1598254381"/>
+          <Include href="元件 8.xml" loadImmediate="false" itemID="5f44b80b-0000003a" lastModified="1598339163"/>
+          <Include href="coin_ico.xml" loadImmediate="false" itemID="5f37e5f7-000000f0" lastModified="1597498871"/>
+          <Include href="coin_mc.xml" itemID="5f37e592-000000e1" lastModified="1617015386"/>
+          <Include href="元件 1.xml" loadImmediate="false" itemID="5f37e542-000000d4" lastModified="1598267736"/>
+          <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="5f37e553-000000d9" lastModified="1597498707"/>
+          <Include href="changebtn.xml" itemIcon="0" loadImmediate="false" itemID="5f37e36e-00000087" lastModified="1597498222"/>
+          <Include href="ct.xml" loadImmediate="false" itemID="5f37e3d2-0000009a" lastModified="1626860590"/>
+          <Include href="dialog_bg.xml" itemID="5f37e438-0000009e" lastModified="1597498434"/>
+          <Include href="dialog_confrim.xml" itemID="5f43682a-00000087" lastModified="1598271231"/>
+          <Include href="dialog_mosou_status.xml" itemID="5f37e255-0000003d" lastModified="1598265268"/>
+          <Include href="dialog_select_fighter.xml" itemID="5f37e4ae-000000ae" lastModified="1626875018"/>
+          <Include href="dot_mc.xml" itemID="60f7b31b-000001b0" lastModified="1626846006"/>
+          <Include href="face_ui_mc.xml" itemID="5f435fe8-0000002c" lastModified="1598251170"/>
+          <Include href="leaderbtn.xml" itemIcon="0" loadImmediate="false" itemID="5f37e373-0000008c" lastModified="1597498227"/>
+          <Include href="qbar.xml" loadImmediate="false" itemID="5f37e3a1-00000095" lastModified="1598339135"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="场景 1">
+               <layers>
+                    <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="dialog_mosou_status">
+                                             <matrix>
+                                                  <Matrix tx="30.6" ty="71.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="370.5" y="239"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="dialog_select_fighter" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="29.6" ty="73"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="370.5" y="239"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="face_ui_mc">
+                                             <matrix>
+                                                  <Matrix tx="874.9" ty="133.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="29" y="28"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="dialog_confrim" selected="true" centerPoint3DX="510.95" centerPoint3DY="378.75">
+                                             <matrix>
+                                                  <Matrix tx="143.6" ty="156.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="370.5" y="239"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="图层 3" color="#FF800A" locked="true" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="dialog_bg">
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="图层 2" color="#9933CC" locked="true" visible="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="sample3.png"/>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="sample2.png"/>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <persistentData>
+          <PD n="com.air.sdk.path"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="145551" publishTime="1626846136"/>
+          <PublishItem publishSize="93011" publishTime="1598339205"/>
+          <PublishItem publishSize="93011" publishTime="1598339186"/>
+          <PublishItem publishSize="98327" publishTime="1598271235"/>
+          <PublishItem publishSize="98327" publishTime="1598270208"/>
+          <PublishItem publishSize="98329" publishTime="1598267744"/>
+          <PublishItem publishSize="98319" publishTime="1598267341"/>
+          <PublishItem publishSize="92718" publishTime="1598253347"/>
+          <PublishItem publishSize="92684" publishTime="1598253107"/>
+          <PublishItem publishSize="92504" publishTime="1598252190"/>
+          <PublishItem publishSize="77090" publishTime="1597643026"/>
+          <PublishItem publishSize="76973" publishTime="1597642192"/>
+          <PublishItem publishSize="83257" publishTime="1597642185"/>
+     </publishHistory>
+</DOMDocument>

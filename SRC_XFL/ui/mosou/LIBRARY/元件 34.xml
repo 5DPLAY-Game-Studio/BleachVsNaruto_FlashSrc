@@ -8,7 +8,7 @@
               <elements>
                 <DOMBitmapInstance selected="true" libraryItemName="fonts/font2/font2_d.png">
                   <matrix>
-                    <Matrix a="0.794998168945312" d="0.794998168945312" tx="-33" ty="-45.3"/>
+                    <Matrix a="0.79498291015625" d="0.79498291015625" tx="-33" ty="-45.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="41.5" y="57"/>

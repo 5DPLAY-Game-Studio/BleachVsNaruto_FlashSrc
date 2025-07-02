@@ -9,7 +9,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="Images/Image 16.png">
+                      <BitmapFill bitmapPath="反编译素材/Images/Image 16.png">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126" ty="-15"/>
                         </matrix>
@@ -27,7 +27,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="Images/Image 18.png">
+                      <BitmapFill bitmapPath="反编译素材/Images/Image 18.png">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126" ty="-15"/>
                         </matrix>
@@ -45,7 +45,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="Images/Image 20.png">
+                      <BitmapFill bitmapPath="反编译素材/Images/Image 20.png">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126" ty="-15"/>
                         </matrix>
@@ -63,7 +63,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="Images/Image 22.png">
+                      <BitmapFill bitmapPath="反编译素材/Images/Image 22.png">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126" ty="-15"/>
                         </matrix>
@@ -81,7 +81,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="Images/Image 24.png">
+                      <BitmapFill bitmapPath="反编译素材/Images/Image 24.png">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126" ty="-15"/>
                         </matrix>

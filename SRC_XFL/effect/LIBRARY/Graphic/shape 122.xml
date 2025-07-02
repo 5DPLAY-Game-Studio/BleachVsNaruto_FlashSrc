@@ -9,7 +9,7 @@
                 <DOMShape selected="true" isFloating="true">
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="Images/image 121.png" bitmapIsClipped="true">
+                      <BitmapFill bitmapPath="反编译素材/Images/image 121.png" bitmapIsClipped="true">
                         <matrix>
                           <Matrix a="20" d="20"/>
                         </matrix>

@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/sgkan" itemID="46b32fcd-00000387" linkageExportForAS="true" linkageIdentifier="XG_kan" linkageClassName="XG_kan" lastModified="1751417820" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="sgkan" currentFrame="10">
+      <layers>
+        <DOMLayer name="图层 4 复制" color="#FF4FFF" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 32" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.643539428710938" d="0.643539428710938" tx="-79.9" ty="-72.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="120.95" y="115.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-80" ty="-73"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-80" ty="-73"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-80" ty="-73"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-80" ty="-73"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-73"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_砍/Bitmap 6">
+                  <matrix>
+                    <Matrix tx="-80" ty="-73"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

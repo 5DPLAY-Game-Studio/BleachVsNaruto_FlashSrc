@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_hitover" itemID="59849af4-00000ed1" linkageExportForAS="true" linkageClassName="xg_hitover" lastModified="1530632574">
   <timeline>
-    <DOMTimeline name="xg_hitover">
+    <DOMTimeline name="xg_hitover" currentFrame="2">
       <layers>
         <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
           <frames>

@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/xg_hitover_back" itemID="59849b02-00000ed2" lastModified="1530632586">
   <timeline>
-    <DOMTimeline name="xg_hitover_back" currentFrame="24">
+    <DOMTimeline name="xg_hitover_back" currentFrame="11">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>

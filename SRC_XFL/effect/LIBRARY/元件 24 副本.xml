@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill035_hit/skill039_hit_0000.png 副本.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill035_hit/skill039_hit_0000.png 副本.png">
                   <matrix>
                     <Matrix tx="188.75"/>
                   </matrix>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill035_hit/skill039_hit_0001.png 副本.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill035_hit/skill039_hit_0001.png 副本.png">
                   <matrix>
                     <Matrix tx="108.55" ty="-63.3"/>
                   </matrix>
@@ -24,7 +24,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill035_hit/skill039_hit_0002.png 副本.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill035_hit/skill039_hit_0002.png 副本.png">
                   <matrix>
                     <Matrix tx="201.95" ty="-39.5"/>
                   </matrix>
@@ -33,7 +33,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill035_hit/skill039_hit_0003.png 副本.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill035_hit/skill039_hit_0003.png 副本.png">
                   <matrix>
                     <Matrix tx="197.55" ty="-39.6"/>
                   </matrix>
@@ -42,7 +42,7 @@
             </DOMFrame>
             <DOMFrame index="8" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill035_hit/skill039_hit_0004.png 副本.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill035_hit/skill039_hit_0004.png 副本.png">
                   <matrix>
                     <Matrix tx="197.55" ty="-30.7"/>
                   </matrix>

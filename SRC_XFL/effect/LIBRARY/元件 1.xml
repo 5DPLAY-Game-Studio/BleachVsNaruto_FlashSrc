@@ -6,42 +6,42 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/pk_bomb_prepare/pk_bomb_prepare_2.png"/>
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/pk_bomb_prepare/pk_bomb_prepare_2.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/pk_bomb_prepare/pk_bomb_prepare_6.png"/>
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/pk_bomb_prepare/pk_bomb_prepare_6.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="图片组/pk_bomb_prepare/pk_bomb_prepare_8.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/图片组/pk_bomb_prepare/pk_bomb_prepare_8.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="6" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/pk_bomb_prepare/pk_bomb_prepare_10.png"/>
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/pk_bomb_prepare/pk_bomb_prepare_10.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="8" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="图片组/pk_bomb_prepare/pk_bomb_prepare_12.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/图片组/pk_bomb_prepare/pk_bomb_prepare_12.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="10" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/pk_bomb_prepare/pk_bomb_prepare_14.png"/>
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/pk_bomb_prepare/pk_bomb_prepare_14.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="12" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="图片组/pk_bomb_prepare/pk_bomb_prepare_16.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/图片组/pk_bomb_prepare/pk_bomb_prepare_16.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="14" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/pk_bomb_prepare/pk_bomb_prepare_18.png"/>
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/pk_bomb_prepare/pk_bomb_prepare_18.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="16" keyMode="9728">

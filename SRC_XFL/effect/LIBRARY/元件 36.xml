@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill_fire2/skill_fire20002.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill_fire2/skill_fire20002.png">
                   <matrix>
                     <Matrix a="0" b="-1" c="1" d="0" tx="-175" ty="91.05"/>
                   </matrix>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill_fire2/skill_fire20004.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill_fire2/skill_fire20004.png">
                   <matrix>
                     <Matrix a="0" b="-1" c="1" d="0" tx="-201" ty="145.05"/>
                   </matrix>
@@ -24,7 +24,7 @@
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill_fire2/skill_fire20005.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill_fire2/skill_fire20005.png">
                   <matrix>
                     <Matrix a="0" b="-1" c="1" d="0" tx="-205" ty="134.05"/>
                   </matrix>
@@ -33,7 +33,7 @@
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill_fire2/skill_fire20006.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill_fire2/skill_fire20006.png">
                   <matrix>
                     <Matrix a="0" b="-1" c="1" d="0" tx="-231" ty="118.05"/>
                   </matrix>
@@ -42,7 +42,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill_fire2/skill_fire20007.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill_fire2/skill_fire20007.png">
                   <matrix>
                     <Matrix a="0" b="-1" c="1" d="0" tx="-222" ty="121.05"/>
                   </matrix>
@@ -51,7 +51,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill_fire2/skill_fire20008.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill_fire2/skill_fire20008.png">
                   <matrix>
                     <Matrix a="0" b="-1" c="1" d="0" tx="-226.9" ty="114.05"/>
                   </matrix>
@@ -60,7 +60,7 @@
             </DOMFrame>
             <DOMFrame index="8" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="图片组/skill_fire2/skill_fire20009.png">
+                <DOMBitmapInstance libraryItemName="图片合集/图片组/skill_fire2/skill_fire20009.png">
                   <matrix>
                     <Matrix a="0" b="-1" c="1" d="0" tx="-230.9" ty="76.05"/>
                   </matrix>

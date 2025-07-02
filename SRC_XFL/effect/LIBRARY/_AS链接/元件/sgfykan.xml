@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="15" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="MovieClip/sprite 133" symbolType="graphic" centerPoint3DX="-38" centerPoint3DY="-3.55" loop="play once">
+                <DOMSymbolInstance libraryItemName="反编译素材/MovieClip/sprite 133" symbolType="graphic" centerPoint3DX="-38" centerPoint3DY="-3.55" loop="play once">
                   <matrix>
                     <Matrix a="-1" tx="42" ty="-83.55"/>
                   </matrix>

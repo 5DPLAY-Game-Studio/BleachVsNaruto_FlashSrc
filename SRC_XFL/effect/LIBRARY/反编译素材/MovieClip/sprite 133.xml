@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/sprite 473" itemID="53c8a457-000001d9" lastModified="1513871013">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="反编译素材/MovieClip/sprite 133" itemID="53c8a400-00000085" lastModified="1741943665">
   <timeline>
-    <DOMTimeline name="sprite 473" currentFrame="5">
+    <DOMTimeline name="sprite 133" currentFrame="14">
       <layers>
         <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 458" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="Graphic/shape 120" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -15,10 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 460" symbolType="graphic" loop="loop">
-                  <matrix>
-                    <Matrix tx="-5" ty="-7.5"/>
-                  </matrix>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 122" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -27,10 +24,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 462" symbolType="graphic" loop="loop">
-                  <matrix>
-                    <Matrix tx="-7.5" ty="-8.5"/>
-                  </matrix>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 124" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -39,10 +33,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 464" symbolType="graphic" loop="loop">
-                  <matrix>
-                    <Matrix tx="-9" ty="-10.5"/>
-                  </matrix>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 126" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -51,10 +42,7 @@
             </DOMFrame>
             <DOMFrame index="8" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 466" symbolType="graphic" loop="loop">
-                  <matrix>
-                    <Matrix tx="-11" ty="-8"/>
-                  </matrix>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 128" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -63,10 +51,7 @@
             </DOMFrame>
             <DOMFrame index="10" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 468" symbolType="graphic" loop="loop">
-                  <matrix>
-                    <Matrix tx="-8.5" ty="-1"/>
-                  </matrix>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 130" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -75,29 +60,14 @@
             </DOMFrame>
             <DOMFrame index="12" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 470" symbolType="graphic" loop="loop">
-                  <matrix>
-                    <Matrix tx="-7.5" ty="3"/>
-                  </matrix>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 132" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="14" duration="2" motionTweenScale="false" keyMode="8192">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 472" symbolType="graphic" loop="loop">
-                  <matrix>
-                    <Matrix tx="-6.5" ty="5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="16" motionTweenScale="false" keyMode="8192">
+            <DOMFrame index="14" motionTweenScale="false" keyMode="8192">
               <elements/>
             </DOMFrame>
           </frames>

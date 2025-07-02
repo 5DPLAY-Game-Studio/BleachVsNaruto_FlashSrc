@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="19" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="MovieClip/sprite 473" selected="true" symbolType="graphic" loop="play once">
+                <DOMSymbolInstance libraryItemName="反编译素材/MovieClip/sprite 473" selected="true" symbolType="graphic" loop="play once">
                   <matrix>
                     <Matrix a="1.45762634277344" d="1.45762634277344" tx="-64.2" ty="-78.55"/>
                   </matrix>
@@ -28,7 +28,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="15" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="MovieClip/sprite 133" symbolType="graphic" centerPoint3DX="-28.5" centerPoint3DY="-1.6" loop="play once">
+                <DOMSymbolInstance libraryItemName="反编译素材/MovieClip/sprite 133" symbolType="graphic" centerPoint3DX="-28.5" centerPoint3DY="-1.6" loop="play once">
                   <matrix>
                     <Matrix a="-1.635498046875" d="1.635498046875" tx="85.2" ty="-134.35"/>
                   </matrix>

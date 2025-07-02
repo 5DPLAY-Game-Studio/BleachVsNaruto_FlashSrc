@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 120" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 120" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 122" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 122" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -24,7 +24,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 124" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 124" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -33,7 +33,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 126" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 126" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -42,7 +42,7 @@
             </DOMFrame>
             <DOMFrame index="8" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 128" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 128" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -51,7 +51,7 @@
             </DOMFrame>
             <DOMFrame index="10" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 130" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 130" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -60,7 +60,7 @@
             </DOMFrame>
             <DOMFrame index="12" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 132" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 132" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

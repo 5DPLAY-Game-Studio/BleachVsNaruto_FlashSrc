@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果/tishenXG2" itemID="52311f24-00001380" linkageExportForAS="true" linkageIdentifier="XG_tishen2" linkageClassName="XG_tishen2" lastModified="1530632542">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/tishenXG2" itemID="52311f24-00001380" linkageExportForAS="true" linkageIdentifier="XG_tishen2" linkageClassName="XG_tishen2" lastModified="1530632542">
   <timeline>
-    <DOMTimeline name="tishenXG2" currentFrame="17">
+    <DOMTimeline name="tishenXG2" currentFrame="9">
       <layers>
         <DOMLayer name="图层 4" color="#FF4FFF" current="true" isSelected="true">
           <frames>

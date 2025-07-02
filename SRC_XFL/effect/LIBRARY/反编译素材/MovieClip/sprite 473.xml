@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 458" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 458" symbolType="graphic" loop="loop">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 460" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 460" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="-5" ty="-7.5"/>
                   </matrix>
@@ -27,7 +27,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 462" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 462" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="-7.5" ty="-8.5"/>
                   </matrix>
@@ -39,7 +39,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 464" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 464" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="-9" ty="-10.5"/>
                   </matrix>
@@ -51,7 +51,7 @@
             </DOMFrame>
             <DOMFrame index="8" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 466" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 466" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="-11" ty="-8"/>
                   </matrix>
@@ -63,7 +63,7 @@
             </DOMFrame>
             <DOMFrame index="10" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 468" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 468" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="-8.5" ty="-1"/>
                   </matrix>
@@ -75,7 +75,7 @@
             </DOMFrame>
             <DOMFrame index="12" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 470" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 470" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="-7.5" ty="3"/>
                   </matrix>
@@ -87,7 +87,7 @@
             </DOMFrame>
             <DOMFrame index="14" duration="2" motionTweenScale="false" keyMode="8192">
               <elements>
-                <DOMSymbolInstance libraryItemName="Graphic/shape 472" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="反编译素材/Graphic/shape 472" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="-6.5" ty="5"/>
                   </matrix>

@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_hitfloor_yan" itemID="59848d2e-00000844" linkageExportForAS="true" linkageClassName="xg_hitfloor_yan" lastModified="1751503697">
+  <timeline>
+    <DOMTimeline name="xg_hitfloor_yan" currentFrame="14">
+      <layers>
+        <DOMLayer name="图层 1 复制" color="#4FFF4F" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 12" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.59893798828125" tx="-178.8" ty="-135.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224" y="226.9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 9" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2" ty="-55.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

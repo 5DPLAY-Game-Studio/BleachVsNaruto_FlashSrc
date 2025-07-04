@@ -41,17 +41,17 @@
             </DOMFrame>
             <DOMFrame index="7" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="11.png 副本.png"/>
+                <DOMBitmapInstance libraryItemName="杂图/11.png 副本.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="9" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="12.png 副本.png"/>
+                <DOMBitmapInstance libraryItemName="杂图/12.png 副本.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="11" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="13.png 副本.png"/>
+                <DOMBitmapInstance libraryItemName="杂图/13.png 副本.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="13" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="杂图/11.png 副本 2.png">
+                <DOMBitmapInstance libraryItemName="图片合集/杂图/11.png 副本 2.png">
                   <matrix>
                     <Matrix tx="-79.55" ty="-69.55"/>
                   </matrix>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/12.png 副本 2.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/12.png 副本 2.png">
                   <matrix>
                     <Matrix tx="-120.55" ty="-117.05"/>
                   </matrix>
@@ -24,7 +24,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/13.png 副本 2.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/13.png 副本 2.png">
                   <matrix>
                     <Matrix tx="-120.55" ty="-116.55"/>
                   </matrix>
@@ -33,7 +33,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/14.png 副本 2.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/14.png 副本 2.png">
                   <matrix>
                     <Matrix tx="-119.05" ty="-116.55"/>
                   </matrix>
@@ -49,7 +49,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="杂图/10.png 副本 4.png">
+                <DOMBitmapInstance libraryItemName="图片合集/杂图/10.png 副本 4.png">
                   <matrix>
                     <Matrix tx="-94.05" ty="-85.05"/>
                   </matrix>
@@ -58,7 +58,7 @@
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="杂图/9.png 副本 5.png">
+                <DOMBitmapInstance libraryItemName="图片合集/杂图/9.png 副本 5.png">
                   <matrix>
                     <Matrix tx="-105.55" ty="-97.55"/>
                   </matrix>
@@ -67,7 +67,7 @@
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/8.png 副本 6.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/8.png 副本 6.png">
                   <matrix>
                     <Matrix tx="-118.05" ty="-109.05"/>
                   </matrix>
@@ -76,7 +76,7 @@
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/7.png 副本 6.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/7.png 副本 6.png">
                   <matrix>
                     <Matrix tx="-118.05" ty="-122.55"/>
                   </matrix>
@@ -85,7 +85,7 @@
             </DOMFrame>
             <DOMFrame index="4" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/6.png 副本 7.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/6.png 副本 7.png">
                   <matrix>
                     <Matrix tx="-120.55" ty="-124.05"/>
                   </matrix>
@@ -94,7 +94,7 @@
             </DOMFrame>
             <DOMFrame index="5" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/5.png 副本 10.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/5.png 副本 10.png">
                   <matrix>
                     <Matrix tx="-136.05" ty="-125.05"/>
                   </matrix>
@@ -103,7 +103,7 @@
             </DOMFrame>
             <DOMFrame index="6" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/4.png 副本 11.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/4.png 副本 11.png">
                   <matrix>
                     <Matrix tx="-135.55" ty="-122.55"/>
                   </matrix>
@@ -112,7 +112,7 @@
             </DOMFrame>
             <DOMFrame index="7" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/3.png 副本 12.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/3.png 副本 12.png">
                   <matrix>
                     <Matrix tx="-134.55" ty="-127.55"/>
                   </matrix>
@@ -121,7 +121,7 @@
             </DOMFrame>
             <DOMFrame index="8" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/2.png 副本 13.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/2.png 副本 13.png">
                   <matrix>
                     <Matrix tx="-131.55" ty="-133.55"/>
                   </matrix>
@@ -130,7 +130,7 @@
             </DOMFrame>
             <DOMFrame index="9" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/1.png 副本 13.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/1.png 副本 13.png">
                   <matrix>
                     <Matrix tx="-134.05" ty="-135.55"/>
                   </matrix>
@@ -139,7 +139,7 @@
             </DOMFrame>
             <DOMFrame index="10" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="杂图/0.png 副本 13.png">
+                <DOMBitmapInstance selected="true" libraryItemName="图片合集/杂图/0.png 副本 13.png">
                   <matrix>
                     <Matrix tx="-138.05" ty="-136.05"/>
                   </matrix>

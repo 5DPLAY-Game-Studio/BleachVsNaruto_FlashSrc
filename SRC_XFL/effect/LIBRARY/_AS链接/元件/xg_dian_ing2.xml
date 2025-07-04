@@ -1,0 +1,216 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_dian_ing2" itemID="5a3c713c-00000675" linkageExportForAS="true" linkageClassName="xg_dian_ing2" lastModified="1751588646" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="xg_dian_ing2" currentFrame="22">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" name="loop" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="15" name="finish" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1 复制" color="#4FFF4F" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 56" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.25091552734375" d="0.352279663085938" tx="-0.85" ty="-31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 57" symbolType="graphic" firstFrame="1" loop="play once">
+                  <matrix>
+                    <Matrix a="0.426986694335938" d="0.426986694335938" tx="-46.8" ty="-93.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="106.1" y="233.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5" redOffset="101" blueOffset="255"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 1">
+                  <matrix>
+                    <Matrix tx="-39" ty="-85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 2">
+                  <matrix>
+                    <Matrix tx="-38" ty="-85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 3">
+                  <matrix>
+                    <Matrix tx="-38" ty="-83"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 4">
+                  <matrix>
+                    <Matrix tx="-38" ty="-84"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 5">
+                  <matrix>
+                    <Matrix tx="-39" ty="-84"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 6">
+                  <matrix>
+                    <Matrix tx="-38" ty="-84"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 7">
+                  <matrix>
+                    <Matrix tx="-38" ty="-84"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 8">
+                  <matrix>
+                    <Matrix tx="-38" ty="-83"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 9">
+                  <matrix>
+                    <Matrix tx="-47" ty="-94"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 10">
+                  <matrix>
+                    <Matrix tx="-41" ty="-97"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 11">
+                  <matrix>
+                    <Matrix tx="-41" ty="-96"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 12">
+                  <matrix>
+                    <Matrix tx="-40" ty="-98"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 13">
+                  <matrix>
+                    <Matrix tx="-39" ty="-101"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 14">
+                  <matrix>
+                    <Matrix tx="-33" ty="-101"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_优化特效/效果_雷电_中2/Bitmap 15">
+                  <matrix>
+                    <Matrix tx="-33" ty="-100"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true" current="true" isSelected="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件 49" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="7.5" ty="-24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redOffset="50" blueOffset="255" greenOffset="-75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

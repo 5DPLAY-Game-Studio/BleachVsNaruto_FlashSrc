@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="杂图/0.png 副本 7.png">
+                <DOMBitmapInstance libraryItemName="图片合集/杂图/0.png 副本 7.png">
                   <matrix>
                     <Matrix tx="41.5" ty="81"/>
                   </matrix>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="杂图/1.png 副本 7.png">
+                <DOMBitmapInstance libraryItemName="图片合集/杂图/1.png 副本 7.png">
                   <matrix>
                     <Matrix tx="1" ty="9"/>
                   </matrix>
@@ -24,12 +24,12 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="杂图/2.png 副本 7.png"/>
+                <DOMBitmapInstance libraryItemName="图片合集/杂图/2.png 副本 7.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="6" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="杂图/3.png 副本 7.png">
+                <DOMBitmapInstance libraryItemName="图片合集/杂图/3.png 副本 7.png">
                   <matrix>
                     <Matrix tx="1" ty="2"/>
                   </matrix>

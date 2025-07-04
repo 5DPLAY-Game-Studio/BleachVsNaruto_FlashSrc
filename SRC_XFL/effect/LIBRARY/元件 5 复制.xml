@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="重复项目文件夹/0.png">
+                <DOMBitmapInstance libraryItemName="图片合集/重复项目文件夹/0.png">
                   <matrix>
                     <Matrix ty="15.75"/>
                   </matrix>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="重复项目文件夹/1.png">
+                <DOMBitmapInstance libraryItemName="图片合集/重复项目文件夹/1.png">
                   <matrix>
                     <Matrix ty="15.75"/>
                   </matrix>
@@ -24,7 +24,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="重复项目文件夹/2.png">
+                <DOMBitmapInstance libraryItemName="图片合集/重复项目文件夹/2.png">
                   <matrix>
                     <Matrix ty="15.75"/>
                   </matrix>
@@ -33,7 +33,7 @@
             </DOMFrame>
             <DOMFrame index="6" duration="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="重复项目文件夹/3.png">
+                <DOMBitmapInstance libraryItemName="图片合集/重复项目文件夹/3.png">
                   <matrix>
                     <Matrix ty="15.75"/>
                   </matrix>

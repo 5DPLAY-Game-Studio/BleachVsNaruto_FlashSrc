@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_buff_effect_power" itemID="5c66675a-00000855" linkageExportForAS="true" linkageClassName="xg_buff_effect_power" lastModified="1751588061">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_buff_effect_power" itemID="5c66675a-00000855" linkageExportForAS="true" linkageClassName="xg_buff_effect_power" lastModified="1751588188">
   <timeline>
     <DOMTimeline name="xg_buff_effect_power">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="17" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 13" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="元件 13" selected="true" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="-54.95" ty="-131"/>
                   </matrix>

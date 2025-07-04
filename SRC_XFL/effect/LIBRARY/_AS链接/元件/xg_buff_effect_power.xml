@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="xg_buff_effect_power" itemID="5c66675a-00000855" linkageExportForAS="true" linkageClassName="xg_buff_effect_power" lastModified="1550215245">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_buff_effect_power" itemID="5c66675a-00000855" linkageExportForAS="true" linkageClassName="xg_buff_effect_power" lastModified="1751588061">
   <timeline>
     <DOMTimeline name="xg_buff_effect_power">
       <layers>
@@ -6,12 +6,12 @@
           <frames>
             <DOMFrame index="0" duration="17" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 1" symbolType="graphic" loop="play once">
+                <DOMSymbolInstance libraryItemName="元件 13" symbolType="graphic" loop="loop">
                   <matrix>
-                    <Matrix a="0.256317138671875" d="0.256317138671875" tx="-54.95" ty="-131"/>
+                    <Matrix tx="-54.95" ty="-131"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="216.55" y="483.2"/>
+                    <Point x="51.9" y="73.8"/>
                   </transformationPoint>
                   <color>
                     <Color redOffset="255" blueOffset="-255" greenOffset="-255"/>

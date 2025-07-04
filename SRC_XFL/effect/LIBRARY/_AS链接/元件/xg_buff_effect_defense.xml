@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_buff_effect_defense" itemID="5c66672b-000005e7" linkageExportForAS="true" linkageClassName="xg_buff_effect_defense" lastModified="1751587663">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/xg_buff_effect_defense" itemID="5c66672b-000005e7" linkageExportForAS="true" linkageClassName="xg_buff_effect_defense" lastModified="1751588023">
   <timeline>
-    <DOMTimeline name="xg_buff_effect_defense" currentFrame="16">
+    <DOMTimeline name="xg_buff_effect_defense" currentFrame="10">
       <layers>
         <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" duration="17" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 13" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="元件 13" selected="true" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="-54.95" ty="-131"/>
                   </matrix>

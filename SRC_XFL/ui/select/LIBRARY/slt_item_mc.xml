@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="spitem.png">
+                <DOMBitmapInstance libraryItemName="spitem.png">
                   <matrix>
                     <Matrix tx="-4.5" ty="-4.75"/>
                   </matrix>

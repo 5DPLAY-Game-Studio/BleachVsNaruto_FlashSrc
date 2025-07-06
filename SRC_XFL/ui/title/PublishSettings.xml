@@ -72,7 +72,7 @@
     <StreamCompress>10</StreamCompress>
     <EventFormat>2</EventFormat>
     <EventCompress>10</EventCompress>
-    <OverrideSounds>0</OverrideSounds>
+    <OverrideSounds>1</OverrideSounds>
     <Version>37</Version>
     <ExternalPlayer>FlashPlayer26.0</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>

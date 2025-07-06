@@ -66,13 +66,13 @@
     <Report>0</Report>
     <Protect>0</Protect>
     <OmitTraceActions>0</OmitTraceActions>
-    <Quality>50</Quality>
-    <DeblockingFilter>0</DeblockingFilter>
+    <Quality>80</Quality>
+    <DeblockingFilter>1</DeblockingFilter>
     <StreamFormat>0</StreamFormat>
     <StreamCompress>10</StreamCompress>
     <EventFormat>0</EventFormat>
     <EventCompress>10</EventCompress>
-    <OverrideSounds>0</OverrideSounds>
+    <OverrideSounds>1</OverrideSounds>
     <Version>37</Version>
     <ExternalPlayer>FlashPlayer26.0</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>

@@ -1,0 +1,45 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="90AE2DBE1D24BF4B967F4856F5546C90">
+     <media>
+          <DOMSoundItem name="common_00215.wav" itemID="593807cc-0000039d" linkageExportForAS="true" linkageClassName="snd_ghost_jump" sourceExternalFilepath="./LIBRARY/common_00215.wav" sourceLastImported="1496844248" externalFileCRC32="2902310823" externalFileSize="39946" href="common_00215.wav" soundDataHRef="M 13 1496844236.dat" format="22kHz 16bit Mono" sampleCount="19936" dataLength="39872"/>
+          <DOMSoundItem name="common_00216.wav" itemID="593807cc-000003a0" linkageExportForAS="true" linkageClassName="snd_ghost_jump2" sourceExternalFilepath="./LIBRARY/common_00216.wav" sourceLastImported="1496844249" externalFileCRC32="2130660174" externalFileSize="37322" href="common_00216.wav" soundDataHRef="M 14 1496844236.dat" format="22kHz 16bit Mono" sampleCount="18624" dataLength="37248"/>
+          <DOMSoundItem name="enter.wav" itemID="5932e0fd-000004af" linkageExportForAS="true" linkageClassName="snd_menu5" sourceExternalFilepath="./LIBRARY/enter.wav" sourceLastImported="1496506630" externalFileCRC32="4255177020" externalFileSize="74506" href="enter.wav" soundDataHRef="M 7 1496506621.dat" format="22kHz 16bit Mono" sampleCount="37216" dataLength="74432"/>
+          <DOMSoundItem name="gameover.mp3" itemID="5932ce1d-000004ac" linkageExportForAS="true" linkageClassName="snd_gameover" sourceExternalFilepath="./LIBRARY/gameover.mp3" sourceLastImported="1496501796" externalFileCRC32="3686715287" externalFileSize="157569" href="gameover.mp3" soundDataHRef="M 6 1496501789.dat" format="44kHz 16bit Stereo" sampleCount="434304" exportFormat="1" exportBits="7" dataLength="157569" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="54288"/>
+          <DOMSoundItem name="ghost_dash" itemID="593807b2-0000039a" linkageExportForAS="true" linkageClassName="snd_ghost_dash" sourceExternalFilepath="./LIBRARY/ghost_dash.wav" sourceLastImported="1496844215" href="ghost_dash.wav" soundDataHRef="M 11 1496844194.dat" format="22kHz 16bit Mono" sampleCount="16608" dataLength="33216"/>
+          <DOMSoundItem name="ko.wav" itemID="5932e63c-000005d0" linkageExportForAS="true" linkageClassName="snd_ko_bs" sourceExternalFilepath="./LIBRARY/ko.wav" sourceLastImported="1496507982" externalFileCRC32="3944570600" externalFileSize="67850" href="ko.wav" soundDataHRef="M 8 1496507964.dat" format="22kHz 16bit Mono" sampleCount="33888" dataLength="67776"/>
+          <DOMSoundItem name="ko2.wav" itemID="5932e63c-000005d3" linkageExportForAS="true" linkageClassName="snd_ko" sourceExternalFilepath="./LIBRARY/ko2.wav" sourceLastImported="1496507974" externalFileCRC32="2389179858" externalFileSize="38602" href="ko2.wav" soundDataHRef="M 9 1496507964.dat" format="22kHz 16bit Mono" sampleCount="19264" dataLength="38528"/>
+          <DOMSoundItem name="over_hit" itemID="59337422-000001df" linkageExportForAS="true" linkageClassName="snd_over_hit" sourceExternalFilepath="./LIBRARY/over_hit.wav" sourceLastImported="1496544297" href="over_hit.wav" soundDataHRef="M 10 1496544283.dat" format="22kHz 16bit Mono" sampleCount="57152" dataLength="114304"/>
+          <DOMSoundItem name="s系统-错误-中-017.wav" itemID="59329f3f-000001d6" linkageExportForAS="true" linkageClassName="snd_error" sourceExternalFilepath="./LIBRARY/s系统-错误-中-017.wav" sourceLastImported="1496489796" externalFileCRC32="3882959105" externalFileSize="5464" href="s系统-错误-中-017.wav" soundDataHRef="M 3 1496489791.dat" format="22kHz 8bit Mono" sampleCount="5420" dataLength="5420"/>
+          <DOMSoundItem name="s系统-确定-中-006.wav" itemID="59329f98-000001da" linkageExportForAS="true" linkageClassName="snd_menu3" sourceExternalFilepath="./LIBRARY/s系统-确定-中-006.wav" sourceLastImported="1496489886" externalFileCRC32="837143783" externalFileSize="154552" href="s系统-确定-中-006.wav" soundDataHRef="M 4 1496489880.dat" format="44kHz 16bit Mono" sampleCount="77249" dataLength="154498"/>
+          <DOMSoundItem name="s系统-确定-重-004.wav" itemID="5932a086-000001dd" linkageExportForAS="true" linkageClassName="snd_menu4" sourceExternalFilepath="./LIBRARY/s系统-确定-重-004.wav" sourceLastImported="1496506627" externalFileCRC32="1973429566" externalFileSize="270380" href="s系统-确定-重-004.wav" soundDataHRef="M 5 1496490118.dat" format="22kHz 16bit Stereo" sampleCount="67584" dataLength="270336"/>
+          <DOMSoundItem name="音效1.mp3" itemID="46b6b256-00000653" linkageExportForAS="true" linkageIdentifier="keysound1.mp3" linkageClassName="snd_menu1" sourceExternalFilepath="./LIBRARY/音效1.mp3" sourceLastImported="1496382095" href="音效1.mp3" soundDataHRef="M 1 1496381754.dat" format="22kHz 16bit Stereo" sampleCount="6341" dataLength="25364"/>
+          <DOMSoundItem name="音效2.mp3" itemID="46b6b259-00000657" linkageExportForAS="true" linkageIdentifier="keysound2.mp3" linkageClassName="snd_menu2" sourceExternalFilepath="./LIBRARY/音效2.mp3" sourceLastImported="1496382099" href="音效2.mp3" soundDataHRef="M 2 1496381754.dat" format="22kHz 16bit Stereo" sampleCount="13750" dataLength="55000"/>
+     </media>
+     <timelines>
+          <DOMTimeline name="场景 1">
+               <layers>
+                    <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="201733" publishTime="1693449931"/>
+          <PublishItem publishSize="201733" publishTime="1530521891"/>
+          <PublishItem publishSize="162023" publishTime="1496508049"/>
+          <PublishItem publishSize="157181" publishTime="1496506641"/>
+          <PublishItem publishSize="153890" publishTime="1496501799"/>
+          <PublishItem publishSize="13154" publishTime="1496490125"/>
+          <PublishItem publishSize="7278" publishTime="1496489959"/>
+          <PublishItem publishSize="7277" publishTime="1496489915"/>
+          <PublishItem publishSize="7278" publishTime="1496489897"/>
+          <PublishItem publishSize="3080" publishTime="1496382090"/>
+          <PublishItem publishSize="3105" publishTime="1496382028"/>
+     </publishHistory>
+</DOMDocument>

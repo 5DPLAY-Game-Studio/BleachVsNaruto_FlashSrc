@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="big_map_mc" itemID="5f1d8df6-0000000d" linkageExportForAS="true" linkageClassName="big_map_mc" lastModified="1608666623" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_big_map" itemID="693bb29b-00000069" linkageExportForAS="true" linkageClassName="$big_map_MC_big_map" lastModified="1765520027" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="big_map_mc">
+    <DOMTimeline name="MC_big_map">
       <layers>
         <DOMLayer name="AS" color="#009999" locked="true" autoNamed="false">
           <frames>

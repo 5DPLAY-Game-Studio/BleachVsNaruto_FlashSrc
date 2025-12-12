@@ -1,4 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000066" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="7DA94AFB02710A4FA08EE81E15404534">
+     <folders>
+          <DOMFolderItem name="#链接" itemID="693bafda-00000067" isExpanded="true"/>
+     </folders>
      <media>
           <DOMBitmapItem name="Bitmap 1" itemID="5f24e22c-00000045" sourceExternalFilepath="../bigmap/LIBRARY/Bitmap 1.png" sourceLastImported="1596252716" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1.png" bitmapDataHRef="M 8 1596252799.dat" frameRight="6240" frameBottom="6240"/>
           <DOMBitmapItem name="bvnmap.png" itemID="5f1d8d97-0000000b" sourceExternalFilepath="../bigmap/LIBRARY/bvnmap.png" sourceLastImported="1751789038" externalFileCRC32="2886173801" externalFileSize="1198408" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="bvnmap.png" bitmapDataHRef="M 2 1595772311.dat" frameRight="20480" frameBottom="20480"/>
@@ -15,17 +18,17 @@
           <DOMBitmapItem name="p4.png" itemID="5f1d9129-0000002d" sourceExternalFilepath="../bigmap/LIBRARY/p4.png" sourceLastImported="1595773133" externalFileCRC32="99693283" externalFileSize="5269" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="p4.png" bitmapDataHRef="M 5 1595773225.dat" frameRight="740" frameBottom="800"/>
      </media>
      <symbols>
-          <Include href="big_map_mc.xml" itemID="5f1d8df6-0000000d" lastModified="1608666623"/>
+          <Include href="#链接/cloud_mc.xml" itemID="5f4cc203-00000019" lastModified="1598866812"/>
+          <Include href="#链接/MC_big_map.xml" itemID="693bb29b-00000069" lastModified="1765520027"/>
+          <Include href="#链接/point_mc.xml" itemID="5f1d9168-00000037" lastModified="1598861933"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="5f1d8e1e-00000017" lastModified="1596289777"/>
           <Include href="元件 2.xml" loadImmediate="false" itemID="5f1d8e73-0000001e" lastModified="1595772531"/>
-          <Include href="元件 6.xml" loadImmediate="false" itemID="5f1d93e9-00000119" lastModified="1598862016"/>
-          <Include href="元件 7.xml" itemIcon="1" loadImmediate="false" itemID="5f1d942c-0000011d" lastModified="1596252811"/>
-          <Include href="元件 8.xml" loadImmediate="false" itemID="5f4cb2c0-0000001d" lastModified="1598862044"/>
-          <Include href="cloud_mc.xml" itemID="5f4cc203-00000019" lastModified="1598866812"/>
           <Include href="元件 3.xml" loadImmediate="false" itemID="5f1d9184-0000003f" lastModified="1595773421"/>
           <Include href="元件 4.xml" loadImmediate="false" itemID="5f1d921c-00000055" lastModified="1598861887"/>
           <Include href="元件 5.xml" loadImmediate="false" itemID="5f1d923b-0000005a" lastModified="1595773512"/>
-          <Include href="point_mc.xml" itemID="5f1d9168-00000037" lastModified="1598861933"/>
+          <Include href="元件 6.xml" loadImmediate="false" itemID="5f1d93e9-00000119" lastModified="1598862016"/>
+          <Include href="元件 7.xml" itemIcon="1" loadImmediate="false" itemID="5f1d942c-0000011d" lastModified="1596252811"/>
+          <Include href="元件 8.xml" loadImmediate="false" itemID="5f4cb2c0-0000001d" lastModified="1598862044"/>
           <Include href="pointMc.xml" loadImmediate="false" itemID="5f254fd3-0000006c" lastModified="1596289734"/>
           <Include href="viewMC.xml" loadImmediate="false" itemID="5f24e2de-00000064" lastModified="1596252894"/>
      </symbols>
@@ -36,7 +39,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="big_map_mc">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_big_map">
                                              <transformationPoint>
                                                   <Point x="1544.25" y="722.05"/>
                                              </transformationPoint>
@@ -45,7 +48,7 @@
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="cloud_mc" selected="true">
+                                        <DOMSymbolInstance libraryItemName="#链接/cloud_mc" selected="true">
                                              <transformationPoint>
                                                   <Point x="213.05" y="157"/>
                                              </transformationPoint>
@@ -63,6 +66,7 @@
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="701055" publishTime="1765519616"/>
           <PublishItem publishSize="701034" publishTime="1598866195"/>
           <PublishItem publishSize="367808" publishTime="1598862062"/>
           <PublishItem publishSize="367335" publishTime="1596289830"/>

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p1">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p1">
                   <matrix>
                     <Matrix tx="247.05" ty="896.85"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p2">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p2">
                   <matrix>
                     <Matrix tx="364.1" ty="682.8"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p2_1">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p2_1">
                   <matrix>
                     <Matrix tx="96" ty="720.85"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p2_2">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p2_2">
                   <matrix>
                     <Matrix tx="468.1" ty="838.85"/>
                   </matrix>
@@ -70,7 +70,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3">
                   <matrix>
                     <Matrix tx="370.05" ty="514.8"/>
                   </matrix>
@@ -86,7 +86,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_1">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_1">
                   <matrix>
                     <Matrix tx="162" ty="493.75"/>
                   </matrix>
@@ -102,7 +102,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_1_1">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_1_1">
                   <matrix>
                     <Matrix tx="149" ty="357.7"/>
                   </matrix>
@@ -118,7 +118,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_1_2" selected="true">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_1_2" selected="true">
                   <matrix>
                     <Matrix tx="199.05" ty="147.65"/>
                   </matrix>
@@ -134,7 +134,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_2">
                   <matrix>
                     <Matrix tx="569.15" ty="527.15"/>
                   </matrix>
@@ -150,7 +150,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_1">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_2_1">
                   <matrix>
                     <Matrix tx="804.2" ty="705.85"/>
                   </matrix>
@@ -166,7 +166,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_2">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_2_2">
                   <matrix>
                     <Matrix tx="830.2" ty="881.9"/>
                   </matrix>
@@ -182,7 +182,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_3">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_2_3">
                   <matrix>
                     <Matrix tx="877.2" ty="589.25"/>
                   </matrix>
@@ -198,7 +198,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_4">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_2_4">
                   <matrix>
                     <Matrix tx="786.15" ty="368.15"/>
                   </matrix>
@@ -214,7 +214,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_5">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_2_5">
                   <matrix>
                     <Matrix tx="675.15" ty="271.15"/>
                   </matrix>
@@ -230,7 +230,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p3_2_6">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p3_2_6">
                   <matrix>
                     <Matrix tx="893.2" ty="170.1"/>
                   </matrix>
@@ -246,7 +246,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p4">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p4">
                   <matrix>
                     <Matrix tx="436.1" ty="290.7"/>
                   </matrix>
@@ -262,7 +262,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="point_mc" name="p5">
+                <DOMSymbolInstance libraryItemName="#链接/point_mc" name="p5">
                   <matrix>
                     <Matrix tx="543.15" ty="78.55"/>
                   </matrix>

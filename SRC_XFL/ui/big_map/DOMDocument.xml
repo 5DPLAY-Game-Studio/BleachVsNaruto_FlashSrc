@@ -18,8 +18,8 @@
           <DOMBitmapItem name="p4.png" itemID="5f1d9129-0000002d" sourceExternalFilepath="../bigmap/LIBRARY/p4.png" sourceLastImported="1595773133" externalFileCRC32="99693283" externalFileSize="5269" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="p4.png" bitmapDataHRef="M 5 1595773225.dat" frameRight="740" frameBottom="800"/>
      </media>
      <symbols>
-          <Include href="#链接/cloud_mc.xml" itemID="5f4cc203-00000019" lastModified="1598866812"/>
           <Include href="#链接/MC_big_map.xml" itemID="693bb29b-00000069" lastModified="1765520027"/>
+          <Include href="#链接/MC_cloud.xml" itemID="693bb65a-00000020" lastModified="1765520986"/>
           <Include href="#链接/point_mc.xml" itemID="5f1d9168-00000037" lastModified="1598861933"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="5f1d8e1e-00000017" lastModified="1596289777"/>
           <Include href="元件 2.xml" loadImmediate="false" itemID="5f1d8e73-0000001e" lastModified="1595772531"/>
@@ -48,7 +48,7 @@
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/cloud_mc" selected="true">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_cloud" selected="true">
                                              <transformationPoint>
                                                   <Point x="213.05" y="157"/>
                                              </transformationPoint>

@@ -20,7 +20,7 @@
      <symbols>
           <Include href="#链接/MC_big_map.xml" itemID="693bb29b-00000069" lastModified="1765520027"/>
           <Include href="#链接/MC_cloud.xml" itemID="693bb65a-00000020" lastModified="1765520986"/>
-          <Include href="#链接/point_mc.xml" itemID="5f1d9168-00000037" lastModified="1598861933"/>
+          <Include href="#链接/MC_point.xml" itemID="693bb722-00000021" lastModified="1765521186"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="5f1d8e1e-00000017" lastModified="1596289777"/>
           <Include href="元件 2.xml" loadImmediate="false" itemID="5f1d8e73-0000001e" lastModified="1595772531"/>
           <Include href="元件 3.xml" loadImmediate="false" itemID="5f1d9184-0000003f" lastModified="1595773421"/>

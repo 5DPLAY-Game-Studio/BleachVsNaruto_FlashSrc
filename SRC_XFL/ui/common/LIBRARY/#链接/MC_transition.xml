@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/trans_mc" itemID="593cb07d-000001df" linkageExportForAS="true" linkageClassName="trans_mc" lastModified="1530524461">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_transition" itemID="693f6ed7-00000047" linkageExportForAS="true" linkageClassName="$common$MC_transition" lastModified="1765764823">
   <timeline>
-    <DOMTimeline name="trans_mc" currentFrame="59">
+    <DOMTimeline name="MC_transition" currentFrame="59">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>

@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="2E89612EE647F443A62B339291DB15E5">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="2E89612EE647F443A62B339291DB15E5">
      <folders>
           <DOMFolderItem name="#链接" itemID="693bb983-00000022" isExpanded="true"/>
      </folders>
@@ -15,11 +15,11 @@
      </media>
      <symbols>
           <Include href="#链接/MC_congratulations.xml" itemID="693f6526-00000022" lastModified="1765762342"/>
-          <Include href="#链接/MC_logo.xml" itemID="693f63a4-00000021" lastModified="1765762752"/>
+          <Include href="#链接/MC_logo.xml" itemID="693f63a4-00000021" lastModified="1765764531"/>
           <Include href="#链接/MC_menuBtn.xml" itemID="693f6ccf-00000046" lastModified="1765764303"/>
           <Include href="#链接/MC_sltArrow.xml" itemID="693f6cb0-00000045" lastModified="1765764272"/>
+          <Include href="#链接/MC_transition.xml" itemID="693f6ed7-00000047" lastModified="1765764823"/>
           <Include href="#链接/MC_winText.xml" itemID="693f6827-00000044" lastModified="1765763111"/>
-          <Include href="#链接/trans_mc.xml" itemID="593cb07d-000001df" lastModified="1530524461"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="59267cd8-00000018" lastModified="1530524461"/>
           <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="593cb089-000001e5" lastModified="1530524681"/>
           <Include href="logo.xml" itemIcon="1" loadImmediate="false" itemID="548670f1-00000d56" lastModified="1617014606"/>
@@ -82,7 +82,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="#链接/trans_mc" centerPoint3DX="1737" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_transition" centerPoint3DX="1737" centerPoint3DY="300">
                                              <transformationPoint>
                                                   <Point x="1737" y="300"/>
                                              </transformationPoint>

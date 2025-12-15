@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/dialog_bg" itemID="5f37e438-0000009e" linkageExportForAS="true" linkageClassName="dialog_bg" lastModified="1597498434">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_background" itemID="693fa013-00000045" linkageExportForAS="true" linkageClassName="$dialog$MC_background" lastModified="1765777427">
   <timeline>
-    <DOMTimeline name="dialog_bg">
+    <DOMTimeline name="MC_background">
       <layers>
         <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
           <frames>

@@ -14,7 +14,7 @@
                     <Point x="28" y="13"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="#链接/coin_icon_mc">
+                <DOMSymbolInstance libraryItemName="#链接/MC_coinIco">
                   <matrix>
                     <Matrix tx="418.6" ty="397.55"/>
                   </matrix>

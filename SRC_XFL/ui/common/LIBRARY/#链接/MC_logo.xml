@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_logo" itemID="693f63a4-00000021" linkageExportForAS="true" linkageClassName="$common$MC_logo" lastModified="1765761956">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_logo" itemID="693f63a4-00000021" linkageExportForAS="true" linkageClassName="$common$MC_logo" lastModified="1765762752">
   <timeline>
     <DOMTimeline name="MC_logo" currentFrame="27">
       <layers>
@@ -81,7 +81,87 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
         <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" duration="65" keyMode="9728">
-              <elements/>
+              <elements>
+                <DOMStaticText selected="true" width="144" height="137.05" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="328.5" ty="231.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>refactor(CORE_KernelLogic): </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.45" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>重</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>构</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>元件名</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.45" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>重</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>构</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>元件</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> mc_congratulations </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.45" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>的名称</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>为</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> $common$MC_congratulations&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.45" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>

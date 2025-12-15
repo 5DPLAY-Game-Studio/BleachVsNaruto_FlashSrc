@@ -15,8 +15,8 @@
      </media>
      <symbols>
           <Include href="#链接/MC_congratulations.xml" itemID="693f6526-00000022" lastModified="1765762342"/>
-          <Include href="#链接/MC_logo.xml" itemID="693f63a4-00000021" lastModified="1765761956"/>
-          <Include href="#链接/mc_win_all.xml" itemID="59449b0e-00000ebd" lastModified="1616680631"/>
+          <Include href="#链接/MC_logo.xml" itemID="693f63a4-00000021" lastModified="1765762752"/>
+          <Include href="#链接/MC_winText.xml" itemID="693f6827-00000044" lastModified="1765763111"/>
           <Include href="#链接/mc_wzbtn.xml" itemID="58072091-0000033d" lastModified="1502415526"/>
           <Include href="#链接/select_arrow_mc.xml" itemID="59253f10-00000055" lastModified="1495694730"/>
           <Include href="#链接/trans_mc.xml" itemID="593cb07d-000001df" lastModified="1530524461"/>
@@ -100,7 +100,7 @@
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/mc_win_all" centerPoint3DX="378.6" centerPoint3DY="155">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_winText" centerPoint3DX="378.6" centerPoint3DY="155">
                                              <transformationPoint>
                                                   <Point x="378.6" y="155"/>
                                              </transformationPoint>

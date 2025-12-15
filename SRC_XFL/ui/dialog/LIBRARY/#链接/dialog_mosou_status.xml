@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="dialog_mosou_status" itemID="5f37e255-0000003d" linkageExportForAS="true" linkageClassName="dialog_mosou_status" lastModified="1598265268">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/dialog_mosou_status" itemID="5f37e255-0000003d" linkageExportForAS="true" linkageClassName="dialog_mosou_status" lastModified="1598265268">
   <timeline>
     <DOMTimeline name="dialog_mosou_status">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="coin_mc" name="coinmc">
+                <DOMSymbolInstance libraryItemName="#链接/coin_mc" name="coinmc">
                   <matrix>
                     <Matrix tx="598.7" ty="-53"/>
                   </matrix>
@@ -46,7 +46,7 @@
                     <Point x="135.5" y="136.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="backbtn" name="back" symbolType="button">
+                <DOMSymbolInstance libraryItemName="#链接/BTN_back" name="back" symbolType="button">
                   <matrix>
                     <Matrix tx="-18.5" ty="-13.2"/>
                   </matrix>

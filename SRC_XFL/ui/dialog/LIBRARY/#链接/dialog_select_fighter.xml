@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="dialog_select_fighter" itemID="5f37e4ae-000000ae" linkageExportForAS="true" linkageClassName="dialog_select_fighter" lastModified="1626875018" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/dialog_select_fighter" itemID="5f37e4ae-000000ae" linkageExportForAS="true" linkageClassName="dialog_select_fighter" lastModified="1626875018" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="dialog_select_fighter">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="dot_mc">
+                <DOMSymbolInstance libraryItemName="#链接/dot_mc">
                   <matrix>
                     <Matrix tx="25.05" ty="450.55"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point x="28" y="13"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="coin_icon_mc">
+                <DOMSymbolInstance libraryItemName="#链接/coin_icon_mc">
                   <matrix>
                     <Matrix tx="418.6" ty="397.55"/>
                   </matrix>
@@ -30,7 +30,7 @@
                     <Point x="0.6" y="1.5"/>
                   </transformationPoint>
                 </DOMBitmapInstance>
-                <DOMSymbolInstance libraryItemName="dot_mc">
+                <DOMSymbolInstance libraryItemName="#链接/dot_mc">
                   <matrix>
                     <Matrix tx="25.05" ty="450.55"/>
                   </matrix>
@@ -46,7 +46,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="backbtn" name="back" symbolType="button">
+                <DOMSymbolInstance libraryItemName="#链接/BTN_back" name="back" symbolType="button">
                   <matrix>
                     <Matrix tx="-18.5" ty="-13.2"/>
                   </matrix>
@@ -70,7 +70,7 @@
                     <Point x="46" y="47.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="coin_mc" name="coinmc">
+                <DOMSymbolInstance libraryItemName="#链接/coin_mc" name="coinmc">
                   <matrix>
                     <Matrix tx="598.7" ty="-53"/>
                   </matrix>

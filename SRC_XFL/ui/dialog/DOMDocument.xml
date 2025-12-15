@@ -1,4 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000099" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="D6D3054E400DD347A57747238C879395">
+     <folders>
+          <DOMFolderItem name="#链接" itemID="693f6fb8-00000042" isExpanded="true"/>
+     </folders>
      <media>
           <DOMBitmapItem name="111.png" itemID="5f37e350-0000007d" sourceExternalFilepath="../dialog_ui/LIBRARY/111.png" sourceLastImported="1597495556" externalFileCRC32="2334387214" externalFileSize="9163" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="111.png" bitmapDataHRef="M 12 1597498192.dat" frameRight="1920" frameBottom="1040"/>
           <DOMBitmapItem name="222.png" itemID="5f37e350-00000079" sourceExternalFilepath="../dialog_ui/LIBRARY/222.png" sourceLastImported="1597495571" externalFileCRC32="2985262705" externalFileSize="8591" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="222.png" bitmapDataHRef="M 11 1597498192.dat" frameRight="1820" frameBottom="1060"/>
@@ -36,28 +39,28 @@
           <DOMBitmapItem name="xbtn.png" itemID="5f436412-00000074" sourceExternalFilepath="../dialog_ui/LIBRARY/xbtn.png" sourceLastImported="1751791213" externalFileCRC32="3442682219" externalFileSize="9514" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="xbtn.png" bitmapDataHRef="M 25 1598252050.dat" frameRight="1380" frameBottom="1420"/>
      </media>
      <symbols>
-          <Include href="backbtn.xml" itemIcon="0" itemID="5f37e342-00000072" lastModified="1597498178"/>
+          <Include href="#链接/BTN_back.xml" itemIcon="0" itemID="693f9cd7-00000040" lastModified="1765776599"/>
+          <Include href="#链接/coin_icon_mc.xml" itemID="60f7b569-000001cf" lastModified="1626869456"/>
+          <Include href="#链接/coin_mc.xml" itemID="5f37e592-000000e1" lastModified="1617015386"/>
+          <Include href="#链接/dialog_bg.xml" itemID="5f37e438-0000009e" lastModified="1597498434"/>
+          <Include href="#链接/dialog_confrim.xml" itemID="5f43682a-00000087" lastModified="1598271231"/>
+          <Include href="#链接/dialog_mosou_status.xml" itemID="5f37e255-0000003d" lastModified="1598265268"/>
+          <Include href="#链接/dialog_select_fighter.xml" itemID="5f37e4ae-000000ae" lastModified="1626875018"/>
+          <Include href="#链接/dot_mc.xml" itemID="60f7b31b-000001b0" lastModified="1626846006"/>
+          <Include href="#链接/face_ui_mc.xml" itemID="5f435fe8-0000002c" lastModified="1598251170"/>
           <Include href="big_face_head.xml" loadImmediate="false" itemID="5f37e2a0-00000052" lastModified="1598265264"/>
           <Include href="btn_buy.xml" itemIcon="0" loadImmediate="false" itemID="5f37e4f1-000000bf" lastModified="1597498609"/>
-          <Include href="coin_icon_mc.xml" itemID="60f7b569-000001cf" lastModified="1626869456"/>
-          <Include href="元件 3.xml" loadImmediate="false" itemID="5f435ffc-00000035" lastModified="1598253342"/>
-          <Include href="元件 4.xml" itemIcon="1" loadImmediate="false" itemID="5f436022-0000003e" lastModified="1598251042"/>
           <Include href="元件 5.xml" itemIcon="0" loadImmediate="false" itemID="5f43642e-0000007a" lastModified="1598252078"/>
           <Include href="元件 6.xml" itemIcon="0" loadImmediate="false" itemID="5f436446-0000007f" lastModified="1598252102"/>
+          <Include href="changebtn.xml" itemIcon="0" loadImmediate="false" itemID="5f37e36e-00000087" lastModified="1597498222"/>
+          <Include href="ct.xml" loadImmediate="false" itemID="5f37e3d2-0000009a" lastModified="1626860590"/>
+          <Include href="元件 1.xml" loadImmediate="false" itemID="5f37e542-000000d4" lastModified="1598267736"/>
+          <Include href="元件 3.xml" loadImmediate="false" itemID="5f435ffc-00000035" lastModified="1598253342"/>
+          <Include href="元件 4.xml" itemIcon="1" loadImmediate="false" itemID="5f436022-0000003e" lastModified="1598251042"/>
           <Include href="元件 7.xml" itemIcon="1" loadImmediate="false" itemID="5f436d2d-0000008d" lastModified="1598254381"/>
           <Include href="元件 8.xml" loadImmediate="false" itemID="5f44b80b-0000003a" lastModified="1598339163"/>
           <Include href="coin_ico.xml" loadImmediate="false" itemID="5f37e5f7-000000f0" lastModified="1597498871"/>
-          <Include href="coin_mc.xml" itemID="5f37e592-000000e1" lastModified="1617015386"/>
-          <Include href="元件 1.xml" loadImmediate="false" itemID="5f37e542-000000d4" lastModified="1598267736"/>
           <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="5f37e553-000000d9" lastModified="1597498707"/>
-          <Include href="changebtn.xml" itemIcon="0" loadImmediate="false" itemID="5f37e36e-00000087" lastModified="1597498222"/>
-          <Include href="ct.xml" loadImmediate="false" itemID="5f37e3d2-0000009a" lastModified="1626860590"/>
-          <Include href="dialog_bg.xml" itemID="5f37e438-0000009e" lastModified="1597498434"/>
-          <Include href="dialog_confrim.xml" itemID="5f43682a-00000087" lastModified="1598271231"/>
-          <Include href="dialog_mosou_status.xml" itemID="5f37e255-0000003d" lastModified="1598265268"/>
-          <Include href="dialog_select_fighter.xml" itemID="5f37e4ae-000000ae" lastModified="1626875018"/>
-          <Include href="dot_mc.xml" itemID="60f7b31b-000001b0" lastModified="1626846006"/>
-          <Include href="face_ui_mc.xml" itemID="5f435fe8-0000002c" lastModified="1598251170"/>
           <Include href="leaderbtn.xml" itemIcon="0" loadImmediate="false" itemID="5f37e373-0000008c" lastModified="1597498227"/>
           <Include href="qbar.xml" loadImmediate="false" itemID="5f37e3a1-00000095" lastModified="1598339135"/>
      </symbols>
@@ -68,7 +71,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="dialog_mosou_status">
+                                        <DOMSymbolInstance libraryItemName="#链接/dialog_mosou_status">
                                              <matrix>
                                                   <Matrix tx="30.6" ty="71.05"/>
                                              </matrix>
@@ -80,7 +83,7 @@
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="dialog_select_fighter" selected="true">
+                                        <DOMSymbolInstance libraryItemName="#链接/dialog_select_fighter" selected="true">
                                              <matrix>
                                                   <Matrix tx="29.6" ty="73"/>
                                              </matrix>
@@ -88,7 +91,7 @@
                                                   <Point x="370.5" y="239"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="face_ui_mc">
+                                        <DOMSymbolInstance libraryItemName="#链接/face_ui_mc">
                                              <matrix>
                                                   <Matrix tx="874.9" ty="133.95"/>
                                              </matrix>
@@ -100,7 +103,7 @@
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="dialog_confrim" selected="true" centerPoint3DX="510.95" centerPoint3DY="378.75">
+                                        <DOMSymbolInstance libraryItemName="#链接/dialog_confrim" selected="true" centerPoint3DX="510.95" centerPoint3DY="378.75">
                                              <matrix>
                                                   <Matrix tx="143.6" ty="156.45"/>
                                              </matrix>
@@ -116,7 +119,7 @@
                          <frames>
                               <DOMFrame index="0" duration="3" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="dialog_bg">
+                                        <DOMSymbolInstance libraryItemName="#链接/dialog_bg">
                                              <transformationPoint>
                                                   <Point x="50" y="50"/>
                                              </transformationPoint>

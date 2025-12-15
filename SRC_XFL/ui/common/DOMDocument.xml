@@ -16,9 +16,9 @@
      <symbols>
           <Include href="#链接/MC_congratulations.xml" itemID="693f6526-00000022" lastModified="1765762342"/>
           <Include href="#链接/MC_logo.xml" itemID="693f63a4-00000021" lastModified="1765762752"/>
+          <Include href="#链接/MC_menuBtn.xml" itemID="693f6ccf-00000046" lastModified="1765764303"/>
+          <Include href="#链接/MC_sltArrow.xml" itemID="693f6cb0-00000045" lastModified="1765764272"/>
           <Include href="#链接/MC_winText.xml" itemID="693f6827-00000044" lastModified="1765763111"/>
-          <Include href="#链接/mc_wzbtn.xml" itemID="58072091-0000033d" lastModified="1765763481"/>
-          <Include href="#链接/select_arrow_mc.xml" itemID="59253f10-00000055" lastModified="1495694730"/>
           <Include href="#链接/trans_mc.xml" itemID="593cb07d-000001df" lastModified="1530524461"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="59267cd8-00000018" lastModified="1530524461"/>
           <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="593cb089-000001e5" lastModified="1530524681"/>
@@ -66,7 +66,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/mc_wzbtn" centerPoint3DX="800" centerPoint3DY="64.95">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_menuBtn" centerPoint3DX="800" centerPoint3DY="64.95">
                                              <matrix>
                                                   <Matrix tx="606" ty="27.45"/>
                                              </matrix>
@@ -74,7 +74,7 @@
                                                   <Point x="194" y="37.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="#链接/select_arrow_mc" centerPoint3DX="66.5" centerPoint3DY="40.95">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_sltArrow" centerPoint3DX="66.5" centerPoint3DY="40.95">
                                              <matrix>
                                                   <Matrix tx="66.5" ty="40.95"/>
                                              </matrix>

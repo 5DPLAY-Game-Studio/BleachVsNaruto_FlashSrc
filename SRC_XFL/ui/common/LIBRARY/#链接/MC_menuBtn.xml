@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/mc_wzbtn" itemID="58072091-0000033d" linkageExportForAS="true" linkageClassName="$common$MC_menuBtn" lastModified="1765763481" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_menuBtn" itemID="693f6ccf-00000046" linkageExportForAS="true" linkageClassName="$common$MC_menuBtn" lastModified="1765764303" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="mc_wzbtn">
+    <DOMTimeline name="MC_menuBtn">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" layerType="guide">
           <frames>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/coin_mc" itemID="5f37e592-000000e1" linkageExportForAS="true" linkageClassName="coin_mc" lastModified="1617015386">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_coinUI" itemID="693f9f4a-00000043" linkageExportForAS="true" linkageClassName="$dialog$MC_coinUI" lastModified="1765777226">
   <timeline>
-    <DOMTimeline name="coin_mc">
+    <DOMTimeline name="MC_coinUI">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC">
           <frames>

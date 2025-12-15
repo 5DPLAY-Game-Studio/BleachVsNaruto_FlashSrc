@@ -70,7 +70,7 @@
                     <Point x="46" y="47.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="#链接/coin_mc" name="coinmc">
+                <DOMSymbolInstance libraryItemName="#链接/MC_coinUI" name="coinmc">
                   <matrix>
                     <Matrix tx="598.7" ty="-53"/>
                   </matrix>

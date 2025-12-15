@@ -1,4 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="2E89612EE647F443A62B339291DB15E5">
+     <folders>
+          <DOMFolderItem name="#链接" itemID="693bb983-00000022" isExpanded="true"/>
+     </folders>
      <media>
           <DOMSoundItem name="ANA_DE_00002.wav" itemID="59452e9c-00000934" sourceExternalFilepath="../common_ui/LIBRARY/ANA_DE_00002.wav" sourceLastImported="1379562117" externalFileCRC32="2880497556" externalFileSize="84818" href="ANA_DE_00002.wav" soundDataHRef="M 8 1497706140.dat" format="22kHz 16bit Mono" sampleCount="42365" dataLength="84730"/>
           <DOMBitmapItem name="arrow2.png" itemID="5b39f32a-00002b8d" sourceExternalFilepath="../common_ui/LIBRARY/arrow2.png" sourceLastImported="1751790780" externalFileCRC32="3828551788" externalFileSize="1635" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="arrow2.png" bitmapDataHRef="M 11 1530524458.dat" frameRight="680" frameBottom="740"/>
@@ -11,22 +14,22 @@
           <DOMBitmapItem name="transimg.png" itemID="5b39f406-00002ba5" sourceExternalFilepath="../common_ui/LIBRARY/transimg.png" sourceLastImported="1751790781" externalFileCRC32="1863593266" externalFileSize="122701" originalCompressionType="lossless" quality="50" href="transimg.png" bitmapDataHRef="M 16 1530524678.dat" frameRight="69480" frameBottom="12000"/>
      </media>
      <symbols>
+          <Include href="#链接/mc_congratulations.xml" itemID="59449e22-00000ee6" lastModified="1497706144"/>
+          <Include href="#链接/MC_logo.xml" itemID="693f63a4-00000021" lastModified="1765761956"/>
+          <Include href="#链接/mc_win_all.xml" itemID="59449b0e-00000ebd" lastModified="1616680631"/>
+          <Include href="#链接/mc_wzbtn.xml" itemID="58072091-0000033d" lastModified="1502415526"/>
+          <Include href="#链接/select_arrow_mc.xml" itemID="59253f10-00000055" lastModified="1495694730"/>
+          <Include href="#链接/trans_mc.xml" itemID="593cb07d-000001df" lastModified="1530524461"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="59267cd8-00000018" lastModified="1530524461"/>
           <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="593cb089-000001e5" lastModified="1530524681"/>
           <Include href="logo.xml" itemIcon="1" loadImmediate="false" itemID="548670f1-00000d56" lastModified="1617014606"/>
-          <Include href="logo_movie.xml" itemID="54867101-00000d58" lastModified="1497667312"/>
           <Include href="logo_movie_1.xml" itemIcon="1" loadImmediate="false" itemID="4d3ebffc-0000002f" lastModified="1295958042"/>
           <Include href="logo_movie_2.xml" itemIcon="1" loadImmediate="false" itemID="4d3ec004-00000033" lastModified="1295958042"/>
           <Include href="logo_movie_3.xml" itemIcon="1" loadImmediate="false" itemID="4d3ec00a-00000037" lastModified="1295958306"/>
           <Include href="logo_movie_4.xml" itemIcon="1" loadImmediate="false" itemID="4d3ec010-0000003b" lastModified="1295958149"/>
-          <Include href="mc_congratulations.xml" itemID="59449e22-00000ee6" lastModified="1497706144"/>
-          <Include href="mc_win_all.xml" itemID="59449b0e-00000ebd" lastModified="1616680631"/>
-          <Include href="mc_wzbtn.xml" itemID="58072091-0000033d" lastModified="1502415526"/>
-          <Include href="select_arrow_mc.xml" itemID="59253f10-00000055" lastModified="1495694730"/>
           <Include href="Symbol 1.xml" itemIcon="1" loadImmediate="false" itemID="59449b44-00000ed4" lastModified="1617014617"/>
           <Include href="Symbol 2.xml" itemIcon="1" loadImmediate="false" itemID="59449e2c-00000eeb" lastModified="1530524461"/>
           <Include href="Symbol 3.xml" itemIcon="1" loadImmediate="false" itemID="59449ed8-00000efd" lastModified="1497669361"/>
-          <Include href="trans_mc.xml" itemID="593cb07d-000001df" lastModified="1530524461"/>
           <Include href="wzbtn_area.xml" itemIcon="0" loadImmediate="false" itemID="580721be-0000034f" lastModified="1476862401"/>
           <Include href="wzimg_bgimg.xml" loadImmediate="false" itemID="580720e5-00000345" lastModified="1530524461"/>
      </symbols>
@@ -50,7 +53,7 @@
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="mc_congratulations" centerPoint3DX="375" centerPoint3DY="46.5">
+                                        <DOMSymbolInstance libraryItemName="#链接/mc_congratulations" centerPoint3DX="375" centerPoint3DY="46.5">
                                              <transformationPoint>
                                                   <Point x="375" y="46.5"/>
                                              </transformationPoint>
@@ -63,7 +66,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="mc_wzbtn" centerPoint3DX="800" centerPoint3DY="64.95">
+                                        <DOMSymbolInstance libraryItemName="#链接/mc_wzbtn" centerPoint3DX="800" centerPoint3DY="64.95">
                                              <matrix>
                                                   <Matrix tx="606" ty="27.45"/>
                                              </matrix>
@@ -71,7 +74,7 @@
                                                   <Point x="194" y="37.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="select_arrow_mc" centerPoint3DX="66.5" centerPoint3DY="40.95">
+                                        <DOMSymbolInstance libraryItemName="#链接/select_arrow_mc" centerPoint3DX="66.5" centerPoint3DY="40.95">
                                              <matrix>
                                                   <Matrix tx="66.5" ty="40.95"/>
                                              </matrix>
@@ -79,7 +82,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="trans_mc" centerPoint3DX="1737" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="#链接/trans_mc" centerPoint3DX="1737" centerPoint3DY="300">
                                              <transformationPoint>
                                                   <Point x="1737" y="300"/>
                                              </transformationPoint>
@@ -88,7 +91,7 @@
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="logo_movie" centerPoint3DX="470" centerPoint3DY="295">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_logo" centerPoint3DX="470" centerPoint3DY="295">
                                              <transformationPoint>
                                                   <Point x="470" y="295"/>
                                              </transformationPoint>
@@ -97,7 +100,7 @@
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="mc_win_all" centerPoint3DX="378.6" centerPoint3DY="155">
+                                        <DOMSymbolInstance libraryItemName="#链接/mc_win_all" centerPoint3DX="378.6" centerPoint3DY="155">
                                              <transformationPoint>
                                                   <Point x="378.6" y="155"/>
                                              </transformationPoint>

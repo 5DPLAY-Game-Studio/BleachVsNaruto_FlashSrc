@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/mc_congratulations" itemID="59449e22-00000ee6" linkageExportForAS="true" linkageClassName="mc_congratulations" lastModified="1497706144">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_congratulations" itemID="693f6526-00000022" linkageExportForAS="true" linkageClassName="$common$MC_congratulations" lastModified="1765762342">
   <timeline>
-    <DOMTimeline name="mc_congratulations">
+    <DOMTimeline name="MC_congratulations">
       <layers>
         <DOMLayer name="Layer 2" color="#9933CC" locked="true" current="true" isSelected="true">
           <frames>

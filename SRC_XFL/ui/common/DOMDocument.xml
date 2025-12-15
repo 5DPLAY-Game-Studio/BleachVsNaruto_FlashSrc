@@ -14,7 +14,7 @@
           <DOMBitmapItem name="transimg.png" itemID="5b39f406-00002ba5" sourceExternalFilepath="../common_ui/LIBRARY/transimg.png" sourceLastImported="1751790781" externalFileCRC32="1863593266" externalFileSize="122701" originalCompressionType="lossless" quality="50" href="transimg.png" bitmapDataHRef="M 16 1530524678.dat" frameRight="69480" frameBottom="12000"/>
      </media>
      <symbols>
-          <Include href="#链接/mc_congratulations.xml" itemID="59449e22-00000ee6" lastModified="1497706144"/>
+          <Include href="#链接/MC_congratulations.xml" itemID="693f6526-00000022" lastModified="1765762342"/>
           <Include href="#链接/MC_logo.xml" itemID="693f63a4-00000021" lastModified="1765761956"/>
           <Include href="#链接/mc_win_all.xml" itemID="59449b0e-00000ebd" lastModified="1616680631"/>
           <Include href="#链接/mc_wzbtn.xml" itemID="58072091-0000033d" lastModified="1502415526"/>
@@ -53,7 +53,7 @@
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/mc_congratulations" centerPoint3DX="375" centerPoint3DY="46.5">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_congratulations" centerPoint3DX="375" centerPoint3DY="46.5">
                                              <transformationPoint>
                                                   <Point x="375" y="46.5"/>
                                              </transformationPoint>

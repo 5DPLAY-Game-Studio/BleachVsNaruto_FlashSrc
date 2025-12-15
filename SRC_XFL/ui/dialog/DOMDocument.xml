@@ -40,7 +40,6 @@
      </media>
      <symbols>
           <Include href="#链接/BTN_back.xml" itemIcon="0" itemID="693f9cd7-00000040" lastModified="1765776599"/>
-          <Include href="#链接/dialog_select_fighter.xml" itemID="5f37e4ae-000000ae" lastModified="1626875018"/>
           <Include href="#链接/dot_mc.xml" itemID="60f7b31b-000001b0" lastModified="1626846006"/>
           <Include href="#链接/face_ui_mc.xml" itemID="5f435fe8-0000002c" lastModified="1598251170"/>
           <Include href="#链接/MC_background.xml" itemID="693fa013-00000045" lastModified="1765777427"/>
@@ -48,6 +47,7 @@
           <Include href="#链接/MC_coinUI.xml" itemID="693f9f4a-00000043" lastModified="1765777226"/>
           <Include href="#链接/MC_confirm.xml" itemID="693fa1d7-00000046" lastModified="1765777879"/>
           <Include href="#链接/MC_musouTeamPanel.xml" itemID="693fb509-00000040" lastModified="1765782793"/>
+          <Include href="#链接/MC_selectFighterPanel.xml" itemID="693fb5ce-00000041" lastModified="1765782990"/>
           <Include href="big_face_head.xml" loadImmediate="false" itemID="5f37e2a0-00000052" lastModified="1598265264"/>
           <Include href="btn_buy.xml" itemIcon="0" loadImmediate="false" itemID="5f37e4f1-000000bf" lastModified="1597498609"/>
           <Include href="changebtn.xml" itemIcon="0" loadImmediate="false" itemID="5f37e36e-00000087" lastModified="1597498222"/>
@@ -83,7 +83,7 @@
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/dialog_select_fighter" selected="true">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_selectFighterPanel" selected="true">
                                              <matrix>
                                                   <Matrix tx="29.6" ty="73"/>
                                              </matrix>

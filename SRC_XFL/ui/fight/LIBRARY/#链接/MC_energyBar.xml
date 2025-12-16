@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energybar_barmc" name="barmc" centerPoint3DX="-70" centerPoint3DY="5">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBarMc" name="barmc" centerPoint3DX="-70" centerPoint3DY="5">
                   <matrix>
                     <Matrix tx="-70" ty="5"/>
                   </matrix>

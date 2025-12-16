@@ -184,7 +184,6 @@
           <Include href="#链接/hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1530523063"/>
           <Include href="#链接/hpbar_mc.xml" itemID="5898061e-00000209" lastModified="1502431913"/>
           <Include href="#链接/MC_bsFace.xml" itemID="6940cccd-00000153" lastModified="1765854413"/>
-          <Include href="#链接/player_pos_p2.xml" itemID="59422ea6-00000125" lastModified="1530523063"/>
           <Include href="#链接/qbar_barmc.xml" itemID="58982583-00000797" lastModified="1530523063"/>
           <Include href="#链接/qbar_barmcgroup.xml" itemID="5898260e-000007a7" lastModified="1486366571"/>
           <Include href="#链接/qbar_facemc.xml" itemID="5898243f-00000780" lastModified="1530523063"/>
@@ -192,6 +191,7 @@
           <Include href="#链接/qbar_mc.xml" itemID="589823fa-0000075d" lastModified="1502158335"/>
           <Include href="#链接/score_mc.xml" itemID="58981f43-000006ec" lastModified="1530523063"/>
           <Include href="#链接/SP_playerPos1.xml" itemID="6940ce06-00000175" lastModified="1765854726"/>
+          <Include href="#链接/SP_playerPos2.xml" itemID="6940cf25-00000176" lastModified="1765855013"/>
           <Include href="#链接/stg_fight.xml" itemID="589805e3-000001f9" lastModified="1611155966"/>
           <Include href="#链接/time_mc.xml" itemID="58980e9d-000002b1" lastModified="1497073474"/>
           <Include href="#链接/time_txtmc.xml" itemID="58981bec-00000440" lastModified="1530523063"/>
@@ -316,7 +316,7 @@
                                                   <Point y="-27.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="#链接/player_pos_p2" centerPoint3DX="-206.55" centerPoint3DY="420.15">
+                                        <DOMSymbolInstance libraryItemName="#链接/SP_playerPos2" centerPoint3DX="-206.55" centerPoint3DY="420.15">
                                              <matrix>
                                                   <Matrix tx="-206.55" ty="447.65"/>
                                              </matrix>

@@ -14,12 +14,12 @@
           <DOMBitmapItem name="transimg.png" itemID="5b39f406-00002ba5" sourceExternalFilepath="../common_ui/LIBRARY/transimg.png" sourceLastImported="1751790781" externalFileCRC32="1863593266" externalFileSize="122701" originalCompressionType="lossless" quality="50" href="transimg.png" bitmapDataHRef="M 16 1530524678.dat" frameRight="69480" frameBottom="12000"/>
      </media>
      <symbols>
+          <Include href="#链接/MC_congratulations.xml" itemID="6940cf2f-00000177" lastModified="1765855023"/>
           <Include href="#链接/MC_logo.xml" itemID="693f63a4-00000021" lastModified="1765764531"/>
           <Include href="#链接/MC_menuBtn.xml" itemID="693f6ccf-00000046" lastModified="1765764303"/>
           <Include href="#链接/MC_sltArrow.xml" itemID="693f6cb0-00000045" lastModified="1765764272"/>
           <Include href="#链接/MC_transition.xml" itemID="693f6ed7-00000047" lastModified="1765764823"/>
           <Include href="#链接/MC_winText.xml" itemID="693f6827-00000044" lastModified="1765763111"/>
-          <Include href="#链接/MC1_congratulations.xml" itemID="6940cd7a-00000174" lastModified="1765854586"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="59267cd8-00000018" lastModified="1530524461"/>
           <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="593cb089-000001e5" lastModified="1530524681"/>
           <Include href="logo.xml" itemIcon="1" loadImmediate="false" itemID="548670f1-00000d56" lastModified="1617014606"/>
@@ -53,7 +53,7 @@
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/MC1_congratulations" centerPoint3DX="375" centerPoint3DY="46.5">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_congratulations" centerPoint3DX="375" centerPoint3DY="46.5">
                                              <transformationPoint>
                                                   <Point x="375" y="46.5"/>
                                              </transformationPoint>

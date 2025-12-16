@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/player_pos_p2" itemID="59422ea6-00000125" linkageExportForAS="true" linkageClassName="player_pos_p2" lastModified="1530523063">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/SP_playerPos2" itemID="6940cf25-00000176" linkageExportForAS="true" linkageBaseClass="flash.display.Sprite" linkageClassName="$fight$SP_playerPos2" lastModified="1765855013" isSpriteSubclass="true">
   <timeline>
-    <DOMTimeline name="player_pos_p2">
+    <DOMTimeline name="SP_playerPos2">
       <layers>
         <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>

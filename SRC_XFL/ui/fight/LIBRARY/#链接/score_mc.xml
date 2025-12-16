@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="score_mc" itemID="58981f43-000006ec" linkageExportForAS="true" linkageClassName="score_mc" lastModified="1530523063" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/score_mc" itemID="58981f43-000006ec" linkageExportForAS="true" linkageClassName="score_mc" lastModified="1530523063" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="score_mc">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="txtmc_score" centerPoint3DX="76.7" centerPoint3DY="11.75">
+                <DOMSymbolInstance libraryItemName="#链接/txtmc_score" centerPoint3DX="76.7" centerPoint3DY="11.75">
                   <matrix>
                     <Matrix tx="60.95"/>
                   </matrix>

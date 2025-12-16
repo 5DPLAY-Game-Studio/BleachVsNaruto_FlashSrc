@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energy_bar" itemID="58980ee1-000002cc" linkageExportForAS="true" linkageClassName="energy_bar" lastModified="1486360611" lastUniqueIdentifier="4">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/energy_bar" itemID="58980ee1-000002cc" linkageExportForAS="true" linkageClassName="energy_bar" lastModified="1486360611" lastUniqueIdentifier="4">
   <timeline>
     <DOMTimeline name="energy_bar">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energybar_barmc" name="barmc" centerPoint3DX="-70" centerPoint3DY="5">
+                <DOMSymbolInstance libraryItemName="#链接/energybar_barmc" name="barmc" centerPoint3DX="-70" centerPoint3DY="5">
                   <matrix>
                     <Matrix tx="-70" ty="5"/>
                   </matrix>

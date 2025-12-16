@@ -1,8 +1,9 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#006699" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" rulerVisible="true" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" viewOptionsButtonsActive="true" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="291DC486E015534EA5DABEF786B7BED8">
      <folders>
+          <DOMFolderItem name="#链接" itemID="6940cb9e-00000127" isExpanded="true"/>
           <DOMFolderItem name="元件" itemID="58a2ae93-0000098b"/>
-          <DOMFolderItem name="fonts" itemID="58a55522-00001a36" isExpanded="true"/>
-          <DOMFolderItem name="fonts/font1" itemID="58a55526-00001a3a" isExpanded="true"/>
+          <DOMFolderItem name="fonts" itemID="58a55522-00001a36"/>
+          <DOMFolderItem name="fonts/font1" itemID="58a55526-00001a3a"/>
           <DOMFolderItem name="fonts/font2" itemID="58a5556c-00001aad" isExpanded="true"/>
           <DOMFolderItem name="咆哮" itemID="58a2af88-0000099c"/>
      </folders>
@@ -174,8 +175,30 @@
           <DOMBitmapItem name="win_naruto.png" itemID="5b39edb4-000025c6" sourceExternalFilepath="./LIBRARY/win_naruto.png" sourceLastImported="1751791737" externalFileCRC32="1496307375" externalFileSize="1716" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="win_naruto.png" bitmapDataHRef="M 261 1530523060.dat" frameRight="620" frameBottom="640"/>
      </media>
      <symbols>
+          <Include href="#链接/energy_bar.xml" itemID="58980ee1-000002cc" lastModified="1486360611"/>
+          <Include href="#链接/energybar_barmc.xml" itemID="58980f88-000002e5" lastModified="1530523063"/>
+          <Include href="#链接/hits_mc.xml" itemID="58a5295a-00001721" lastModified="1502626839"/>
+          <Include href="#链接/hits_num_mc.xml" itemID="58a5298e-0000174e" lastModified="1530523063"/>
+          <Include href="#链接/hpbar_barmc.xml" itemID="58980668-00000216" lastModified="1530523063"/>
+          <Include href="#链接/hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1486359838"/>
+          <Include href="#链接/hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1530523063"/>
+          <Include href="#链接/hpbar_mc.xml" itemID="5898061e-00000209" lastModified="1502431913"/>
+          <Include href="#链接/MC_bsFace.xml" itemID="6940cccd-00000153" lastModified="1765854413"/>
+          <Include href="#链接/player_pos_p1.xml" itemID="59422e9b-0000011f" lastModified="1530523063"/>
+          <Include href="#链接/player_pos_p2.xml" itemID="59422ea6-00000125" lastModified="1530523063"/>
+          <Include href="#链接/qbar_barmc.xml" itemID="58982583-00000797" lastModified="1530523063"/>
+          <Include href="#链接/qbar_barmcgroup.xml" itemID="5898260e-000007a7" lastModified="1486366571"/>
+          <Include href="#链接/qbar_facemc.xml" itemID="5898243f-00000780" lastModified="1530523063"/>
+          <Include href="#链接/qbar_fzqi_mc.xml" itemID="58982860-00000a1f" lastModified="1502422778"/>
+          <Include href="#链接/qbar_mc.xml" itemID="589823fa-0000075d" lastModified="1502158335"/>
+          <Include href="#链接/score_mc.xml" itemID="58981f43-000006ec" lastModified="1530523063"/>
+          <Include href="#链接/stg_fight.xml" itemID="589805e3-000001f9" lastModified="1611155966"/>
+          <Include href="#链接/time_mc.xml" itemID="58980e9d-000002b1" lastModified="1497073474"/>
+          <Include href="#链接/time_txtmc.xml" itemID="58981bec-00000440" lastModified="1530523063"/>
+          <Include href="#链接/txt_mc.xml" itemID="58980dc7-00000283" lastModified="1497956891"/>
+          <Include href="#链接/txtmc_score.xml" itemID="58981f6b-000006f1" lastModified="1530523063"/>
+          <Include href="#链接/winmc.xml" itemID="5941fcfd-00000e1e" lastModified="1530523063"/>
           <Include href="bsface_ct.xml" loadImmediate="false" itemID="58a2afd0-000009a0" lastModified="1487059460"/>
-          <Include href="bsface_mc.xml" itemID="58a2afda-000009a7" lastModified="1487059465"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="58980718-00000225" lastModified="1530523063"/>
           <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="5898071d-0000022a" lastModified="1530523063"/>
           <Include href="元件 3.xml" itemIcon="1" loadImmediate="false" itemID="58982417-00000771" lastModified="1530523063"/>
@@ -222,9 +245,7 @@
           <Include href="补间 2.xml" itemIcon="1" loadImmediate="false" itemID="58a5586d-00001b69" lastModified="1530523167"/>
           <Include href="补间 2 副本.xml" itemIcon="1" loadImmediate="false" itemID="5958de9e-000025a0" lastModified="1530523063"/>
           <Include href="补间 7.xml" itemIcon="1" loadImmediate="false" itemID="58a5586d-00001b78" lastModified="1530523167"/>
-          <Include href="energy_bar.xml" itemID="58980ee1-000002cc" lastModified="1486360611"/>
           <Include href="energybar_bar.xml" loadImmediate="false" itemID="58980fb6-000002f4" lastModified="1486539570"/>
-          <Include href="energybar_barmc.xml" itemID="58980f88-000002e5" lastModified="1530523063"/>
           <Include href="energybar_txt_mc.xml" loadImmediate="false" itemID="58980f0e-000002d2" lastModified="1487053958"/>
           <Include href="补间 1.xml" itemIcon="1" loadImmediate="false" itemID="58a5586d-00001b66" lastModified="1530523167"/>
           <Include href="补间 3.xml" itemIcon="1" loadImmediate="false" itemID="58a5586d-00001b6c" lastModified="1530523167"/>
@@ -259,21 +280,8 @@
           <Include href="补间 31.xml" itemIcon="1" loadImmediate="false" itemID="58a564ce-00001f3e" lastModified="1530523167"/>
           <Include href="补间 32.xml" itemIcon="1" loadImmediate="false" itemID="58a564ce-00001f41" lastModified="1530523167"/>
           <Include href="game_start_mc.xml" loadImmediate="false" itemID="58a554ea-000019c5" lastModified="1731664830"/>
-          <Include href="hits_mc.xml" itemID="58a5295a-00001721" lastModified="1502626839"/>
-          <Include href="hits_num_mc.xml" itemID="58a5298e-0000174e" lastModified="1530523063"/>
           <Include href="hpbar_bar.xml" loadImmediate="false" itemID="58981cbc-00000475" lastModified="1486364147"/>
           <Include href="hpbar_bar 副本.xml" loadImmediate="false" itemID="58998d61-00000263" lastModified="1530523063"/>
-          <Include href="hpbar_barmc.xml" itemID="58980668-00000216" lastModified="1530523063"/>
-          <Include href="hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1486359838"/>
-          <Include href="hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1530523063"/>
-          <Include href="hpbar_mc.xml" itemID="5898061e-00000209" lastModified="1502431913"/>
-          <Include href="player_pos_p1.xml" itemID="59422e9b-0000011f" lastModified="1530523063"/>
-          <Include href="player_pos_p2.xml" itemID="59422ea6-00000125" lastModified="1530523063"/>
-          <Include href="qbar_barmc.xml" itemID="58982583-00000797" lastModified="1530523063"/>
-          <Include href="qbar_barmcgroup.xml" itemID="5898260e-000007a7" lastModified="1486366571"/>
-          <Include href="qbar_facemc.xml" itemID="5898243f-00000780" lastModified="1530523063"/>
-          <Include href="qbar_fzqi_mc.xml" itemID="58982860-00000a1f" lastModified="1502422778"/>
-          <Include href="qbar_mc.xml" itemID="589823fa-0000075d" lastModified="1502158335"/>
           <Include href="qbar_ready.xml" loadImmediate="false" itemID="58982943-00000a46" lastModified="1502421786"/>
           <Include href="qbar_txtmc.xml" loadImmediate="false" itemID="589827bb-000009e4" lastModified="1530523063"/>
           <Include href="qbar222.xml" loadImmediate="false" itemID="58982639-000007b6" lastModified="1486366561"/>
@@ -281,14 +289,7 @@
           <Include href="qbar444.xml" loadImmediate="false" itemID="5898264e-000007c5" lastModified="1530523063"/>
           <Include href="qbar1111.xml" loadImmediate="false" itemID="58982630-000007b1" lastModified="1486366529"/>
           <Include href="round_num_mc.xml" loadImmediate="false" itemID="58a5578a-00001b3e" lastModified="1530523167"/>
-          <Include href="score_mc.xml" itemID="58981f43-000006ec" lastModified="1530523063"/>
-          <Include href="stg_fight.xml" itemID="589805e3-000001f9" lastModified="1611155966"/>
-          <Include href="time_mc.xml" itemID="58980e9d-000002b1" lastModified="1497073474"/>
-          <Include href="time_txtmc.xml" itemID="58981bec-00000440" lastModified="1530523063"/>
           <Include href="time_txtmc_wx.xml" loadImmediate="false" itemID="58981c76-00000470" lastModified="1530523063"/>
-          <Include href="txt_mc.xml" itemID="58980dc7-00000283" lastModified="1497956891"/>
-          <Include href="txtmc_score.xml" itemID="58981f6b-000006f1" lastModified="1530523063"/>
-          <Include href="winmc.xml" itemID="5941fcfd-00000e1e" lastModified="1530523063"/>
           <Include href="winmc_bleach.xml" loadImmediate="false" itemID="5941fd2a-00000e2b" lastModified="1497497301"/>
           <Include href="winmc_naruto.xml" loadImmediate="false" itemID="5941fd3f-00000e35" lastModified="1497497037"/>
      </symbols>
@@ -299,7 +300,7 @@
                          <frames>
                               <DOMFrame index="0" duration="4" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="stg_fight" centerPoint3DX="51" centerPoint3DY="38.05">
+                                        <DOMSymbolInstance libraryItemName="#链接/stg_fight" centerPoint3DX="51" centerPoint3DY="38.05">
                                              <matrix>
                                                   <Matrix ty="6.05"/>
                                              </matrix>
@@ -307,7 +308,7 @@
                                                   <Point x="51" y="32"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="player_pos_p1" centerPoint3DX="-279.1" centerPoint3DY="421.15">
+                                        <DOMSymbolInstance libraryItemName="#链接/player_pos_p1" centerPoint3DX="-279.1" centerPoint3DY="421.15">
                                              <matrix>
                                                   <Matrix tx="-279.1" ty="448.65"/>
                                              </matrix>
@@ -315,7 +316,7 @@
                                                   <Point y="-27.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="player_pos_p2" centerPoint3DX="-206.55" centerPoint3DY="420.15">
+                                        <DOMSymbolInstance libraryItemName="#链接/player_pos_p2" centerPoint3DX="-206.55" centerPoint3DY="420.15">
                                              <matrix>
                                                   <Matrix tx="-206.55" ty="447.65"/>
                                              </matrix>

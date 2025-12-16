@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="qbar_barmc" itemID="58982583-00000797" linkageExportForAS="true" linkageClassName="qbar_barmc" lastModified="1530523063" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/qbar_barmc" itemID="58982583-00000797" linkageExportForAS="true" linkageClassName="qbar_barmc" lastModified="1530523063" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="qbar_barmc">
       <layers>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_barmcgroup" name="bar" centerPoint3DX="79.2" centerPoint3DY="11.65">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_barmcgroup" name="bar" centerPoint3DX="79.2" centerPoint3DY="11.65">
                   <matrix>
                     <Matrix tx="9.7" ty="5.65"/>
                   </matrix>

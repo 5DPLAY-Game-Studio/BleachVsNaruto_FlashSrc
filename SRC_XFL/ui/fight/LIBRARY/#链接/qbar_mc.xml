@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="qbar_mc" itemID="589823fa-0000075d" linkageExportForAS="true" linkageClassName="qbar_mc" lastModified="1502158335" lastUniqueIdentifier="27">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/qbar_mc" itemID="589823fa-0000075d" linkageExportForAS="true" linkageClassName="qbar_mc" lastModified="1502158335" lastUniqueIdentifier="27">
   <timeline>
     <DOMTimeline name="qbar_mc" currentFrame="21">
       <layers>
@@ -79,7 +79,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="10" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_facemc" name="facemc" centerPoint3DX="-122.8" centerPoint3DY="124.5">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_facemc" name="facemc" centerPoint3DX="-122.8" centerPoint3DY="124.5">
                   <matrix>
                     <Matrix tx="-150.55" ty="105"/>
                   </matrix>
@@ -91,7 +91,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="10" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_facemc" name="facemc" centerPoint3DX="20.85" centerPoint3DY="22.45">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_facemc" name="facemc" centerPoint3DX="20.85" centerPoint3DY="22.45">
                   <matrix>
                     <Matrix a="0.247802734375" d="0.247802734375" tx="13.8" ty="17.65"/>
                   </matrix>
@@ -103,7 +103,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="14" duration="18" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_facemc" name="facemc" centerPoint3DX="17.2" centerPoint3DY="24.5">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_facemc" name="facemc" centerPoint3DX="17.2" centerPoint3DY="24.5">
                   <matrix>
                     <Matrix tx="-10.55" ty="5"/>
                   </matrix>
@@ -115,7 +115,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="32" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_facemc" name="facemc" centerPoint3DX="17.2" centerPoint3DY="24.5">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_facemc" name="facemc" centerPoint3DX="17.2" centerPoint3DY="24.5">
                   <matrix>
                     <Matrix tx="-10.55" ty="5"/>
                   </matrix>
@@ -127,7 +127,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="35" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_facemc" name="facemc" centerPoint3DX="18.85" centerPoint3DY="25.2">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_facemc" name="facemc" centerPoint3DX="18.85" centerPoint3DY="25.2">
                   <matrix>
                     <Matrix a="0.178085327148438" d="0.178085327148438" tx="13.8" ty="21.75"/>
                   </matrix>
@@ -139,7 +139,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="36" duration="13" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_facemc" name="facemc" centerPoint3DX="-69.65" centerPoint3DY="100.75">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_facemc" name="facemc" centerPoint3DX="-69.65" centerPoint3DY="100.75">
                   <matrix>
                     <Matrix a="0.178085327148438" d="0.178085327148438" tx="-74.7" ty="97.3"/>
                   </matrix>
@@ -155,7 +155,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="9" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_fzqi_mc" name="fzqibar" centerPoint3DX="-122" centerPoint3DY="124.55">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_fzqi_mc" name="fzqibar" centerPoint3DX="-122" centerPoint3DY="124.55">
                   <matrix>
                     <Matrix tx="-155" ty="101.05"/>
                   </matrix>
@@ -167,7 +167,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="9" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_fzqi_mc" name="fzqibar" centerPoint3DX="20.85" centerPoint3DY="22.45">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_fzqi_mc" name="fzqibar" centerPoint3DX="20.85" centerPoint3DY="22.45">
                   <matrix>
                     <Matrix a="0.247802734375" d="0.247802734375" tx="12.7" ty="16.7"/>
                   </matrix>
@@ -179,7 +179,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="13" duration="20" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_fzqi_mc" name="fzqibar" centerPoint3DX="18" centerPoint3DY="24.55">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_fzqi_mc" name="fzqibar" centerPoint3DX="18" centerPoint3DY="24.55">
                   <matrix>
                     <Matrix tx="-15" ty="1.05"/>
                   </matrix>
@@ -191,7 +191,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="33" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_fzqi_mc" name="fzqibar" centerPoint3DX="18" centerPoint3DY="24.55">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_fzqi_mc" name="fzqibar" centerPoint3DX="18" centerPoint3DY="24.55">
                   <matrix>
                     <Matrix tx="-15" ty="1.05"/>
                   </matrix>
@@ -203,7 +203,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="36" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_fzqi_mc" name="fzqibar" centerPoint3DX="18.85" centerPoint3DY="25.2">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_fzqi_mc" name="fzqibar" centerPoint3DX="18.85" centerPoint3DY="25.2">
                   <matrix>
                     <Matrix a="0.178085327148438" d="0.178085327148438" tx="13" ty="21.05"/>
                   </matrix>
@@ -215,7 +215,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="37" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_fzqi_mc" name="fzqibar" centerPoint3DX="-69.65" centerPoint3DY="100.75">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_fzqi_mc" name="fzqibar" centerPoint3DX="-69.65" centerPoint3DY="100.75">
                   <matrix>
                     <Matrix a="0.178085327148438" d="0.178085327148438" tx="-75.5" ty="96.6"/>
                   </matrix>
@@ -231,7 +231,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="11" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_barmc" name="barmc" centerPoint3DX="-9.55" centerPoint3DY="123.75">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_barmc" name="barmc" centerPoint3DX="-9.55" centerPoint3DY="123.75">
                   <matrix>
                     <Matrix tx="-105.05" ty="100.5"/>
                   </matrix>
@@ -243,7 +243,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="11" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_barmc" name="barmc" centerPoint3DX="-158.55" centerPoint3DY="47.7">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_barmc" name="barmc" centerPoint3DX="-158.55" centerPoint3DY="47.7">
                   <matrix>
                     <Matrix tx="-254.05" ty="24.45"/>
                   </matrix>
@@ -255,7 +255,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="14" duration="18" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_barmc" name="barmc" centerPoint3DX="131.45" centerPoint3DY="47.7">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_barmc" name="barmc" centerPoint3DX="131.45" centerPoint3DY="47.7">
                   <matrix>
                     <Matrix tx="35.95" ty="24.45"/>
                   </matrix>
@@ -267,7 +267,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="32" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_barmc" name="barmc" centerPoint3DX="131.45" centerPoint3DY="47.7">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_barmc" name="barmc" centerPoint3DX="131.45" centerPoint3DY="47.7">
                   <matrix>
                     <Matrix tx="35.95" ty="24.45"/>
                   </matrix>
@@ -279,7 +279,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="36" duration="13" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="qbar_barmc" name="barmc" centerPoint3DX="-158.55" centerPoint3DY="47.7">
+                <DOMSymbolInstance libraryItemName="#链接/qbar_barmc" name="barmc" centerPoint3DX="-158.55" centerPoint3DY="47.7">
                   <matrix>
                     <Matrix tx="-254.05" ty="24.45"/>
                   </matrix>

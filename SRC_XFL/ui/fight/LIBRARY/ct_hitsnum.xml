@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hits_num_mc" centerPoint3DX="23" centerPoint3DY="28.5">
+                <DOMSymbolInstance libraryItemName="#链接/hits_num_mc" centerPoint3DX="23" centerPoint3DY="28.5">
                   <transformationPoint>
                     <Point x="23" y="28.5"/>
                   </transformationPoint>

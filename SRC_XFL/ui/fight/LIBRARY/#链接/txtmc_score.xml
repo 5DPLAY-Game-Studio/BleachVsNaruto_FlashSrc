@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="time_txtmc" itemID="58981bec-00000440" linkageExportForAS="true" linkageClassName="time_txtmc" lastModified="1530523063">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/txtmc_score" itemID="58981f6b-000006f1" linkageExportForAS="true" linkageClassName="txtmc_score" lastModified="1530523063">
   <timeline>
-    <DOMTimeline name="time_txtmc">
+    <DOMTimeline name="txtmc_score">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>
@@ -16,56 +16,56 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="timetxt_0.png"/>
+                <DOMBitmapInstance libraryItemName="scoretxt_0.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="timetxt_1.png">
+                <DOMBitmapInstance libraryItemName="scoretxt_1.png">
                   <matrix>
-                    <Matrix tx="3.5"/>
+                    <Matrix tx="0.5"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="timetxt_2.png"/>
+                <DOMBitmapInstance libraryItemName="scoretxt_2.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="timetxt_3.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="scoretxt_3.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="4" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="timetxt_4.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="scoretxt_4.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="5" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="timetxt_5.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="scoretxt_5.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="6" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="timetxt_6.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="scoretxt_6.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="7" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="timetxt_7.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="scoretxt_7.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="8" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="timetxt_8.png"/>
+                <DOMBitmapInstance libraryItemName="scoretxt_8.png"/>
               </elements>
             </DOMFrame>
             <DOMFrame index="9" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="timetxt_9.png"/>
+                <DOMBitmapInstance libraryItemName="scoretxt_9.png"/>
               </elements>
             </DOMFrame>
           </frames>

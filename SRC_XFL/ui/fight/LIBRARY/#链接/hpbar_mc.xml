@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="hpbar_mc" itemID="5898061e-00000209" linkageExportForAS="true" linkageClassName="hpbar_mc" lastModified="1502431913" lastUniqueIdentifier="36">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/hpbar_mc" itemID="5898061e-00000209" linkageExportForAS="true" linkageClassName="hpbar_mc" lastModified="1502431913" lastUniqueIdentifier="36">
   <timeline>
     <DOMTimeline name="hpbar_mc">
       <layers>
@@ -39,7 +39,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="21" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="score_mc" name="scoremc" centerPoint3DX="179.75" centerPoint3DY="-168.5">
+                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="179.75" centerPoint3DY="-168.5">
                   <matrix>
                     <Matrix tx="151.75" ty="-175.5"/>
                   </matrix>
@@ -54,7 +54,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-68.5">
+                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-68.5">
                   <matrix>
                     <Matrix tx="131.75" ty="-75.5"/>
                   </matrix>
@@ -66,7 +66,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-28.5">
+                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-28.5">
                   <matrix>
                     <Matrix tx="131.75" ty="-35.5"/>
                   </matrix>
@@ -81,7 +81,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-28.5">
+                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-28.5">
                   <matrix>
                     <Matrix tx="131.75" ty="-35.5"/>
                   </matrix>
@@ -93,7 +93,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" duration="9" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-78.5">
+                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-78.5">
                   <matrix>
                     <Matrix tx="131.75" ty="-85.5"/>
                   </matrix>
@@ -109,7 +109,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="time_mc" name="timemc" centerPoint3DX="-0.25" centerPoint3DY="-140">
+                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25" centerPoint3DY="-140">
                   <matrix>
                     <Matrix tx="-0.25" ty="-140"/>
                   </matrix>
@@ -121,7 +121,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="12" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="time_mc" name="timemc" centerPoint3DX="0.75" centerPoint3DY="-0.95">
+                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="0.75" centerPoint3DY="-0.95">
                   <matrix>
                     <Matrix a="0.312820434570313" d="0.312820434570313" tx="0.75" ty="-0.95"/>
                   </matrix>
@@ -136,7 +136,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="time_mc" name="timemc" centerPoint3DX="-0.25">
+                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25">
                   <matrix>
                     <Matrix a="0.888198852539063" d="0.888198852539063" tx="-0.25"/>
                   </matrix>
@@ -148,7 +148,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="18" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="time_mc" name="timemc" centerPoint3DX="-0.25">
+                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25">
                   <matrix>
                     <Matrix tx="-0.25"/>
                   </matrix>
@@ -163,7 +163,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="time_mc" name="timemc" centerPoint3DX="-0.25">
+                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25">
                   <matrix>
                     <Matrix tx="-0.25"/>
                   </matrix>
@@ -175,7 +175,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="44" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="time_mc" name="timemc" centerPoint3DX="-0.25">
+                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25">
                   <matrix>
                     <Matrix a="0.158660888671875" d="0.158660888671875" tx="-0.25"/>
                   </matrix>
@@ -187,7 +187,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="45" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="time_mc" name="timemc" centerPoint3DX="-0.25" centerPoint3DY="-75">
+                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25" centerPoint3DY="-75">
                   <matrix>
                     <Matrix a="0.158660888671875" d="0.158660888671875" tx="-0.25" ty="-75"/>
                   </matrix>
@@ -337,7 +337,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="24" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p2" centerPoint3DX="39.75" centerPoint3DY="-154.7">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p2" centerPoint3DX="39.75" centerPoint3DY="-154.7">
                   <matrix>
                     <Matrix tx="39.75" ty="-154.7"/>
                   </matrix>
@@ -349,7 +349,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p2" centerPoint3DX="39.75" centerPoint3DY="35.3">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p2" centerPoint3DX="39.75" centerPoint3DY="35.3">
                   <matrix>
                     <Matrix tx="39.75" ty="35.3"/>
                   </matrix>
@@ -361,7 +361,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="36" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p2" selected="true" centerPoint3DX="39.75" centerPoint3DY="35.3">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p2" selected="true" centerPoint3DX="39.75" centerPoint3DY="35.3">
                   <matrix>
                     <Matrix tx="39.75" ty="35.3"/>
                   </matrix>
@@ -373,7 +373,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p2" selected="true" centerPoint3DX="-22" centerPoint3DY="-1.3">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p2" selected="true" centerPoint3DX="-22" centerPoint3DY="-1.3">
                   <matrix>
                     <Matrix tx="-22" ty="-1.3"/>
                   </matrix>
@@ -385,7 +385,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p2" centerPoint3DX="-22" centerPoint3DY="-111.3">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p2" centerPoint3DX="-22" centerPoint3DY="-111.3">
                   <matrix>
                     <Matrix tx="-22" ty="-111.3"/>
                   </matrix>
@@ -401,7 +401,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="24" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p1" centerPoint3DX="-92.25" centerPoint3DY="-154.7">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p1" centerPoint3DX="-92.25" centerPoint3DY="-154.7">
                   <matrix>
                     <Matrix tx="-92.25" ty="-154.7"/>
                   </matrix>
@@ -413,7 +413,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p1" centerPoint3DX="-92.25" centerPoint3DY="35.3">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p1" centerPoint3DX="-92.25" centerPoint3DY="35.3">
                   <matrix>
                     <Matrix tx="-92.25" ty="35.3"/>
                   </matrix>
@@ -425,7 +425,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="36" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p1" selected="true" centerPoint3DX="-92.25" centerPoint3DY="35.3">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p1" selected="true" centerPoint3DX="-92.25" centerPoint3DY="35.3">
                   <matrix>
                     <Matrix tx="-92.25" ty="35.3"/>
                   </matrix>
@@ -437,7 +437,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p1" selected="true" centerPoint3DX="-29.6" centerPoint3DY="6">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p1" selected="true" centerPoint3DX="-29.6" centerPoint3DY="6">
                   <matrix>
                     <Matrix tx="-29.6" ty="6"/>
                   </matrix>
@@ -449,7 +449,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="winmc" name="win_p1" centerPoint3DX="-29.6" centerPoint3DY="-104">
+                <DOMSymbolInstance libraryItemName="#链接/winmc" name="win_p1" centerPoint3DX="-29.6" centerPoint3DY="-104">
                   <matrix>
                     <Matrix tx="-29.6" ty="-104"/>
                   </matrix>
@@ -465,7 +465,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="18" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-148">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-148">
                   <matrix>
                     <Matrix a="-1" tx="398.4" ty="-180"/>
                   </matrix>
@@ -480,7 +480,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face2" centerPoint3DX="449.35" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="449.35" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="-1" tx="500.4" ty="-40"/>
                   </matrix>
@@ -492,7 +492,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="-1" tx="398.4" ty="-40"/>
                   </matrix>
@@ -507,7 +507,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="-1" tx="398.4" ty="-40"/>
                   </matrix>
@@ -519,7 +519,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face2" centerPoint3DX="464.35" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="464.35" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="-1" tx="515.4" ty="-40"/>
                   </matrix>
@@ -531,7 +531,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face2" centerPoint3DX="464.35" centerPoint3DY="-88">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="464.35" centerPoint3DY="-88">
                   <matrix>
                     <Matrix a="-1" tx="515.4" ty="-120"/>
                   </matrix>
@@ -547,7 +547,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="18" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-148">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-148">
                   <matrix>
                     <Matrix tx="-399.75" ty="-180"/>
                   </matrix>
@@ -562,7 +562,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face1" centerPoint3DX="-451.7" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-451.7" centerPoint3DY="-8">
                   <matrix>
                     <Matrix tx="-502.75" ty="-40"/>
                   </matrix>
@@ -574,7 +574,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-8">
                   <matrix>
                     <Matrix tx="-399.75" ty="-40"/>
                   </matrix>
@@ -589,7 +589,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-8">
                   <matrix>
                     <Matrix tx="-399.75" ty="-40"/>
                   </matrix>
@@ -601,7 +601,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face1" centerPoint3DX="-458.7" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-458.7" centerPoint3DY="-8">
                   <matrix>
                     <Matrix tx="-509.75" ty="-40"/>
                   </matrix>
@@ -613,7 +613,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facegroup" name="face1" centerPoint3DX="-458.7" centerPoint3DY="-88">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-458.7" centerPoint3DY="-88">
                   <matrix>
                     <Matrix tx="-509.75" ty="-120"/>
                   </matrix>
@@ -629,7 +629,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="14" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-154.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-154.5">
                   <matrix>
                     <Matrix a="-1" tx="298.25" ty="-154.5"/>
                   </matrix>
@@ -641,7 +641,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="14" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix a="-0.03338623046875" tx="36.2" ty="-14.5"/>
                   </matrix>
@@ -656,7 +656,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix a="-1.37454223632813" tx="399.8" ty="-14.5"/>
                   </matrix>
@@ -668,7 +668,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix a="-1" tx="298.25" ty="-14.5"/>
                   </matrix>
@@ -683,7 +683,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar2" centerPoint3DX="298.25" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix a="-1" tx="298.25" ty="-14.5"/>
                   </matrix>
@@ -695,7 +695,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="42" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar2" centerPoint3DX="288.25" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar2" centerPoint3DX="288.25" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix a="-0.0314178466796875" tx="26.2" ty="-14.5"/>
                   </matrix>
@@ -707,7 +707,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="43" duration="5" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar2" centerPoint3DX="288.25" centerPoint3DY="-84.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar2" centerPoint3DX="288.25" centerPoint3DY="-84.5">
                   <matrix>
                     <Matrix a="-0.0314178466796875" tx="26.2" ty="-84.5"/>
                   </matrix>
@@ -723,7 +723,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="14" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-154.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-154.5">
                   <matrix>
                     <Matrix tx="-299.65" ty="-154.5"/>
                   </matrix>
@@ -735,7 +735,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="14" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix a="0.0387725830078125" tx="-38.1" ty="-14.5"/>
                   </matrix>
@@ -750,7 +750,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix a="1.37887573242188" tx="-402.75" ty="-14.5"/>
                   </matrix>
@@ -762,7 +762,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix tx="-299.65" ty="-14.5"/>
                   </matrix>
@@ -777,7 +777,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar1" centerPoint3DX="-299.65" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix tx="-299.65" ty="-14.5"/>
                   </matrix>
@@ -789,7 +789,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="42" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar1" centerPoint3DX="-289.65" centerPoint3DY="-14.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar1" centerPoint3DX="-289.65" centerPoint3DY="-14.5">
                   <matrix>
                     <Matrix a="0.027435302734375" tx="-25.55" ty="-14.5"/>
                   </matrix>
@@ -801,7 +801,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="43" duration="5" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_barmc" name="bar1" centerPoint3DX="-289.65" centerPoint3DY="-84.5">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_barmc" name="bar1" centerPoint3DX="-289.65" centerPoint3DY="-84.5">
                   <matrix>
                     <Matrix a="0.027435302734375" tx="-25.55" ty="-84.5"/>
                   </matrix>
@@ -817,7 +817,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="16" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="-125.8">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="-125.8">
                   <matrix>
                     <Matrix a="-1" tx="24.45" ty="-130.8"/>
                   </matrix>
@@ -829,7 +829,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="16" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy2" centerPoint3DX="69.45" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="69.45" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-0.247238159179688" tx="-0.6" ty="9.2"/>
                   </matrix>
@@ -841,7 +841,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="20" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-1.10498046875" tx="24.45" ty="9.2"/>
                   </matrix>
@@ -853,7 +853,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="22" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-1" tx="24.45" ty="9.2"/>
                   </matrix>
@@ -868,7 +868,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-1" tx="24.45" ty="9.2"/>
                   </matrix>
@@ -880,7 +880,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy2" centerPoint3DX="69.95" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="69.95" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-0.114974975585938" tx="-0.1" ty="9.2"/>
                   </matrix>
@@ -892,7 +892,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy2" centerPoint3DX="69.95" centerPoint3DY="-75.8">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="69.95" centerPoint3DY="-75.8">
                   <matrix>
                     <Matrix a="-0.114974975585938" tx="-0.1" ty="-80.8"/>
                   </matrix>
@@ -908,7 +908,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="16" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="-125.8">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="-125.8">
                   <matrix>
                     <Matrix tx="-25.05" ty="-130.8"/>
                   </matrix>
@@ -920,7 +920,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="16" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy1" centerPoint3DX="-70.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-70.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="0.279098510742188" tx="0.3" ty="9.2"/>
                   </matrix>
@@ -932,7 +932,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="20" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="1.11474609375" tx="-25.1" ty="9.2"/>
                   </matrix>
@@ -944,7 +944,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="22" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix tx="-25.05" ty="9.2"/>
                   </matrix>
@@ -959,7 +959,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix tx="-25.05" ty="9.2"/>
                   </matrix>
@@ -971,7 +971,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy1" centerPoint3DX="-73.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-73.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="0.0992584228515625" tx="-2.65" ty="9.2"/>
                   </matrix>
@@ -983,7 +983,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energy1" centerPoint3DX="-73.05" centerPoint3DY="-75.8">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-73.05" centerPoint3DY="-75.8">
                   <matrix>
                     <Matrix a="0.0992584228515625" tx="-2.65" ty="-80.8"/>
                   </matrix>

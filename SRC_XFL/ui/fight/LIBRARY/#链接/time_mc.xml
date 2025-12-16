@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="time_mc" itemID="58980e9d-000002b1" linkageExportForAS="true" linkageClassName="time_mc" lastModified="1497073474">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/time_mc" itemID="58980e9d-000002b1" linkageExportForAS="true" linkageClassName="time_mc" lastModified="1497073474">
   <timeline>
     <DOMTimeline name="time_mc">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="time_txtmc" centerPoint3DX="-30.4" centerPoint3DY="7.4">
+                <DOMSymbolInstance libraryItemName="#链接/time_txtmc" centerPoint3DX="-30.4" centerPoint3DY="7.4">
                   <matrix>
                     <Matrix tx="-1.4" ty="-15.6"/>
                   </matrix>

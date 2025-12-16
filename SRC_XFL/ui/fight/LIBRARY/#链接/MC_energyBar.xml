@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/energy_bar" itemID="58980ee1-000002cc" linkageExportForAS="true" linkageClassName="energy_bar" lastModified="1486360611" lastUniqueIdentifier="4">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_energyBar" itemID="6940ee95-00000125" linkageExportForAS="true" linkageClassName="$fight$MC_energyBar" lastModified="1765863061" lastUniqueIdentifier="4">
   <timeline>
-    <DOMTimeline name="energy_bar">
+    <DOMTimeline name="MC_energyBar">
       <layers>
         <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>

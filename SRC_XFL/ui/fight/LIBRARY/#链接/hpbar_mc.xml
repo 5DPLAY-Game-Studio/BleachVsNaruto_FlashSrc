@@ -817,7 +817,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="16" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="-125.8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="-125.8">
                   <matrix>
                     <Matrix a="-1" tx="24.45" ty="-130.8"/>
                   </matrix>
@@ -829,7 +829,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="16" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="69.45" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy2" centerPoint3DX="69.45" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-0.247238159179688" tx="-0.6" ty="9.2"/>
                   </matrix>
@@ -841,7 +841,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="20" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-1.10498046875" tx="24.45" ty="9.2"/>
                   </matrix>
@@ -853,7 +853,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="22" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-1" tx="24.45" ty="9.2"/>
                   </matrix>
@@ -868,7 +868,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy2" centerPoint3DX="94.45" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-1" tx="24.45" ty="9.2"/>
                   </matrix>
@@ -880,7 +880,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="69.95" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy2" centerPoint3DX="69.95" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="-0.114974975585938" tx="-0.1" ty="9.2"/>
                   </matrix>
@@ -892,7 +892,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy2" centerPoint3DX="69.95" centerPoint3DY="-75.8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy2" centerPoint3DX="69.95" centerPoint3DY="-75.8">
                   <matrix>
                     <Matrix a="-0.114974975585938" tx="-0.1" ty="-80.8"/>
                   </matrix>
@@ -908,7 +908,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="16" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="-125.8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="-125.8">
                   <matrix>
                     <Matrix tx="-25.05" ty="-130.8"/>
                   </matrix>
@@ -920,7 +920,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="16" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-70.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy1" centerPoint3DX="-70.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="0.279098510742188" tx="0.3" ty="9.2"/>
                   </matrix>
@@ -932,7 +932,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="20" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="1.11474609375" tx="-25.1" ty="9.2"/>
                   </matrix>
@@ -944,7 +944,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="22" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix tx="-25.05" ty="9.2"/>
                   </matrix>
@@ -959,7 +959,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy1" centerPoint3DX="-95.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix tx="-25.05" ty="9.2"/>
                   </matrix>
@@ -971,7 +971,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-73.05" centerPoint3DY="14.2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy1" centerPoint3DX="-73.05" centerPoint3DY="14.2">
                   <matrix>
                     <Matrix a="0.0992584228515625" tx="-2.65" ty="9.2"/>
                   </matrix>
@@ -983,7 +983,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energy1" centerPoint3DX="-73.05" centerPoint3DY="-75.8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energy1" centerPoint3DX="-73.05" centerPoint3DY="-75.8">
                   <matrix>
                     <Matrix a="0.0992584228515625" tx="-2.65" ty="-80.8"/>
                   </matrix>

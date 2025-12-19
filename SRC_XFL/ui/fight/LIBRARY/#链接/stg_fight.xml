@@ -35,7 +35,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/qbar_mc" name="fzqi1" centerPoint3DX="445.05" centerPoint3DY="661.15">
+                <DOMSymbolInstance libraryItemName="#链接/MC_qiBar" name="fzqi1" centerPoint3DX="445.05" centerPoint3DY="661.15">
                   <matrix>
                     <Matrix tx="48" ty="534.1"/>
                   </matrix>
@@ -43,7 +43,7 @@
                     <Point x="-16.05" y="-3.95"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="#链接/qbar_mc" name="fzqi2" centerPoint3DX="351.95" centerPoint3DY="662.15">
+                <DOMSymbolInstance libraryItemName="#链接/MC_qiBar" name="fzqi2" centerPoint3DX="351.95" centerPoint3DY="662.15">
                   <matrix>
                     <Matrix a="-1" tx="749" ty="535.1"/>
                   </matrix>

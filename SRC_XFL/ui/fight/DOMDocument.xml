@@ -184,12 +184,12 @@
           <Include href="#链接/MC_hpBarFace.xml" itemID="6944c1cc-0000024f" lastModified="1766113740"/>
           <Include href="#链接/MC_hpBarFaceGroup.xml" itemID="6944c1fd-00000250" lastModified="1766113789"/>
           <Include href="#链接/MC_hpBarMc.xml" itemID="6944bb44-00000127" lastModified="1766112068"/>
+          <Include href="#链接/MC_qiBar.xml" itemID="6944dca4-00000127" lastModified="1766120612"/>
+          <Include href="#链接/MC_qiBarGroup.xml" loadImmediate="false" itemID="6944dc6c-00000126" lastModified="1766120556"/>
           <Include href="#链接/MC_qiBarMc.xml" itemID="6944db60-00000125" lastModified="1766120288"/>
           <Include href="#链接/MC_win.xml" itemID="6944c0a9-0000024d" lastModified="1766113449"/>
-          <Include href="#链接/qbar_barmcgroup.xml" itemID="5898260e-000007a7" lastModified="1486366571"/>
           <Include href="#链接/qbar_facemc.xml" itemID="5898243f-00000780" lastModified="1530523063"/>
           <Include href="#链接/qbar_fzqi_mc.xml" itemID="58982860-00000a1f" lastModified="1502422778"/>
-          <Include href="#链接/qbar_mc.xml" itemID="589823fa-0000075d" lastModified="1502158335"/>
           <Include href="#链接/score_mc.xml" itemID="58981f43-000006ec" lastModified="1530523063"/>
           <Include href="#链接/SP_playerPos1.xml" itemID="6940ce06-00000175" lastModified="1765854726"/>
           <Include href="#链接/SP_playerPos2.xml" itemID="6940cf25-00000176" lastModified="1765855013"/>
@@ -346,6 +346,7 @@
      <scripts/>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="271830" publishTime="1766120470"/>
           <PublishItem publishSize="271910" publishTime="1766108302"/>
           <PublishItem publishSize="254334" publishTime="1731664608"/>
           <PublishItem publishSize="258982" publishTime="1611156228"/>
@@ -365,6 +366,5 @@
           <PublishItem publishSize="633929" publishTime="1498997497"/>
           <PublishItem publishSize="633958" publishTime="1498997280"/>
           <PublishItem publishSize="633959" publishTime="1498997261"/>
-          <PublishItem publishSize="634000" publishTime="1498997138"/>
      </publishHistory>
 </DOMDocument>

@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/qbar_barmcgroup" name="bar" centerPoint3DX="79.2" centerPoint3DY="11.65">
+                <DOMSymbolInstance libraryItemName="#链接/MC_qiBarGroup" name="bar" centerPoint3DX="79.2" centerPoint3DY="11.65">
                   <matrix>
                     <Matrix tx="9.7" ty="5.65"/>
                   </matrix>

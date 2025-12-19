@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/stg_fight" itemID="589805e3-000001f9" linkageExportForAS="true" linkageClassName="ui_fight" lastModified="1611155966" lastUniqueIdentifier="15">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_fightUI" itemID="6944e7e4-0000012c" linkageExportForAS="true" linkageClassName="$fight$MC_fightUI" lastModified="1766123492" lastUniqueIdentifier="15">
   <timeline>
-    <DOMTimeline name="stg_fight">
+    <DOMTimeline name="MC_fightUI">
       <layers>
         <DOMLayer name="startAndko" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
           <frames>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/hpbar_barmc" itemID="58980668-00000216" linkageExportForAS="true" linkageClassName="hpbar_barmc" lastModified="1530523063">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_hpBarMc" itemID="6944bb44-00000127" linkageExportForAS="true" linkageClassName="$fight$MC_hpBarMc" lastModified="1766112068">
   <timeline>
-    <DOMTimeline name="hpbar_barmc">
+    <DOMTimeline name="MC_hpBarMc">
       <layers>
         <DOMLayer name="bar_front.png" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>

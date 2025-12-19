@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/qbar_barmc" itemID="58982583-00000797" linkageExportForAS="true" linkageClassName="qbar_barmc" lastModified="1530523063" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_qiBarMc" itemID="6944db60-00000125" linkageExportForAS="true" linkageClassName="$fight$MC_qiBarMc" lastModified="1766120288" lastUniqueIdentifier="2">
   <timeline>
-    <DOMTimeline name="qbar_barmc">
+    <DOMTimeline name="MC_qiBarMc">
       <layers>
         <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
           <frames>

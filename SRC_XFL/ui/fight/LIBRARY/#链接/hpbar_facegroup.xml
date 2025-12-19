@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facemc" name="face" centerPoint3DX="51.15" centerPoint3DY="32">
+                <DOMSymbolInstance libraryItemName="#链接/$fight$MC_hpBarFace" name="face" centerPoint3DX="51.15" centerPoint3DY="32">
                   <matrix>
                     <Matrix tx="0.15"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facemc" name="face2" centerPoint3DX="34.9" centerPoint3DY="49.75">
+                <DOMSymbolInstance libraryItemName="#链接/$fight$MC_hpBarFace" name="face2" centerPoint3DX="34.9" centerPoint3DY="49.75">
                   <matrix>
                     <Matrix tx="-16.1" ty="17.75"/>
                   </matrix>
@@ -41,7 +41,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facemc" name="face3" centerPoint3DX="17.15" centerPoint3DY="67.25">
+                <DOMSymbolInstance libraryItemName="#链接/$fight$MC_hpBarFace" name="face3" centerPoint3DX="17.15" centerPoint3DY="67.25">
                   <matrix>
                     <Matrix tx="-33.85" ty="35.25"/>
                   </matrix>

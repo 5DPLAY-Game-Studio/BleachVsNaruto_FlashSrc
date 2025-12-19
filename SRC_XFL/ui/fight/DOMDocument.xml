@@ -175,8 +175,8 @@
           <DOMBitmapItem name="win_naruto.png" itemID="5b39edb4-000025c6" sourceExternalFilepath="../fight/LIBRARY/win_naruto.png" sourceLastImported="1751791737" externalFileCRC32="1496307375" externalFileSize="1716" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="win_naruto.png" bitmapDataHRef="M 261 1530523060.dat" frameRight="620" frameBottom="640"/>
      </media>
      <symbols>
+          <Include href="#链接/$fight$MC_hpBarFace.xml" itemID="6944c15b-0000024e" lastModified="1766113627"/>
           <Include href="#链接/hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1486359838"/>
-          <Include href="#链接/hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1530523063"/>
           <Include href="#链接/MC_bsFace.xml" itemID="6940cccd-00000153" lastModified="1765854413"/>
           <Include href="#链接/MC_energyBar.xml" itemID="6940ee95-00000125" lastModified="1765863061"/>
           <Include href="#链接/MC_energyBarMc.xml" itemID="6940ef8b-00000126" lastModified="1765863307"/>

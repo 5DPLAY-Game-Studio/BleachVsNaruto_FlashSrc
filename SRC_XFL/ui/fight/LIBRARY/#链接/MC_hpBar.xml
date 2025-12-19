@@ -39,7 +39,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="21" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="179.75" centerPoint3DY="-168.5">
+                <DOMSymbolInstance libraryItemName="#链接/MC_score" name="scoremc" centerPoint3DX="179.75" centerPoint3DY="-168.5">
                   <matrix>
                     <Matrix tx="151.75" ty="-175.5"/>
                   </matrix>
@@ -54,7 +54,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-68.5">
+                <DOMSymbolInstance libraryItemName="#链接/MC_score" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-68.5">
                   <matrix>
                     <Matrix tx="131.75" ty="-75.5"/>
                   </matrix>
@@ -66,7 +66,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-28.5">
+                <DOMSymbolInstance libraryItemName="#链接/MC_score" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-28.5">
                   <matrix>
                     <Matrix tx="131.75" ty="-35.5"/>
                   </matrix>
@@ -81,7 +81,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-28.5">
+                <DOMSymbolInstance libraryItemName="#链接/MC_score" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-28.5">
                   <matrix>
                     <Matrix tx="131.75" ty="-35.5"/>
                   </matrix>
@@ -93,7 +93,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" duration="9" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/score_mc" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-78.5">
+                <DOMSymbolInstance libraryItemName="#链接/MC_score" name="scoremc" centerPoint3DX="159.75" centerPoint3DY="-78.5">
                   <matrix>
                     <Matrix tx="131.75" ty="-85.5"/>
                   </matrix>

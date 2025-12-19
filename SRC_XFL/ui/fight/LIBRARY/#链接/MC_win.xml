@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/winmc" itemID="5941fcfd-00000e1e" linkageExportForAS="true" linkageClassName="winmc" lastModified="1530523063" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_win" itemID="6944c0a9-0000024d" linkageExportForAS="true" linkageClassName="$fight$MC_win" lastModified="1766113449" lastUniqueIdentifier="2">
   <timeline>
-    <DOMTimeline name="winmc">
+    <DOMTimeline name="MC_win">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" locked="true" layerType="guide">
           <frames>

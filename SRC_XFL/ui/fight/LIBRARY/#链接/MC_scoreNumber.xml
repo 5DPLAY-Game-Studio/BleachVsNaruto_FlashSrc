@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/txtmc_score" itemID="58981f6b-000006f1" linkageExportForAS="true" linkageClassName="txtmc_score" lastModified="1530523063">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_scoreNumber" itemID="69450d59-00000127" linkageExportForAS="true" linkageClassName="$fight$MC_scoreNumber" lastModified="1766133081">
   <timeline>
-    <DOMTimeline name="txtmc_score">
+    <DOMTimeline name="MC_scoreNumber">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>

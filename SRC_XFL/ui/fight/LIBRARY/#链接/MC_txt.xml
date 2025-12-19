@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/txt_mc" itemID="58980dc7-00000283" linkageExportForAS="true" linkageClassName="txt_mc" lastModified="1497956891">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_txt" itemID="69450d2f-00000126" lastModified="1766133039">
   <timeline>
-    <DOMTimeline name="txt_mc">
+    <DOMTimeline name="MC_txt">
       <layers>
         <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>

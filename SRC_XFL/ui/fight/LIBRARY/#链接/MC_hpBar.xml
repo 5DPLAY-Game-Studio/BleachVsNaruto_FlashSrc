@@ -109,7 +109,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25" centerPoint3DY="-140">
+                <DOMSymbolInstance libraryItemName="#链接/MC_time" name="timemc" centerPoint3DX="-0.25" centerPoint3DY="-140">
                   <matrix>
                     <Matrix tx="-0.25" ty="-140"/>
                   </matrix>
@@ -121,7 +121,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="12" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="0.75" centerPoint3DY="-0.95">
+                <DOMSymbolInstance libraryItemName="#链接/MC_time" name="timemc" centerPoint3DX="0.75" centerPoint3DY="-0.95">
                   <matrix>
                     <Matrix a="0.312820434570313" d="0.312820434570313" tx="0.75" ty="-0.95"/>
                   </matrix>
@@ -136,7 +136,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25">
+                <DOMSymbolInstance libraryItemName="#链接/MC_time" name="timemc" centerPoint3DX="-0.25">
                   <matrix>
                     <Matrix a="0.888198852539063" d="0.888198852539063" tx="-0.25"/>
                   </matrix>
@@ -148,7 +148,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="18" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25">
+                <DOMSymbolInstance libraryItemName="#链接/MC_time" name="timemc" centerPoint3DX="-0.25">
                   <matrix>
                     <Matrix tx="-0.25"/>
                   </matrix>
@@ -163,7 +163,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25">
+                <DOMSymbolInstance libraryItemName="#链接/MC_time" name="timemc" centerPoint3DX="-0.25">
                   <matrix>
                     <Matrix tx="-0.25"/>
                   </matrix>
@@ -175,7 +175,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="44" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25">
+                <DOMSymbolInstance libraryItemName="#链接/MC_time" name="timemc" centerPoint3DX="-0.25">
                   <matrix>
                     <Matrix a="0.158660888671875" d="0.158660888671875" tx="-0.25"/>
                   </matrix>
@@ -187,7 +187,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="45" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/time_mc" name="timemc" centerPoint3DX="-0.25" centerPoint3DY="-75">
+                <DOMSymbolInstance libraryItemName="#链接/MC_time" name="timemc" centerPoint3DX="-0.25" centerPoint3DY="-75">
                   <matrix>
                     <Matrix a="0.158660888671875" d="0.158660888671875" tx="-0.25" ty="-75"/>
                   </matrix>

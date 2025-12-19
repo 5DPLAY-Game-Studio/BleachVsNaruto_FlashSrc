@@ -177,12 +177,12 @@
      <symbols>
           <Include href="#链接/hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1486359838"/>
           <Include href="#链接/hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1530523063"/>
-          <Include href="#链接/hpbar_mc.xml" itemID="5898061e-00000209" lastModified="1502431913"/>
           <Include href="#链接/MC_bsFace.xml" itemID="6940cccd-00000153" lastModified="1765854413"/>
           <Include href="#链接/MC_energyBar.xml" itemID="6940ee95-00000125" lastModified="1765863061"/>
           <Include href="#链接/MC_energyBarMc.xml" itemID="6940ef8b-00000126" lastModified="1765863307"/>
           <Include href="#链接/MC_hits.xml" itemID="6944ab17-00000125" lastModified="1766107927"/>
           <Include href="#链接/MC_hitsNumer.xml" itemID="6944abf6-00000126" lastModified="1766108150"/>
+          <Include href="#链接/MC_hpBar.xml" itemID="6944bf1f-00000128" lastModified="1766113055"/>
           <Include href="#链接/MC_hpBarMc.xml" itemID="6944bb44-00000127" lastModified="1766112068"/>
           <Include href="#链接/qbar_barmc.xml" itemID="58982583-00000797" lastModified="1530523063"/>
           <Include href="#链接/qbar_barmcgroup.xml" itemID="5898260e-000007a7" lastModified="1486366571"/>

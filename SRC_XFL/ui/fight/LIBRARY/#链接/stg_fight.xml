@@ -19,7 +19,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_mc" name="hpbarmc" centerPoint3DX="399.75" centerPoint3DY="45.6">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBar" name="hpbarmc" centerPoint3DX="399.75" centerPoint3DY="45.6">
                   <matrix>
                     <Matrix tx="399.75" ty="45.6"/>
                   </matrix>

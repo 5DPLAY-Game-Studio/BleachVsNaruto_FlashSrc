@@ -192,10 +192,10 @@
           <Include href="#链接/MC_qiBarMc.xml" itemID="6944db60-00000125" lastModified="1766120288"/>
           <Include href="#链接/MC_score.xml" itemID="6944df44-0000012b" lastModified="1766121284"/>
           <Include href="#链接/MC_time.xml" itemID="69450953-00000125" lastModified="1766132051"/>
+          <Include href="#链接/MC_timeNumber.xml" itemID="69450cce-00000125" lastModified="1766132942"/>
           <Include href="#链接/MC_win.xml" itemID="6944c0a9-0000024d" lastModified="1766113449"/>
           <Include href="#链接/SP_playerPos1.xml" itemID="6940ce06-00000175" lastModified="1765854726"/>
           <Include href="#链接/SP_playerPos2.xml" itemID="6940cf25-00000176" lastModified="1765855013"/>
-          <Include href="#链接/time_txtmc.xml" itemID="58981bec-00000440" lastModified="1530523063"/>
           <Include href="#链接/txt_mc.xml" itemID="58980dc7-00000283" lastModified="1497956891"/>
           <Include href="#链接/txtmc_score.xml" itemID="58981f6b-000006f1" lastModified="1530523063"/>
           <Include href="bsface_ct.xml" loadImmediate="false" itemID="58a2afd0-000009a0" lastModified="1487059460"/>

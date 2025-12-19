@@ -465,7 +465,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="18" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-148">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-148">
                   <matrix>
                     <Matrix a="-1" tx="398.4" ty="-180"/>
                   </matrix>
@@ -480,7 +480,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="449.35" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face2" centerPoint3DX="449.35" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="-1" tx="500.4" ty="-40"/>
                   </matrix>
@@ -492,7 +492,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="-1" tx="398.4" ty="-40"/>
                   </matrix>
@@ -507,7 +507,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face2" centerPoint3DX="347.35" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="-1" tx="398.4" ty="-40"/>
                   </matrix>
@@ -519,7 +519,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="464.35" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face2" centerPoint3DX="464.35" centerPoint3DY="-8">
                   <matrix>
                     <Matrix a="-1" tx="515.4" ty="-40"/>
                   </matrix>
@@ -531,7 +531,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face2" centerPoint3DX="464.35" centerPoint3DY="-88">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face2" centerPoint3DX="464.35" centerPoint3DY="-88">
                   <matrix>
                     <Matrix a="-1" tx="515.4" ty="-120"/>
                   </matrix>
@@ -547,7 +547,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
           <frames>
             <DOMFrame index="0" duration="18" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-148">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-148">
                   <matrix>
                     <Matrix tx="-399.75" ty="-180"/>
                   </matrix>
@@ -562,7 +562,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-451.7" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face1" centerPoint3DX="-451.7" centerPoint3DY="-8">
                   <matrix>
                     <Matrix tx="-502.75" ty="-40"/>
                   </matrix>
@@ -574,7 +574,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="24" duration="12" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-8">
                   <matrix>
                     <Matrix tx="-399.75" ty="-40"/>
                   </matrix>
@@ -589,7 +589,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 <Ease target="all" intensity="-100"/>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face1" centerPoint3DX="-348.7" centerPoint3DY="-8">
                   <matrix>
                     <Matrix tx="-399.75" ty="-40"/>
                   </matrix>
@@ -601,7 +601,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="39" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-458.7" centerPoint3DY="-8">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face1" centerPoint3DX="-458.7" centerPoint3DY="-8">
                   <matrix>
                     <Matrix tx="-509.75" ty="-40"/>
                   </matrix>
@@ -613,7 +613,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
             </DOMFrame>
             <DOMFrame index="40" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facegroup" name="face1" centerPoint3DX="-458.7" centerPoint3DY="-88">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFaceGroup" name="face1" centerPoint3DX="-458.7" centerPoint3DY="-88">
                   <matrix>
                     <Matrix tx="-509.75" ty="-120"/>
                   </matrix>

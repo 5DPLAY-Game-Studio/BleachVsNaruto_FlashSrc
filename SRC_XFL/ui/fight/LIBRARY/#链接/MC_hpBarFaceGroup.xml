@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_hpBarFaceGroup" itemID="6944c1fd-00000250" linkageExportForAS="true" linkageClassName="$fight$MC_hpBarFaceGroup" lastModified="1766113789" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="MC_hpBarFaceGroup">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFace" name="face" centerPoint3DX="51.15" centerPoint3DY="32">
+                  <matrix>
+                    <Matrix tx="0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51" y="32"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFace" name="face2" centerPoint3DX="34.9" centerPoint3DY="49.75">
+                  <matrix>
+                    <Matrix tx="-16.1" ty="17.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51" y="32"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFace" name="face3" centerPoint3DX="17.15" centerPoint3DY="67.25">
+                  <matrix>
+                    <Matrix tx="-33.85" ty="35.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51" y="32"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

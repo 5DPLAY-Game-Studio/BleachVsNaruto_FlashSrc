@@ -59,7 +59,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hits_mc" name="hits2" centerPoint3DX="718.15" centerPoint3DY="149.95">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hits" name="hits2" centerPoint3DX="718.15" centerPoint3DY="149.95">
                   <matrix>
                     <Matrix tx="662.15" ty="121.95"/>
                   </matrix>
@@ -67,7 +67,7 @@
                     <Point x="56" y="28"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="#链接/hits_mc" name="hits1" centerPoint3DX="118.15" centerPoint3DY="149.95">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hits" name="hits1" centerPoint3DX="118.15" centerPoint3DY="149.95">
                   <matrix>
                     <Matrix tx="62.15" ty="121.95"/>
                   </matrix>

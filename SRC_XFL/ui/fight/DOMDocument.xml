@@ -175,7 +175,6 @@
           <DOMBitmapItem name="win_naruto.png" itemID="5b39edb4-000025c6" sourceExternalFilepath="../fight/LIBRARY/win_naruto.png" sourceLastImported="1751791737" externalFileCRC32="1496307375" externalFileSize="1716" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="win_naruto.png" bitmapDataHRef="M 261 1530523060.dat" frameRight="620" frameBottom="640"/>
      </media>
      <symbols>
-          <Include href="#链接/hits_num_mc.xml" itemID="58a5298e-0000174e" lastModified="1530523063"/>
           <Include href="#链接/hpbar_barmc.xml" itemID="58980668-00000216" lastModified="1530523063"/>
           <Include href="#链接/hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1486359838"/>
           <Include href="#链接/hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1530523063"/>
@@ -184,6 +183,7 @@
           <Include href="#链接/MC_energyBar.xml" itemID="6940ee95-00000125" lastModified="1765863061"/>
           <Include href="#链接/MC_energyBarMc.xml" itemID="6940ef8b-00000126" lastModified="1765863307"/>
           <Include href="#链接/MC_hits.xml" itemID="6944ab17-00000125" lastModified="1766107927"/>
+          <Include href="#链接/MC_hitsNumer.xml" itemID="6944abf6-00000126" lastModified="1766108150"/>
           <Include href="#链接/qbar_barmc.xml" itemID="58982583-00000797" lastModified="1530523063"/>
           <Include href="#链接/qbar_barmcgroup.xml" itemID="5898260e-000007a7" lastModified="1486366571"/>
           <Include href="#链接/qbar_facemc.xml" itemID="5898243f-00000780" lastModified="1530523063"/>

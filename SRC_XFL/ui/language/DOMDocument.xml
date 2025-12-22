@@ -56,9 +56,9 @@
           <Include href="#语言/英语/文字元件.xml" loadImmediate="false" itemID="69489ec4-000001d5" lastModified="1766366916"/>
           <Include href="#语言/越南语/文字元件.xml" loadImmediate="false" itemID="69489ec9-000001d6" lastModified="1766366921"/>
           <Include href="#语言/韩语/文字元件.xml" loadImmediate="false" itemID="69489e14-000001c1" lastModified="1766366740"/>
+          <Include href="#链接/MC_base.xml" itemID="6948ae89-0000039b" lastModified="1766370953"/>
           <Include href="#链接/MC_country.xml" itemID="6948adf5-0000039a" lastModified="1766370805"/>
           <Include href="#链接/MC_loadingbar.xml" itemID="69489ffe-000001e4" lastModified="1766367230"/>
-          <Include href="#链接/底.xml" itemID="67054b15-0000064d" lastModified="1728401640"/>
           <Include href="#链接/语言文本.xml" itemID="6703ce84-000004ff" lastModified="1728306800"/>
           <Include href="barmc.xml" loadImmediate="false" itemID="59239234-00000238" lastModified="1530522622"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="6702810b-00000127" lastModified="1728217355"/>
@@ -300,7 +300,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/底">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_base">
                                              <matrix>
                                                   <Matrix tx="211" ty="416.95"/>
                                              </matrix>

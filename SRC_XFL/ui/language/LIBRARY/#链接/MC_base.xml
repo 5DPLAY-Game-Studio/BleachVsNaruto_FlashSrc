@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/底" itemID="67054b15-0000064d" linkageExportForAS="true" linkageClassName="language_mc_base" lastModified="1728401640">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_base" itemID="6948ae89-0000039b" linkageExportForAS="true" linkageClassName="$language$MC_base" lastModified="1766370953">
   <timeline>
-    <DOMTimeline name="底">
+    <DOMTimeline name="MC_base">
       <layers>
         <DOMLayer name="图层_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

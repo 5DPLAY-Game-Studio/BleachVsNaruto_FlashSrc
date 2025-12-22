@@ -1,20 +1,20 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="韩语/韩语" itemID="67027f86-000000ce" lastModified="1728217077">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#语言/英语/文字元件" itemID="69489ec4-000001d5" lastModified="1766366916">
   <timeline>
-    <DOMTimeline name="韩语">
+    <DOMTimeline name="文字元件">
       <layers>
         <DOMLayer name="图层_3" color="#FF800A" current="true" isSelected="true" layerType="mask">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="bitmap" width="462.95" height="39.9">
+                <DOMStaticText fontRenderingMode="bitmap" width="462.95" height="39.6">
                   <matrix>
-                    <Matrix tx="2" ty="-8.5"/>
+                    <Matrix tx="2" ty="-10.5"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>한국인</characters>
+                      <characters>English</characters>
                       <textAttrs>
-                        <DOMTextAttrs lineSpacing="0" lineHeight="39.9" size="30" bitmapSize="600" face="MalgunGothicBold"/>
+                        <DOMTextAttrs lineSpacing="0" lineHeight="39.6" size="30" bitmapSize="600" face="MicrosoftYaHei-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

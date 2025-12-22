@@ -9,7 +9,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="位图 14">
+                      <BitmapFill bitmapPath="#语言/英语/国旗原图">
                         <matrix>
                           <Matrix a="10.0349578857422" d="10.1690673828125"/>
                         </matrix>

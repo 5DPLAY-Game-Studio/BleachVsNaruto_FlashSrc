@@ -1,20 +1,20 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="繁体中文/繁体中文" itemID="67027dbd-00000093" lastModified="1728216593">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#语言/日语/文字元件" itemID="69489dcd-000001ba" lastModified="1766366669">
   <timeline>
-    <DOMTimeline name="繁体中文">
+    <DOMTimeline name="文字元件">
       <layers>
         <DOMLayer name="图层_3" color="#FF800A" current="true" isSelected="true" layerType="mask">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="bitmap" width="462.95" height="38.1">
+                <DOMStaticText fontRenderingMode="bitmap" width="462.95" height="45">
                   <matrix>
-                    <Matrix tx="2" ty="-5.5"/>
+                    <Matrix tx="2" ty="-7"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>繁體中文</characters>
+                      <characters>日本語</characters>
                       <textAttrs>
-                        <DOMTextAttrs lineSpacing="0" lineHeight="38.1" size="30" bitmapSize="600" face="MicrosoftJhengHeiUIBold"/>
+                        <DOMTextAttrs lineSpacing="0" lineHeight="45" size="30" bitmapSize="600" face="Meiryo-Bold"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

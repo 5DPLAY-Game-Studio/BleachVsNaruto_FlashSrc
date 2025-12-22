@@ -59,7 +59,7 @@
           <Include href="#链接/MC_base.xml" itemID="6948ae89-0000039b" lastModified="1766370953"/>
           <Include href="#链接/MC_country.xml" itemID="6948adf5-0000039a" lastModified="1766370805"/>
           <Include href="#链接/MC_loadingbar.xml" itemID="69489ffe-000001e4" lastModified="1766367230"/>
-          <Include href="#链接/语言文本.xml" itemID="6703ce84-000004ff" lastModified="1728306800"/>
+          <Include href="#链接/MC_text.xml" itemID="6948b092-0000039c" lastModified="1766371474"/>
           <Include href="barmc.xml" loadImmediate="false" itemID="59239234-00000238" lastModified="1530522622"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="6702810b-00000127" lastModified="1728217355"/>
           <Include href="元件 2.xml" loadImmediate="false" itemID="67028178-00000146" lastModified="1728217464"/>
@@ -268,7 +268,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/语言文本">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_text">
                                              <matrix>
                                                   <Matrix tx="483" ty="469"/>
                                              </matrix>

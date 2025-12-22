@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/语言文本" itemID="6703ce84-000004ff" linkageExportForAS="true" linkageClassName="language_mc_country_text" lastModified="1728306800">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_text" itemID="6948b092-0000039c" linkageExportForAS="true" linkageClassName="$language$MC_text" lastModified="1766371474">
   <timeline>
-    <DOMTimeline name="语言文本">
+    <DOMTimeline name="MC_text">
       <layers>
         <DOMLayer name="标签" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>

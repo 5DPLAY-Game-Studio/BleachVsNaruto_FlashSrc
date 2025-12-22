@@ -24,7 +24,7 @@
           <DOMBitmapItem name="wz1.png" itemID="5b39ebfb-0000212f" sourceExternalFilepath="C:/Users/lenovo/Desktop/SWF转PNG序列图/loading/wz1.png" sourceLastImported="1530522573" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="wz1.png" bitmapDataHRef="M 30 1728383296.dat" frameRight="1320" frameBottom="360"/>
           <DOMBitmapItem name="wz2.png" itemID="5b39ebfb-00002133" sourceExternalFilepath="C:/Users/lenovo/Desktop/SWF转PNG序列图/loading/wz2.png" sourceLastImported="1530522573" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="wz2.png" bitmapDataHRef="M 28 1728383173.dat" frameRight="280" frameBottom="280"/>
           <DOMBitmapItem name="#语言/英语/国旗处理" itemID="69489ed5-000001d8" sourceExternalFilepath="../language/LIBRARY/Bitmap 8.png" sourceLastImported="1766366933" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/英语/国旗处理.png" bitmapDataHRef="M 18 1728230341.dat" frameRight="1000" frameBottom="720"/>
-          <DOMBitmapItem name="#语言/越南语/国旗处理" itemID="69489ed1-000001d7" sourceExternalFilepath="../language/LIBRARY/Bitmap 7.png" sourceLastImported="1766366929" externalFileCRC32="2466359533" externalFileSize="627" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/越南语/国旗处理.png" bitmapDataHRef="M 17 1728229668.dat" frameRight="1000" frameBottom="720"/>
+          <DOMBitmapItem name="#语言/越南语/国旗处理" itemID="6948a510-000001e5" sourceExternalFilepath="../language/LIBRARY/#语言/越南语/国旗处理.png" sourceLastImported="1766367109" externalFileCRC32="2466359533" externalFileSize="627" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/越南语/国旗处理.png" bitmapDataHRef="M 17 1728229668.dat" frameRight="1000" frameBottom="720"/>
           <DOMBitmapItem name="#语言/韩语/国旗处理" itemID="69489e05-000001bf" sourceExternalFilepath="../language/LIBRARY/Bitmap 3.png" sourceLastImported="1766366725" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/韩语/国旗处理.png" bitmapDataHRef="M 13 1728217624.dat" frameRight="1000" frameBottom="720"/>
           <DOMBitmapItem name="#语言/日语/国旗处理" itemID="69489de3-000001bc" sourceExternalFilepath="../language/LIBRARY/Bitmap 2.png" sourceLastImported="1766366691" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/日语/国旗处理.png" bitmapDataHRef="M 12 1728217482.dat" frameRight="1000" frameBottom="720"/>
           <DOMBitmapItem name="#语言/简体中文/国旗处理" itemID="69489db5-000001b8" sourceExternalFilepath="../language/LIBRARY/Bitmap 1.png" sourceLastImported="1766366645" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/简体中文/国旗处理.png" bitmapDataHRef="M 11 1728217457.dat" frameRight="1000" frameBottom="720"/>
@@ -40,7 +40,7 @@
           <DOMBitmapItem name="#语言/繁体中文/文字最终" itemID="69489ea9-000001d2" sourceExternalFilepath="Bitmap 12.png" sourceLastImported="1766366889" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/繁体中文/文字最终.png" bitmapDataHRef="M 22 1728300973.dat" frameRight="2560" frameBottom="800"/>
           <DOMBitmapItem name="#语言/简体中文/文字最终" itemID="69489e67-000001c5" sourceExternalFilepath="Bitmap 11.png" sourceLastImported="1766366823" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/简体中文/文字最终.png" bitmapDataHRef="M 21 1728300719.dat" frameRight="2620" frameBottom="800"/>
           <DOMBitmapItem name="#语言/英语/文字位图" itemID="69489f6d-000001e2" sourceExternalFilepath="../language/LIBRARY/Bitmap 4.png" sourceLastImported="1766367085" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/英语/文字位图.png" bitmapDataHRef="M 14 1728217949.dat" frameRight="9520" frameBottom="800"/>
-          <DOMBitmapItem name="#语言/越南语/文字位图" itemID="69489f66-000001e1" sourceExternalFilepath="../language/LIBRARY/Bitmap 5.png" sourceLastImported="1766367078" externalFileCRC32="386708900" externalFileSize="2029" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/越南语/文字位图.png" bitmapDataHRef="M 15 1728218219.dat" frameRight="9520" frameBottom="800"/>
+          <DOMBitmapItem name="#语言/越南语/文字位图" itemID="6948a510-000001e6" sourceExternalFilepath="../language/LIBRARY/#语言/越南语/文字位图.png" sourceLastImported="1766367109" externalFileCRC32="386708900" externalFileSize="2029" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/越南语/文字位图.png" bitmapDataHRef="M 15 1728218219.dat" frameRight="9520" frameBottom="800"/>
           <DOMBitmapItem name="#语言/繁体中文/文字位图" itemID="69489ea0-000001d0" sourceExternalFilepath="../language/LIBRARY/繁体中文/Bitmap 2.png" sourceLastImported="1766366880" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/繁体中文/文字位图.png" bitmapDataHRef="M 3 1728216627.dat" frameRight="9520" frameBottom="800"/>
           <DOMBitmapItem name="#语言/韩语/文字位图" itemID="69489e1c-000001c2" sourceExternalFilepath="../language/LIBRARY/韩语/Bitmap 4.png" sourceLastImported="1766366748" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/韩语/文字位图.png" bitmapDataHRef="M 7 1728217095.dat" frameRight="9520" frameBottom="800"/>
           <DOMBitmapItem name="#语言/日语/文字位图" itemID="69489dd3-000001bb" sourceExternalFilepath="../language/LIBRARY/日文/Bitmap 3.png" sourceLastImported="1766366675" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="#语言/日语/文字位图.png" bitmapDataHRef="M 4 1728216802.dat" frameRight="9520" frameBottom="800"/>
@@ -56,8 +56,8 @@
           <Include href="#语言/英语/文字元件.xml" loadImmediate="false" itemID="69489ec4-000001d5" lastModified="1766366916"/>
           <Include href="#语言/越南语/文字元件.xml" loadImmediate="false" itemID="69489ec9-000001d6" lastModified="1766366921"/>
           <Include href="#语言/韩语/文字元件.xml" loadImmediate="false" itemID="69489e14-000001c1" lastModified="1766366740"/>
+          <Include href="#链接/MC_country.xml" itemID="6948adf5-0000039a" lastModified="1766370805"/>
           <Include href="#链接/MC_loadingbar.xml" itemID="69489ffe-000001e4" lastModified="1766367230"/>
-          <Include href="#链接/国旗进度.xml" itemID="6702b42b-00000071" lastModified="1728303162"/>
           <Include href="#链接/底.xml" itemID="67054b15-0000064d" lastModified="1728401640"/>
           <Include href="#链接/语言文本.xml" itemID="6703ce84-000004ff" lastModified="1728306800"/>
           <Include href="barmc.xml" loadImmediate="false" itemID="59239234-00000238" lastModified="1530522622"/>
@@ -284,7 +284,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/国旗进度">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_country">
                                              <matrix>
                                                   <Matrix tx="368" ty="469"/>
                                              </matrix>
@@ -327,6 +327,7 @@
      <scripts/>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="40889" publishTime="1766368526"/>
           <PublishItem publishSize="40960" publishTime="1728564239"/>
           <PublishItem publishSize="37942" publishTime="1728564202"/>
           <PublishItem publishSize="37942" publishTime="1728401644"/>

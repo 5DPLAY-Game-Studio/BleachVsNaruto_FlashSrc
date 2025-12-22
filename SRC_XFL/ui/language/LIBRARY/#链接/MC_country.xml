@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/国旗进度" itemID="6702b42b-00000071" linkageExportForAS="true" linkageClassName="language_mc_country" lastModified="1728303162">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_country" itemID="6948adf5-0000039a" linkageExportForAS="true" linkageClassName="$language$MC_country" lastModified="1766370805">
   <timeline>
-    <DOMTimeline name="国旗进度">
+    <DOMTimeline name="MC_country">
       <layers>
         <DOMLayer name="进度" color="#9933CC" locked="true" autoNamed="false">
           <frames>

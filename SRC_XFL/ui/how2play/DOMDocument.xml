@@ -1,6 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="3C2FC6919263B84B99A8C4EEEEFE96D3">
      <folders>
           <DOMFolderItem name="选人画面文件" itemID="46c14226-00000596"/>
+          <DOMFolderItem name="#链接" itemID="69489aef-00000150" isExpanded="true"/>
           <DOMFolderItem name="元件" itemID="4eae3173-000009c1"/>
           <DOMFolderItem name="Graphic" itemID="49218538-00000032"/>
           <DOMFolderItem name="howtoplayfiles" itemID="59476458-0000075b"/>
@@ -237,6 +238,7 @@
      </media>
      <symbols>
           <Include href="选人画面文件/选人控制.xml" loadImmediate="false" itemID="46c02db4-00000512" lastModified="1218469748"/>
+          <Include href="#链接/MC_movieHow2Play.xml" itemID="69489be9-00000152" lastModified="1766366185"/>
           <Include href="元件 1.xml" itemIcon="0" loadImmediate="false" itemID="5ca45032-0000011d" lastModified="1554272353"/>
           <Include href="元件 2.xml" loadImmediate="false" itemID="5ca45061-00000122" lastModified="1554272386"/>
           <Include href="元件 3.xml" itemIcon="1" loadImmediate="false" itemID="5ca45068-00000126" lastModified="1554272360"/>
@@ -276,7 +278,6 @@
           <Include href="howtoplayfiles/效果/捕助必杀效果.xml" loadImmediate="false" itemID="46d8013d-00000c1c" lastModified="1188623393"/>
           <Include href="howtoplayfiles/效果/斩效果.xml" loadImmediate="false" itemID="46b32f70-0000036f" lastModified="1306577178"/>
           <Include href="howtoplayfiles/效果/辅助-出场效果.xml" loadImmediate="false" itemID="46d80372-00000e3c" lastModified="1188561879"/>
-          <Include href="howtoplayfiles/howtoplay.xml" itemID="4de0d9b6-0000309b" lastModified="1554272419"/>
           <Include href="howtoplayfiles/keysss0.xml" itemIcon="1" loadImmediate="false" itemID="4de0c204-00001f82" lastModified="1306575365"/>
           <Include href="howtoplayfiles/keyssss.xml" itemIcon="1" loadImmediate="false" itemID="4de0c15d-00001f7d" lastModified="1306661841"/>
           <Include href="howtoplayfiles/图片S/12127943_45651.gif 拷贝.xml" loadImmediate="false" itemID="4de0bf6a-00001c62" lastModified="1186309684"/>
@@ -295,7 +296,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="howtoplayfiles/howtoplay" centerPoint3DX="270.7" centerPoint3DY="203">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_movieHow2Play" centerPoint3DX="270.7" centerPoint3DY="203">
                                              <transformationPoint>
                                                   <Point x="270.7" y="203"/>
                                              </transformationPoint>

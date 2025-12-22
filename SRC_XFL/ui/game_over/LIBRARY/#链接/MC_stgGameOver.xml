@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="stg_gameover_mc" itemID="592adb5a-00000234" linkageExportForAS="true" linkageClassName="stg_gameover_mc" lastModified="1530523282" lastUniqueIdentifier="23">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stgGameOver" itemID="69489a3c-0000002d" linkageExportForAS="true" linkageClassName="$game_over$MC_stgGameOver" lastModified="1766365756" lastUniqueIdentifier="23">
   <timeline>
-    <DOMTimeline name="stg_gameover_mc" currentFrame="91">
+    <DOMTimeline name="MC_stgGameOver" currentFrame="91">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" locked="true">
           <frames>

@@ -1,4 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="E5714F848FD48743BAEE08F95401D4C0">
+     <folders>
+          <DOMFolderItem name="#链接" itemID="6948999f-0000002c" isExpanded="true"/>
+     </folders>
      <media>
           <DOMBitmapItem name="bg.jpg.png" itemID="5b39ee8f-00002783" sourceExternalFilepath="../gameover/LIBRARY/bg.jpg.png" sourceLastImported="1751791321" externalFileCRC32="1858656378" externalFileSize="50089" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="bg.jpg.png" bitmapDataHRef="M 21 1530523279.dat" frameRight="16000" frameBottom="12000"/>
           <DOMBitmapItem name="bg_gameover.jpg.png" itemID="5b39ee8f-00002787" sourceExternalFilepath="../gameover/LIBRARY/bg_gameover.jpg.png" sourceLastImported="1751791321" externalFileCRC32="1070539115" externalFileSize="206783" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="bg_gameover.jpg.png" bitmapDataHRef="M 22 1530523279.dat" frameRight="16000" frameBottom="12000"/>
@@ -20,6 +23,7 @@
           <DOMBitmapItem name="txt6.png" itemID="5b39ee90-000027b7" sourceExternalFilepath="../gameover/LIBRARY/txt6.png" sourceLastImported="1751791322" externalFileCRC32="2166158267" externalFileSize="1309" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="txt6.png" bitmapDataHRef="M 34 1530523280.dat" frameRight="460" frameBottom="480"/>
      </media>
      <symbols>
+          <Include href="#链接/MC_stgGameOver.xml" itemID="69489a3c-0000002d" lastModified="1766365756"/>
           <Include href="btn_back.xml" loadImmediate="false" itemID="592ae074-000002f7" lastModified="1530523282"/>
           <Include href="ct.xml" loadImmediate="false" itemID="592adcb1-0000027e" lastModified="1496241561"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="592adbe5-00000248" lastModified="1530523282"/>
@@ -38,7 +42,6 @@
           <Include href="元件 13.xml" itemIcon="1" loadImmediate="false" itemID="592ae11a-00000316" lastModified="1530523282"/>
           <Include href="补间 1.xml" itemIcon="1" loadImmediate="false" itemID="592ae130-0000031c" lastModified="1495982384"/>
           <Include href="补间 2.xml" itemIcon="1" loadImmediate="false" itemID="592ae130-0000031e" lastModified="1495982384"/>
-          <Include href="stg_gameover_mc.xml" itemID="592adb5a-00000234" lastModified="1530523282"/>
      </symbols>
      <timelines>
           <DOMTimeline name="场景 1" currentFrame="1">
@@ -47,7 +50,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="stg_gameover_mc">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_stgGameOver">
                                              <transformationPoint>
                                                   <Point/>
                                              </transformationPoint>

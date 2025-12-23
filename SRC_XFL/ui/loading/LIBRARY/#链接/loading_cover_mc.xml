@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="loading_cover_mc" itemID="59239550-00000379" linkageExportForAS="true" linkageClassName="loading_cover_mc" lastModified="1530523649" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/loading_cover_mc" itemID="59239550-00000379" linkageExportForAS="true" linkageClassName="loading_cover_mc" lastModified="1530523649" lastUniqueIdentifier="3">
   <timeline>
     <DOMTimeline name="loading_cover_mc">
       <layers>
-        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+        <DOMLayer name="图层 2" color="#9933CC">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="loadingbar_mc" name="bar" centerPoint3DX="400" centerPoint3DY="533.9">
+                <DOMSymbolInstance libraryItemName="#链接/loadingbar_mc" name="bar" centerPoint3DX="400" centerPoint3DY="533.9">
                   <matrix>
                     <Matrix tx="18" ty="526.4"/>
                   </matrix>
@@ -18,11 +18,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 1" color="#4FFF4F">
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="cover_bgimg111.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="#链接/BM_coverBackGround"/>
               </elements>
             </DOMFrame>
           </frames>

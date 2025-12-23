@@ -1,5 +1,6 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" rulerVisible="true" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="2CECFCA03DBD1F4C9D60A4ACA7595D43">
      <folders>
+          <DOMFolderItem name="#链接" itemID="69490297-00000093" isExpanded="true"/>
           <DOMFolderItem name="plasma_png" itemID="442cd797-00000125"/>
      </folders>
      <media>
@@ -12,7 +13,7 @@
           <DOMBitmapItem name="bar1.png" itemID="5b39ebfc-0000214b" sourceExternalFilepath="./LIBRARY/bar1.png" sourceLastImported="1751791871" externalFileCRC32="3003860296" externalFileSize="316" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bar1.png" bitmapDataHRef="M 57 1530522620.dat" frameRight="15280" frameBottom="300"/>
           <DOMBitmapItem name="bar2.png" itemID="5b39ebfc-0000214f" sourceExternalFilepath="./LIBRARY/bar2.png" sourceLastImported="1751791871" externalFileCRC32="1344446135" externalFileSize="130" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bar2.png" bitmapDataHRef="M 58 1530522620.dat" frameRight="15200" frameBottom="100"/>
           <DOMBitmapItem name="bg.jpg.png" itemID="5b39ebfc-00002153" sourceExternalFilepath="./LIBRARY/bg.jpg.png" sourceLastImported="1751791871" externalFileCRC32="3857085607" externalFileSize="178191" originalCompressionType="lossless" quality="50" href="bg.jpg.png" bitmapDataHRef="M 59 1530522620.dat" frameRight="16000" frameBottom="12000"/>
-          <DOMBitmapItem name="cover_bgimg111.png" itemID="5b39ebfc-00002157" linkageExportForAS="true" linkageClassName="cover_bgimg" sourceExternalFilepath="./LIBRARY/cover_bgimg111.png" sourceLastImported="1751791871" externalFileCRC32="707465400" externalFileSize="291978" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="cover_bgimg111.png" bitmapDataHRef="M 60 1530522620.dat" frameRight="16080" frameBottom="12080"/>
+          <DOMBitmapItem name="#链接/BM_coverBackGround" itemID="69490395-00000094" linkageExportForAS="true" linkageClassName="$loading$BM_coverBackGround" sourceExternalFilepath="./LIBRARY/cover_bgimg111.png" sourceLastImported="1751791871" externalFileCRC32="707465400" externalFileSize="291978" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="#链接/BM_coverBackGround.png" bitmapDataHRef="M 60 1530522620.dat" frameRight="16080" frameBottom="12080"/>
           <DOMBitmapItem name="fkbg.png" itemID="5b4c63d0-00000203" sourceExternalFilepath="./LIBRARY/fkbg.png" sourceLastImported="1751791871" externalFileCRC32="3100246448" externalFileSize="1748" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fkbg.png" bitmapDataHRef="M 40 1531732944.dat" frameRight="6940" frameBottom="5840"/>
           <DOMBitmapItem name="fkkk.png" itemID="5b4c479c-000000d3" sourceExternalFilepath="./LIBRARY/fkkk.png" sourceLastImported="1751791871" externalFileCRC32="3844420332" externalFileSize="8819" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fkkk.png" bitmapDataHRef="M 36 1531725724.dat" frameRight="6800" frameBottom="5800"/>
           <DOMBitmapItem name="getready.png" itemID="5b39ebfc-0000215b" sourceExternalFilepath="./LIBRARY/getready.png" sourceLastImported="1751791871" externalFileCRC32="197270323" externalFileSize="4852" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="getready.png" bitmapDataHRef="M 61 1530522620.dat" frameRight="8980" frameBottom="620"/>
@@ -42,6 +43,15 @@
           <DOMBitmapItem name="wz2.png" itemID="5b39ebfb-00002133" sourceExternalFilepath="./LIBRARY/wz2.png" sourceLastImported="1530522573" externalFileCRC32="2819363072" externalFileSize="369" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="wz2.png" bitmapDataHRef="M 51 1530522619.dat" frameRight="280" frameBottom="280"/>
      </media>
      <symbols>
+          <Include href="#链接/loading_cover_mc.xml" itemID="59239550-00000379" lastModified="1530523649"/>
+          <Include href="#链接/loading_fight_mc.xml" itemID="5923918e-0000020e" lastModified="1530523806"/>
+          <Include href="#链接/loadingbar_mc.xml" itemID="59239219-0000022f" lastModified="1531735200"/>
+          <Include href="#链接/select_arrow_mc_1.xml" itemID="5923933f-00000261" lastModified="1530522622"/>
+          <Include href="#链接/select_arrow_mc_2.xml" itemID="5923934b-00000266" lastModified="1530522622"/>
+          <Include href="#链接/select_ui.xml" itemID="592fa30c-0000002d" lastModified="1496298128"/>
+          <Include href="#链接/seltwzmc.xml" itemID="592392dd-0000024d" lastModified="1530522622"/>
+          <Include href="#链接/winner_stg_mc.xml" itemID="5b4c45e4-0000009e" lastModified="1531906814"/>
+          <Include href="#链接/winner_stg_mc2.xml" itemID="5b4c627c-000001ef" lastModified="1531906828"/>
           <Include href="barmc.xml" loadImmediate="false" itemID="59239234-00000238" lastModified="1530522622"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="592391cc-00000227" lastModified="1531725563"/>
           <Include href="元件 2.xml" loadImmediate="false" itemID="5923927f-00000243" lastModified="1495503507"/>
@@ -58,17 +68,8 @@
           <Include href="元件 11.xml" itemIcon="1" loadImmediate="false" itemID="5b4c63de-00000205" lastModified="1531732958"/>
           <Include href="元件 12.xml" loadImmediate="false" itemID="5b4cbc4f-000001bb" lastModified="1731485159"/>
           <Include href="ffmc.xml" loadImmediate="false" itemID="5b4c4826-000000e0" lastModified="1531754068"/>
-          <Include href="loading_cover_mc.xml" itemID="59239550-00000379" lastModified="1530523649"/>
-          <Include href="loading_fight_mc.xml" itemID="5923918e-0000020e" lastModified="1530523806"/>
-          <Include href="loadingbar_mc.xml" itemID="59239219-0000022f" lastModified="1531735200"/>
           <Include href="loadingwz.xml" loadImmediate="false" itemID="5923926f-0000023d" lastModified="1530522622"/>
           <Include href="plasma_01.xml" loadImmediate="false" itemID="442cd762-000000a2" lastModified="1530524253"/>
-          <Include href="select_arrow_mc_1.xml" itemID="5923933f-00000261" lastModified="1530522622"/>
-          <Include href="select_arrow_mc_2.xml" itemID="5923934b-00000266" lastModified="1530522622"/>
-          <Include href="select_ui.xml" itemID="592fa30c-0000002d" lastModified="1496298128"/>
-          <Include href="seltwzmc.xml" itemID="592392dd-0000024d" lastModified="1530522622"/>
-          <Include href="winner_stg_mc.xml" itemID="5b4c45e4-0000009e" lastModified="1531906814"/>
-          <Include href="winner_stg_mc2.xml" itemID="5b4c627c-000001ef" lastModified="1531906828"/>
      </symbols>
      <timelines>
           <DOMTimeline name="场景 1" currentFrame="3">
@@ -87,7 +88,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="loading_fight_mc" centerPoint3DX="400" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="#链接/loading_fight_mc" centerPoint3DX="400" centerPoint3DY="300">
                                              <transformationPoint>
                                                   <Point x="400" y="300"/>
                                              </transformationPoint>
@@ -96,7 +97,7 @@
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="loading_cover_mc" centerPoint3DX="400" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="#链接/loading_cover_mc" centerPoint3DX="400" centerPoint3DY="300">
                                              <transformationPoint>
                                                   <Point/>
                                              </transformationPoint>
@@ -105,7 +106,7 @@
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="winner_stg_mc" centerPoint3DX="400" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="#链接/winner_stg_mc" centerPoint3DX="400" centerPoint3DY="300">
                                              <transformationPoint>
                                                   <Point x="400" y="300"/>
                                              </transformationPoint>
@@ -114,7 +115,7 @@
                               </DOMFrame>
                               <DOMFrame index="3" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="winner_stg_mc2">
+                                        <DOMSymbolInstance libraryItemName="#链接/winner_stg_mc2">
                                              <transformationPoint>
                                                   <Point x="406.1" y="363.65"/>
                                              </transformationPoint>

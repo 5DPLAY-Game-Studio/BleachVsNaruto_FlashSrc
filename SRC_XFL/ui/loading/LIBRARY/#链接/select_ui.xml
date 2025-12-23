@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="select_ui" itemID="592fa30c-0000002d" linkageExportForAS="true" linkageClassName="loading_select_ui_mc" lastModified="1496298128" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/select_ui" itemID="592fa30c-0000002d" linkageExportForAS="true" linkageClassName="loading_select_ui_mc" lastModified="1496298128" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="select_ui">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="loadingbar_mc" name="bar" selected="true" centerPoint3DX="399" centerPoint3DY="562.6">
+                <DOMSymbolInstance libraryItemName="#链接/loadingbar_mc" name="bar" selected="true" centerPoint3DX="399" centerPoint3DY="562.6">
                   <matrix>
                     <Matrix tx="17" ty="555.1"/>
                   </matrix>

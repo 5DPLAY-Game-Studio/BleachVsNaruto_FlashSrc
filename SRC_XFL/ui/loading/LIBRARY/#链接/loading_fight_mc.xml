@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="loading_fight_mc" itemID="5923918e-0000020e" linkageExportForAS="true" linkageClassName="loading_fight_mc" lastModified="1530523806" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/loading_fight_mc" itemID="5923918e-0000020e" linkageExportForAS="true" linkageClassName="loading_fight_mc" lastModified="1530523806" lastUniqueIdentifier="8">
   <timeline>
     <DOMTimeline name="loading_fight_mc">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="seltwzmc" centerPoint3DX="-103" centerPoint3DY="200.7">
+                <DOMSymbolInstance libraryItemName="#链接/seltwzmc" centerPoint3DX="-103" centerPoint3DY="200.7">
                   <matrix>
                     <Matrix tx="-103" ty="200.7"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="select_arrow_mc_1" centerPoint3DX="-77.05" centerPoint3DY="103.7">
+                <DOMSymbolInstance libraryItemName="#链接/select_arrow_mc_1" centerPoint3DX="-77.05" centerPoint3DY="103.7">
                   <matrix>
                     <Matrix tx="-77.05" ty="103.7"/>
                   </matrix>
@@ -22,7 +22,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="select_arrow_mc_2" centerPoint3DX="-95.05" centerPoint3DY="152.7">
+                <DOMSymbolInstance libraryItemName="#链接/select_arrow_mc_2" centerPoint3DX="-95.05" centerPoint3DY="152.7">
                   <matrix>
                     <Matrix tx="-95.05" ty="152.7"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="select_ui" name="sltui" centerPoint3DX="399" centerPoint3DY="298.9">
+                <DOMSymbolInstance libraryItemName="#链接/select_ui" name="sltui" centerPoint3DX="399" centerPoint3DY="298.9">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

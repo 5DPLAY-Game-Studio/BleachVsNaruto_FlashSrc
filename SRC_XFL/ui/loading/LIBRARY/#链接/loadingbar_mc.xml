@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_loadingbar" itemID="69489ffe-000001e4" linkageExportForAS="true" linkageClassName="$language$MC_loadingBar" lastModified="1766367230" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/loadingbar_mc" itemID="59239219-0000022f" linkageExportForAS="true" linkageClassName="loadingbar_mc" lastModified="1531735200" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="MC_loadingbar">
+    <DOMTimeline name="loadingbar_mc">
       <layers>
-        <DOMLayer name="图层 3" color="#FF800A" layerType="guide">
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -23,7 +23,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+        <DOMLayer name="图层 2" color="#9933CC">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -47,7 +47,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 1" color="#4FFF4F" locked="true">
+        <DOMLayer name="图层 1" color="#4FFF4F">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

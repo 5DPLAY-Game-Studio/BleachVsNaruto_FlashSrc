@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="#链接/select_arrow_mc_1" centerPoint3DX="-77.05" centerPoint3DY="103.7">
+                <DOMSymbolInstance libraryItemName="#链接/SP_selectArrow1" centerPoint3DX="-77.05" centerPoint3DY="103.7">
                   <matrix>
                     <Matrix tx="-77.05" ty="103.7"/>
                   </matrix>

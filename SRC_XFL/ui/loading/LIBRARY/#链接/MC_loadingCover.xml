@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_loadingCover" itemID="694a006b-00000094" linkageExportForAS="true" linkageClassName="$loading$MC_loadingCover" lastModified="1766457451" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="MC_loadingCover">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#链接/loadingbar_mc" name="bar" centerPoint3DX="400" centerPoint3DY="533.9">
+                  <matrix>
+                    <Matrix tx="18" ty="526.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="382" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="#链接/BM_coverBackGround"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

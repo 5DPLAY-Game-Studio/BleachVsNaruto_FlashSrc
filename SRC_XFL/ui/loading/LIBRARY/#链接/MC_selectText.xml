@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/seltwzmc" itemID="592392dd-0000024d" linkageExportForAS="true" linkageClassName="seltwzmc" lastModified="1530522622">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_selectText" itemID="694a32f4-000000e7" linkageExportForAS="true" linkageClassName="$loading$MC_selectText" lastModified="1766470388">
   <timeline>
-    <DOMTimeline name="seltwzmc" currentFrame="3" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;17&lt;/guideline&gt;&lt;/guidelines&gt;'>
+    <DOMTimeline name="MC_selectText" currentFrame="3" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;17&lt;/guideline&gt;&lt;/guidelines&gt;'>
       <layers>
         <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>

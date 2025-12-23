@@ -46,10 +46,10 @@
           <Include href="#链接/MC_loadingBar.xml" itemID="694a3082-000000e5" lastModified="1766469762"/>
           <Include href="#链接/MC_loadingCover.xml" itemID="694a006b-00000094" lastModified="1766457451"/>
           <Include href="#链接/MC_loadingFight.xml" itemID="694a3246-000000e6" lastModified="1766470214"/>
+          <Include href="#链接/MC_selectText.xml" itemID="694a32f4-000000e7" lastModified="1766470388"/>
           <Include href="#链接/MC_stageWinner.xml" itemID="694a268c-000000e2" lastModified="1766467212"/>
           <Include href="#链接/MC_stageWinner2.xml" loadImmediate="false" itemID="694a2696-000000e3" lastModified="1766467222"/>
           <Include href="#链接/select_ui.xml" itemID="592fa30c-0000002d" lastModified="1496298128"/>
-          <Include href="#链接/seltwzmc.xml" itemID="592392dd-0000024d" lastModified="1530522622"/>
           <Include href="#链接/SP_selectArrow1.xml" itemID="694a028e-00000095" lastModified="1766457998"/>
           <Include href="#链接/SP_selectArrow2.xml" itemID="694a032a-00000096" lastModified="1766458154"/>
           <Include href="barmc.xml" loadImmediate="false" itemID="59239234-00000238" lastModified="1530522622"/>

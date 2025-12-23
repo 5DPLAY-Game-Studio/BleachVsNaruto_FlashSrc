@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/seltwzmc" centerPoint3DX="-103" centerPoint3DY="200.7">
+                <DOMSymbolInstance libraryItemName="#链接/MC_selectText" centerPoint3DX="-103" centerPoint3DY="200.7">
                   <matrix>
                     <Matrix tx="-103" ty="200.7"/>
                   </matrix>

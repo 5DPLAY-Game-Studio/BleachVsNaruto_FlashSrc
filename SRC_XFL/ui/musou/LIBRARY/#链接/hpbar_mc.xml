@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="hpbar_mc" itemID="5898061e-00000209" linkageExportForAS="true" linkageClassName="mosou_hpbar_mc" lastModified="1592393471" lastUniqueIdentifier="38">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/hpbar_mc" itemID="5898061e-00000209" linkageExportForAS="true" linkageClassName="mosou_hpbar_mc" lastModified="1592393471" lastUniqueIdentifier="38">
   <timeline>
     <DOMTimeline name="hpbar_mc" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;104&lt;/guideline&gt;&lt;/guidelines&gt;'>
       <layers>
@@ -16,7 +16,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_facemc" name="facemc" centerPoint3DX="56.6" centerPoint3DY="39.05">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_facemc" name="facemc" centerPoint3DX="56.6" centerPoint3DY="39.05">
                   <matrix>
                     <Matrix tx="5.6" ty="7.05"/>
                   </matrix>
@@ -93,7 +93,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="energy_bar" name="energybar" centerPoint3DX="167.55" centerPoint3DY="45.7">
+                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energybar" centerPoint3DX="167.55" centerPoint3DY="45.7">
                   <matrix>
                     <Matrix tx="237.55" ty="40.7"/>
                   </matrix>
@@ -132,7 +132,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="little_hpbar_mc" name="little_hp_1">
+                <DOMSymbolInstance libraryItemName="#链接/little_hpbar_mc" name="little_hp_1">
                   <matrix>
                     <Matrix ty="66.95"/>
                   </matrix>
@@ -140,7 +140,7 @@
                     <Point x="43" y="23.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="little_hpbar_mc" name="little_hp_2">
+                <DOMSymbolInstance libraryItemName="#链接/little_hpbar_mc" name="little_hp_2">
                   <matrix>
                     <Matrix tx="89.55" ty="52.75"/>
                   </matrix>

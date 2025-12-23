@@ -1,5 +1,6 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#006699" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" rulerVisible="true" objectsSnapTo="false" timelineLabelWidth="240" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" viewOptionsButtonsActive="true" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="472BBFB23D8EA24D87E1AC7EAEE4F522">
      <folders>
+          <DOMFolderItem name="#链接" itemID="694a35f8-0000024f" isExpanded="true"/>
           <DOMFolderItem name="元件" itemID="58a2ae93-0000098b"/>
           <DOMFolderItem name="fonts" itemID="58a55522-00001a36" isExpanded="true"/>
           <DOMFolderItem name="fonts/font1" itemID="58a55526-00001a3a" isExpanded="true"/>
@@ -211,6 +212,20 @@
           <DOMBitmapItem name="无双sample.jpg" itemID="5e787e7d-00000248" sourceExternalFilepath="../mosou/LIBRARY/无双sample.jpg" sourceLastImported="1751791891" externalFileCRC32="3153717965" externalFileSize="499295" allowSmoothing="true" quality="50" href="无双sample.jpg" bitmapDataHRef="M 166 1584955005.dat" frameRight="16000" frameBottom="12000" isJPEG="true"/>
      </media>
      <symbols>
+          <Include href="#链接/enemyhpbarmc.xml" itemID="5e79ad30-000004b9" lastModified="1585300975"/>
+          <Include href="#链接/enemyhpbarmc2.xml" itemID="5ecd0a8e-000001d3" lastModified="1591195269"/>
+          <Include href="#链接/energy_bar.xml" itemID="58980ee1-000002cc" lastModified="1585217363"/>
+          <Include href="#链接/energybar_barmc.xml" itemID="58980f88-000002e5" lastModified="1585203562"/>
+          <Include href="#链接/hits_mc.xml" itemID="58a5295a-00001721" lastModified="1585203557"/>
+          <Include href="#链接/hits_num_mc.xml" itemID="58a5298e-0000174e" lastModified="1585203553"/>
+          <Include href="#链接/hpbar_barmc.xml" itemID="58980668-00000216" lastModified="1585204393"/>
+          <Include href="#链接/hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1585203545"/>
+          <Include href="#链接/hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1585291939"/>
+          <Include href="#链接/hpbar_mc.xml" itemID="5898061e-00000209" lastModified="1592393471"/>
+          <Include href="#链接/little_facemc.xml" itemID="5e78867d-00000421" lastModified="1585294494"/>
+          <Include href="#链接/little_hpbar_mc.xml" itemID="5e78865e-00000392" lastModified="1585294478"/>
+          <Include href="#链接/player_pos_p1.xml" itemID="59422e9b-0000011f" lastModified="1585203525"/>
+          <Include href="#链接/stg_mosou.xml" itemID="5e787eb3-0000024a" lastModified="1592703083"/>
           <Include href="bosshpmc.xml" loadImmediate="false" itemID="5e79a8eb-0000029e" lastModified="1590495188"/>
           <Include href="bsface_ct.xml" loadImmediate="false" itemID="58a2afd0-000009a0" lastModified="1487059460"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="58980718-00000225" lastModified="1530523063"/>
@@ -287,9 +302,6 @@
           <Include href="补间 4.xml" itemIcon="1" loadImmediate="false" itemID="58a5586d-00001b6f" lastModified="1530523167"/>
           <Include href="enemybarct.xml" loadImmediate="false" itemID="5e79ad41-000004c0" lastModified="1585032735"/>
           <Include href="enemyhpbar.xml" loadImmediate="false" itemID="5e79ad69-000004cd" lastModified="1585032553"/>
-          <Include href="enemyhpbarmc.xml" itemID="5e79ad30-000004b9" lastModified="1585300975"/>
-          <Include href="enemyhpbarmc2.xml" itemID="5ecd0a8e-000001d3" lastModified="1591195269"/>
-          <Include href="energy_bar.xml" itemID="58980ee1-000002cc" lastModified="1585217363"/>
           <Include href="energybar_bar.xml" loadImmediate="false" itemID="58980fb6-000002f4" lastModified="1486539570"/>
           <Include href="energybar_txt_mc.xml" loadImmediate="false" itemID="58980f0e-000002d2" lastModified="1585217373"/>
           <Include href="补间 4 副本.xml" itemIcon="1" loadImmediate="false" itemID="5958dea2-00002622" lastModified="1530523063"/>
@@ -326,20 +338,10 @@
           <Include href="补间 34.xml" itemIcon="1" loadImmediate="false" itemID="5f01acc1-0000017a" lastModified="1593945281"/>
           <Include href="补间 35.xml" itemIcon="1" loadImmediate="false" itemID="5f01acf1-00000188" lastModified="1593945329"/>
           <Include href="补间 36.xml" itemIcon="1" loadImmediate="false" itemID="5f01acf1-00000192" lastModified="1593945329"/>
-          <Include href="energybar_barmc.xml" itemID="58980f88-000002e5" lastModified="1585203562"/>
           <Include href="game_start_mc.xml" loadImmediate="false" itemID="58a554ea-000019c5" lastModified="1601737407"/>
-          <Include href="hits_mc.xml" itemID="58a5295a-00001721" lastModified="1585203557"/>
-          <Include href="hits_num_mc.xml" itemID="58a5298e-0000174e" lastModified="1585203553"/>
           <Include href="hpbar_bar.xml" loadImmediate="false" itemID="58981cbc-00000475" lastModified="1585292931"/>
           <Include href="hpbar_bar 副本.xml" loadImmediate="false" itemID="58998d61-00000263" lastModified="1590494361"/>
-          <Include href="hpbar_barmc.xml" itemID="58980668-00000216" lastModified="1585204393"/>
-          <Include href="hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1585203545"/>
-          <Include href="hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1585291939"/>
-          <Include href="hpbar_mc.xml" itemID="5898061e-00000209" lastModified="1592393471"/>
           <Include href="kos.xml" loadImmediate="false" itemID="5e797f91-00000261" lastModified="1585020885"/>
-          <Include href="little_facemc.xml" itemID="5e78867d-00000421" lastModified="1585294494"/>
-          <Include href="little_hpbar_mc.xml" itemID="5e78865e-00000392" lastModified="1585294478"/>
-          <Include href="player_pos_p1.xml" itemID="59422e9b-0000011f" lastModified="1585203525"/>
           <Include href="qbar_ready.xml" loadImmediate="false" itemID="58982943-00000a46" lastModified="1502421786"/>
           <Include href="qbar_txtmc.xml" loadImmediate="false" itemID="589827bb-000009e4" lastModified="1585203575"/>
           <Include href="qbar222.xml" loadImmediate="false" itemID="58982639-000007b6" lastModified="1486366561"/>
@@ -349,7 +351,6 @@
           <Include href="qibar.xml" loadImmediate="false" itemID="5e78831f-000002a4" lastModified="1585293460"/>
           <Include href="qibar_all.xml" loadImmediate="false" itemID="5e7883c8-000002c1" lastModified="1585293586"/>
           <Include href="round_num_mc.xml" loadImmediate="false" itemID="58a5578a-00001b3e" lastModified="1530523167"/>
-          <Include href="stg_mosou.xml" itemID="5e787eb3-0000024a" lastModified="1592703083"/>
           <Include href="time_txtmc_wx.xml" loadImmediate="false" itemID="58981c76-00000470" lastModified="1530523063"/>
           <Include href="timemc.xml" loadImmediate="false" itemID="5e7980db-0000027d" lastModified="1731663400"/>
           <Include href="wavemc.xml" loadImmediate="false" itemID="5e7980f9-00000286" lastModified="1731663772"/>
@@ -363,7 +364,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="stg_mosou" centerPoint3DX="51" centerPoint3DY="38.05">
+                                        <DOMSymbolInstance libraryItemName="#链接/stg_mosou" centerPoint3DX="51" centerPoint3DY="38.05">
                                              <matrix>
                                                   <Matrix ty="6.05"/>
                                              </matrix>
@@ -371,7 +372,7 @@
                                                   <Point x="51" y="32"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="player_pos_p1" centerPoint3DX="-279.1" centerPoint3DY="421.15">
+                                        <DOMSymbolInstance libraryItemName="#链接/player_pos_p1" centerPoint3DX="-279.1" centerPoint3DY="421.15">
                                              <matrix>
                                                   <Matrix tx="-279.1" ty="448.65"/>
                                              </matrix>
@@ -379,7 +380,7 @@
                                                   <Point y="-27.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="enemyhpbarmc2">
+                                        <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc2">
                                              <matrix>
                                                   <Matrix tx="689.7" ty="477"/>
                                              </matrix>

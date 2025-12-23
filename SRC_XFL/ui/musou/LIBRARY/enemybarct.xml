@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="enemyhpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc">
                   <matrix>
                     <Matrix tx="0.05"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <Point x="-55.5" y="16"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="enemyhpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc">
                   <matrix>
                     <Matrix tx="-108.8"/>
                   </matrix>
@@ -22,7 +22,7 @@
                     <Point x="-55.5" y="16"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="enemyhpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc">
                   <matrix>
                     <Matrix tx="-217.65"/>
                   </matrix>
@@ -30,7 +30,7 @@
                     <Point x="-55.5" y="16"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="enemyhpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc">
                   <matrix>
                     <Matrix tx="-326.5"/>
                   </matrix>
@@ -38,7 +38,7 @@
                     <Point x="-55.5" y="16"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="enemyhpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc">
                   <matrix>
                     <Matrix tx="0.05" ty="32"/>
                   </matrix>
@@ -46,7 +46,7 @@
                     <Point x="-55.5" y="16"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="enemyhpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc">
                   <matrix>
                     <Matrix tx="-108.8" ty="32"/>
                   </matrix>
@@ -54,7 +54,7 @@
                     <Point x="-55.5" y="16"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="enemyhpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc">
                   <matrix>
                     <Matrix tx="-217.65" ty="32"/>
                   </matrix>
@@ -62,7 +62,7 @@
                     <Point x="-55.5" y="16"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="enemyhpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc">
                   <matrix>
                     <Matrix tx="-326.5" ty="32"/>
                   </matrix>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="little_hpbar_mc" itemID="5e78865e-00000392" linkageExportForAS="true" linkageClassName="mosou_little_hpbar_mc" lastModified="1585294478">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/little_hpbar_mc" itemID="5e78865e-00000392" linkageExportForAS="true" linkageClassName="mosou_little_hpbar_mc" lastModified="1585294478">
   <timeline>
     <DOMTimeline name="little_hpbar_mc">
       <layers>
@@ -15,7 +15,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="little_facemc" name="face" selected="true" centerPoint3DX="55.1" centerPoint3DY="35.75">
+                <DOMSymbolInstance libraryItemName="#链接/little_facemc" name="face" selected="true" centerPoint3DX="55.1" centerPoint3DY="35.75">
                   <matrix>
                     <Matrix tx="4.1" ty="3.75"/>
                   </matrix>

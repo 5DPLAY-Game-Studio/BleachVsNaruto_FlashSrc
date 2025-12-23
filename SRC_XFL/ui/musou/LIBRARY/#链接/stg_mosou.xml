@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="stg_mosou" itemID="5e787eb3-0000024a" linkageExportForAS="true" linkageClassName="ui_mosou" lastModified="1592703083" lastUniqueIdentifier="17">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/stg_mosou" itemID="5e787eb3-0000024a" linkageExportForAS="true" linkageClassName="ui_mosou" lastModified="1592703083" lastUniqueIdentifier="17">
   <timeline>
     <DOMTimeline name="stg_mosou">
       <layers>
@@ -19,7 +19,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hpbar_mc" name="hpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_mc" name="hpbarmc">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -55,7 +55,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="hits_mc" name="hitsmc" centerPoint3DX="162.15" centerPoint3DY="144.95">
+                <DOMSymbolInstance libraryItemName="#链接/hits_mc" name="hitsmc" centerPoint3DX="162.15" centerPoint3DY="144.95">
                   <matrix>
                     <Matrix tx="106.15" ty="116.95"/>
                   </matrix>

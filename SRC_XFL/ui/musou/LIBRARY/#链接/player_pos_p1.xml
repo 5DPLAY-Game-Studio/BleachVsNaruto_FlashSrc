@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="player_pos_p1" itemID="59422e9b-0000011f" linkageExportForAS="true" linkageClassName="mosou_player_pos" lastModified="1585203525">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/player_pos_p1" itemID="59422e9b-0000011f" linkageExportForAS="true" linkageClassName="mosou_player_pos" lastModified="1585203525">
   <timeline>
     <DOMTimeline name="player_pos_p1">
       <layers>

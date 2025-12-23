@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energy_bar" itemID="58980ee1-000002cc" linkageExportForAS="true" linkageClassName="mosou_energy_bar" lastModified="1585217363" lastUniqueIdentifier="4">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/energy_bar" itemID="58980ee1-000002cc" linkageExportForAS="true" linkageClassName="mosou_energy_bar" lastModified="1585217363" lastUniqueIdentifier="4">
   <timeline>
     <DOMTimeline name="energy_bar">
       <layers>

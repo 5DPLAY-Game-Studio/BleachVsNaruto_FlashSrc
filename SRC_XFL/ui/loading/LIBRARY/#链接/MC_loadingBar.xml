@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/loadingbar_mc" itemID="59239219-0000022f" linkageExportForAS="true" linkageClassName="loadingbar_mc" lastModified="1531735200" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_loadingBar" itemID="694a3082-000000e5" linkageExportForAS="true" linkageClassName="$loading$MC_loadingBar" lastModified="1766469762" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="loadingbar_mc">
+    <DOMTimeline name="MC_loadingBar">
       <layers>
         <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
           <frames>

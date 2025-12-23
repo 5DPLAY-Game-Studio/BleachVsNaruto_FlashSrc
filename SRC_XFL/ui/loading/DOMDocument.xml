@@ -44,7 +44,7 @@
      </media>
      <symbols>
           <Include href="#链接/loading_fight_mc.xml" itemID="5923918e-0000020e" lastModified="1530523806"/>
-          <Include href="#链接/loadingbar_mc.xml" itemID="59239219-0000022f" lastModified="1531735200"/>
+          <Include href="#链接/MC_loadingBar.xml" itemID="694a3082-000000e5" lastModified="1766469762"/>
           <Include href="#链接/MC_loadingCover.xml" itemID="694a006b-00000094" lastModified="1766457451"/>
           <Include href="#链接/MC_stageWinner.xml" itemID="694a268c-000000e2" lastModified="1766467212"/>
           <Include href="#链接/MC_stageWinner2.xml" loadImmediate="false" itemID="694a2696-000000e3" lastModified="1766467222"/>

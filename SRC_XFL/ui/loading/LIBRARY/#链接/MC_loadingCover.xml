@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/loadingbar_mc" name="bar" centerPoint3DX="400" centerPoint3DY="533.9">
+                <DOMSymbolInstance libraryItemName="#链接/MC_loadingBar" name="bar" centerPoint3DX="400" centerPoint3DY="533.9">
                   <matrix>
                     <Matrix tx="18" ty="526.4"/>
                   </matrix>

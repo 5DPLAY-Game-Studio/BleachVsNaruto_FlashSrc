@@ -43,9 +43,9 @@
           <DOMBitmapItem name="wz2.png" itemID="5b39ebfb-00002133" sourceExternalFilepath="../loading/LIBRARY/wz2.png" sourceLastImported="1530522573" externalFileCRC32="2819363072" externalFileSize="369" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="wz2.png" bitmapDataHRef="M 51 1530522619.dat" frameRight="280" frameBottom="280"/>
      </media>
      <symbols>
-          <Include href="#链接/loading_fight_mc.xml" itemID="5923918e-0000020e" lastModified="1530523806"/>
           <Include href="#链接/MC_loadingBar.xml" itemID="694a3082-000000e5" lastModified="1766469762"/>
           <Include href="#链接/MC_loadingCover.xml" itemID="694a006b-00000094" lastModified="1766457451"/>
+          <Include href="#链接/MC_loadingFight.xml" itemID="694a3246-000000e6" lastModified="1766470214"/>
           <Include href="#链接/MC_stageWinner.xml" itemID="694a268c-000000e2" lastModified="1766467212"/>
           <Include href="#链接/MC_stageWinner2.xml" loadImmediate="false" itemID="694a2696-000000e3" lastModified="1766467222"/>
           <Include href="#链接/select_ui.xml" itemID="592fa30c-0000002d" lastModified="1496298128"/>
@@ -88,7 +88,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/loading_fight_mc" centerPoint3DX="400" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_loadingFight" centerPoint3DX="400" centerPoint3DY="300">
                                              <transformationPoint>
                                                   <Point x="400" y="300"/>
                                              </transformationPoint>

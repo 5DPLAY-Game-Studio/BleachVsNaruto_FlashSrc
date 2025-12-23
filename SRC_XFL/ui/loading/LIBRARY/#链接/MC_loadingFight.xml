@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/select_ui" name="sltui" centerPoint3DX="399" centerPoint3DY="298.9">
+                <DOMSymbolInstance libraryItemName="#链接/MC_selectUI" name="sltui" centerPoint3DX="399" centerPoint3DY="298.9">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/enemyhpbarmc" itemID="5e79ad30-000004b9" linkageExportForAS="true" linkageClassName="mosou_enemyhpbarmc" lastModified="1585300975">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_enemyHpBar" itemID="694c8e94-000002cd" linkageExportForAS="true" linkageClassName="$musou$MC_enemyHpBar" lastModified="1766624916">
   <timeline>
-    <DOMTimeline name="enemyhpbarmc">
+    <DOMTimeline name="MC_enemyHpBar">
       <layers>
         <DOMLayer name="图层 4" color="#FF4FFF" locked="true" layerType="mask">
           <frames>

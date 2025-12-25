@@ -212,7 +212,6 @@
           <DOMBitmapItem name="无双sample.jpg" itemID="5e787e7d-00000248" sourceExternalFilepath="../mosou/LIBRARY/无双sample.jpg" sourceLastImported="1751791891" externalFileCRC32="3153717965" externalFileSize="499295" allowSmoothing="true" quality="50" href="无双sample.jpg" bitmapDataHRef="M 166 1584955005.dat" frameRight="16000" frameBottom="12000" isJPEG="true"/>
      </media>
      <symbols>
-          <Include href="#链接/enemyhpbarmc.xml" itemID="5e79ad30-000004b9" lastModified="1585300975"/>
           <Include href="#链接/energy_bar.xml" itemID="58980ee1-000002cc" lastModified="1585217363"/>
           <Include href="#链接/energybar_barmc.xml" itemID="58980f88-000002e5" lastModified="1585203562"/>
           <Include href="#链接/hits_mc.xml" itemID="58a5295a-00001721" lastModified="1585203557"/>
@@ -223,6 +222,7 @@
           <Include href="#链接/hpbar_mc.xml" itemID="5898061e-00000209" lastModified="1592393471"/>
           <Include href="#链接/little_facemc.xml" itemID="5e78867d-00000421" lastModified="1585294494"/>
           <Include href="#链接/little_hpbar_mc.xml" itemID="5e78865e-00000392" lastModified="1585294478"/>
+          <Include href="#链接/MC_enemyHpBar.xml" itemID="694c8e94-000002cd" lastModified="1766624916"/>
           <Include href="#链接/MC_enemyHpBarFollow.xml" itemID="694c8d7e-000002cc" lastModified="1766624700"/>
           <Include href="#链接/MC_ui.xml" itemID="694a397f-00000362" lastModified="1766472063"/>
           <Include href="#链接/SP_playerPos.xml" itemID="694c8bcf-00000165" lastModified="1766624744"/>

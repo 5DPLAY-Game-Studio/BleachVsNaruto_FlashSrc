@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/SP_playerPos" itemID="694c8bcf-00000165" linkageExportForAS="true" linkageClassName="$musou$SP_playerPos" lastModified="1766624207">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/SP_playerPos" itemID="694c8bcf-00000165" linkageExportForAS="true" linkageBaseClass="flash.display.Sprite" linkageClassName="$musou$SP_playerPos" lastModified="1766624744" isSpriteSubclass="true">
   <timeline>
     <DOMTimeline name="SP_playerPos">
       <layers>

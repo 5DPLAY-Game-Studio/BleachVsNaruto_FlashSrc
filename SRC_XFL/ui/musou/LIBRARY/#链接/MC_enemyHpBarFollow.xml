@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/enemyhpbarmc2" itemID="5ecd0a8e-000001d3" linkageExportForAS="true" linkageClassName="mosou_enemyhpbarmc2" lastModified="1591195269">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_enemyHpBarFollow" itemID="694c8d7e-000002cc" linkageExportForAS="true" linkageClassName="$musou$MC_enemyHpBarFollow" lastModified="1766624700">
   <timeline>
-    <DOMTimeline name="enemyhpbarmc2">
+    <DOMTimeline name="MC_enemyHpBarFollow">
       <layers>
         <DOMLayer name="ENEMY_HP_bar.png" color="#FF800A" locked="true" autoNamed="false">
           <frames>

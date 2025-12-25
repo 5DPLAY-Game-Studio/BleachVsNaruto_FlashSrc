@@ -213,7 +213,6 @@
      </media>
      <symbols>
           <Include href="#链接/enemyhpbarmc.xml" itemID="5e79ad30-000004b9" lastModified="1585300975"/>
-          <Include href="#链接/enemyhpbarmc2.xml" itemID="5ecd0a8e-000001d3" lastModified="1591195269"/>
           <Include href="#链接/energy_bar.xml" itemID="58980ee1-000002cc" lastModified="1585217363"/>
           <Include href="#链接/energybar_barmc.xml" itemID="58980f88-000002e5" lastModified="1585203562"/>
           <Include href="#链接/hits_mc.xml" itemID="58a5295a-00001721" lastModified="1585203557"/>
@@ -224,8 +223,9 @@
           <Include href="#链接/hpbar_mc.xml" itemID="5898061e-00000209" lastModified="1592393471"/>
           <Include href="#链接/little_facemc.xml" itemID="5e78867d-00000421" lastModified="1585294494"/>
           <Include href="#链接/little_hpbar_mc.xml" itemID="5e78865e-00000392" lastModified="1585294478"/>
+          <Include href="#链接/MC_enemyHpBarFollow.xml" itemID="694c8d7e-000002cc" lastModified="1766624700"/>
           <Include href="#链接/MC_ui.xml" itemID="694a397f-00000362" lastModified="1766472063"/>
-          <Include href="#链接/SP_playerPos.xml" itemID="694c8bcf-00000165" lastModified="1766624207"/>
+          <Include href="#链接/SP_playerPos.xml" itemID="694c8bcf-00000165" lastModified="1766624744"/>
           <Include href="bosshpmc.xml" loadImmediate="false" itemID="5e79a8eb-0000029e" lastModified="1590495188"/>
           <Include href="bsface_ct.xml" loadImmediate="false" itemID="58a2afd0-000009a0" lastModified="1487059460"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="58980718-00000225" lastModified="1530523063"/>
@@ -245,6 +245,11 @@
           <Include href="元件 15 副本.xml" itemIcon="1" loadImmediate="false" itemID="5958de7b-0000248b" lastModified="1498997756"/>
           <Include href="元件 16.xml" itemIcon="1" loadImmediate="false" itemID="58a556ca-00001b04" lastModified="1530523149"/>
           <Include href="元件 16 副本.xml" itemIcon="1" loadImmediate="false" itemID="5958de99-0000251f" lastModified="1530523063"/>
+          <Include href="元件 23.xml" itemIcon="1" loadImmediate="false" itemID="58a69f5a-000026c6" lastModified="1530523063"/>
+          <Include href="元件 24.xml" itemIcon="1" loadImmediate="false" itemID="58a69f6e-000026d3" lastModified="1502626622"/>
+          <Include href="元件 25.xml" loadImmediate="false" itemID="58a6a2f2-00002701" lastModified="1502626746"/>
+          <Include href="元件 26.xml" itemIcon="1" loadImmediate="false" itemID="58a6a38c-00002707" lastModified="1530523063"/>
+          <Include href="元件 27.xml" itemIcon="1" loadImmediate="false" itemID="58a6a38f-0000270c" lastModified="1530523063"/>
           <Include href="元件 28.xml" itemIcon="1" loadImmediate="false" itemID="58a6a522-0000271d" lastModified="1487316258"/>
           <Include href="元件 29.xml" itemIcon="1" loadImmediate="false" itemID="58a6a97a-0000272f" lastModified="1530523063"/>
           <Include href="元件 30.xml" itemIcon="1" loadImmediate="false" itemID="58a6aee0-00002751" lastModified="1530523063"/>
@@ -272,11 +277,6 @@
           <Include href="元件 20.xml" itemIcon="1" loadImmediate="false" itemID="58a565b5-00001fa4" lastModified="1530523063"/>
           <Include href="元件 21.xml" itemIcon="1" loadImmediate="false" itemID="58a69f54-000026bb" lastModified="1530523063"/>
           <Include href="元件 22.xml" itemIcon="1" loadImmediate="false" itemID="58a69f57-000026c1" lastModified="1530523063"/>
-          <Include href="元件 23.xml" itemIcon="1" loadImmediate="false" itemID="58a69f5a-000026c6" lastModified="1530523063"/>
-          <Include href="元件 24.xml" itemIcon="1" loadImmediate="false" itemID="58a69f6e-000026d3" lastModified="1502626622"/>
-          <Include href="元件 25.xml" loadImmediate="false" itemID="58a6a2f2-00002701" lastModified="1502626746"/>
-          <Include href="元件 26.xml" itemIcon="1" loadImmediate="false" itemID="58a6a38c-00002707" lastModified="1530523063"/>
-          <Include href="元件 27.xml" itemIcon="1" loadImmediate="false" itemID="58a6a38f-0000270c" lastModified="1530523063"/>
           <Include href="元件 38.xml" loadImmediate="false" itemID="5e788764-00000425" lastModified="1584957284"/>
           <Include href="元件 44.xml" itemIcon="1" loadImmediate="false" itemID="5eeeb9be-000002b6" lastModified="1592703422"/>
           <Include href="元件 45.xml" itemIcon="1" loadImmediate="false" itemID="5eef0193-00000308" lastModified="1592721815"/>
@@ -380,7 +380,7 @@
                                                   <Point y="-27.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="#链接/enemyhpbarmc2">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_enemyHpBarFollow">
                                              <matrix>
                                                   <Matrix tx="689.7" ty="477"/>
                                              </matrix>

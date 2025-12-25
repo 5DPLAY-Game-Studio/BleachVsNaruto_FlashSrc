@@ -214,7 +214,6 @@
      <symbols>
           <Include href="#链接/energy_bar.xml" itemID="58980ee1-000002cc" lastModified="1585217363"/>
           <Include href="#链接/energybar_barmc.xml" itemID="58980f88-000002e5" lastModified="1585203562"/>
-          <Include href="#链接/hits_mc.xml" itemID="58a5295a-00001721" lastModified="1585203557"/>
           <Include href="#链接/hits_num_mc.xml" itemID="58a5298e-0000174e" lastModified="1585203553"/>
           <Include href="#链接/hpbar_barmc.xml" itemID="58980668-00000216" lastModified="1585204393"/>
           <Include href="#链接/hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1585203545"/>
@@ -224,10 +223,12 @@
           <Include href="#链接/little_hpbar_mc.xml" itemID="5e78865e-00000392" lastModified="1585294478"/>
           <Include href="#链接/MC_enemyHpBar.xml" itemID="694c8e94-000002cd" lastModified="1766624916"/>
           <Include href="#链接/MC_enemyHpBarFollow.xml" itemID="694c8d7e-000002cc" lastModified="1766624700"/>
+          <Include href="#链接/MC_hits.xml" itemID="694ce1d3-0000028b" lastModified="1766646227"/>
           <Include href="#链接/MC_ui.xml" itemID="694a397f-00000362" lastModified="1766472063"/>
           <Include href="#链接/SP_playerPos.xml" itemID="694c8bcf-00000165" lastModified="1766624744"/>
           <Include href="bosshpmc.xml" loadImmediate="false" itemID="5e79a8eb-0000029e" lastModified="1590495188"/>
           <Include href="bsface_ct.xml" loadImmediate="false" itemID="58a2afd0-000009a0" lastModified="1487059460"/>
+          <Include href="ct_hitsnum.xml" loadImmediate="false" itemID="58a52a83-000018ee" lastModified="1585020869"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="58980718-00000225" lastModified="1530523063"/>
           <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="5898071d-0000022a" lastModified="1530523063"/>
           <Include href="元件 3.xml" itemIcon="1" loadImmediate="false" itemID="58982417-00000771" lastModified="1530523063"/>
@@ -239,12 +240,20 @@
           <Include href="元件 9.xml" loadImmediate="false" itemID="589aca40-0000024f" lastModified="1530523063"/>
           <Include href="元件 10.xml" loadImmediate="false" itemID="589aca50-00000254" lastModified="1530523063"/>
           <Include href="元件 11.xml" loadImmediate="false" itemID="589aca98-0000026b" lastModified="1530523063"/>
+          <Include href="元件 12.xml" loadImmediate="false" itemID="58a52b03-00001901" lastModified="1530523063"/>
+          <Include href="ctmc.xml" loadImmediate="false" itemID="5898079e-00000236" lastModified="1486358458"/>
           <Include href="元件 13.xml" loadImmediate="false" itemID="58a52b96-00001922" lastModified="1530523063"/>
           <Include href="元件 14.xml" loadImmediate="false" itemID="58a5314d-000019c0" lastModified="1530523063"/>
           <Include href="元件 15.xml" itemIcon="1" loadImmediate="false" itemID="58a556bf-00001af8" lastModified="1498997689"/>
           <Include href="元件 15 副本.xml" itemIcon="1" loadImmediate="false" itemID="5958de7b-0000248b" lastModified="1498997756"/>
           <Include href="元件 16.xml" itemIcon="1" loadImmediate="false" itemID="58a556ca-00001b04" lastModified="1530523149"/>
           <Include href="元件 16 副本.xml" itemIcon="1" loadImmediate="false" itemID="5958de99-0000251f" lastModified="1530523063"/>
+          <Include href="元件 17.xml" loadImmediate="false" itemID="58a558ec-00001b7e" lastModified="1530523149"/>
+          <Include href="元件 19.xml" itemIcon="1" loadImmediate="false" itemID="58a56435-00001eae" lastModified="1487234422"/>
+          <Include href="元件 19 副本.xml" itemIcon="1" loadImmediate="false" itemID="58a565d6-00002025" lastModified="1487235104"/>
+          <Include href="元件 20.xml" itemIcon="1" loadImmediate="false" itemID="58a565b5-00001fa4" lastModified="1530523063"/>
+          <Include href="元件 21.xml" itemIcon="1" loadImmediate="false" itemID="58a69f54-000026bb" lastModified="1530523063"/>
+          <Include href="元件 22.xml" itemIcon="1" loadImmediate="false" itemID="58a69f57-000026c1" lastModified="1530523063"/>
           <Include href="元件 23.xml" itemIcon="1" loadImmediate="false" itemID="58a69f5a-000026c6" lastModified="1530523063"/>
           <Include href="元件 24.xml" itemIcon="1" loadImmediate="false" itemID="58a69f6e-000026d3" lastModified="1502626622"/>
           <Include href="元件 25.xml" loadImmediate="false" itemID="58a6a2f2-00002701" lastModified="1502626746"/>
@@ -261,23 +270,14 @@
           <Include href="元件 35.xml" loadImmediate="false" itemID="59891de1-000001a8" lastModified="1530523063"/>
           <Include href="元件 36.xml" loadImmediate="false" itemID="5e788448-000002d1" lastModified="1584956699"/>
           <Include href="元件 37.xml" itemIcon="1" loadImmediate="false" itemID="5e7884b0-000002d9" lastModified="1584956631"/>
+          <Include href="元件 38.xml" loadImmediate="false" itemID="5e788764-00000425" lastModified="1584957284"/>
           <Include href="元件 39.xml" loadImmediate="false" itemID="5e79a94c-000002b2" lastModified="1585031500"/>
           <Include href="元件 40.xml" loadImmediate="false" itemID="5e79ab62-000003ed" lastModified="1590494928"/>
           <Include href="元件 41.xml" loadImmediate="false" itemID="5e7da269-0000013b" lastModified="1585291897"/>
           <Include href="元件 42.xml" loadImmediate="false" itemID="5e7da6ba-0000019a" lastModified="1585293043"/>
           <Include href="元件 43.xml" loadImmediate="false" itemID="5ecd19ec-000001e1" lastModified="1590499820"/>
           <Include href="ct_circle.xml" loadImmediate="false" itemID="5e79a0fe-00000294" lastModified="1585558661"/>
-          <Include href="ct_hitsnum.xml" loadImmediate="false" itemID="58a52a83-000018ee" lastModified="1585020869"/>
-          <Include href="元件 12.xml" loadImmediate="false" itemID="58a52b03-00001901" lastModified="1530523063"/>
-          <Include href="ctmc.xml" loadImmediate="false" itemID="5898079e-00000236" lastModified="1486358458"/>
-          <Include href="元件 17.xml" loadImmediate="false" itemID="58a558ec-00001b7e" lastModified="1530523149"/>
           <Include href="元件 18.xml" itemIcon="1" loadImmediate="false" itemID="58a55f7a-00001d4a" lastModified="1487232890"/>
-          <Include href="元件 19.xml" itemIcon="1" loadImmediate="false" itemID="58a56435-00001eae" lastModified="1487234422"/>
-          <Include href="元件 19 副本.xml" itemIcon="1" loadImmediate="false" itemID="58a565d6-00002025" lastModified="1487235104"/>
-          <Include href="元件 20.xml" itemIcon="1" loadImmediate="false" itemID="58a565b5-00001fa4" lastModified="1530523063"/>
-          <Include href="元件 21.xml" itemIcon="1" loadImmediate="false" itemID="58a69f54-000026bb" lastModified="1530523063"/>
-          <Include href="元件 22.xml" itemIcon="1" loadImmediate="false" itemID="58a69f57-000026c1" lastModified="1530523063"/>
-          <Include href="元件 38.xml" loadImmediate="false" itemID="5e788764-00000425" lastModified="1584957284"/>
           <Include href="元件 44.xml" itemIcon="1" loadImmediate="false" itemID="5eeeb9be-000002b6" lastModified="1592703422"/>
           <Include href="元件 45.xml" itemIcon="1" loadImmediate="false" itemID="5eef0193-00000308" lastModified="1592721815"/>
           <Include href="元件 46.xml" loadImmediate="false" itemID="5eef01ac-00000310" lastModified="1592721908"/>

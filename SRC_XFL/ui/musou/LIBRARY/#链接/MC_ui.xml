@@ -55,7 +55,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hits_mc" name="hitsmc" centerPoint3DX="162.15" centerPoint3DY="144.95">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hits" name="hitsmc" centerPoint3DX="162.15" centerPoint3DY="144.95">
                   <matrix>
                     <Matrix tx="106.15" ty="116.95"/>
                   </matrix>

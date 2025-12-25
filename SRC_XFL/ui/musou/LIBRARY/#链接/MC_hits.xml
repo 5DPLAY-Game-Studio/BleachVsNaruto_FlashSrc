@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/hits_mc" itemID="58a5295a-00001721" linkageExportForAS="true" linkageClassName="mosou_hits_mc" lastModified="1585203557" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_hits" itemID="694ce1d3-0000028b" linkageExportForAS="true" linkageClassName="$musou$MC_hits" lastModified="1766646227" lastUniqueIdentifier="8">
   <timeline>
-    <DOMTimeline name="hits_mc" currentFrame="19">
+    <DOMTimeline name="MC_hits" currentFrame="19">
       <layers>
         <DOMLayer name="图层 3" color="#FF800A">
           <frames>

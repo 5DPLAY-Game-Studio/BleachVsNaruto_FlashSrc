@@ -1,0 +1,138 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_ui" itemID="694a397f-00000362" linkageExportForAS="true" linkageClassName="$musou$MC_ui" lastModified="1766472063" lastUniqueIdentifier="17">
+  <timeline>
+    <DOMTimeline name="MC_ui">
+      <layers>
+        <DOMLayer name="startAndko" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game_start_mc" name="startKOmc" centerPoint3DX="93" centerPoint3DY="52">
+                  <transformationPoint>
+                    <Point x="93" y="52"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hpbarmc" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#链接/hpbar_mc" name="hpbarmc">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="qibar" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="kos" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="kos" name="kos_mc">
+                  <matrix>
+                    <Matrix tx="350.8" ty="45.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.25" y="14.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hits" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#链接/hits_mc" name="hitsmc" centerPoint3DX="162.15" centerPoint3DY="144.95">
+                  <matrix>
+                    <Matrix tx="106.15" ty="116.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="56" y="28"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="time" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="timemc" name="time_mc">
+                  <matrix>
+                    <Matrix tx="540.65" ty="5.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.5" y="19.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="wave" color="#009999" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="wavemc" name="wave_mc" selected="true">
+                  <matrix>
+                    <Matrix tx="725.85" ty="-3.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bossHp" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bosshpmc" name="bosshp_mc">
+                  <matrix>
+                    <Matrix tx="400.15" ty="71.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="201" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="enemybarct" name="ct_enemybar">
+                  <matrix>
+                    <Matrix tx="800.5" ty="124.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-55.5" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="战斗sample.jpg.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

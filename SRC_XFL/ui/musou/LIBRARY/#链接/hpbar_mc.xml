@@ -93,7 +93,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/energy_bar" name="energybar" centerPoint3DX="167.55" centerPoint3DY="45.7">
+                <DOMSymbolInstance libraryItemName="#链接/MC_energyBar" name="energybar" centerPoint3DX="167.55" centerPoint3DY="45.7">
                   <matrix>
                     <Matrix tx="237.55" ty="40.7"/>
                   </matrix>

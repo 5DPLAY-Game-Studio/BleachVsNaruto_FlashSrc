@@ -212,7 +212,6 @@
           <DOMBitmapItem name="无双sample.jpg" itemID="5e787e7d-00000248" sourceExternalFilepath="../mosou/LIBRARY/无双sample.jpg" sourceLastImported="1751791891" externalFileCRC32="3153717965" externalFileSize="499295" allowSmoothing="true" quality="50" href="无双sample.jpg" bitmapDataHRef="M 166 1584955005.dat" frameRight="16000" frameBottom="12000" isJPEG="true"/>
      </media>
      <symbols>
-          <Include href="#链接/hpbar_barmc.xml" itemID="58980668-00000216" lastModified="1585204393"/>
           <Include href="#链接/hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1585203545"/>
           <Include href="#链接/hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1585291939"/>
           <Include href="#链接/little_facemc.xml" itemID="5e78867d-00000421" lastModified="1585294494"/>
@@ -224,6 +223,7 @@
           <Include href="#链接/MC_hits.xml" itemID="694ce1d3-0000028b" lastModified="1766646227"/>
           <Include href="#链接/MC_hitsNumber.xml" itemID="694ce247-0000028c" lastModified="1766646343"/>
           <Include href="#链接/MC_hpBarGroup.xml" itemID="695b54d7-0000028b" lastModified="1767593175"/>
+          <Include href="#链接/MC_hpBarMc.xml" loadImmediate="false" itemID="695b5589-0000028c" lastModified="1767593397"/>
           <Include href="#链接/MC_ui.xml" itemID="694a397f-00000362" lastModified="1766472063"/>
           <Include href="#链接/SP_playerPos.xml" itemID="694c8bcf-00000165" lastModified="1766624744"/>
           <Include href="bosshpmc.xml" loadImmediate="false" itemID="5e79a8eb-0000029e" lastModified="1590495188"/>

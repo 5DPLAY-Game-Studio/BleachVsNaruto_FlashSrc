@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/hpbar_barmc" itemID="58980668-00000216" linkageExportForAS="true" linkageClassName="mosou_hpbar_barmc" lastModified="1585204393">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_hpBarMc" itemID="695b5589-0000028c" lastModified="1767593397">
   <timeline>
-    <DOMTimeline name="hpbar_barmc">
+    <DOMTimeline name="MC_hpBarMc">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" locked="true">
           <frames>

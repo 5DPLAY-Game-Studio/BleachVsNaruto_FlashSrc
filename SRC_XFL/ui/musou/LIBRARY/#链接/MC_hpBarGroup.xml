@@ -132,7 +132,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/little_hpbar_mc" name="little_hp_1">
+                <DOMSymbolInstance libraryItemName="#链接/MC_miniHpBar" name="little_hp_1">
                   <matrix>
                     <Matrix ty="66.95"/>
                   </matrix>
@@ -140,7 +140,7 @@
                     <Point x="43" y="23.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="#链接/little_hpbar_mc" name="little_hp_2">
+                <DOMSymbolInstance libraryItemName="#链接/MC_miniHpBar" name="little_hp_2">
                   <matrix>
                     <Matrix tx="89.55" ty="52.75"/>
                   </matrix>

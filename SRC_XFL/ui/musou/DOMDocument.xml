@@ -215,7 +215,6 @@
           <Include href="#链接/hpbar_barmc.xml" itemID="58980668-00000216" lastModified="1585204393"/>
           <Include href="#链接/hpbar_facegroup.xml" itemID="58980c9c-00000252" lastModified="1585203545"/>
           <Include href="#链接/hpbar_facemc.xml" itemID="5898072f-0000022f" lastModified="1585291939"/>
-          <Include href="#链接/hpbar_mc.xml" itemID="5898061e-00000209" lastModified="1592393471"/>
           <Include href="#链接/little_facemc.xml" itemID="5e78867d-00000421" lastModified="1585294494"/>
           <Include href="#链接/little_hpbar_mc.xml" itemID="5e78865e-00000392" lastModified="1585294478"/>
           <Include href="#链接/MC_enemyHpBar.xml" itemID="694c8e94-000002cd" lastModified="1766624916"/>
@@ -224,6 +223,7 @@
           <Include href="#链接/MC_energyBarMc.xml" itemID="694de14d-00000166" lastModified="1766711629"/>
           <Include href="#链接/MC_hits.xml" itemID="694ce1d3-0000028b" lastModified="1766646227"/>
           <Include href="#链接/MC_hitsNumber.xml" itemID="694ce247-0000028c" lastModified="1766646343"/>
+          <Include href="#链接/MC_hpBarGroup.xml" itemID="695b54d7-0000028b" lastModified="1767593175"/>
           <Include href="#链接/MC_ui.xml" itemID="694a397f-00000362" lastModified="1766472063"/>
           <Include href="#链接/SP_playerPos.xml" itemID="694c8bcf-00000165" lastModified="1766624744"/>
           <Include href="bosshpmc.xml" loadImmediate="false" itemID="5e79a8eb-0000029e" lastModified="1590495188"/>

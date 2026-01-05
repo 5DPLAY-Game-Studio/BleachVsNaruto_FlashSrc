@@ -19,7 +19,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_mc" name="hpbarmc">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarGroup" name="hpbarmc">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/little_facemc" itemID="5e78867d-00000421" linkageExportForAS="true" linkageClassName="mosou_little_facemc" lastModified="1585294494">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_miniFace" itemID="695b567c-0000028d" lastModified="1767593687">
   <timeline>
-    <DOMTimeline name="little_facemc">
+    <DOMTimeline name="MC_miniFace">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" locked="true" layerType="mask">
           <frames>

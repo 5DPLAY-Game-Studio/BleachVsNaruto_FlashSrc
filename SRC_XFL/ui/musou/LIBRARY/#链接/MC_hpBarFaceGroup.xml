@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/hpbar_facemc" name="face" centerPoint3DX="51.15" centerPoint3DY="32">
+                <DOMSymbolInstance libraryItemName="#链接/MC_hpBarFace" name="face" centerPoint3DX="51.15" centerPoint3DY="32">
                   <matrix>
                     <Matrix tx="0.15"/>
                   </matrix>

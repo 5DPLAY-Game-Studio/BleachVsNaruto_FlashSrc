@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/stg_title" itemID="57fc944f-000001dd" linkageExportForAS="true" linkageClassName="stg_title" lastModified="1728198422" lastUniqueIdentifier="25">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stgTitle" itemID="695ca14d-0000025e" linkageExportForAS="true" linkageClassName="$title$MC_stgTitle" lastModified="1767678285" lastUniqueIdentifier="25">
   <timeline>
-    <DOMTimeline name="stg_title">
+    <DOMTimeline name="MC_stgTitle">
       <layers>
         <DOMLayer name="图层 20" color="#FF4FFF" locked="true">
           <frames>

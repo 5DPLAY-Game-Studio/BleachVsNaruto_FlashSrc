@@ -40,7 +40,7 @@
      </media>
      <symbols>
           <Include href="#链接/MC_stgTest.xml" loadImmediate="false" itemID="695ca0ef-0000025d" lastModified="1767678191"/>
-          <Include href="#链接/stg_title.xml" itemID="57fc944f-000001dd" lastModified="1728198422"/>
+          <Include href="#链接/MC_stgTitle.xml" itemID="695ca14d-0000025e" lastModified="1767678285"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="57fc960e-00000255" lastModified="1530522069"/>
           <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="57fc9611-0000025a" lastModified="1530522069"/>
           <Include href="元件 3.xml" itemIcon="1" loadImmediate="false" itemID="57fc9656-00000263" lastModified="1530522069"/>
@@ -91,7 +91,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/stg_title" centerPoint3DX="400" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_stgTitle" centerPoint3DX="400" centerPoint3DY="300">
                                              <transformationPoint>
                                                   <Point x="400" y="300"/>
                                              </transformationPoint>

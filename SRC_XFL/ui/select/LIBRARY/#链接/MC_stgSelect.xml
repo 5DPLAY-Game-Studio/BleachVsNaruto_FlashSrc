@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stgSelect" itemID="695c92db-00000078" linkageExportForAS="true" linkageClassName="$select$MC_stgSelect" lastModified="1767674587" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stgSelect" itemID="695c92db-00000078" linkageExportForAS="true" linkageClassName="$select$MC_stgSelect" lastModified="1767675275" lastUniqueIdentifier="8">
   <timeline>
     <DOMTimeline name="MC_stgSelect">
       <layers>
@@ -13,7 +13,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/select_item_mc" centerPoint3DX="-52.5" centerPoint3DY="149.5">
+                <DOMSymbolInstance libraryItemName="#链接/SP_selectItemSp" centerPoint3DX="-52.5" centerPoint3DY="149.5">
                   <matrix>
                     <Matrix tx="-100" ty="94"/>
                   </matrix>
@@ -49,7 +49,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="图层 1" color="#4FFF4F">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -65,11 +65,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="sbg.jpg" color="#FF800A" autoNamed="false">
+        <DOMLayer name="sbg.jpg" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 1" name="bg" centerPoint3DX="400" centerPoint3DY="300">
+                <DOMSymbolInstance libraryItemName="元件 1" name="bg" selected="true" centerPoint3DX="400" centerPoint3DY="300">
                   <transformationPoint>
                     <Point x="400" y="300"/>
                   </transformationPoint>

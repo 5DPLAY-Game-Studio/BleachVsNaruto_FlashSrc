@@ -1,4 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="61FB99708C0D4D4995D796EBD4B03D9A">
+     <folders>
+          <DOMFolderItem name="#链接" itemID="695ca07b-00000080" isExpanded="true"/>
+     </folders>
      <media>
           <DOMBitmapItem name="封面.jpg.png" itemID="5b39e9d2-00001eb6" sourceExternalFilepath="./LIBRARY/封面.jpg.png" sourceLastImported="1751791972" externalFileCRC32="248311601" externalFileSize="270291" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="封面.jpg.png" bitmapDataHRef="M 36 1530522066.dat" frameRight="16000" frameBottom="12000"/>
           <DOMBitmapItem name="封面2.jpg.png" itemID="5b39e9d2-00001eba" sourceExternalFilepath="./LIBRARY/封面2.jpg.png" sourceLastImported="1751791972" externalFileCRC32="395230006" externalFileSize="185569" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="封面2.jpg.png" bitmapDataHRef="M 37 1530522066.dat" frameRight="16000" frameBottom="12000"/>
@@ -36,6 +39,8 @@
           <DOMBitmapItem name="wz3.png" itemID="5b39e9d2-00001eb2" sourceExternalFilepath="./LIBRARY/wz3.png" sourceLastImported="1530522045" externalFileCRC32="2638340908" externalFileSize="7426" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="wz3.png" bitmapDataHRef="M 35 1530522066.dat" frameRight="2500" frameBottom="2580"/>
      </media>
      <symbols>
+          <Include href="#链接/MC_stgTest.xml" loadImmediate="false" itemID="695ca0ef-0000025d" lastModified="1767678191"/>
+          <Include href="#链接/stg_title.xml" itemID="57fc944f-000001dd" lastModified="1728198422"/>
           <Include href="元件 1.xml" itemIcon="1" loadImmediate="false" itemID="57fc960e-00000255" lastModified="1530522069"/>
           <Include href="元件 2.xml" itemIcon="1" loadImmediate="false" itemID="57fc9611-0000025a" lastModified="1530522069"/>
           <Include href="元件 3.xml" itemIcon="1" loadImmediate="false" itemID="57fc9656-00000263" lastModified="1530522069"/>
@@ -78,8 +83,6 @@
           <Include href="元件 38.xml" itemIcon="1" loadImmediate="false" itemID="6162a437-00000051" lastModified="1633854524"/>
           <Include href="logomc.xml" loadImmediate="false" itemID="5976e56e-00000078" lastModified="1611295771"/>
           <Include href="sitepng.xml" itemIcon="1" loadImmediate="false" itemID="600a6b95-00000215" lastModified="1611295712"/>
-          <Include href="stg_test.xml" itemID="5807125a-00000208" lastModified="1633847290"/>
-          <Include href="stg_title.xml" itemID="57fc944f-000001dd" lastModified="1728198422"/>
      </symbols>
      <timelines>
           <DOMTimeline name="场景 1">
@@ -88,12 +91,12 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="stg_title" centerPoint3DX="400" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="#链接/stg_title" centerPoint3DX="400" centerPoint3DY="300">
                                              <transformationPoint>
                                                   <Point x="400" y="300"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="stg_test" centerPoint3DX="548.1" centerPoint3DY="797.2">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_stgTest" centerPoint3DX="548.1" centerPoint3DY="797.2">
                                              <matrix>
                                                   <Matrix tx="548.1" ty="797.2"/>
                                              </matrix>

@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="stg_test" itemID="5807125a-00000208" linkageExportForAS="true" linkageClassName="stg_test" lastModified="1633847290">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stgTest" itemID="695ca0ef-0000025d" lastModified="1767678191">
   <timeline>
-    <DOMTimeline name="stg_test">
+    <DOMTimeline name="MC_stgTest">
       <layers>
         <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>

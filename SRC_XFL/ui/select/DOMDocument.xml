@@ -56,13 +56,13 @@
      </media>
      <symbols>
           <Include href="#链接/MC_stgSelect.xml" itemID="695c92db-00000078" lastModified="1767675275"/>
-          <Include href="#链接/select_map_mc.xml" itemID="5909dc13-000001f8" lastModified="1493826304"/>
           <Include href="#链接/select_map_txt_mc.xml" itemID="5909dec6-00000262" lastModified="1767675223"/>
           <Include href="#链接/SP_ct.xml" itemID="695c6816-0000004f" lastModified="1767674705"/>
           <Include href="#链接/SP_selectBarItemP1.xml" itemID="695c6aa8-00000050" lastModified="1767674708"/>
           <Include href="#链接/SP_selectBarItemP2.xml" itemID="695c6af1-00000051" lastModified="1767674710"/>
           <Include href="#链接/SP_selectItem.xml" itemID="695c94cc-00000079" lastModified="1767675260"/>
           <Include href="#链接/SP_selectItemSp.xml" itemID="695c9c5d-000000f8" lastModified="1767677021"/>
+          <Include href="#链接/SP_selectMap.xml" itemID="695c9d62-000000f9" lastModified="1767677282"/>
           <Include href="元件 2.xml" loadImmediate="false" itemID="58904e3b-00000204" lastModified="1530522385"/>
           <Include href="元件 6.xml" loadImmediate="false" itemID="5909dc5c-0000021c" lastModified="1493818711"/>
           <Include href="ct_img.xml" loadImmediate="false" itemID="589050e4-00000217" lastModified="1485852902"/>
@@ -98,7 +98,7 @@
                                                   <Point x="48" y="48"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="#链接/select_map_mc" centerPoint3DX="219.05" centerPoint3DY="182.05">
+                                        <DOMSymbolInstance libraryItemName="#链接/SP_selectMap" centerPoint3DX="219.05" centerPoint3DY="182.05">
                                              <matrix>
                                                   <Matrix tx="164.05" ty="127.05"/>
                                              </matrix>

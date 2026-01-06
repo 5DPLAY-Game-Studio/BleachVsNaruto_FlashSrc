@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="selected_item_p2_mc" itemID="589052a0-0000022c" linkageExportForAS="true" linkageClassName="selected_item_p2_mc" lastModified="1530522385" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/selected_item_p1_mc" itemID="58905540-0000023e" linkageExportForAS="true" linkageClassName="selected_item_p1_mc" lastModified="1767663747">
   <timeline>
-    <DOMTimeline name="selected_item_p2_mc">
+    <DOMTimeline name="selected_item_p1_mc">
       <layers>
         <DOMLayer name="图层 4" color="#FF4FFF">
           <frames>
@@ -9,22 +9,22 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="图层 1" color="#4FFF4F">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="sbp2.png"/>
+                <DOMBitmapInstance selected="true" libraryItemName="sbp1.png"/>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 5" color="#4FFFFF" visible="false">
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="ctmc" name="ct" selected="true" centerPoint3DX="121.85" centerPoint3DY="39.25">
+                <DOMSymbolInstance libraryItemName="#链接/SP_ct" name="ct" selected="true" centerPoint3DX="131.5" centerPoint3DY="39.25">
                   <matrix>
-                    <Matrix a="-1" tx="248.6" ty="4.75"/>
+                    <Matrix tx="4.75" ty="4.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="120.75" y="30.25"/>

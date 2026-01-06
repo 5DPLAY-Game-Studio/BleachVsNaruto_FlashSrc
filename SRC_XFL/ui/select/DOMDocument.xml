@@ -1,4 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="F6E44BD4C0AB6946B728EC491B1AA674">
+     <folders>
+          <DOMFolderItem name="#链接" itemID="695b5a2b-00000051" isExpanded="true"/>
+     </folders>
      <media>
           <DOMBitmapItem name="选人sample.jpg.png" itemID="5b39eb0a-00002019" sourceExternalFilepath="../select/LIBRARY/选人sample.jpg.png" sourceLastImported="1751791937" externalFileCRC32="2585054435" externalFileSize="155690" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="选人sample.jpg.png" bitmapDataHRef="M 56 1530522378.dat" frameRight="16000" frameBottom="12000"/>
           <DOMBitmapItem name="bb_bottom.png" itemID="5b39eb0a-0000201d" sourceExternalFilepath="../select/LIBRARY/bb_bottom.png" sourceLastImported="1751791937" externalFileCRC32="808121114" externalFileSize="5216" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bb_bottom.png" bitmapDataHRef="M 57 1530522378.dat" frameRight="3660" frameBottom="640"/>
@@ -52,12 +55,16 @@
           <DOMBitmapItem name="注意安全.png" itemID="6863e3a3-000001fa" sourceExternalFilepath="./LIBRARY/注意安全.png" sourceLastImported="1751791938" externalFileSize="6125" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="注意安全.png" bitmapDataHRef="M 49 1751375238.dat" frameRight="4000" frameBottom="4000"/>
      </media>
      <symbols>
-          <Include href="元件 1.xml" loadImmediate="false" itemID="58904daa-000001f7" lastModified="1530522385"/>
-          <Include href="元件 11.xml" loadImmediate="false" itemID="5fae17e3-0000016a" lastModified="1605244899"/>
-          <Include href="元件 12.xml" itemIcon="1" loadImmediate="false" itemID="6863df3c-000001ce" lastModified="1751376475"/>
-          <Include href="元件 13.xml" loadImmediate="false" itemID="6863df47-000001d4" lastModified="1751375870"/>
+          <Include href="#链接/select_item_mc.xml" itemID="58904df3-000001fc" lastModified="1496499805"/>
+          <Include href="#链接/select_map_mc.xml" itemID="5909dc13-000001f8" lastModified="1493826304"/>
+          <Include href="#链接/select_map_txt_mc.xml" itemID="5909dec6-00000262" lastModified="1530522385"/>
+          <Include href="#链接/selected_item_p1_mc.xml" itemID="58905540-0000023e" lastModified="1767663747"/>
+          <Include href="#链接/selected_item_p2_mc.xml" itemID="589052a0-0000022c" lastModified="1530522385"/>
+          <Include href="#链接/slt_item_mc.xml" itemID="5891c70d-00000024" lastModified="1751376767"/>
+          <Include href="#链接/SP_ct.xml" itemID="695c6816-0000004f" lastModified="1767663727"/>
+          <Include href="#链接/stg_select.xml" itemID="58901069-000001d3" lastModified="1530522385"/>
           <Include href="ct_img.xml" loadImmediate="false" itemID="589050e4-00000217" lastModified="1485852902"/>
-          <Include href="ctmc.xml" itemID="58905352-00000234" lastModified="1493645622"/>
+          <Include href="元件 1.xml" loadImmediate="false" itemID="58904daa-000001f7" lastModified="1530522385"/>
           <Include href="元件 2.xml" loadImmediate="false" itemID="58904e3b-00000204" lastModified="1530522385"/>
           <Include href="元件 3.xml" loadImmediate="false" itemID="5909dc4c-0000020d" lastModified="1493818966"/>
           <Include href="元件 4.xml" loadImmediate="false" itemID="5909dc52-00000212" lastModified="1493818913"/>
@@ -67,14 +74,10 @@
           <Include href="元件 8.xml" itemIcon="1" loadImmediate="false" itemID="5909dd33-00000245" lastModified="1530522385"/>
           <Include href="元件 9.xml" itemIcon="1" loadImmediate="false" itemID="5909dd65-0000024a" lastModified="1530522385"/>
           <Include href="元件 10.xml" loadImmediate="false" itemID="5932c5e4-000004a1" lastModified="1496499771"/>
-          <Include href="select_item_mc.xml" itemID="58904df3-000001fc" lastModified="1496499805"/>
-          <Include href="select_map_mc.xml" itemID="5909dc13-000001f8" lastModified="1493826304"/>
-          <Include href="select_map_txt_mc.xml" itemID="5909dec6-00000262" lastModified="1530522385"/>
+          <Include href="元件 11.xml" loadImmediate="false" itemID="5fae17e3-0000016a" lastModified="1605244899"/>
+          <Include href="元件 12.xml" itemIcon="1" loadImmediate="false" itemID="6863df3c-000001ce" lastModified="1751376475"/>
+          <Include href="元件 13.xml" loadImmediate="false" itemID="6863df47-000001d4" lastModified="1751375870"/>
           <Include href="selectbg.xml" loadImmediate="false" itemID="5932c20e-00000241" lastModified="1530522385"/>
-          <Include href="selected_item_p1_mc.xml" itemID="58905540-0000023e" lastModified="1530522385"/>
-          <Include href="selected_item_p2_mc.xml" itemID="589052a0-0000022c" lastModified="1530522385"/>
-          <Include href="slt_item_mc.xml" itemID="5891c70d-00000024" lastModified="1751376767"/>
-          <Include href="stg_select.xml" itemID="58901069-000001d3" lastModified="1530522385"/>
      </symbols>
      <timelines>
           <DOMTimeline name="场景 1">
@@ -90,12 +93,12 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="stg_select" centerPoint3DX="48" centerPoint3DY="48">
+                                        <DOMSymbolInstance libraryItemName="#链接/stg_select" centerPoint3DX="48" centerPoint3DY="48">
                                              <transformationPoint>
                                                   <Point x="48" y="48"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="select_map_mc" centerPoint3DX="219.05" centerPoint3DY="182.05">
+                                        <DOMSymbolInstance libraryItemName="#链接/select_map_mc" centerPoint3DX="219.05" centerPoint3DY="182.05">
                                              <matrix>
                                                   <Matrix tx="164.05" ty="127.05"/>
                                              </matrix>
@@ -103,7 +106,7 @@
                                                   <Point x="55" y="55"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="select_map_txt_mc" centerPoint3DX="412.05" centerPoint3DY="554.2">
+                                        <DOMSymbolInstance libraryItemName="#链接/select_map_txt_mc" centerPoint3DX="412.05" centerPoint3DY="554.2">
                                              <matrix>
                                                   <Matrix tx="320.55" ty="538.2"/>
                                              </matrix>

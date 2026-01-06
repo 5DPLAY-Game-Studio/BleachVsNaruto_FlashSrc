@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ctmc" itemID="58905352-00000234" linkageExportForAS="true" linkageClassName="ctmc" lastModified="1493645622">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/SP_ct" itemID="695c6816-0000004f" linkageExportForAS="true" linkageBaseClass="flash.display.Sprite" linkageClassName="$select$SP_ct" lastModified="1767663727" isSpriteSubclass="true">
   <timeline>
-    <DOMTimeline name="ctmc">
+    <DOMTimeline name="SP_ct">
       <layers>
         <DOMLayer name="图层 1" color="#4FFF4F" locked="true" layerType="mask">
           <frames>

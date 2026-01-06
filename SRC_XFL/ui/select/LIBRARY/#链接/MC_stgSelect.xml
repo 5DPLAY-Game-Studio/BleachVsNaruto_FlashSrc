@@ -13,7 +13,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/SP_selectItemSp" centerPoint3DX="-52.5" centerPoint3DY="149.5">
+                <DOMSymbolInstance libraryItemName="#链接/MC_selectItemMc" centerPoint3DX="-52.5" centerPoint3DY="149.5">
                   <matrix>
                     <Matrix tx="-100" ty="94"/>
                   </matrix>

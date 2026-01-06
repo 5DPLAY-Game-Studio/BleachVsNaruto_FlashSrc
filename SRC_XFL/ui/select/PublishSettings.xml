@@ -90,7 +90,7 @@
     <EventUse8kSampleRate>0</EventUse8kSampleRate>
     <UseNetwork>0</UseNetwork>
     <DocumentClass></DocumentClass>
-    <AS3Strict>2</AS3Strict>
+    <AS3Strict>0</AS3Strict>
     <AS3Coach>4</AS3Coach>
     <AS3AutoDeclare>4096</AS3AutoDeclare>
     <AS3Dialect>AS3</AS3Dialect>
@@ -100,7 +100,7 @@
     <ScriptStuckDelay>15</ScriptStuckDelay>
     <IncludeXMP>1</IncludeXMP>
     <HardwareAcceleration>2</HardwareAcceleration>
-    <AS3Flags>4102</AS3Flags>
+    <AS3Flags>4100</AS3Flags>
     <DefaultLibraryLinkage>rsl</DefaultLibraryLinkage>
     <RSLPreloaderMethod>wrap</RSLPreloaderMethod>
     <RSLPreloaderSWF>$(AppConfig)/ActionScript 3.0/rsls/loader_animation.swf</RSLPreloaderSWF>

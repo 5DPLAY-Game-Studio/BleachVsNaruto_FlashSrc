@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/SP_selectItemSp" itemID="695c9c5d-000000f8" linkageExportForAS="true" linkageBaseClass="flash.display.Sprite" linkageClassName="$select$SP_selectItemSp" lastModified="1767677021" lastUniqueIdentifier="3" isSpriteSubclass="true">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_selectItemMc" itemID="695ca9de-0000004f" linkageExportForAS="true" linkageClassName="$select$MC_selectItemMc" lastModified="1767680821" lastUniqueIdentifier="3">
   <timeline>
-    <DOMTimeline name="SP_selectItemSp" currentFrame="1">
+    <DOMTimeline name="MC_selectItemMc">
       <layers>
         <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
           <frames>

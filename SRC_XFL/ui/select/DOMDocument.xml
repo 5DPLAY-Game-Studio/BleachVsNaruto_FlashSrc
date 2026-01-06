@@ -55,21 +55,21 @@
           <DOMBitmapItem name="注意安全.png" itemID="6863e3a3-000001fa" sourceExternalFilepath="../select/LIBRARY/注意安全.png" sourceLastImported="1751791938" externalFileSize="6125" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="注意安全.png" bitmapDataHRef="M 49 1751375238.dat" frameRight="4000" frameBottom="4000"/>
      </media>
      <symbols>
+          <Include href="#链接/MC_selectItemMc.xml" itemID="695ca9de-0000004f" lastModified="1767680821"/>
           <Include href="#链接/MC_stgSelect.xml" itemID="695c92db-00000078" lastModified="1767675275"/>
           <Include href="#链接/SP_ct.xml" itemID="695c6816-0000004f" lastModified="1767674705"/>
           <Include href="#链接/SP_selectBarItemP1.xml" itemID="695c6aa8-00000050" lastModified="1767674708"/>
           <Include href="#链接/SP_selectBarItemP2.xml" itemID="695c6af1-00000051" lastModified="1767674710"/>
-          <Include href="#链接/SP_selectItem.xml" itemID="695c94cc-00000079" lastModified="1767675260"/>
-          <Include href="#链接/SP_selectItemSp.xml" itemID="695c9c5d-000000f8" lastModified="1767677021"/>
+          <Include href="#链接/SP_selectItem.xml" itemID="695c94cc-00000079" lastModified="1767680443"/>
           <Include href="#链接/SP_selectMap.xml" itemID="695c9d62-000000f9" lastModified="1767677510"/>
           <Include href="#链接/SP_selectMapText.xml" itemID="695c9fb5-000000fa" lastModified="1767677886"/>
-          <Include href="元件 2.xml" loadImmediate="false" itemID="58904e3b-00000204" lastModified="1530522385"/>
-          <Include href="元件 6.xml" loadImmediate="false" itemID="5909dc5c-0000021c" lastModified="1493818711"/>
-          <Include href="ct_img.xml" loadImmediate="false" itemID="589050e4-00000217" lastModified="1485852902"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="58904daa-000001f7" lastModified="1530522385"/>
+          <Include href="元件 5.xml" itemIcon="1" loadImmediate="false" itemID="5932c5b6-0000049b" lastModified="1530522385"/>
+          <Include href="ct_img.xml" loadImmediate="false" itemID="589050e4-00000217" lastModified="1485852902"/>
+          <Include href="元件 2.xml" loadImmediate="false" itemID="58904e3b-00000204" lastModified="1530522385"/>
           <Include href="元件 3.xml" loadImmediate="false" itemID="5909dc4c-0000020d" lastModified="1493818966"/>
           <Include href="元件 4.xml" loadImmediate="false" itemID="5909dc52-00000212" lastModified="1493818913"/>
-          <Include href="元件 5.xml" itemIcon="1" loadImmediate="false" itemID="5932c5b6-0000049b" lastModified="1530522385"/>
+          <Include href="元件 6.xml" loadImmediate="false" itemID="5909dc5c-0000021c" lastModified="1493818711"/>
           <Include href="元件 7.xml" itemIcon="1" loadImmediate="false" itemID="5909dcaa-00000239" lastModified="1530522385"/>
           <Include href="元件 8.xml" itemIcon="1" loadImmediate="false" itemID="5909dd33-00000245" lastModified="1530522385"/>
           <Include href="元件 9.xml" itemIcon="1" loadImmediate="false" itemID="5909dd65-0000024a" lastModified="1530522385"/>
@@ -124,6 +124,9 @@
      <scripts/>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="788541" publishTime="1767680702"/>
+          <PublishItem publishSize="788569" publishTime="1767680619"/>
+          <PublishItem publishSize="786998" publishTime="1767680281"/>
           <PublishItem publishSize="386231" publishTime="1751376507"/>
           <PublishItem publishSize="386308" publishTime="1751376332"/>
           <PublishItem publishSize="386339" publishTime="1751375910"/>
@@ -141,8 +144,5 @@
           <PublishItem publishSize="9088136" publishTime="1496500238"/>
           <PublishItem publishSize="9088136" publishTime="1496500186"/>
           <PublishItem publishSize="9088137" publishTime="1496500123"/>
-          <PublishItem publishSize="9088121" publishTime="1496499847"/>
-          <PublishItem publishSize="803865" publishTime="1493819083"/>
-          <PublishItem publishSize="803726" publishTime="1493818968"/>
      </publishHistory>
 </DOMDocument>

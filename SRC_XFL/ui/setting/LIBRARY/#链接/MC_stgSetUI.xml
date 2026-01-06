@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/key_set_dialog_mc">
+                <DOMSymbolInstance libraryItemName="#链接/SP_keySetDialog">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

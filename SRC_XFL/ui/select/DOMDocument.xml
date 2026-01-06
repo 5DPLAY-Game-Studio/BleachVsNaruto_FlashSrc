@@ -58,10 +58,10 @@
           <Include href="#链接/select_item_mc.xml" itemID="58904df3-000001fc" lastModified="1496499805"/>
           <Include href="#链接/select_map_mc.xml" itemID="5909dc13-000001f8" lastModified="1493826304"/>
           <Include href="#链接/select_map_txt_mc.xml" itemID="5909dec6-00000262" lastModified="1530522385"/>
-          <Include href="#链接/selected_item_p2_mc.xml" itemID="589052a0-0000022c" lastModified="1530522385"/>
           <Include href="#链接/slt_item_mc.xml" itemID="5891c70d-00000024" lastModified="1751376767"/>
           <Include href="#链接/SP_ct.xml" itemID="695c6816-0000004f" lastModified="1767663727"/>
           <Include href="#链接/SP_selectBarItemP1.xml" itemID="695c6aa8-00000050" lastModified="1767664306"/>
+          <Include href="#链接/SP_selectBarItemP2.xml" itemID="695c6af1-00000051" lastModified="1767664369"/>
           <Include href="#链接/stg_select.xml" itemID="58901069-000001d3" lastModified="1530522385"/>
           <Include href="ct_img.xml" loadImmediate="false" itemID="589050e4-00000217" lastModified="1485852902"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="58904daa-000001f7" lastModified="1530522385"/>

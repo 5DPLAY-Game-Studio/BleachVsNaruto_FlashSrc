@@ -37,7 +37,7 @@
                     <Point x="126.5" y="35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="#链接/selected_item_p2_mc" centerPoint3DX="322.75" centerPoint3DY="738.1">
+                <DOMSymbolInstance libraryItemName="#链接/SP_selectBarItemP2" centerPoint3DX="322.75" centerPoint3DY="738.1">
                   <matrix>
                     <Matrix tx="196.25" ty="703.1"/>
                   </matrix>

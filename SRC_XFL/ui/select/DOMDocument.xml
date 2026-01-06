@@ -52,16 +52,16 @@
           <DOMBitmapItem name="sp1.png" itemID="5b39eb0a-0000200d" sourceExternalFilepath="../select/LIBRARY/sp1.png" sourceLastImported="1751791938" externalFileCRC32="2470685703" externalFileSize="4008" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sp1.png" bitmapDataHRef="M 53 1530522378.dat" frameRight="1900" frameBottom="2220"/>
           <DOMBitmapItem name="sp2.png" itemID="5b39eb0a-00002011" sourceExternalFilepath="../select/LIBRARY/sp2.png" sourceLastImported="1530522346" externalFileCRC32="513244470" externalFileSize="4015" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sp2.png" bitmapDataHRef="M 54 1530522378.dat" frameRight="2020" frameBottom="2220"/>
           <DOMBitmapItem name="spitem.png" itemID="5b39eb0a-00002015" sourceExternalFilepath="../select/LIBRARY/spitem.png" sourceLastImported="1751791938" externalFileCRC32="1220543645" externalFileSize="790" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="spitem.png" bitmapDataHRef="M 55 1530522378.dat" frameRight="1200" frameBottom="1200"/>
-          <DOMBitmapItem name="注意安全.png" itemID="6863e3a3-000001fa" sourceExternalFilepath="./LIBRARY/注意安全.png" sourceLastImported="1751791938" externalFileSize="6125" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="注意安全.png" bitmapDataHRef="M 49 1751375238.dat" frameRight="4000" frameBottom="4000"/>
+          <DOMBitmapItem name="注意安全.png" itemID="6863e3a3-000001fa" sourceExternalFilepath="../select/LIBRARY/注意安全.png" sourceLastImported="1751791938" externalFileSize="6125" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="注意安全.png" bitmapDataHRef="M 49 1751375238.dat" frameRight="4000" frameBottom="4000"/>
      </media>
      <symbols>
           <Include href="#链接/select_item_mc.xml" itemID="58904df3-000001fc" lastModified="1496499805"/>
           <Include href="#链接/select_map_mc.xml" itemID="5909dc13-000001f8" lastModified="1493826304"/>
           <Include href="#链接/select_map_txt_mc.xml" itemID="5909dec6-00000262" lastModified="1530522385"/>
-          <Include href="#链接/selected_item_p1_mc.xml" itemID="58905540-0000023e" lastModified="1767663747"/>
           <Include href="#链接/selected_item_p2_mc.xml" itemID="589052a0-0000022c" lastModified="1530522385"/>
           <Include href="#链接/slt_item_mc.xml" itemID="5891c70d-00000024" lastModified="1751376767"/>
           <Include href="#链接/SP_ct.xml" itemID="695c6816-0000004f" lastModified="1767663727"/>
+          <Include href="#链接/SP_selectBarItemP1.xml" itemID="695c6aa8-00000050" lastModified="1767664306"/>
           <Include href="#链接/stg_select.xml" itemID="58901069-000001d3" lastModified="1530522385"/>
           <Include href="ct_img.xml" loadImmediate="false" itemID="589050e4-00000217" lastModified="1485852902"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="58904daa-000001f7" lastModified="1530522385"/>

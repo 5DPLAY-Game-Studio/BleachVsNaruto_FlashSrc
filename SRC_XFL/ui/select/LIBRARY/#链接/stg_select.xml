@@ -29,7 +29,7 @@
                     <Point x="30" y="30"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="#链接/selected_item_p1_mc" centerPoint3DX="-176.85" centerPoint3DY="738.1">
+                <DOMSymbolInstance libraryItemName="#链接/SP_selectBarItemP1" centerPoint3DX="-176.85" centerPoint3DY="738.1">
                   <matrix>
                     <Matrix tx="-303.35" ty="703.1"/>
                   </matrix>

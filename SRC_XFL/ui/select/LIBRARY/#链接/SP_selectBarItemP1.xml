@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/SP_selectBarItemP1" itemID="695c6aa8-00000050" linkageExportForAS="true" linkageBaseClass="flash.display.Sprite" linkageClassName="$select$SP_selectBarItemP1" lastModified="1767664306" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="SP_selectBarItemP1">
+      <layers>
+        <DOMLayer name="图层 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="sbp1.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="#链接/SP_ct" name="ct" selected="true" centerPoint3DX="131.5" centerPoint3DY="39.25">
+                  <matrix>
+                    <Matrix tx="4.75" ty="4.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="120.75" y="30.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

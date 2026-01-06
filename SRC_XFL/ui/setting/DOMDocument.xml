@@ -28,9 +28,9 @@
           <DOMBitmapItem name="setting副本.jpg.png" itemID="5b39ea3d-00001f71" sourceExternalFilepath="../setting/LIBRARY/setting副本.jpg.png" sourceLastImported="1751791960" externalFileCRC32="861293933" externalFileSize="435760" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="setting副本.jpg.png" bitmapDataHRef="M 31 1530522173.dat" frameRight="16000" frameBottom="12000"/>
      </media>
      <symbols>
-          <Include href="#链接/key_set_dialog_mc.xml" itemID="59279b86-00000039" lastModified="1530522177"/>
-          <Include href="#链接/keyset_mc.xml" itemID="5926f57f-000001f7" lastModified="1530522177"/>
-          <Include href="#链接/MC_stgSetUI.xml" itemID="695ca504-00000266" lastModified="1767679236"/>
+          <Include href="#链接/key_set_dialog_mc.xml" itemID="59279b86-00000039" lastModified="1767679419"/>
+          <Include href="#链接/MC_stgSetUI.xml" itemID="695ca504-00000266" lastModified="1767679413"/>
+          <Include href="#链接/SP_keySet.xml" itemID="695ca5ec-00000267" lastModified="1767679468"/>
           <Include href="#链接/SP_textArrow.xml" itemID="695ca396-00000264" lastModified="1767678870"/>
           <Include href="btnk1.xml" loadImmediate="false" itemID="5926f64f-00000248" lastModified="1530522177"/>
           <Include href="btnk2.xml" loadImmediate="false" itemID="5926f65d-00000255" lastModified="1530522177"/>

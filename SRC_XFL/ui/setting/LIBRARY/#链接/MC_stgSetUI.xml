@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stgSetUI" itemID="695ca504-00000266" linkageExportForAS="true" linkageClassName="$setting$MC_stgSetUI" lastModified="1767679236" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stgSetUI" itemID="695ca504-00000266" linkageExportForAS="true" linkageClassName="$setting$MC_stgSetUI" lastModified="1767679413" lastUniqueIdentifier="3">
   <timeline>
     <DOMTimeline name="MC_stgSetUI">
       <layers>
@@ -19,7 +19,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/keyset_mc" name="keysetui" centerPoint3DX="39.5" centerPoint3DY="39.5">
+                <DOMSymbolInstance libraryItemName="#链接/SP_keySet" name="keysetui" centerPoint3DX="39.5" centerPoint3DY="39.5">
                   <transformationPoint>
                     <Point x="39.5" y="39.5"/>
                   </transformationPoint>

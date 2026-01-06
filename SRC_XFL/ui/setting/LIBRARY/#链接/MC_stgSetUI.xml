@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/stg_set_ui" itemID="59252953-00000015" linkageExportForAS="true" linkageClassName="stg_set_ui" lastModified="1530522177" lastUniqueIdentifier="3">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stgSetUI" itemID="695ca504-00000266" linkageExportForAS="true" linkageClassName="$setting$MC_stgSetUI" lastModified="1767679236" lastUniqueIdentifier="3">
   <timeline>
-    <DOMTimeline name="stg_set_ui">
+    <DOMTimeline name="MC_stgSetUI">
       <layers>
         <DOMLayer name="图层 6" color="#808080" visible="false" layerType="guide">
           <frames>
@@ -19,7 +19,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="#链接/keyset_mc" name="keysetui" selected="true" centerPoint3DX="39.5" centerPoint3DY="39.5">
+                <DOMSymbolInstance libraryItemName="#链接/keyset_mc" name="keysetui" centerPoint3DX="39.5" centerPoint3DY="39.5">
                   <transformationPoint>
                     <Point x="39.5" y="39.5"/>
                   </transformationPoint>

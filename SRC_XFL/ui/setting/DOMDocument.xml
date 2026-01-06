@@ -30,8 +30,8 @@
      <symbols>
           <Include href="#链接/key_set_dialog_mc.xml" itemID="59279b86-00000039" lastModified="1530522177"/>
           <Include href="#链接/keyset_mc.xml" itemID="5926f57f-000001f7" lastModified="1530522177"/>
+          <Include href="#链接/MC_stgSetUI.xml" itemID="695ca504-00000266" lastModified="1767679236"/>
           <Include href="#链接/SP_textArrow.xml" itemID="695ca396-00000264" lastModified="1767678870"/>
-          <Include href="#链接/stg_set_ui.xml" itemID="59252953-00000015" lastModified="1530522177"/>
           <Include href="btnk1.xml" loadImmediate="false" itemID="5926f64f-00000248" lastModified="1530522177"/>
           <Include href="btnk2.xml" loadImmediate="false" itemID="5926f65d-00000255" lastModified="1530522177"/>
           <Include href="btnk3.xml" loadImmediate="false" itemID="5926f660-0000025a" lastModified="1530522177"/>
@@ -53,7 +53,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="#链接/stg_set_ui" centerPoint3DX="618.95" centerPoint3DY="284.5">
+                                        <DOMSymbolInstance libraryItemName="#链接/MC_stgSetUI" centerPoint3DX="618.95" centerPoint3DY="284.5">
                                              <transformationPoint>
                                                   <Point/>
                                              </transformationPoint>

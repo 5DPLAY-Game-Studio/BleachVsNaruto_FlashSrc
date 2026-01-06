@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/stg_select" itemID="58901069-000001d3" linkageExportForAS="true" linkageClassName="stg_select" lastModified="1530522385" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stgSelect" itemID="695c92db-00000078" linkageExportForAS="true" linkageClassName="$select$MC_stgSelect" lastModified="1767674587" lastUniqueIdentifier="8">
   <timeline>
-    <DOMTimeline name="stg_select">
+    <DOMTimeline name="MC_stgSelect">
       <layers>
         <DOMLayer name="图层 3" color="#FF800A">
           <frames>

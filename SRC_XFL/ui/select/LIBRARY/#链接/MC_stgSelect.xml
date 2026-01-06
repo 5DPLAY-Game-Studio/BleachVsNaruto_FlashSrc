@@ -21,7 +21,7 @@
                     <Point x="47.5" y="55.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="#链接/slt_item_mc" centerPoint3DX="-74" centerPoint3DY="227.2">
+                <DOMSymbolInstance libraryItemName="#链接/SP_selectItem" centerPoint3DX="-74" centerPoint3DY="227.2">
                   <matrix>
                     <Matrix tx="-104" ty="197.2"/>
                   </matrix>

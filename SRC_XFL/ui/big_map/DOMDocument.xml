@@ -18,7 +18,7 @@
           <DOMBitmapItem name="p4.png" itemID="5f1d9129-0000002d" sourceExternalFilepath="../bigmap/LIBRARY/p4.png" sourceLastImported="1595773133" externalFileCRC32="99693283" externalFileSize="5269" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="p4.png" bitmapDataHRef="M 5 1595773225.dat" frameRight="740" frameBottom="800"/>
      </media>
      <symbols>
-          <Include href="#链接/MC_bigMap.xml" itemID="693f66b4-00000042" lastModified="1765762740"/>
+          <Include href="#链接/MC_bigMap.xml" itemID="693f66b4-00000042" lastModified="1767682017"/>
           <Include href="#链接/MC_cloud.xml" itemID="693bb65a-00000020" lastModified="1765761257"/>
           <Include href="#链接/MC_point.xml" itemID="693bb722-00000021" lastModified="1765761266"/>
           <Include href="元件 1.xml" loadImmediate="false" itemID="5f1d8e1e-00000017" lastModified="1596289777"/>

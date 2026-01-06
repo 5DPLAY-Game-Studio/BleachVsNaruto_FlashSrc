@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/SP_textArrow" itemID="695ca396-00000264" linkageExportForAS="true" linkageBaseClass="flash.display.Sprite" linkageClassName="$setting$SP_textArrow" lastModified="1767678870" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="SP_textArrow">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="arrow.png">
+                  <matrix>
+                    <Matrix tx="-29" ty="-18"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

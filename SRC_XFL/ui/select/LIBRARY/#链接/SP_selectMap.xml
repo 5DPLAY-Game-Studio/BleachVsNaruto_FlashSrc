@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/SP_selectMap" itemID="695c9d62-000000f9" linkageExportForAS="true" linkageBaseClass="flash.display.Sprite" linkageClassName="$select$SP_selectMap" lastModified="1767677282" lastUniqueIdentifier="7" isSpriteSubclass="true">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/SP_selectMap" itemID="695c9d62-000000f9" linkageExportForAS="true" linkageBaseClass="flash.display.Sprite" linkageClassName="$select$SP_selectMap" lastModified="1767677510" lastUniqueIdentifier="7" isSpriteSubclass="true">
   <timeline>
     <DOMTimeline name="SP_selectMap">
       <layers>

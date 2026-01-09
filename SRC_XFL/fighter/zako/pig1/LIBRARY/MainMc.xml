@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MainMc" itemID="5f96bd76-000011b4" linkageExportForAS="true" linkageClassName="main_mc" lastModified="1603714425">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MainMc" itemID="5f96bd76-000011b4" linkageExportForAS="true" linkageClassName="main_mc" lastModified="1767938821">
   <timeline>
     <DOMTimeline name="MainMc" currentFrame="1">
       <layers>
@@ -8,17 +8,17 @@
               <Actionscript>
                 <script><![CDATA[stop();
 
-var $fighter_ctrler:*;
-var $mc_ctrler:*;
-var $effect_ctrler:*;
+var $fighter_ctrler: * ;
+var $mc_ctrler: * ;
+var $effect_ctrler: * ;
 
-var defineAction:Function;
+var defineAction: Function;
 
-function initFighter(param:Object):void{
+function initFighter(param: Object): void {
 	$fighter_ctrler = param.fighter_ctrler;
 	$mc_ctrler = param.mc_ctrler;
 	$effect_ctrler = param.effect_ctrler;
-	
+
 	defineAction = $fighter_ctrler.defineAction;
 }]]></script>
               </Actionscript>
@@ -26,8 +26,24 @@ function initFighter(param:Object):void{
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[if(!$fighter_ctrler) return;
-defineAction("zh1" , {power:100 , hitType:6 , hitx:4 , hity:-7 , hurtTime:0 , hurtType:1 , isBreakDef:false});
+                <script><![CDATA[import net.play5d.game.bvn.data.fighter.FighterDefenseType;
+import net.play5d.game.bvn.data.HitType;
+import net.play5d.game.bvn.data.fighter.FighterHurtType;
+
+if (!$fighter_ctrler) {
+	return;
+}
+
+
+defineAction("zh1", {
+	power: 100,
+	hitType: HitType.KAN_HEAVY,
+	hitx: 4,
+	hity: -7,
+	hurtTime: 0,
+	hurtType: FighterHurtType.HURT_FLY,
+	isBreakDef: false
+});
 
 //血量
 $fighter_ctrler.hp = 600;
@@ -37,8 +53,8 @@ $fighter_ctrler.speed = 7;
 $fighter_ctrler.jumpPower = 15;
 //体格::瘦弱：1 , 偏瘦：2 , 中等：3 , 偏胖：4 , 胖：5 , 重型：6+
 $fighter_ctrler.heavy = 4;
-
-$fighter_ctrler.defenseType = 1;
+//定义防御类型(0=剑，1=手)
+$fighter_ctrler.defenseType = FighterDefenseType.HAND;
 
 $fighter_ctrler.initMc(mc);]]></script>
               </Actionscript>

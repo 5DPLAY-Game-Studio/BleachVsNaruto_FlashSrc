@@ -113,6 +113,10 @@
         <swc-path>.</swc-path>
         <linkage>external</linkage>
       </library-path-entry>
+      <library-path-entry>
+        <swc-path>..\..\#swc\shared.swc</swc-path>
+        <linkage>merge</linkage>
+      </library-path-entry>
     </LibraryPath>
     <LibraryVersions>
     </LibraryVersions>

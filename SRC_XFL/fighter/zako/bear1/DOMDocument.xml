@@ -1793,7 +1793,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="main_mc" selected="true">
+                                        <DOMSymbolInstance libraryItemName="main_mc">
                                              <transformationPoint>
                                                   <Point x="74.45" y="51.5"/>
                                              </transformationPoint>
@@ -1808,6 +1808,9 @@
      <scripts/>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="76835" publishTime="1768202287"/>
+          <PublishItem publishSize="76835" publishTime="1768202276"/>
+          <PublishItem publishSize="76835" publishTime="1768202255"/>
           <PublishItem publishSize="76948" publishTime="1767937146"/>
           <PublishItem publishSize="76655" publishTime="1682083481"/>
           <PublishItem publishSize="84548" publishTime="1682083472"/>
@@ -1825,8 +1828,5 @@
           <PublishItem publishSize="84997" publishTime="1599361836"/>
           <PublishItem publishSize="77630" publishTime="1599357414"/>
           <PublishItem publishSize="68775" publishTime="1598932314"/>
-          <PublishItem publishSize="75536" publishTime="1593338349"/>
-          <PublishItem publishSize="349342" publishTime="1581493701"/>
-          <PublishItem publishSize="349318" publishTime="1571819965"/>
      </publishHistory>
 </DOMDocument>

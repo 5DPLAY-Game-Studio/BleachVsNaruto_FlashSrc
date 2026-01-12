@@ -1718,7 +1718,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="main_mc" selected="true">
+                                        <DOMSymbolInstance libraryItemName="main_mc">
                                              <transformationPoint>
                                                   <Point x="74.45" y="51.5"/>
                                              </transformationPoint>

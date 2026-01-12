@@ -1,7 +1,7 @@
 <flash_profiles>
 <flash_profile version="1.0" name="默认文件" current="true">
   <PublishFormatProperties enabled="true">
-    <defaultNames>1</defaultNames>
+    <defaultNames>0</defaultNames>
     <flash>0</flash>
     <projectorWin>0</projectorWin>
     <projectorMac>0</projectorMac>
@@ -18,7 +18,7 @@
     <gifDefaultName>1</gifDefaultName>
     <jpegDefaultName>1</jpegDefaultName>
     <pngDefaultName>1</pngDefaultName>
-    <swcDefaultName>1</swcDefaultName>
+    <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>1</oamDefaultName>
     <flashFileName>shared.swf</flashFileName>
     <projectorWinFileName>shared.exe</projectorWinFileName>
@@ -27,7 +27,7 @@
     <gifFileName>shared.gif</gifFileName>
     <jpegFileName>shared.jpg</jpegFileName>
     <pngFileName>shared.png</pngFileName>
-    <swcFileName>shared.swc</swcFileName>
+    <swcFileName>../../../shared/lib/swc/ide/shared.swc</swcFileName>
     <oamFileName>shared.oam</oamFileName>
     <publishFormat id="3E6AA359-3A3C-4827-B709-9977BDDDACCB">0</publishFormat>
     <publishFormat id="BBC1F406-65F2-4219-9304-FA48C7549E44">0</publishFormat>

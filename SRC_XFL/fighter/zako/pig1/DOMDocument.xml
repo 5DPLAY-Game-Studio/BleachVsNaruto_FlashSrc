@@ -69,7 +69,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="MainMc" selected="true">
+                                        <DOMSymbolInstance libraryItemName="MainMc">
                                              <transformationPoint>
                                                   <Point/>
                                              </transformationPoint>

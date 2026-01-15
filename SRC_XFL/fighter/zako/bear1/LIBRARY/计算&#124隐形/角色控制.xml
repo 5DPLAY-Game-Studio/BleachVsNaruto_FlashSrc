@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="计算&amp;#124隐形/角色控制" itemID="46a34c17-00000641" sourceFlashFilepath="../cs3/neji.fla" sourceLibraryItemHRef="计算|隐形/角色控制" sourceLastModified="1319081984" lastModified="1319081984" sourceItemID="00000000-ffffffff">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="计算&amp;#124隐形/角色控制" itemID="46a34c17-00000641" sourceFlashFilepath="../bear11/bear1.xfl" sourceLibraryItemHRef="计算|隐形/角色控制" sourceLastModified="1319081984" lastModified="1319081984" sourceItemID="00000000-ffffffff">
   <timeline>
     <DOMTimeline name="角色控制">
       <layers>
@@ -26,8 +26,8 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!0 180|0 0!0 0|920 0!920 0|920 180"/>
                     <Edge fillStyle1="2" edges="!920 180|920 360!920 360|0 360!0 360|0 180"/>
+                    <Edge fillStyle1="1" edges="!0 180|0 0!0 0|920 0!920 0|920 180"/>
                     <Edge fillStyle0="1" fillStyle1="2" edges="!0 180|920 180"/>
                   </edges>
                 </DOMShape>

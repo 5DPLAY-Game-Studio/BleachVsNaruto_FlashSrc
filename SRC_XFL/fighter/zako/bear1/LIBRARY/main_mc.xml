@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main_mc" itemID="5ef860c0-0000068d" linkageExportForAS="true" linkageClassName="main_mc" lastModified="1767937724">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main_mc" itemID="5ef860c0-0000068d" linkageExportForAS="true" linkageClassName="main_mc" lastModified="1768461622">
   <timeline>
-    <DOMTimeline name="main_mc">
+    <DOMTimeline name="main_mc" currentFrame="1">
       <layers>
         <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
           <frames>
@@ -43,7 +43,7 @@ defineAction("zh1", {
 	hurtType: FighterHurtType.HURT_FLY,
 	isBreakDef: false
 });
-
+HitType.isHeavy(1)
 //定义血量
 $fighter_ctrler.hp = 400;
 //定义速度

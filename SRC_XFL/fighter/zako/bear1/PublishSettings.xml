@@ -57,7 +57,7 @@
     <WindowMode>0</WindowMode>
     <DisplayMenu>1</DisplayMenu>
     <DeviceFont>0</DeviceFont>
-    <TemplateFileName>C:\Users\lenovo\AppData\Local\Adobe\Animate CC 2018\zh_CN\Configuration\HTML\Default.html</TemplateFileName>
+    <TemplateFileName>C:\Users\ZPKJ\AppData\Local\Adobe\Animate CC 2018\zh_CN\Configuration\HTML\Default.html</TemplateFileName>
     <showTagWarnMsg>1</showTagWarnMsg>
   </PublishHtmlProperties>
   <PublishFlashProperties enabled="true">
@@ -111,7 +111,7 @@
       </library-path-entry>
       <library-path-entry>
         <swc-path>..\..\..\..\shared\lib\swc\ide\shared.swc</swc-path>
-        <linkage>external</linkage>
+        <linkage>merge</linkage>
       </library-path-entry>
     </LibraryPath>
     <LibraryVersions>

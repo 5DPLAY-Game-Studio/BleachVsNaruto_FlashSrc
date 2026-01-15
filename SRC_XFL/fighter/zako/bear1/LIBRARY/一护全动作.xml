@@ -152,7 +152,7 @@ parent.$mc_ctrler.dampingPercent(0.1,0); //移动阻尼，参数为X,Y]]></scrip
               <elements>
                 <DOMSymbolInstance libraryItemName="计算&amp;#124隐形/0面" name="zh1atm">
                   <matrix>
-                    <Matrix a="1.686767578125" d="1.81910705566406" tx="12.3" ty="-48.65"/>
+                    <Matrix a="1.686767578125" d="1.819091796875" tx="12.3" ty="-48.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.2" y="0.1"/>

@@ -112,7 +112,7 @@
               <elements>
                 <DOMBitmapInstance libraryItemName="位图 913">
                   <matrix>
-                    <Matrix a="0.46630859375" b="-0.883087158203125" c="0.883087158203125" d="0.46630859375" tx="-4.75" ty="16.1"/>
+                    <Matrix a="0.466293334960938" b="-0.883087158203125" c="0.883087158203125" d="0.466293334960938" tx="-4.75" ty="16.1"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>

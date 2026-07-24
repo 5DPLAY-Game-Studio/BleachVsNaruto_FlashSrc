@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="3C2FC6919263B84B99A8C4EEEEFE96D3">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.5 build 31044" majorVersion="20" minorVersion="5" buildNumber="31044" objectsSnapTo="false" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="3C2FC6919263B84B99A8C4EEEEFE96D3">
      <folders>
           <DOMFolderItem name="选人画面文件" itemID="46c14226-00000596"/>
           <DOMFolderItem name="#链接" itemID="69489aef-00000150" isExpanded="true"/>
@@ -238,7 +238,7 @@
      </media>
      <symbols>
           <Include href="选人画面文件/选人控制.xml" loadImmediate="false" itemID="46c02db4-00000512" lastModified="1218469748"/>
-          <Include href="#链接/MC_movieHow2Play.xml" itemID="69489be9-00000152" lastModified="1766366185"/>
+          <Include href="#链接/MC_movieHow2Play.xml" itemID="69489be9-00000152" lastModified="1784885916"/>
           <Include href="元件 1.xml" itemIcon="0" loadImmediate="false" itemID="5ca45032-0000011d" lastModified="1554272353"/>
           <Include href="元件 2.xml" loadImmediate="false" itemID="5ca45061-00000122" lastModified="1554272386"/>
           <Include href="元件 3.xml" itemIcon="1" loadImmediate="false" itemID="5ca45068-00000126" lastModified="1554272360"/>

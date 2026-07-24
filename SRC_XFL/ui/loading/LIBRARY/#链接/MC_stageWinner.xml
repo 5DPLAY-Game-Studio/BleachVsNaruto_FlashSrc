@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stageWinner" itemID="694a268c-000000e2" linkageExportForAS="true" linkageClassName="$loading$MC_stageWinner" lastModified="1766467212" lastUniqueIdentifier="15">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_stageWinner" itemID="694a268c-000000e2" linkageExportForAS="true" linkageClassName="$loading$MC_stageWinner" lastModified="1784886397" lastUniqueIdentifier="15">
   <timeline>
     <DOMTimeline name="MC_stageWinner" currentFrame="91">
       <layers>
@@ -18,7 +18,7 @@ txtmc.gotoAndPlay(2);]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="92" name="destory" labelType="name" keyMode="9728">
+            <DOMFrame index="92" name="destroy" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
@@ -55,6 +55,9 @@ txtmc.gotoAndPlay(2);]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="poppp.png" color="#808080" autoNamed="false">
@@ -82,6 +85,9 @@ txtmc.gotoAndPlay(2);]]></script>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
+            </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
@@ -135,6 +141,9 @@ txtmc.gotoAndPlay(2);]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="f0" color="#669900" autoNamed="false">
@@ -180,6 +189,9 @@ txtmc.gotoAndPlay(2);]]></script>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
+            </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
@@ -239,6 +251,9 @@ txtmc.gotoAndPlay(2);]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="f2" color="#4F80FF" autoNamed="false">
@@ -297,6 +312,9 @@ txtmc.gotoAndPlay(2);]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="图层 12" color="#FF4FFF">
@@ -340,6 +358,9 @@ txtmc.gotoAndPlay(2);]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="bg" color="#FF800A" locked="true" autoNamed="false">
@@ -355,6 +376,9 @@ txtmc.gotoAndPlay(2);]]></script>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
+            </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>

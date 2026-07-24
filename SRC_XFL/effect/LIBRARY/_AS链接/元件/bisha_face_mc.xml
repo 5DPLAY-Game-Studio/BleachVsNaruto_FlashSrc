@@ -1,13 +1,13 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/bisha_face_mc" itemID="58a2b557-00000a04" linkageExportForAS="true" linkageClassName="bisha_face_mc" lastModified="1739709987" lastUniqueIdentifier="9">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_AS链接/元件/bisha_face_mc" itemID="58a2b557-00000a04" linkageExportForAS="true" linkageClassName="bisha_face_mc" lastModified="1784887209" lastUniqueIdentifier="9">
   <timeline>
-    <DOMTimeline name="bisha_face_mc" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;61&lt;/guideline&gt;&lt;/guidelines&gt;'>
+    <DOMTimeline name="bisha_face_mc" currentFrame="70" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;61&lt;/guideline&gt;&lt;/guidelines&gt;'>
       <layers>
-        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" duration="70" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="70" name="destory" labelType="name" keyMode="9728">
+            <DOMFrame index="70" name="destroy" labelType="name" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop();]]></script>
               </Actionscript>
@@ -15,7 +15,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 3" color="#FFFF4F" locked="true">
+        <DOMLayer name="图层 3" color="#FFFF4F">
           <frames>
             <DOMFrame index="0" duration="3" tweenType="motion" keyMode="17921" acceleration="-100">
               <tweens>
@@ -67,7 +67,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 5" color="#4FFFFF" locked="true">
+        <DOMLayer name="图层 5" color="#4FFFFF">
           <frames>
             <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
@@ -146,7 +146,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 4" color="#FF4FFF" locked="true">
+        <DOMLayer name="图层 4" color="#FF4FFF">
           <frames>
             <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
@@ -225,7 +225,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="图层 1" color="#4FFF4F">
           <frames>
             <DOMFrame index="0" duration="3" tweenType="motion" keyMode="17921" acceleration="-100">
               <tweens>

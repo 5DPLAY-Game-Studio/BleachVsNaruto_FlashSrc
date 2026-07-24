@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_qiBar" itemID="6944dca4-00000127" linkageExportForAS="true" linkageClassName="$fight$MC_qiBar" lastModified="1766120612" lastUniqueIdentifier="27">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_qiBar" itemID="6944dca4-00000127" linkageExportForAS="true" linkageClassName="$fight$MC_qiBar" lastModified="1784886859" lastUniqueIdentifier="27">
   <timeline>
-    <DOMTimeline name="MC_qiBar" currentFrame="21">
+    <DOMTimeline name="MC_qiBar" currentFrame="52">
       <layers>
         <DOMLayer name="图层 6" color="#808080" locked="true">
           <frames>
@@ -30,7 +30,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="49" duration="9" name="destory" labelType="name" keyMode="9728">
+            <DOMFrame index="49" duration="4" name="destroy" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
@@ -73,9 +73,12 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="49" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 2" color="#9933CC">
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" duration="10" keyMode="9728">
               <elements>
@@ -149,9 +152,12 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="49" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="图层 1" color="#4FFF4F">
           <frames>
             <DOMFrame index="0" duration="9" keyMode="9728">
               <elements>
@@ -225,6 +231,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="49" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="图层 3" color="#FF800A">
@@ -288,6 +297,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="4" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>

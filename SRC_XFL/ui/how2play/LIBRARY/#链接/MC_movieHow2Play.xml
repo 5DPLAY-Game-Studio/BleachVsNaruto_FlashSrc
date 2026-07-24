@@ -1,10 +1,10 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_movieHow2Play" itemID="69489be9-00000152" linkageExportForAS="true" linkageClassName="$how2play$MC_movieHow2Play" sourceFlashFilepath="Users\陶杰\Desktop\bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/howtoplay" sourceLastModified="1418956437" lastModified="1766366185" lastUniqueIdentifier="2" sourceItemID="00000000-ffffffff">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="#链接/MC_movieHow2Play" itemID="69489be9-00000152" linkageExportForAS="true" linkageClassName="$how2play$MC_movieHow2Play" sourceFlashFilepath="Users\陶杰\Desktop\bleachvsnaruto.fla" sourceLibraryItemHRef="howtoplayfiles/howtoplay" sourceLastModified="1418956437" lastModified="1784885916" lastUniqueIdentifier="3" sourceItemID="00000000-ffffffff">
   <timeline>
-    <DOMTimeline name="MC_movieHow2Play" currentFrame="29" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;144&lt;/guideline&gt;&lt;/guidelines&gt;'>
+    <DOMTimeline name="MC_movieHow2Play" currentFrame="1211" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;144&lt;/guideline&gt;&lt;/guidelines&gt;'>
       <layers>
         <DOMLayer name="标签" color="#4FFF4F" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="1210" keyMode="9728">
+            <DOMFrame index="0" duration="1212" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop();
 
@@ -22,7 +22,7 @@ trace(scaleX,scaleY);]]></script>
             <DOMFrame index="1198" duration="12" name="skip" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="1210" duration="13" name="destory" labelType="name" keyMode="9728">
+            <DOMFrame index="1210" duration="2" name="destroy" labelType="name" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import flash.events.Event;
 
@@ -92,9 +92,12 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层 15" color="#4F80FF" locked="true" autoNamed="false">
+        <DOMLayer name="图层 15" color="#4F80FF" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="1210" keyMode="9728">
               <elements>
@@ -108,10 +111,13 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="board" color="#4FFF4F" locked="true" autoNamed="false" layerType="folder"/>
-        <DOMLayer name="SKIP" color="#9933CC" parentLayerIndex="4" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="SKIP" color="#9933CC" parentLayerIndex="4" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="1198" keyMode="9728">
               <elements>
@@ -125,7 +131,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1198" duration="25" keyMode="9728">
+            <DOMFrame index="1198" duration="14" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
@@ -259,6 +265,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
+            </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
@@ -424,6 +433,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMDynamicText>
               </elements>
             </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="btnwz" color="#FF4FFF" parentLayerIndex="4" locked="true" autoNamed="false">
@@ -561,6 +573,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                   </textRuns>
                 </DOMDynamicText>
               </elements>
+            </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
@@ -2918,6 +2933,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="board" color="#808080" parentLayerIndex="4" locked="true" autoNamed="false">
@@ -2933,6 +2951,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
+            </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
@@ -3042,6 +3063,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
               </elements>
             </DOMFrame>
             <DOMFrame index="1179" duration="31" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
@@ -3348,6 +3372,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="minren" color="#9933CC" parentLayerIndex="11" locked="true" autoNamed="false">
@@ -3484,6 +3511,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
         <DOMLayer name="sounds" color="#FFFF4F" locked="true" autoNamed="false">
@@ -3549,6 +3579,9 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
               <SoundEnvelope>
                 <SoundEnvelopePoint level0="32768" level1="32768"/>
               </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1210" duration="2" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>

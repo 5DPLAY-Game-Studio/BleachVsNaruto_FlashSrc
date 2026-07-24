@@ -19,7 +19,7 @@
           <frames>
             <DOMFrame index="0" duration="8" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="元件 56" selected="true" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="元件 56" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix a="0.25091552734375" d="0.352279663085938" tx="-0.85" ty="-31.5"/>
                   </matrix>

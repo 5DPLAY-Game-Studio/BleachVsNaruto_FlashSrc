@@ -11,6 +11,7 @@
           <Include href="效果控制/效果_结束幽步.xml" itemID="6a64c99e-00000a00" lastModified="1784990115"/>
           <Include href="效果控制/效果_结束发光.xml" itemID="6a64d762-00001201" lastModified="1784993684"/>
           <Include href="效果控制/效果_结束必杀.xml" itemID="6a64c6fc-000009cc" lastModified="1784989475"/>
+          <Include href="效果控制/效果_结束残影.xml" itemID="6a64d866-00001225" lastModified="1784993937"/>
           <Include href="背景.xml" loadImmediate="false" itemID="6a64be6d-0000090a" lastModified="1784988682"/>
      </symbols>
      <timelines>
@@ -175,6 +176,37 @@
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
+                                             <matrix>
+                                                  <Matrix tx="2" ty="256.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>结束发光</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -229,6 +261,14 @@
                                         <DOMComponentInstance libraryItemName="效果控制/效果_结束发光" uniqueID="1">
                                              <matrix>
                                                   <Matrix ty="219.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_结束残影" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix ty="270.5"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>

@@ -1,17 +1,23 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#009900" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="11" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="F0329E0EBE3B574388D233DD525A8F48">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#009900" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.5 build 31044" majorVersion="20" minorVersion="5" buildNumber="31044" viewAngle3D="74.2651684569298" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="37" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="F0329E0EBE3B574388D233DD525A8F48">
+     <folders>
+          <DOMFolderItem name="效果控制" itemID="6a64a3a8-00000176" isExpanded="true"/>
+     </folders>
+     <media/>
      <symbols>
-          <Include href="模板.xml" loadImmediate="false" itemID="67ac6f9f-00000241" lastModified="1739356279"/>
-          <Include href="效果_震动.xml" itemID="67d37d61-0000024f" lastModified="1741913478"/>
-          <Include href="效果_闪光.xml" itemID="67ac879b-0000024c" lastModified="1739360328"/>
+          <Include href="模板.xml" loadImmediate="false" itemID="67ac6f9f-00000241" lastModified="1784988677"/>
+          <Include href="效果_震动.xml" itemID="67d37d61-0000024f" lastModified="1784987459"/>
+          <Include href="效果_闪光.xml" itemID="67ac879b-0000024c" lastModified="1784986914"/>
+          <Include href="效果控制/效果_必杀.xml" itemID="6a649f55-00000148" lastModified="1784987523"/>
+          <Include href="背景.xml" loadImmediate="false" itemID="6a64be6d-0000090a" lastModified="1784988682"/>
      </symbols>
      <timelines>
           <DOMTimeline name="场景 1">
                <layers>
-                    <DOMLayer name="文本" color="#9933CC" autoNamed="false" layerType="guide">
+                    <DOMLayer name="文本" color="#9933CC" current="true" isSelected="true" autoNamed="false" layerType="guide">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMStaticText fontRenderingMode="device" width="116" height="13.45">
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
                                                   <Matrix tx="2" ty="2"/>
                                              </matrix>
@@ -19,96 +25,52 @@
                                                   <DOMTextRun>
                                                        <characters>效果</characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                                   <DOMTextRun>
                                                        <characters>_</characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                                   <DOMTextRun>
-                                                       <characters>闪光</characters>
+                                                       <characters>必杀</characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                                   <DOMTextRun>
                                                        <characters></characters>
                                                        <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMStaticText fontRenderingMode="device" width="116" height="13.45">
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_必杀" uniqueID="5">
                                              <matrix>
-                                                  <Matrix tx="122" ty="2"/>
+                                                  <Matrix ty="16"/>
                                              </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>效果</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>_</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters>震动</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                                  <DOMTextRun>
-                                                       <characters></characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMStaticText>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="isSuper">
+      <Inspectable name="是否超必杀" unlocalizedName="是否超必杀" variable="isSuper" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="face">
+      <Inspectable name="必杀特写 id" unlocalizedName="必杀特写 id" variable="face" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="组件" color="#00FFFF" current="true" isSelected="true" autoNamed="false" layerType="guide">
+                    <DOMLayer name="组件" color="#00FFFF" autoNamed="false" layerType="guide">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
-                                   <elements>
-                                        <DOMComponentInstance libraryItemName="效果_闪光" uniqueID="1">
-                                             <matrix>
-                                                  <Matrix ty="17.45"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="60" y="17.45"/>
-                                             </transformationPoint>
-                                             <parametersAsXML><![CDATA[   <property id="color">
-      <Inspectable name="color" variable="color" category="" verbose="0" defaultValue="#ffffff" type="Color"/>
-   </property>
-]]></parametersAsXML>
-                                        </DOMComponentInstance>
-                                        <DOMComponentInstance libraryItemName="效果_震动" uniqueID="1">
-                                             <matrix>
-                                                  <Matrix tx="120" ty="17.45"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="60" y="17.45"/>
-                                             </transformationPoint>
-                                             <parametersAsXML><![CDATA[   <property id="powX">
-      <Inspectable name="powX" variable="powX" category="" verbose="0" defaultValue="0" type="Number"/>
-   </property>
-   <property id="powY">
-      <Inspectable name="powY" variable="powY" category="" verbose="0" defaultValue="0" type="Number"/>
-   </property>
-]]></parametersAsXML>
-                                        </DOMComponentInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>

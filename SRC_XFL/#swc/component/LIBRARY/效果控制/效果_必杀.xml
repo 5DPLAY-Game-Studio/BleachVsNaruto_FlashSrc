@@ -1,6 +1,6 @@
-<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果_震动" itemID="67d37d61-0000024f" linkageExportForAS="true" linkageClassName="net.play5d.game.bvn.ide.component.effect.ShakeEffect" lastModified="1784987459" displayAsComponent="false" customIconID="0" actionscriptClass="net.play5d.game.bvn.ide.component.effect.ShakeEffect" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果控制/效果_必杀" itemID="6a649f55-00000148" linkageExportForAS="true" linkageClassName="net.play5d.game.bvn.ide.component.effect.BishaEffect" lastModified="1784987523" displayAsComponent="false" customIconID="0" actionscriptClass="net.play5d.game.bvn.ide.component.effect.BishaEffect" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
   <timeline>
-    <DOMTimeline name="效果_震动">
+    <DOMTimeline name="效果_必杀">
       <layers>
         <DOMLayer name="图层_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
@@ -8,7 +8,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="模板" name="mc">
                   <transformationPoint>
-                    <Point x="60" y="17.45"/>
+                    <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -18,11 +18,11 @@
       </layers>
     </DOMTimeline>
   </timeline>
-  <parametersAsXML><![CDATA[   <property id="powX">
-      <Inspectable name="powX" unlocalizedName="powX" variable="powX" category="" verbose="0" defaultValue="0" type="Number"/>
+  <parametersAsXML><![CDATA[   <property id="isSuper">
+      <Inspectable name="是否超必杀" unlocalizedName="是否超必杀" variable="isSuper" category="" verbose="0" defaultValue="false" type="Boolean"/>
    </property>
-   <property id="powY">
-      <Inspectable name="powY" unlocalizedName="powY" variable="powY" category="" verbose="0" defaultValue="0" type="Number"/>
+   <property id="face">
+      <Inspectable name="必杀特写 id" unlocalizedName="必杀特写 id" variable="face" category="" verbose="0" defaultValue="" type="String"/>
    </property>
 ]]></parametersAsXML>
   <classProperties><![CDATA[<componentData>
@@ -441,17 +441,20 @@
 	<classDef id="flash.net.URLVariables"/>
 	<classDef id="net.play5d.game.bvn.interfaces.IComponents"/>
 	<classDef id="net.play5d.game.bvn.ide.entity.GameSpriteEntity"/>
+	<classDef id="net.play5d.game.bvn.ide.utils.IdeRuntimeUtils"/>
 	<classDef id="net.play5d.game.bvn.ide.data.GameSpriteType"/>
-	<classDef id="net.play5d.game.bvn.ide.utils.GameSpriteUtils"/>
 	<classDef id="net.play5d.game.bvn.ide.data.GamePKGName"/>
+	<classDef id="net.play5d.game.bvn.ide.utils.GameSpriteUtils"/>
 	<classDef id="net.play5d.game.bvn.ide.interfaces.BaseComponent"/>
+	<classDef id="net.play5d.game.bvn.ide.component.BaseIdeCtrler"/>
 	<classDef id="net.play5d.game.bvn.ide.component.BaseEffect"/>
-	<classDef id="net.play5d.game.bvn.ide.component.effect.ShakeEffect"/>
+	<classDef id="net.play5d.game.bvn.ide.component.effect.BishaEffect"/>
 </classDefs>
-<class id="net.play5d.game.bvn.ide.component.effect.ShakeEffect" >
-	<__go_to_ctor_definition_help file="D:\源代码\_工作空间\1212321工作空间\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\effect\ShakeEffect.as" pos="1167" />
-	<__go_to_ctor_definition_help file="D:\源代码\_工作空间\1212321工作空间\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseEffect.as" pos="1197" />
-	<__go_to_ctor_definition_help file="D:\源代码\_工作空间\1212321工作空间\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\interfaces\BaseComponent.as" pos="1187" />
+<class id="net.play5d.game.bvn.ide.component.effect.BishaEffect" >
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\effect\BishaEffect.as" pos="1430" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseEffect.as" pos="1149" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseIdeCtrler.as" pos="1743" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\interfaces\BaseComponent.as" pos="1738" />
 	<native cls="MovieClipClass" gc="exact" instance="MovieClipObject" methods="auto" />
 	<__go_to_ctor_definition_help file="E:\r\ws\St_Make\code\flash\avmglue\classes\MovieClip.as" pos="2750" />
 	<native cls="SpriteClass" gc="exact" instance="SpriteObject" methods="auto" />
@@ -540,11 +543,11 @@
 	<Event name="activate" type="flash.events.Event" />
 	<__go_to_ctor_definition_help file="E:\r\ws\St_Make\code\flash\avmglue\classes\EventDispatcher.as" pos="5321" />
 	<native cls="ObjectClass" classgc="exact" methods="auto" construct="override" />
-	<method id="powX" returnType="Number" isProperty="true" permissions="readwrite">
-		<Inspectable name="powX" type="Number" defaultValue="0" />
+	<method id="isSuper" returnType="Boolean" isProperty="true" permissions="readwrite">
+		<Inspectable name="是否超必杀" type="Boolean" defaultValue="false" />
 	</method>
-	<method id="powY" returnType="Number" isProperty="true" permissions="readwrite">
-		<Inspectable name="powY" type="Number" defaultValue="0" />
+	<method id="face" returnType="String" isProperty="true" permissions="readwrite">
+		<Inspectable name="必杀特写 id" type="String" defaultValue="" />
 	</method>
 	<method id="title" returnType="String" isProperty="true" permissions="readwrite">
 	</method>
@@ -700,13 +703,15 @@
 	</method>
 	<method id="doAction" returnType="void" isProperty="false">
 	</method>
-	<method id="ShakeEffect" isConstructor="true" isProperty="false">
+	<method id="BishaEffect" isConstructor="true" isProperty="false">
+	</method>
+	<method id="BaseEffect" isConstructor="true" isProperty="false">
 	</method>
 	<method id="destroy" returnType="void" isProperty="false">
 	</method>
 	<method id="init" returnType="void" isProperty="false">
 	</method>
-	<method id="BaseEffect" isConstructor="true" isProperty="false">
+	<method id="BaseIdeCtrler" isConstructor="true" isProperty="false">
 	</method>
 	<method id="BaseComponent" isConstructor="true" isProperty="false">
 	</method>

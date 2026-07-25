@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="模板" itemID="67ac6f9f-00000241" lastModified="1739356279">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="模板" itemID="67ac6f9f-00000241" lastModified="1784988677">
   <timeline>
     <DOMTimeline name="模板">
       <layers>
-        <DOMLayer name="titleTxt" color="#FF800A" autoNamed="false">
+        <DOMLayer name="titleTxt" color="#FF800A" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="titleTxt" fontRenderingMode="device" width="116" height="13.45" lineType="multiline">
+                <DOMDynamicText name="titleTxt" fontRenderingMode="device" width="396" height="13.45">
                   <matrix>
                     <Matrix tx="2" ty="2"/>
                   </matrix>
@@ -14,13 +14,7 @@
                     <DOMTextRun>
                       <characters>标题</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="TimesNewRomanPSMT"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters></characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="NSimSun"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -29,11 +23,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="textTxt" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="textTxt" color="#9933CC" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="textTxt" fontRenderingMode="device" width="116" height="13.45" lineType="multiline">
+                <DOMDynamicText name="textTxt" fontRenderingMode="device" width="396" height="13.45">
                   <matrix>
                     <Matrix tx="2" ty="19.45"/>
                   </matrix>
@@ -41,13 +35,7 @@
                     <DOMTextRun>
                       <characters>文本</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="TimesNewRomanPSMT"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters></characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -56,25 +44,21 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="图层_1" color="#00FFFF">
+        <DOMLayer name="图层_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMRectangleObject objectWidth="120" objectHeight="34.9" x="32.5" y="-20" lockFlag="true" topLeftRadius="3" topRightRadius="3" bottomLeftRadius="3" bottomRightRadius="3">
+                <DOMSymbolInstance libraryItemName="背景" name="bg">
                   <matrix>
-                    <Matrix tx="-32.5" ty="20"/>
+                    <Matrix a="0.999984741210938"/>
                   </matrix>
-                  <fill>
-                    <SolidColor color="#FFFFFF" alpha="0.498039215686275"/>
-                  </fill>
-                  <stroke>
-                    <SolidStroke scaleMode="normal">
-                      <fill>
-                        <SolidColor/>
-                      </fill>
-                    </SolidStroke>
-                  </stroke>
-                </DOMRectangleObject>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.671875"/>
+                  </color>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

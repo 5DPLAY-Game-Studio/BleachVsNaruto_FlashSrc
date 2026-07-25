@@ -9,13 +9,14 @@
           <Include href="效果_闪光.xml" itemID="67ac879b-0000024c" lastModified="1784986914"/>
           <Include href="效果控制/效果_必杀.xml" itemID="6a649f55-00000148" lastModified="1784987523"/>
           <Include href="效果控制/效果_瞬步.xml" itemID="6a64c5ad-00000993" lastModified="1784989128"/>
+          <Include href="效果控制/效果_结束幽步.xml" itemID="6a64c99e-00000a00" lastModified="1784990115"/>
           <Include href="效果控制/效果_结束必杀.xml" itemID="6a64c6fc-000009cc" lastModified="1784989475"/>
           <Include href="背景.xml" loadImmediate="false" itemID="6a64be6d-0000090a" lastModified="1784988682"/>
      </symbols>
      <timelines>
           <DOMTimeline name="场景 1">
                <layers>
-                    <DOMLayer name="文本" color="#9933CC" current="true" isSelected="true" autoNamed="false" layerType="guide">
+                    <DOMLayer name="文本" color="#9933CC" autoNamed="false" layerType="guide">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -112,11 +113,42 @@
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
+                                             <matrix>
+                                                  <Matrix tx="2" ty="154.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>结束幽步</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="组件" color="#00FFFF" autoNamed="false" layerType="guide">
+                    <DOMLayer name="组件" color="#00FFFF" current="true" isSelected="true" autoNamed="false" layerType="guide">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -150,6 +182,14 @@
                                         <DOMComponentInstance libraryItemName="效果控制/效果_结束必杀" uniqueID="1">
                                              <matrix>
                                                   <Matrix ty="117.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_结束幽步" uniqueID="2">
+                                             <matrix>
+                                                  <Matrix ty="168.7"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>

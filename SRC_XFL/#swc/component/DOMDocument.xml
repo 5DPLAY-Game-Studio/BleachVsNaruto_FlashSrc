@@ -8,6 +8,7 @@
           <Include href="效果_闪光.xml" itemID="67ac879b-0000024c" lastModified="1784986914"/>
           <Include href="效果控制/效果_必杀.xml" itemID="6a649f55-00000148" lastModified="1784987523"/>
           <Include href="效果控制/效果_瞬步.xml" itemID="6a64c5ad-00000993" lastModified="1784989128"/>
+          <Include href="效果控制/效果_结束持续震动.xml" itemID="6a64d984-0000124a" lastModified="1784994211"/>
           <Include href="效果控制/效果_结束幽步.xml" itemID="6a64c99e-00000a00" lastModified="1784990115"/>
           <Include href="效果控制/效果_结束发光.xml" itemID="6a64d762-00001201" lastModified="1784993684"/>
           <Include href="效果控制/效果_结束必杀.xml" itemID="6a64c6fc-000009cc" lastModified="1784989475"/>
@@ -207,6 +208,37 @@
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
+                                             <matrix>
+                                                  <Matrix tx="2" ty="307.4"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>结束持续震动</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -269,6 +301,14 @@
                                         <DOMComponentInstance libraryItemName="效果控制/效果_结束残影" uniqueID="1">
                                              <matrix>
                                                   <Matrix ty="270.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_结束持续震动" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix ty="321.4"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>

@@ -15,6 +15,7 @@
           <Include href="效果控制/效果_结束发光.xml" itemID="6a64d762-00001201" lastModified="1784993684"/>
           <Include href="效果控制/效果_结束必杀.xml" itemID="6a64c6fc-000009cc" lastModified="1784989475"/>
           <Include href="效果控制/效果_结束残影.xml" itemID="6a64d866-00001225" lastModified="1784993937"/>
+          <Include href="效果控制/效果_跟随特效.xml" itemID="6a65c2be-00000139" lastModified="1785053918"/>
           <Include href="背景.xml" loadImmediate="false" itemID="6a64be6d-0000090a" lastModified="1784988682"/>
      </symbols>
      <timelines>
@@ -303,6 +304,37 @@
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="13.45">
+                                             <matrix>
+                                                  <Matrix tx="2" ty="460.1"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>跟随特效</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -393,6 +425,21 @@
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
                                              </transformationPoint>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_跟随特效" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix ty="475.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="isUnderBody">
+      <Inspectable name="是否置于身体图层下方" unlocalizedName="是否置于身体图层下方" variable="isUnderBody" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="mcName">
+      <Inspectable name="跟随特效 MC 实例名" unlocalizedName="跟随特效 MC 实例名" variable="mcName" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+]]></parametersAsXML>
                                         </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>

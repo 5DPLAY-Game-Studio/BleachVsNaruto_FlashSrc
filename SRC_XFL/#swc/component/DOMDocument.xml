@@ -8,6 +8,7 @@
           <Include href="效果_闪光.xml" itemID="67ac879b-0000024c" lastModified="1784986914"/>
           <Include href="效果控制/效果_开始发光.xml" itemID="6a65c61d-0000018c" lastModified="1785054784"/>
           <Include href="效果控制/效果_灵压爆发.xml" itemID="6a65be64-00000139" lastModified="1785052780"/>
+          <Include href="效果控制/效果_空中跳跃.xml" itemID="6a65cc55-00000205" lastModified="1785056366"/>
           <Include href="效果控制/效果_幽步.xml" itemID="6a65c3fb-00000162" lastModified="1785054227"/>
           <Include href="效果控制/效果_击落地.xml" itemID="6a65ca13-000001d9" lastModified="1785055800"/>
           <Include href="效果控制/效果_必杀.xml" itemID="6a649f55-00000148" lastModified="1784987523"/>
@@ -431,6 +432,37 @@
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
+                                             <matrix>
+                                                  <Matrix tx="402" ty="103.8"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>空中跳跃</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -571,6 +603,14 @@
       <Inspectable name="落地类型（0=弹，1=正常落地，2=重落地）" unlocalizedName="落地类型（0=弹，1=正常落地，2=重落地）" variable="type" category="" verbose="0" defaultValue="1" type="Number"/>
    </property>
 ]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_空中跳跃" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="400" ty="117.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
                                         </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>

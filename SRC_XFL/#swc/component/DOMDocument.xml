@@ -4,7 +4,6 @@
      </folders>
      <symbols>
           <Include href="模板.xml" loadImmediate="false" itemID="67ac6f9f-00000241" lastModified="1784988677"/>
-          <Include href="效果_闪光.xml" itemID="67ac879b-0000024c" lastModified="1784986914"/>
           <Include href="效果控制/效果_开始发光.xml" itemID="6a65c61d-0000018c" lastModified="1785054784"/>
           <Include href="效果控制/效果_震动.xml" itemID="6a66b36a-000001cb" lastModified="1785115506"/>
           <Include href="效果控制/效果_灵压爆发.xml" itemID="6a65be64-00000139" lastModified="1785052780"/>
@@ -23,6 +22,7 @@
           <Include href="效果控制/效果_结束残影.xml" itemID="6a64d866-00001225" lastModified="1784993937"/>
           <Include href="效果控制/效果_跟随特效.xml" itemID="6a65c2be-00000139" lastModified="1785053918"/>
           <Include href="效果控制/效果_跳跃.xml" itemID="6a66aa0d-0000013e" lastModified="1785113125"/>
+          <Include href="效果控制/效果_闪光.xml" itemID="6a66b7bc-00000230" lastModified="1785116629"/>
           <Include href="背景.xml" loadImmediate="false" itemID="6a64be6d-0000090a" lastModified="1784988682"/>
      </symbols>
      <timelines>
@@ -590,6 +590,37 @@
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
+                                             <matrix>
+                                                  <Matrix tx="402" ty="358.3"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>闪光</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -775,6 +806,18 @@
    </property>
    <property id="powY">
       <Inspectable name="Y 轴震动幅度" unlocalizedName="Y 轴震动幅度" variable="powY" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_闪光" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="400" ty="372.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="color">
+      <Inspectable name="闪光颜色" unlocalizedName="闪光颜色" variable="color" category="" verbose="0" defaultValue="#ffffff" type="Color"/>
    </property>
 ]]></parametersAsXML>
                                         </DOMComponentInstance>

@@ -20,6 +20,7 @@
           <Include href="效果控制/效果_结束必杀.xml" itemID="6a64c6fc-000009cc" lastModified="1784989475"/>
           <Include href="效果控制/效果_结束残影.xml" itemID="6a64d866-00001225" lastModified="1784993937"/>
           <Include href="效果控制/效果_跟随特效.xml" itemID="6a65c2be-00000139" lastModified="1785053918"/>
+          <Include href="效果控制/效果_跳跃.xml" itemID="6a66aa0d-0000013e" lastModified="1785113125"/>
           <Include href="背景.xml" loadImmediate="false" itemID="6a64be6d-0000090a" lastModified="1784988682"/>
      </symbols>
      <timelines>
@@ -463,6 +464,37 @@
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
+                                             <matrix>
+                                                  <Matrix tx="402" ty="154.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>跳跃</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -607,6 +639,14 @@
                                         <DOMComponentInstance libraryItemName="效果控制/效果_空中跳跃" uniqueID="1">
                                              <matrix>
                                                   <Matrix tx="400" ty="117.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_跳跃" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="400" ty="168.7"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>

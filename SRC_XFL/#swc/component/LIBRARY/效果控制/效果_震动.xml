@@ -1,4 +1,4 @@
-<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果_震动" itemID="67d37d61-0000024f" linkageExportForAS="true" linkageClassName="net.play5d.game.bvn.ide.component.effect.ShakeEffect" lastModified="1784987459" displayAsComponent="false" customIconID="0" actionscriptClass="net.play5d.game.bvn.ide.component.effect.ShakeEffect" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果控制/效果_震动" itemID="6a66b36a-000001cb" linkageExportForAS="true" linkageClassName="net.play5d.game.bvn.ide.component.effect.ShakeEffect" lastModified="1785115506" displayAsComponent="false" customIconID="0" actionscriptClass="net.play5d.game.bvn.ide.component.effect.ShakeEffect" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
   <timeline>
     <DOMTimeline name="效果_震动">
       <layers>
@@ -8,7 +8,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="模板" name="mc">
                   <transformationPoint>
-                    <Point x="60" y="17.45"/>
+                    <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -19,10 +19,10 @@
     </DOMTimeline>
   </timeline>
   <parametersAsXML><![CDATA[   <property id="powX">
-      <Inspectable name="powX" unlocalizedName="powX" variable="powX" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="X 轴震动幅度" unlocalizedName="X 轴震动幅度" variable="powX" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="powY">
-      <Inspectable name="powY" unlocalizedName="powY" variable="powY" category="" verbose="0" defaultValue="0" type="Number"/>
+      <Inspectable name="Y 轴震动幅度" unlocalizedName="Y 轴震动幅度" variable="powY" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
 ]]></parametersAsXML>
   <classProperties><![CDATA[<componentData>
@@ -151,6 +151,8 @@
 	<classDef id="flash.errors.MemoryError"/>
 	<classDef id="flash.errors.IllegalOperationError"/>
 	<classDef id="flash.errors.EOFError"/>
+	<classDef id="flash.text.TextFormat"/>
+	<classDef id="flash.text.TextFormat"/>
 	<classDef id="flash.net.URLRequestHeader"/>
 	<classDef id="flash.net.URLRequestHeader"/>
 	<classDef id="flash.events.MouseEvent"/>
@@ -169,6 +171,8 @@
 	<classDef id="flash.events.SoftKeyboardEvent"/>
 	<classDef id="flash.events.TransformGestureEvent"/>
 	<classDef id="flash.events.TransformGestureEvent"/>
+	<classDef id="flash.text.TextFieldAutoSize"/>
+	<classDef id="flash.text.TextFieldAutoSize"/>
 	<classDef id="flash.display.NativeMenu"/>
 	<classDef id="flash.display.NativeMenu"/>
 	<classDef id="flash.events.GestureEvent"/>
@@ -231,8 +235,6 @@
 	<classDef id="flash.ui.ContextMenuBuiltInItems"/>
 	<classDef id="flash.text.TextLineMetrics"/>
 	<classDef id="flash.text.TextLineMetrics"/>
-	<classDef id="flash.text.TextFormat"/>
-	<classDef id="flash.text.TextFormat"/>
 	<classDef id="flash.text.StyleSheet"/>
 	<classDef id="flash.text.StyleSheet"/>
 	<classDef id="flash.text.TextRun"/>
@@ -441,17 +443,20 @@
 	<classDef id="flash.net.URLVariables"/>
 	<classDef id="net.play5d.game.bvn.interfaces.IComponents"/>
 	<classDef id="net.play5d.game.bvn.ide.entity.GameSpriteEntity"/>
+	<classDef id="net.play5d.game.bvn.ide.utils.IdeRuntimeUtils"/>
 	<classDef id="net.play5d.game.bvn.ide.data.GameSpriteType"/>
 	<classDef id="net.play5d.game.bvn.ide.utils.GameSpriteUtils"/>
 	<classDef id="net.play5d.game.bvn.ide.data.GamePKGName"/>
 	<classDef id="net.play5d.game.bvn.ide.interfaces.BaseComponent"/>
+	<classDef id="net.play5d.game.bvn.ide.component.BaseIdeCtrler"/>
 	<classDef id="net.play5d.game.bvn.ide.component.BaseEffect"/>
 	<classDef id="net.play5d.game.bvn.ide.component.effect.ShakeEffect"/>
 </classDefs>
 <class id="net.play5d.game.bvn.ide.component.effect.ShakeEffect" >
-	<__go_to_ctor_definition_help file="D:\源代码\_工作空间\1212321工作空间\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\effect\ShakeEffect.as" pos="1167" />
-	<__go_to_ctor_definition_help file="D:\源代码\_工作空间\1212321工作空间\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseEffect.as" pos="1197" />
-	<__go_to_ctor_definition_help file="D:\源代码\_工作空间\1212321工作空间\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\interfaces\BaseComponent.as" pos="1187" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\effect\ShakeEffect.as" pos="1243" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseEffect.as" pos="1149" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseIdeCtrler.as" pos="2365" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\interfaces\BaseComponent.as" pos="1738" />
 	<native cls="MovieClipClass" gc="exact" instance="MovieClipObject" methods="auto" />
 	<__go_to_ctor_definition_help file="E:\r\ws\St_Make\code\flash\avmglue\classes\MovieClip.as" pos="2750" />
 	<native cls="SpriteClass" gc="exact" instance="SpriteObject" methods="auto" />
@@ -541,14 +546,18 @@
 	<__go_to_ctor_definition_help file="E:\r\ws\St_Make\code\flash\avmglue\classes\EventDispatcher.as" pos="5321" />
 	<native cls="ObjectClass" classgc="exact" methods="auto" construct="override" />
 	<method id="powX" returnType="Number" isProperty="true" permissions="readwrite">
-		<Inspectable name="powX" type="Number" defaultValue="0" />
+		<Inspectable name="X 轴震动幅度" type="Number" defaultValue="0" />
 	</method>
 	<method id="powY" returnType="Number" isProperty="true" permissions="readwrite">
-		<Inspectable name="powY" type="Number" defaultValue="0" />
+		<Inspectable name="Y 轴震动幅度" type="Number" defaultValue="0" />
 	</method>
 	<method id="title" returnType="String" isProperty="true" permissions="readwrite">
 	</method>
 	<method id="text" returnType="String" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="mc" returnType="MovieClip" isProperty="true" permissions="readwrite">
+	</method>
+	<method id="bg" returnType="DisplayObject" isProperty="true" permissions="readwrite">
 	</method>
 	<method id="titleTxt" returnType="TextField" isProperty="true" permissions="readwrite">
 	</method>
@@ -702,11 +711,13 @@
 	</method>
 	<method id="ShakeEffect" isConstructor="true" isProperty="false">
 	</method>
+	<method id="BaseEffect" isConstructor="true" isProperty="false">
+	</method>
 	<method id="destroy" returnType="void" isProperty="false">
 	</method>
 	<method id="init" returnType="void" isProperty="false">
 	</method>
-	<method id="BaseEffect" isConstructor="true" isProperty="false">
+	<method id="BaseIdeCtrler" isConstructor="true" isProperty="false">
 	</method>
 	<method id="BaseComponent" isConstructor="true" isProperty="false">
 	</method>

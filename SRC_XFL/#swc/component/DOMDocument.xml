@@ -6,6 +6,7 @@
           <Include href="模板.xml" loadImmediate="false" itemID="67ac6f9f-00000241" lastModified="1784988677"/>
           <Include href="效果控制/效果_开始发光.xml" itemID="6a65c61d-0000018c" lastModified="1785054784"/>
           <Include href="效果控制/效果_震动.xml" itemID="6a66b36a-000001cb" lastModified="1785115506"/>
+          <Include href="效果控制/效果_慢放.xml" itemID="6a66b946-00000260" lastModified="1785117023"/>
           <Include href="效果控制/效果_灵压爆发.xml" itemID="6a65be64-00000139" lastModified="1785052780"/>
           <Include href="效果控制/效果_空中跳跃.xml" itemID="6a65cc55-00000205" lastModified="1785056366"/>
           <Include href="效果控制/效果_幽步.xml" itemID="6a65c3fb-00000162" lastModified="1785054227"/>
@@ -621,6 +622,31 @@
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
+                                             <matrix>
+                                                  <Matrix tx="402" ty="409.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>慢放</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -818,6 +844,18 @@
                                              </transformationPoint>
                                              <parametersAsXML><![CDATA[   <property id="color">
       <Inspectable name="闪光颜色" unlocalizedName="闪光颜色" variable="color" category="" verbose="0" defaultValue="#ffffff" type="Color"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_慢放" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="400" ty="423.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="color">
+      <Inspectable name="发光颜色" unlocalizedName="发光颜色" variable="color" category="" verbose="0" defaultValue="#ffffff" type="Color"/>
    </property>
 ]]></parametersAsXML>
                                         </DOMComponentInstance>

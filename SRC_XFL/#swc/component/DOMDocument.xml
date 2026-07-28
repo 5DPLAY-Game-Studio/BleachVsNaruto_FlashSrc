@@ -7,6 +7,7 @@
           <Include href="效果控制/效果_开始震动.xml" itemID="6a6879d5-00000142" lastModified="1785231872"/>
           <Include href="效果控制/效果_开始发光.xml" itemID="6a65c61d-0000018c" lastModified="1785054784"/>
           <Include href="效果控制/效果_震动.xml" itemID="6a66b36a-000001cb" lastModified="1785115506"/>
+          <Include href="效果控制/效果_落地.xml" itemID="6a687ae5-00000174" lastModified="1785232129"/>
           <Include href="效果控制/效果_慢放.xml" itemID="6a66b946-00000260" lastModified="1785117023"/>
           <Include href="效果控制/效果_灵压爆发.xml" itemID="6a65be64-00000139" lastModified="1785052780"/>
           <Include href="效果控制/效果_空中跳跃.xml" itemID="6a65cc55-00000205" lastModified="1785056366"/>
@@ -377,7 +378,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="2"/>
+                                                  <Matrix tx="2" ty="563.35"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -408,7 +409,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="52.9"/>
+                                                  <Matrix tx="402" ty="2"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -439,7 +440,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="103.8"/>
+                                                  <Matrix tx="402" ty="52.9"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -470,7 +471,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="154.7"/>
+                                                  <Matrix tx="402" ty="103.8"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -501,7 +502,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="205.6"/>
+                                                  <Matrix tx="402" ty="154.7"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -532,7 +533,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="256.5"/>
+                                                  <Matrix tx="402" ty="205.6"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -563,7 +564,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="307.4"/>
+                                                  <Matrix tx="402" ty="256.5"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -594,7 +595,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="358.3"/>
+                                                  <Matrix tx="402" ty="307.4"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -625,7 +626,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="409.2"/>
+                                                  <Matrix tx="402" ty="358.3"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -656,7 +657,7 @@
                                         </DOMStaticText>
                                         <DOMStaticText fontRenderingMode="device" width="396" height="12">
                                              <matrix>
-                                                  <Matrix tx="402" ty="461.55"/>
+                                                  <Matrix tx="402" ty="410.65"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
@@ -673,6 +674,37 @@
                                                   </DOMTextRun>
                                                   <DOMTextRun>
                                                        <characters>开始震动</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
+                                             <matrix>
+                                                  <Matrix tx="402" ty="461.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>落地</characters>
                                                        <textAttrs>
                                                             <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
                                                        </textAttrs>
@@ -801,7 +833,7 @@
                                         </DOMComponentInstance>
                                         <DOMComponentInstance libraryItemName="效果控制/效果_开始发光" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="16"/>
+                                                  <Matrix ty="577.35"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -813,7 +845,7 @@
                                         </DOMComponentInstance>
                                         <DOMComponentInstance libraryItemName="效果控制/效果_击落地" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="66.9"/>
+                                                  <Matrix tx="400" ty="16"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -828,7 +860,7 @@
                                         </DOMComponentInstance>
                                         <DOMComponentInstance libraryItemName="效果控制/效果_空中跳跃" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="117.8"/>
+                                                  <Matrix tx="400" ty="66.9"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -836,7 +868,7 @@
                                         </DOMComponentInstance>
                                         <DOMComponentInstance libraryItemName="效果控制/效果_跳跃" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="168.7"/>
+                                                  <Matrix tx="400" ty="117.8"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -844,7 +876,7 @@
                                         </DOMComponentInstance>
                                         <DOMComponentInstance libraryItemName="效果控制/效果_替身术" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="219.6"/>
+                                                  <Matrix tx="400" ty="168.7"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -852,7 +884,7 @@
                                         </DOMComponentInstance>
                                         <DOMComponentInstance libraryItemName="效果控制/效果_残影颜色" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="270.5"/>
+                                                  <Matrix tx="400" ty="219.6"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -860,7 +892,7 @@
                                         </DOMComponentInstance>
                                         <DOMComponentInstance libraryItemName="效果控制/效果_震动" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="321.4"/>
+                                                  <Matrix tx="400" ty="270.5"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -875,7 +907,7 @@
                                         </DOMComponentInstance>
                                         <DOMComponentInstance libraryItemName="效果控制/效果_闪光" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="372.3"/>
+                                                  <Matrix tx="400" ty="321.4"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -887,7 +919,7 @@
                                         </DOMComponentInstance>
                                         <DOMComponentInstance libraryItemName="效果控制/效果_慢放" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="423.2"/>
+                                                  <Matrix tx="400" ty="372.3"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -897,9 +929,9 @@
    </property>
 ]]></parametersAsXML>
                                         </DOMComponentInstance>
-                                        <DOMComponentInstance libraryItemName="效果控制/效果_开始震动" selected="true" uniqueID="1">
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_开始震动" uniqueID="1">
                                              <matrix>
-                                                  <Matrix tx="400" ty="475.55"/>
+                                                  <Matrix tx="400" ty="424.65"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="200" y="17.45"/>
@@ -911,6 +943,14 @@
       <Inspectable name="Y 轴震动幅度" unlocalizedName="Y 轴震动幅度" variable="powY" category="" verbose="0" defaultValue="3" type="Number"/>
    </property>
 ]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_落地" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="400" ty="475.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
                                         </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>

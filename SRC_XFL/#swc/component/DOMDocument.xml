@@ -4,6 +4,7 @@
      </folders>
      <symbols>
           <Include href="模板.xml" loadImmediate="false" itemID="67ac6f9f-00000241" lastModified="1784988677"/>
+          <Include href="效果控制/效果_开始震动.xml" itemID="6a6879d5-00000142" lastModified="1785231872"/>
           <Include href="效果控制/效果_开始发光.xml" itemID="6a65c61d-0000018c" lastModified="1785054784"/>
           <Include href="效果控制/效果_震动.xml" itemID="6a66b36a-000001cb" lastModified="1785115506"/>
           <Include href="效果控制/效果_慢放.xml" itemID="6a66b946-00000260" lastModified="1785117023"/>
@@ -645,6 +646,43 @@
                                                             <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
                                                        </textAttrs>
                                                   </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="396" height="12">
+                                             <matrix>
+                                                  <Matrix tx="402" ty="461.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>效果</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>_</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>开始震动</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="12" bitmapSize="240" face="SimSun" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
                                    </elements>
@@ -856,6 +894,21 @@
                                              </transformationPoint>
                                              <parametersAsXML><![CDATA[   <property id="color">
       <Inspectable name="发光颜色" unlocalizedName="发光颜色" variable="color" category="" verbose="0" defaultValue="#ffffff" type="Color"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMComponentInstance libraryItemName="效果控制/效果_开始震动" selected="true" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="400" ty="475.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="200" y="17.45"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="powX">
+      <Inspectable name="X 轴震动幅度" unlocalizedName="X 轴震动幅度" variable="powX" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="powY">
+      <Inspectable name="Y 轴震动幅度" unlocalizedName="Y 轴震动幅度" variable="powY" category="" verbose="0" defaultValue="3" type="Number"/>
    </property>
 ]]></parametersAsXML>
                                         </DOMComponentInstance>

@@ -53,7 +53,7 @@
     <WindowMode>0</WindowMode>
     <DisplayMenu>1</DisplayMenu>
     <DeviceFont>0</DeviceFont>
-    <TemplateFileName>C:\Users\ZPKJ\AppData\Local\Adobe\Animate CC 2018\zh_CN\Configuration\HTML\Default.html</TemplateFileName>
+    <TemplateFileName>C:\Users\liush\AppData\Local\Adobe\Animate 2020\zh_CN\Configuration\HTML\Default.html</TemplateFileName>
     <showTagWarnMsg>1</showTagWarnMsg>
   </PublishHtmlProperties>
   <PublishFlashProperties enabled="true">
@@ -70,8 +70,8 @@
     <EventFormat>0</EventFormat>
     <EventCompress>10</EventCompress>
     <OverrideSounds>0</OverrideSounds>
-    <Version>37</Version>
-    <ExternalPlayer>FlashPlayer26.0</ExternalPlayer>
+    <Version>41</Version>
+    <ExternalPlayer>FlashPlayer30.0</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>

@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#C0C0C0" guidesColor="#00FF00" width="1" height="1" frameRate="30" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 107" majorVersion="18" buildNumber="107" gridSpacingX="18" gridSpacingY="18" snapAlignBorderSpacing="18" objectsSnapTo="false" timelineHeight="423" timelineLabelWidth="0" vanishingPoint3DX="0.5" vanishingPoint3DY="0.5" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="79D51485D7E7054187522C987488E60B">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#C0C0C0" guidesColor="#00FF00" width="1" height="1" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.5 build 31044" majorVersion="20" minorVersion="5" buildNumber="31044" gridSpacingX="18" gridSpacingY="18" snapAlignBorderSpacing="18" objectsSnapTo="false" timelineHeight="423" timelineLabelWidth="0" vanishingPoint3DX="0.5" vanishingPoint3DY="0.5" nextSceneIdentifier="2" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="79D51485D7E7054187522C987488E60B">
      <folders>
           <DOMFolderItem name="元件" itemID="5f544bf9-000059ea"/>
           <DOMFolderItem name="Fireworks 对象" itemID="46a825f9-00000238"/>
@@ -1747,7 +1747,7 @@
           <Include href="恋次-必杀效果1.xml" loadImmediate="false" itemID="4801b75c-00000598" lastModified="1208783751"/>
           <Include href="恋次-招.xml" loadImmediate="false" itemID="47eb8b31-000004eb" lastModified="1341669620"/>
           <Include href="恋次-胜利.xml" loadImmediate="false" itemID="4801c690-00000763" lastModified="1208075920"/>
-          <Include href="main_mc.xml" itemID="5ef860c0-0000068d" lastModified="1768461622"/>
+          <Include href="main_mc.xml" itemID="5ef860c0-0000068d" lastModified="1785285429"/>
           <Include href="虚拟脚.xml" loadImmediate="false" itemID="46a3523b-00000679" lastModified="1185180991"/>
           <Include href="图片S/8350629_39090.gif 拷贝.xml" loadImmediate="false" itemID="46cad7c6-00000fc1" lastModified="1187698629"/>
           <Include href="图片S/12127943_45651.gif 拷贝.xml" loadImmediate="false" itemID="46b5a635-00000461" lastModified="1186309684"/>

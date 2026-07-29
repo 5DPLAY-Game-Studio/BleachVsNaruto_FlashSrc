@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main_mc" itemID="5ef860c0-0000068d" linkageExportForAS="true" linkageClassName="main_mc" lastModified="1767937851">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main_mc" itemID="5ef860c0-0000068d" linkageExportForAS="true" linkageClassName="main_mc" lastModified="1785285455">
   <timeline>
-    <DOMTimeline name="main_mc" currentFrame="1">
+    <DOMTimeline name="main_mc">
       <layers>
         <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
           <frames>
@@ -11,6 +11,7 @@
 var $fighter_ctrler: * ;
 var $mc_ctrler: * ;
 var $effect_ctrler: * ;
+var $camera_ctrler: * ;
 
 var defineAction: Function;
 
@@ -18,6 +19,7 @@ function initFighter(param: Object): void {
 	$fighter_ctrler = param.fighter_ctrler;
 	$mc_ctrler = param.mc_ctrler;
 	$effect_ctrler = param.effect_ctrler;
+	$camera_ctrler = param.camera_ctrler;
 
 	defineAction = $fighter_ctrler.defineAction;
 }]]></script>

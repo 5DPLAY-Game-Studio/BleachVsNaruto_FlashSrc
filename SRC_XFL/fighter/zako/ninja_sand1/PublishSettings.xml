@@ -29,10 +29,6 @@
     <pngFileName>ninja_sand1.png</pngFileName>
     <swcFileName>../release/fighter/neji.swc</swcFileName>
     <oamFileName></oamFileName>
-    <publishFormat id="3E6AA359-3A3C-4827-B709-9977BDDDACCB">0</publishFormat>
-    <publishFormat id="BBC1F406-65F2-4219-9304-FA48C7549E44">0</publishFormat>
-    <publishFormat id="BBC1F806-66F2-4339-9306-FA48C7549E59">0</publishFormat>
-    <publishFormat id="BBC2F906-78F3-4239-9305-FA48C8549E59">0</publishFormat>
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
@@ -57,7 +53,7 @@
     <WindowMode>0</WindowMode>
     <DisplayMenu>1</DisplayMenu>
     <DeviceFont>0</DeviceFont>
-    <TemplateFileName>C:\Users\lenovo\AppData\Local\Adobe\Animate CC 2018\zh_CN\Configuration\HTML\Default.html</TemplateFileName>
+    <TemplateFileName>C:\Users\liush\AppData\Local\Adobe\Animate 2020\zh_CN\Configuration\HTML\Default.html</TemplateFileName>
     <showTagWarnMsg>1</showTagWarnMsg>
   </PublishHtmlProperties>
   <PublishFlashProperties enabled="true">
@@ -65,6 +61,7 @@
     <FireFox></FireFox>
     <Report>0</Report>
     <Protect>0</Protect>
+    <OptimizeForAE>0</OptimizeForAE>
     <OmitTraceActions>0</OmitTraceActions>
     <Quality>80</Quality>
     <DeblockingFilter>0</DeblockingFilter>
@@ -73,8 +70,8 @@
     <EventFormat>0</EventFormat>
     <EventCompress>10</EventCompress>
     <OverrideSounds>0</OverrideSounds>
-    <Version>37</Version>
-    <ExternalPlayer>FlashPlayer26.0</ExternalPlayer>
+    <Version>41</Version>
+    <ExternalPlayer>FlashPlayer30.0</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>
@@ -154,26 +151,5 @@
     <PNGFilePath></PNGFilePath>
     <Transparency>0</Transparency>
   </PublishOamProperties>
-  <PublishProperties id="3E6AA359-3A3C-4827-B709-9977BDDDACCB" name="SWF Archive" otf="true" enabled="true">
-    <Property name="default">true</Property>
-    <Property name="filename">ninja_sand1.zip</Property>
-  </PublishProperties>
-  <PublishProperties id="BBC1F406-65F2-4219-9304-FA48C7549E44" name="SVG Image" otf="true" enabled="true">
-    <Property name="copy">true</Property>
-    <Property name="default">true</Property>
-    <Property name="embed">false</Property>
-    <Property name="filename">ninja_sand1.svg</Property>
-    <Property name="imagesPath">images</Property>
-    <Property name="includeHiddenLayers">true</Property>
-    <Property name="version">0.1</Property>
-  </PublishProperties>
-  <PublishProperties id="BBC1F806-66F2-4339-9306-FA48C7549E59" name="Mac Projector" otf="true" enabled="true">
-    <Property name="default">true</Property>
-    <Property name="filename">ninja_sand1.app</Property>
-  </PublishProperties>
-  <PublishProperties id="BBC2F906-78F3-4239-9305-FA48C8549E59" name="Win Projector" otf="true" enabled="true">
-    <Property name="default">true</Property>
-    <Property name="filename">ninja_sand1.exe</Property>
-  </PublishProperties>
 </flash_profile>
 </flash_profiles>

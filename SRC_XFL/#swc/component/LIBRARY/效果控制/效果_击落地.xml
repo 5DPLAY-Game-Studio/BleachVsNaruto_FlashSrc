@@ -1,4 +1,4 @@
-<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果控制/效果_击落地" itemID="6a65ca13-000001d9" linkageExportForAS="true" linkageClassName="net.play5d.game.bvn.ide.component.effect.HitFloorEffect" lastModified="1785055800" displayAsComponent="false" customIconID="0" actionscriptClass="net.play5d.game.bvn.ide.component.effect.HitFloorEffect" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果控制/效果_击落地" itemID="6a65ca13-000001d9" linkageExportForAS="true" linkageClassName="net.play5d.game.bvn.ide.component.effect.HitFloorEffect" lastModified="1785306576" displayAsComponent="false" customIconID="0" actionscriptClass="net.play5d.game.bvn.ide.component.effect.HitFloorEffect" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
   <timeline>
     <DOMTimeline name="效果_击落地">
       <layers>
@@ -22,7 +22,7 @@
       <Inspectable name="震动幅度" unlocalizedName="震动幅度" variable="shakePow" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="type">
-      <Inspectable name="落地类型（0=弹，1=正常落地，2=重落地）" unlocalizedName="落地类型（0=弹，1=正常落地，2=重落地）" variable="type" category="" verbose="0" defaultValue="1" type="Number"/>
+      <Inspectable name="落地类型" unlocalizedName="落地类型" variable="type" category="" verbose="0" defaultValue="正常" enumeration="弹起,正常,重击" type="List"/>
    </property>
 ]]></parametersAsXML>
   <classProperties><![CDATA[<componentData>
@@ -444,8 +444,9 @@
 	<classDef id="net.play5d.game.bvn.interfaces.IComponents"/>
 	<classDef id="net.play5d.game.bvn.ide.entity.GameSpriteEntity"/>
 	<classDef id="net.play5d.game.bvn.ide.utils.IdeRuntimeUtils"/>
-	<classDef id="net.play5d.game.bvn.ide.utils.GameSpriteUtils"/>
+	<classDef id="net.play5d.game.bvn.data.fighter.FighterHitFloorType"/>
 	<classDef id="net.play5d.game.bvn.ide.data.GameSpriteType"/>
+	<classDef id="net.play5d.game.bvn.ide.utils.GameSpriteUtils"/>
 	<classDef id="net.play5d.game.bvn.ide.data.GamePKGName"/>
 	<classDef id="net.play5d.game.bvn.ide.interfaces.BaseComponent"/>
 	<classDef id="net.play5d.game.bvn.ide.component.BaseIdeCtrler"/>
@@ -453,10 +454,10 @@
 	<classDef id="net.play5d.game.bvn.ide.component.effect.HitFloorEffect"/>
 </classDefs>
 <class id="net.play5d.game.bvn.ide.component.effect.HitFloorEffect" >
-	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\effect\HitFloorEffect.as" pos="1292" />
-	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseEffect.as" pos="1149" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\effect\HitFloorEffect.as" pos="1865" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseEffect.as" pos="1317" />
 	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseIdeCtrler.as" pos="2365" />
-	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\interfaces\BaseComponent.as" pos="1738" />
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\interfaces\BaseComponent.as" pos="1752" />
 	<native cls="MovieClipClass" gc="exact" instance="MovieClipObject" methods="auto" />
 	<__go_to_ctor_definition_help file="E:\r\ws\St_Make\code\flash\avmglue\classes\MovieClip.as" pos="2750" />
 	<native cls="SpriteClass" gc="exact" instance="SpriteObject" methods="auto" />
@@ -545,8 +546,8 @@
 	<Event name="activate" type="flash.events.Event" />
 	<__go_to_ctor_definition_help file="E:\r\ws\St_Make\code\flash\avmglue\classes\EventDispatcher.as" pos="5321" />
 	<native cls="ObjectClass" classgc="exact" methods="auto" construct="override" />
-	<method id="type" returnType="int" isProperty="true" permissions="readwrite">
-		<Inspectable name="落地类型（0=弹，1=正常落地，2=重落地）" type="Number" defaultValue="1" />
+	<method id="type" returnType="String" isProperty="true" permissions="readwrite">
+		<Inspectable name="落地类型" type="String" enumeration="弹起,正常,重击" defaultValue="正常" />
 	</method>
 	<method id="shakePow" returnType="Number" isProperty="true" permissions="readwrite">
 		<Inspectable name="震动幅度" type="Number" defaultValue="0" />

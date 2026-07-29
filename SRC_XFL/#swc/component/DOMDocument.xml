@@ -14,7 +14,7 @@
           <Include href="效果控制/效果_灵压爆发.xml" itemID="6a65be64-00000139" lastModified="1785052780"/>
           <Include href="效果控制/效果_空中跳跃.xml" itemID="6a65cc55-00000205" lastModified="1785056366"/>
           <Include href="效果控制/效果_幽步.xml" itemID="6a65c3fb-00000162" lastModified="1785054227"/>
-          <Include href="效果控制/效果_击落地.xml" itemID="6a65ca13-000001d9" lastModified="1785055800"/>
+          <Include href="效果控制/效果_击落地.xml" itemID="6a65ca13-000001d9" lastModified="1785306576"/>
           <Include href="效果控制/效果_必杀.xml" itemID="6a649f55-00000148" lastModified="1784987523"/>
           <Include href="效果控制/效果_替身术.xml" itemID="6a66aabd-0000016c" lastModified="1785113308"/>
           <Include href="效果控制/效果_残影颜色.xml" itemID="6a66b00a-0000019b" lastModified="1785114662"/>
@@ -918,7 +918,7 @@
       <Inspectable name="震动幅度" unlocalizedName="震动幅度" variable="shakePow" category="" verbose="0" defaultValue="0" type="Number"/>
    </property>
    <property id="type">
-      <Inspectable name="落地类型（0=弹，1=正常落地，2=重落地）" unlocalizedName="落地类型（0=弹，1=正常落地，2=重落地）" variable="type" category="" verbose="0" defaultValue="1" type="Number"/>
+      <Inspectable name="落地类型" unlocalizedName="落地类型" variable="type" category="" verbose="0" defaultValue="正常" enumeration="弹起,正常,重击" type="List"/>
    </property>
 ]]></parametersAsXML>
                                         </DOMComponentInstance>

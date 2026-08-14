@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 4" itemID="5b4c496c-000000f0" symbolType="button" lastModified="1731485178">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 4" itemID="5b4c496c-000000f0" symbolType="button" lastModified="1786687558">
   <timeline>
-    <DOMTimeline name="元件 4" currentFrame="2">
+    <DOMTimeline name="元件 4" currentFrame="3">
       <layers>
         <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText left="-10.2" width="164.4" height="31.7" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="-10.2" width="164.4" height="31.7" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="13.25" ty="2"/>
                   </matrix>
@@ -19,7 +19,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText left="20.9" width="102.2" height="12" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="20.9" width="102.2" height="12" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="13.25" ty="37"/>
                   </matrix>
@@ -102,7 +102,7 @@
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMStaticText left="-10.2" width="164.4" height="31.7" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="-10.2" width="164.4" height="31.7" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="13.25" ty="2"/>
                   </matrix>
@@ -115,7 +115,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText left="20.9" width="102.2" height="12" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="20.9" width="102.2" height="12" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="13.25" ty="37"/>
                   </matrix>
@@ -198,7 +198,7 @@
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMStaticText left="-10.2" width="164.4" height="31.7" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="-10.2" width="164.4" height="31.7" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="13.25" ty="2"/>
                   </matrix>
@@ -211,7 +211,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText left="20.9" width="102.2" height="12" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="20.9" width="102.2" height="12" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="13.25" ty="37"/>
                   </matrix>

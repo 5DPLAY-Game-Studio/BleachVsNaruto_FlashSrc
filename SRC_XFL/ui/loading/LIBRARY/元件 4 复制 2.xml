@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 4 复制 2" itemID="5b4c4a3a-00000131" symbolType="button" lastModified="1731485201">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 4 复制 2" itemID="5b4c4a3a-00000131" symbolType="button" lastModified="1786687639">
   <timeline>
     <DOMTimeline name="元件 4 复制 2" currentFrame="3">
       <layers>
@@ -18,7 +18,7 @@
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMStaticText left="-22.8" width="189.6" height="47.5" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="-23.05" width="190.1" height="47.5" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="45.8" ty="3.5"/>
                   </matrix>
@@ -31,7 +31,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText left="22.4" width="99.2" height="18" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="22.4" width="99.2" height="18" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="45.8" ty="50.5"/>
                   </matrix>
@@ -90,7 +90,7 @@
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMStaticText left="-22.8" width="189.6" height="47.5" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="-23.05" width="190.1" height="47.5" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="45.8" ty="3.5"/>
                   </matrix>
@@ -103,7 +103,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText left="22.4" width="99.2" height="18" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="22.4" width="99.2" height="18" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="45.8" ty="50.5"/>
                   </matrix>

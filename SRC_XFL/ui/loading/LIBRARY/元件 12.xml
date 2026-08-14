@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 12" itemID="5b4cbc4f-000001bb" lastModified="1731485159">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件 12" itemID="5b4cbc4f-000001bb" lastModified="1786687599">
   <timeline>
     <DOMTimeline name="元件 12">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="19" keyMode="9728">
               <elements>
-                <DOMStaticText left="-22.8" width="189.6" height="47.5" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="-23.05" width="190.1" height="47.5" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="20.05" ty="2"/>
                   </matrix>
@@ -19,7 +19,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText left="22.4" width="99.2" height="18" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="device" left="22.4" width="99.2" height="18" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="20.05" ty="49"/>
                   </matrix>

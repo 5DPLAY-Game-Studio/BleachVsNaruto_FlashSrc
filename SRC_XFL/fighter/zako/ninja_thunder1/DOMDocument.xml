@@ -1521,8 +1521,8 @@
           <DOMBitmapItem name="XB_RUN (3).png" itemID="5f4dd5aa-00002b37" sourceExternalFilepath="../ninja_thunder1/LIBRARY/XB_RUN (3).png" sourceLastImported="1785286699" externalFileCRC32="4161882532" externalFileSize="661" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="XB_RUN (3).png" bitmapDataHRef="M 1490 1598936489.dat" frameRight="1160" frameBottom="1180"/>
           <DOMBitmapItem name="XB_RUN (4).png" itemID="5f4dd5aa-00002b3b" sourceExternalFilepath="../ninja_thunder1/LIBRARY/XB_RUN (4).png" sourceLastImported="1785286699" externalFileCRC32="3385994213" externalFileSize="688" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="XB_RUN (4).png" bitmapDataHRef="M 1491 1598936490.dat" frameRight="1340" frameBottom="1180"/>
           <DOMBitmapItem name="XB_RUN (5).png" itemID="5f4dd5aa-00002b3f" sourceExternalFilepath="../ninja_thunder1/LIBRARY/XB_RUN (5).png" sourceLastImported="1785286699" externalFileCRC32="1412015968" externalFileSize="729" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="XB_RUN (5).png" bitmapDataHRef="M 1492 1598936490.dat" frameRight="1420" frameBottom="1160"/>
-          <DOMBitmapItem name="XB_RUN (6).png" itemID="5f4dd5aa-00002b43" sourceExternalFilepath="../ninja_thunder1/LIBRARY/XB_RUN (6).png" sourceLastImported="1785286699" externalFileCRC32="1676411131" externalFileSize="666" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="XB_RUN (6).png" bitmapDataHRef="M 1493 1598936490.dat" frameRight="1100" frameBottom="1140"/>
-          <DOMBitmapItem name="XB_STAND.png" itemID="5f4dd5a1-00002b1f" sourceExternalFilepath="../ninja_thunder1/LIBRARY/XB_STAND.png" sourceLastImported="1785286700" externalFileCRC32="4265120323" externalFileSize="917" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="XB_STAND.png" bitmapDataHRef="M 1484 1598936481.dat" frameRight="1340" frameBottom="1340"/>
+          <DOMBitmapItem name="XB_RUN (6).png" itemID="5f4dd5aa-00002b43" sourceExternalFilepath="../ninja_thunder1/LIBRARY/XB_RUN (6).png" sourceLastImported="1789635314" externalFileCRC32="1676411131" externalFileSize="666" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="XB_RUN (6).png" bitmapDataHRef="M 1493 1598936490.dat" frameRight="1100" frameBottom="1140"/>
+          <DOMBitmapItem name="XB_STAND.png" itemID="5f4dd5a1-00002b1f" sourceExternalFilepath="../ninja_thunder1/LIBRARY/XB_STAND.png" sourceLastImported="1789635314" externalFileCRC32="4265120323" externalFileSize="917" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="XB_STAND.png" bitmapDataHRef="M 1484 1598936481.dat" frameRight="1340" frameBottom="1340"/>
      </media>
      <symbols>
           <Include href="一护万解-上必杀.xml" loadImmediate="false" itemID="46c935d2-00002a83" lastModified="1187591983"/>
@@ -1702,7 +1702,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="main_mc" selected="true">
+                                        <DOMSymbolInstance libraryItemName="main_mc">
                                              <transformationPoint>
                                                   <Point x="74.45" y="51.5"/>
                                              </transformationPoint>

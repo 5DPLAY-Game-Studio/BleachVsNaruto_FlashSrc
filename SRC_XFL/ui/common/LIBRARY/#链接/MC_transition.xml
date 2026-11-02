@@ -10,7 +10,7 @@
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="9" duration="16" name="fadin" labelType="name" keyMode="9728">
+            <DOMFrame index="9" duration="16" name="fadein" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="25" duration="19" name="stop" labelType="name" keyMode="9728">
@@ -23,7 +23,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="44" duration="16" name="fadout" labelType="name" keyMode="9728">
+            <DOMFrame index="44" duration="16" name="fadeout" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="60" duration="10" name="stop" labelType="name" keyMode="9728">

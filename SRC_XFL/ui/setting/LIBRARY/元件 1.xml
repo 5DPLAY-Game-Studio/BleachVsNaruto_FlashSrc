@@ -13,7 +13,7 @@
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="15" duration="9" name="key_fadin" labelType="name" keyMode="9728">
+            <DOMFrame index="15" duration="9" name="key_fadein" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="24" keyMode="9728">
@@ -22,7 +22,7 @@
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="25" duration="9" name="key_fadout" labelType="name" keyMode="9728">
+            <DOMFrame index="25" duration="9" name="key_fadeout" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="34" keyMode="9728">

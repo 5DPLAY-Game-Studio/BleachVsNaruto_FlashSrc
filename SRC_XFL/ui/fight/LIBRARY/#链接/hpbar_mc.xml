@@ -30,7 +30,7 @@ dispatchEvent(new Event(Event.COMPLETE));]]></script>
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="54" duration="10" name="destory" labelType="name" keyMode="9728">
+            <DOMFrame index="54" duration="10" name="destroy" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>

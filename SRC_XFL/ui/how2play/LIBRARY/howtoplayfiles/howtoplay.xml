@@ -22,7 +22,7 @@ trace(scaleX,scaleY);]]></script>
             <DOMFrame index="1198" duration="12" name="skip" labelType="name" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="1210" duration="13" name="destory" labelType="name" keyMode="9728">
+            <DOMFrame index="1210" duration="13" name="destroy" labelType="name" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import flash.events.Event;
 

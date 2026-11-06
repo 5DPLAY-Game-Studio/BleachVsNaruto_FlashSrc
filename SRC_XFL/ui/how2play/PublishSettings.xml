@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/how2play.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/how2play.swf</flashFileName>
     <projectorWinFileName>how2play.exe</projectorWinFileName>
     <projectorMacFileName>how2play.app</projectorMacFileName>
     <htmlFileName>how2play.html</htmlFileName>

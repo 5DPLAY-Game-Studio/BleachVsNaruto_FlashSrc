@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/game_over.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/game_over.swf</flashFileName>
     <projectorWinFileName>game_over.exe</projectorWinFileName>
     <projectorMacFileName>game_over.app</projectorMacFileName>
     <htmlFileName>game_over.html</htmlFileName>

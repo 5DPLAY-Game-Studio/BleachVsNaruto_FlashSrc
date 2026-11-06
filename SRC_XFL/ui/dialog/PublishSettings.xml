@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/dialog.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/dialog.swf</flashFileName>
     <projectorWinFileName>dialog.exe</projectorWinFileName>
     <projectorMacFileName>dialog.app</projectorMacFileName>
     <htmlFileName>dialog.html</htmlFileName>

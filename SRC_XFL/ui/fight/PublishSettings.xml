@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/fight.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/fight.swf</flashFileName>
     <projectorWinFileName>fight.exe</projectorWinFileName>
     <projectorMacFileName>fight.app</projectorMacFileName>
     <htmlFileName>fight.html</htmlFileName>

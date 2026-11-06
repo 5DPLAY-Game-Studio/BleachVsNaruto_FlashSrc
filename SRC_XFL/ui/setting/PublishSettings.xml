@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/setting.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/setting.swf</flashFileName>
     <projectorWinFileName>setting.exe</projectorWinFileName>
     <projectorMacFileName>setting.app</projectorMacFileName>
     <htmlFileName>setting.html</htmlFileName>

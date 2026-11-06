@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>1</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/language.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/language.swf</flashFileName>
     <projectorWinFileName>language.exe</projectorWinFileName>
     <projectorMacFileName>language.app</projectorMacFileName>
     <htmlFileName>language.html</htmlFileName>

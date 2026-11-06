@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/title.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/title.swf</flashFileName>
     <projectorWinFileName>title.exe</projectorWinFileName>
     <projectorMacFileName>title.app</projectorMacFileName>
     <htmlFileName>title.html</htmlFileName>

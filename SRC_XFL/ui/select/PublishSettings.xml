@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/select.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/select.swf</flashFileName>
     <projectorWinFileName>select.exe</projectorWinFileName>
     <projectorMacFileName>select.app</projectorMacFileName>
     <htmlFileName>select.html</htmlFileName>

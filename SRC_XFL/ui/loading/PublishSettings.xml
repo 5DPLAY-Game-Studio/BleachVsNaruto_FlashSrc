@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/loading.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/loading.swf</flashFileName>
     <projectorWinFileName>loading.exe</projectorWinFileName>
     <projectorMacFileName>loading.app</projectorMacFileName>
     <htmlFileName>loading.html</htmlFileName>

@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/big_map.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/big_map.swf</flashFileName>
     <projectorWinFileName>big_map.exe</projectorWinFileName>
     <projectorMacFileName>big_map.app</projectorMacFileName>
     <htmlFileName>big_map.html</htmlFileName>

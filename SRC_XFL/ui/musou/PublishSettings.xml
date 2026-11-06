@@ -20,7 +20,7 @@
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>0</swcDefaultName>
     <oamDefaultName>0</oamDefaultName>
-    <flashFileName>../../../shared/lib/swf/musou.swf</flashFileName>
+    <flashFileName>../../../shared/assets/assets/ui/musou.swf</flashFileName>
     <projectorWinFileName>musou.exe</projectorWinFileName>
     <projectorMacFileName>musou.app</projectorMacFileName>
     <htmlFileName>musou.html</htmlFileName>

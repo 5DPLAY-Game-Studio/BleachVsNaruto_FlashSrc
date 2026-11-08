@@ -1,4 +1,4 @@
-<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果控制/效果_万解" itemID="6a6884c5-000001b8" linkageExportForAS="true" linkageClassName="net.play5d.game.bvn.ide.component.effect.WanKaiEffect" lastModified="1785234659" displayAsComponent="false" customIconID="0" actionscriptClass="net.play5d.game.bvn.ide.component.effect.WanKaiEffect" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
+<DOMComponentItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="效果控制/效果_万解" itemID="6a6884c5-000001b8" linkageExportForAS="true" linkageClassName="net.play5d.game.bvn.ide.component.effect.BanKaiEffect" lastModified="1785234659" displayAsComponent="false" customIconID="0" actionscriptClass="net.play5d.game.bvn.ide.component.effect.BanKaiEffect" persistLivePreview11="true" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true">
   <timeline>
     <DOMTimeline name="效果_万解">
       <layers>
@@ -447,10 +447,10 @@
 	<classDef id="net.play5d.game.bvn.ide.interfaces.BaseComponent"/>
 	<classDef id="net.play5d.game.bvn.ide.component.BaseIdeCtrler"/>
 	<classDef id="net.play5d.game.bvn.ide.component.BaseEffect"/>
-	<classDef id="net.play5d.game.bvn.ide.component.effect.WanKaiEffect"/>
+	<classDef id="net.play5d.game.bvn.ide.component.effect.BanKaiEffect"/>
 </classDefs>
-<class id="net.play5d.game.bvn.ide.component.effect.WanKaiEffect" >
-	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\effect\WanKaiEffect.as" pos="1365" />
+<class id="net.play5d.game.bvn.ide.component.effect.BanKaiEffect" >
+	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\effect\BanKaiEffect.as" pos="1365" />
 	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseEffect.as" pos="1149" />
 	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\component\BaseIdeCtrler.as" pos="2365" />
 	<__go_to_ctor_definition_help file="D:\work\1212321\project\BleachVsNaruto\CORE_Components\src\net\play5d\game\bvn\ide\interfaces\BaseComponent.as" pos="1738" />
@@ -703,7 +703,7 @@
 	</method>
 	<method id="doAction" returnType="void" isProperty="false">
 	</method>
-	<method id="WanKaiEffect" isConstructor="true" isProperty="false">
+	<method id="BanKaiEffect" isConstructor="true" isProperty="false">
 	</method>
 	<method id="BaseEffect" isConstructor="true" isProperty="false">
 	</method>
